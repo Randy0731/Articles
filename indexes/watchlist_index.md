@@ -7,6 +7,7 @@
 | Ticker | 首次日期 | 最近日期 | 來源 KOL | 觸發原因 | 目前狀態 | 升級條件 |
 |---|---|---|---|---|---|---|
 | **SPAI** | 2025-10-20 | 2025-10-20 | 大叔美股筆記 | 大叔將 Safe Pro 視為 **ONDS** 無人機平台的 AI threat detection / tactical edge 視覺分析拼圖；Safe Pro `$14M` 私募案由 Ondas 領投，官方稱 proceeds 用於 AI computer vision 與 threat detection 開發 / 整合 | 觀察中；單篇 L2，不建立 Stocks 專案 | 若後續出現 Safe Pro 與 Ondas OAS 產品整合、軍方 / 人道任務部署、收入 / backlog、更多 KOL L2+，或使用者要求追蹤，升級為 Stocks 專案 |
+| **LPTH** | 2025-10-20 | 2025-10-20 | 大叔美股筆記 | 大叔將 LightPath 的 BlackDiamond / 紅外熱像頭視為 **ONDS** 無人機生態系的「眼睛」層；官方新聞稿顯示 Ondas 與 UMAC 各投 `$4M` 參與 **LPTH** `$8M` 私募，支援 drone applications commercialization | 觀察中；單篇 L2，不建立 Stocks 專案 | 若後續出現 **LPTH** 與 Ondas / UMAC 產品整合、紅外熱像系統訂單、BlackDiamond 取代 Germanium 的量產 / 毛利驗證、更多 KOL L2+，或使用者要求追蹤，升級為 Stocks 專案 |
 | **VST** | 2026-01-10 | 2026-01-10 | 大叔美股筆記 | 大叔把 Meta 6.6 GW 核能採購視為 Vistra 既有核電資產與現金流的 L2 受益訊號 | 觀察中 | 若後續出現更多 KOL L2+、正式 PPA / 升級 CAPEX / 現金流數字，或使用者要求追蹤，升級為 Stocks 專案 |
 | **OKLO** | 2026-01-10 | 2026-04-23 | 大叔美股筆記 | 先在 Meta 6.6 GW 核能採購文被視為 SMR 商業化敘事 L2 訊號；2026-01-18 又被放入「美國國運 ETF」高風險選擇權 7% 權重；2026-04-23 新增 Oklo / NVIDIA / LANL fuel validation 與 nuclear-powered AI factory 合作催化 | 觀察中；多次 L2，接近升級門檻 | 若後續出現監管 / 融資 / 部署節點、fuel validation 結果、商業客戶 / PPA，或使用者要求追蹤，升級為 Stocks 專案 |
 | **AMD** | 2026-04-23 | 2026-04-23 | 大叔美股筆記 | 大叔將 Agentic AI 推理需求與 CPU 回到聚光燈連到 **AMD** CPU + GPU 完整解決方案，並轉述 EPYC / GPU 在雲端 AI 的採用脈絡 | 觀察中 | 若後續出現更多 KOL L2+、**AMD** AI data center 營收 / 客戶採用驗證、EPYC / GPU 明確成長或使用者要求追蹤，升級為 Stocks 專案 |

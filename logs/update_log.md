@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Facebook 社群短評《**ONDS** x **LPTH** / **UMAC**：紅外熱像與 BlackDiamond 無人機感測器拼圖》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251020-lpth-ondas-umac-strategic-investment-0c916abe`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251020_LPTH紅外熱像與BlackDiamond感測器拼圖.md`，將本篇判定為 **ONDS** L4 里程碑；重點為 Ondas / UMAC 各投 `$4M` 參與 LightPath `$8M` private placement，補強 **ONDS** 無人機生態系的紅外熱像、BlackDiamond 非鍺材料與感測器層拼圖。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`、`indexes/watchlist_index.md`；**LPTH** 判定為單篇 L2 watchlist，不建立 `Stocks/LPTH/`，**UMAC** 為 L1 共同投資方提及。
+- 備註：Facebook 截圖文字可讀，OCR 狀態標「完整」。LightPath 官方新聞稿日期為 2025-09-15，大叔 Facebook 貼文日期為 2025-10-20；`$8M` 為 LightPath 私募總額，Ondas / UMAC 各 `$4M`，`$5.00` 為 **LPTH** 私募發行價，不是大叔目標價、買點或 **ONDS** 支撐價。
 - 新增：補入大叔美股筆記 Facebook 社群短評《**ONDS** x Safe Pro：`$14M` 策略投資與 AI 視覺拼圖》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251020-ondas-safepro-ai-88cd3480`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251020_SafePro策略投資與AI視覺拼圖.md`，將本篇判定為 **ONDS** L4 里程碑；重點為 Ondas 領投 Safe Pro `$14M` private placement、Safe Pro AI threat detection / SPOTD NODE 與 Ondas OAS 無人機平台的垂直整合拼圖。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`、`indexes/watchlist_index.md`；**SPAI** 判定為單篇 L2 watchlist，不建立 `Stocks/SPAI/`。
