@@ -1,0 +1,150 @@
+# Update Log
+
+## 2026-04-26
+
+- 新增：入庫大叔美股筆記 Substack Note《**ONDS** 完成 Mistral 合併：美軍 IDIQ 與 backlog 里程碑》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20260424-ondas-mistral-merger-f6d916b6`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md`，將本篇判定為 **ONDS** L4；重點為 Mistral 合併完成、U.S. Army / Special Operations IDIQ 合約車輛、Mistral backlog 約 `$264M`，以及調整 Mistral 與 World View 後 pro forma backlog 約 `$457M`。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：Substack metadata 顯示 2026-04-24 20:07 UTC；Note 與 Ondas 官方 PDF 文字可讀，未另存 raw，OCR 狀態標「不適用」。大叔本篇為公司新聞轉述，未提供目標價、成本價或買賣動作；IDIQ 與 backlog 需後續以 task order、收入、毛利與現金流驗證。
+- 新增：入庫大叔美股筆記 Substack Note《**INTC** CPU shortage 與 Agentic AI：CPU supercycle 論點再強化》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20260424-intc-cpu-supercycle-8c306f57`。
+- 更新：同步追加 `Stocks/INTC/quarterly/INTC_筆記_2026Q2.md`，將本篇判定為 **INTC** L2 thesis 補強；重點為 SemiAnalysis / Dylan Patel 的 CPU shortage / CPU supercycle 論點，以及大叔將其連回 2026-04-24 **INTC** CPU 長文。
+- 更新：同步更新 `Stocks/INTC/INTC_儀表板.md`、`Stocks/INTC/INTC_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`。
+- 備註：Substack metadata 顯示 2026-04-24 20:11 UTC；Note 文字可讀，未另存 raw，OCR 狀態標「不適用」。**AMD** / **ARM** 只作 L1 同業或架構脈絡提及；本篇沒有目標價、財務模型或買賣建議。
+
+## 2026-04-25
+
+- 新增：入庫大叔美股筆記 Substack 文章《德州儀器 **TXN** 2026 第一季財報分析》，建立 `KOL/大叔美股筆記/articles/20260425_txn_2026_q1_uncle.md`，source_id 為 `大叔美股筆記-20260425-txn-2026-q1-105815a0`。
+- 新增：複製使用者提供之完整網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260425_大叔美股筆記_txn_2026_q1_大叔美股筆記-20260425-txn-2026-q1-105815a0.pdf`；PDF 為 12 頁影像截圖，正文至 p.9，p.10 起為免責聲明、留言與推薦文章，OCR 狀態標「部分」。
+- 新增：依新 ticker 升級規則建立 `Stocks/TXN/` 正式追蹤專案，新增 `Stocks/TXN/quarterly/TXN_筆記_2026Q2.md`、`Stocks/TXN/TXN_儀表板.md`、`Stocks/TXN/TXN_index.md`，並更新 `kol_config.yaml`。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`；本篇判定為 **TXN** L3 主題個股文，**SLAB** / **NVDA** / **AMD** 只作 L1 收購標的或情境參照。
+- 備註：公開 Substack URL 只能讀到文章前段，全文以使用者提供 PDF 為主要來源；留言區與推薦文章未寫成大叔觀點。文中 DCF 情境價位與 forward P/E 只按原文記錄，不提供買賣建議。
+- 新增：入庫大叔美股筆記 Substack 文章《英特爾 **INTC** 2026 Q1 財報分享》，建立 `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md`，source_id 為 `大叔美股筆記-20260424-intc-2026-q1-540cfe0a`。
+- 新增：複製使用者提供之完整網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260424_大叔美股筆記_intc_2026_q1_大叔美股筆記-20260424-intc-2026-q1-540cfe0a.pdf`；PDF 為 12 頁影像截圖，正文至 p.9，p.10 起為免責聲明、留言與推薦文章，OCR 狀態標「部分」。
+- 新增：依新 ticker 升級規則建立 `Stocks/INTC/` 正式追蹤專案，新增 `Stocks/INTC/quarterly/INTC_筆記_2026Q2.md`、`Stocks/INTC/INTC_儀表板.md`、`Stocks/INTC/INTC_index.md`，並更新 `kol_config.yaml`。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`；本篇判定為 **INTC** L3 主題個股文，**AMD** / **NVDA** / **TSM** / **MSFT** / **QCOM** 只作 L1 同業、競爭或情境提及。
+- 備註：公開 Substack URL 只能讀到文章前段，全文以使用者提供 PDF 為主要來源；留言區與推薦文章未寫成大叔觀點。大叔文中 DCF 情境價位與 `$70` 追價禁區只按原文記錄，不提供買賣建議。
+- 新增：入庫大叔美股筆記 Substack Note《Agentic AI 讓 CPU 回到聚光燈：**AMD** CPU + GPU 全解方案》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20260423-amd-agentic-ai-cpu-gpu-e3c43a45`。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/watchlist_index.md`；本篇判定為 **AMD** L2，**INTC** / **TSM** 只作 L1 同業與供應鏈提及，未建立 `Stocks/AMD/` 個股專案。
+- 備註：Substack metadata 顯示 2026-04-23 22:42 UTC；Note 文字可讀，未另存 raw，OCR 狀態標「不適用」。本文沒有目標價或操作語句，**AMD** 只列入 watchlist 觀察，不提供買賣建議。
+- 新增：入庫大叔美股筆記 Substack Note《NVIDIA 800V 電壓新時代：AI 資料中心電力供應鏈清單》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20260423-nvidia-800v-power-chain-7b03bb60`。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`；本篇為 L1 供應鏈清單，未建立 `Stocks/` 個股專案，也未升級 watchlist。
+- 更新：新增通用 tag `#功率半導體` 至 `docs/TAG_TAXONOMY.md`，用於電源轉換、功率元件、SiC / GaN 與資料中心高壓供電元件。
+- 備註：Substack metadata 顯示 2026-04-23 18:57 UTC；Note 文字與附圖清單可讀，未另存 raw，OCR 狀態標「不適用」。大叔文字標示「來自摸摸」，因此本篇不寫成大叔逐檔明確看多或買賣建議。
+- 新增：入庫大叔美股筆記 Substack Note《**OKLO** x NVIDIA / LANL：核燃料驗證與 AI 核能工廠敘事》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20260423-oklo-nvidia-lanl-ai-nuclear-c16bdbfa`。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`、`indexes/watchlist_index.md`；本篇判定為 **OKLO** L2 資訊分享偏多，尚未建立 `Stocks/OKLO/`。
+- 備註：Substack metadata 顯示 2026-04-23 14:15 UTC；網頁 metadata 可讀且官方 Oklo 連結可讀，未另存 raw，OCR 狀態標「不適用」。大叔將 Oklo / NVIDIA / LANL 合作公告解讀為 **OKLO** 上漲原因；本篇不提供買賣建議。
+- 新增：補入整理者更新《以 2026-04-24 現價重讀 Lawrence **SMR** 技術圖》，source_id 為 `整理者-20260424-smr-current-price-reread-lawrence-052020e1`，追加至 `Stocks/SMR/quarterly/SMR_筆記_2026Q2.md`。
+- 更新：同步補充 `KOL/Lawrence/notes/Lawrence筆記.md` 與 `Stocks/SMR/quarterly/SMR_筆記_2025Q4.md` 的 Lawrence 原圖段落，明確標示這是整理者現價重讀，不是 Lawrence 新增觀點。
+- 更新：同步更新 `Stocks/SMR/SMR_儀表板.md`、`Stocks/SMR/SMR_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`。
+- 備註：本次使用 2026-04-24 最新可得報價約 `$11.96` 重讀 2025-11-26 技術圖；`$18.03` / `$18.05` 若按技術支撐解讀已失守，改列第一修復位 / 壓力帶；`$24.05`、`$34.40`、`$38.32`、`$43.09` 只保留為逐層壓力與情境投射，不提供買賣建議。
+- 新增：補入 Lawrence / 大師兄投資社群截圖《**SMR** 技術點位圖：`$18` 安全邊際與 `$34` / `$38` / `$43` 上檔投射》，追加至 `KOL/Lawrence/notes/Lawrence筆記.md`。
+- 更新：同步追加 `Stocks/SMR/quarterly/SMR_筆記_2025Q4.md`，將本篇判定為 **SMR** L3 技術面紀錄；重點為 `$18.03` / `$18.05` 安全邊際 / 支撐帶、`$24.05` 中繼壓力、`$34.40` / `$38.32` / `$43.09` 上檔壓力與技術投射。
+- 更新：同步更新 `Stocks/SMR/SMR_儀表板.md`、`Stocks/SMR/SMR_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`。
+- 備註：本次為補入舊圖；發文時間 2025-11-26 22:15 由使用者提供，時區未確認。圖片為對話內嵌截圖，未取得實體 raw；圖上主要價位可辨識，但缺完整時間軸、週期與座標軸，OCR 狀態標「部分」。所有價位只記為 Lawrence 技術支撐 / 壓力 / 投射，不提供買賣建議。
+- 新增：補入大叔美股筆記 Substack 文章《#SMR | NuScale Power 2025年第三季財報亮點》，建立 `KOL/大叔美股筆記/articles/20251111_smr_nuscale_power_2025_q3_uncle.md`。
+- 新增：建立 `Stocks/SMR/quarterly/SMR_筆記_2025Q4.md`，將本篇判定為 **SMR** L3 主題個股文；重點為 ENTRA1 相關 `$495M` 非現金費用、Q3 營收 `$13.9M`、Adj. EBITDA `+$6.1M`、RoPower 工程服務、NRC 認證、ENTRA1 / Standard Power、GS Energy 潛在 `$110M` 投資，以及高 P/S、Q4 指引轉弱、NPM 交付與成本失控風險。
+- 更新：同步更新 `Stocks/SMR/SMR_儀表板.md`、`Stocks/SMR/SMR_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack 顯示 2025-11-11，網頁文字可讀，未另存 raw，OCR 狀態標「不適用」。本篇較早於 2026-02-27 **SMR** Q4 長文，因此只補充歷史脈絡，不改寫大叔最新 **SMR** 立場；技術價位與 P/S 僅作原文日期下的事件紀錄，不提供買賣建議。
+- 新增：補入大叔美股筆記 Substack 文章《這 12 檔股票是美國「能源獨立」的最後一塊拼圖》，建立 `KOL/大叔美股筆記/articles/20260118_energy_independence_12_stocks_uncle.md`。
+- 新增：複製使用者提供之完整網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260118_大叔美股筆記_energy_independence_12_stocks_大叔美股筆記-20260118-energy-independence-12-stocks-805a90a9.pdf`；PDF 為 6 頁影像截圖，文章本體至 p.5 上半，p.5 下半與 p.6 為留言、推薦文章與頁尾，OCR 狀態標「部分」。
+- 更新：同步追加 `Stocks/EOSE/quarterly/EOSE_筆記_2026Q1.md`，將本篇判定為 **EOSE** L2 籃子 / 主題個股提及；重點為大叔將 **EOSE** 放入 UR-ETF 高風險非對稱選擇權 6% 權重，定位為非鋰長時儲能，不等同單股深度 thesis 或買賣建議。
+- 更新：同步更新 `Stocks/EOSE/EOSE_儀表板.md`、`Stocks/EOSE/EOSE_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/watchlist_index.md`。
+- 備註：本次為補入舊文；Substack structured metadata 顯示 2026-01-18 19:24 UTC（台灣時間 2026-01-19 03:24），入庫日以原文日期 2026-01-18 記錄。公開 URL 僅能讀到付費牆預覽，全文以使用者提供 PDF 為主要來源；12 檔權重均記為框架權重，不提供買賣建議。
+- 新增：補入大叔美股筆記 Substack Note《Meta 6.6 GW 核能採購：**VST** / **OKLO** / **CCJ** 的 AI 電力鏈》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`、`indexes/watchlist_index.md`；重點為 Meta 6.6 GW 核能採購、Prometheus AI supercluster、Vistra 既有核電廠供電與升級、Oklo Ohio 1.2 GW 核能園區，以及 Cameco / 鈾燃料需求。
+- 備註：本次為補入舊文；Substack dateCreated 顯示 2026-01-10 06:30 UTC（台灣時間 2026-01-10 14:30）；網頁文字完整可讀，未另存 raw，OCR 狀態標「不適用」。**VST**、**OKLO**、**CCJ** 均判定 L2 並進 watchlist，但未建立正式 `Stocks/` 專案；文中 `SMR` 為 small modular reactor 技術縮寫，不是 NuScale **SMR** ticker，因此未更新 `Stocks/SMR/`。
+- 新增：補入 Bytc Substack 文章《美俄談判》，建立 `KOL/Bytc/articles/20260215_mei_e_tanpan.md`。
+- 新增：複製使用者提供之完整網頁截圖 PDF 至 `KOL/Bytc/raw/20260215_Bytc_mei_e_tanpan_Bytc-20260215-mei-e-tanpan-c4b0557f.pdf`；PDF 為 5 頁截圖，文章本體至 p.4，p.5 為留言區與推薦文章，OCR 狀態標「部分」。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`；重點為美俄策略性靠攏、俄羅斯降低對中國依賴、美元 / SWIFT、核燃料 / HALEU、Project Vault、TRISO-X、北約 3.5% 國防支出與中國磁鐵 / 稀土反制風險。
+- 備註：本篇文中 `SMR` 為 small modular reactor / 小型模組化反應爐技術縮寫，不是 NuScale **SMR** ticker；因此未更新 `Stocks/SMR/` 或 ticker index。公開 URL 只能讀到付費牆前段，本次以使用者提供 PDF 為主要來源，不提供買賣建議。
+- 新增：補入大叔美股筆記 Substack Note《**SMR** x ORNL：AI 核燃料管理與燃料效率降成本》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。
+- 更新：同步追加 `Stocks/SMR/quarterly/SMR_筆記_2026Q1.md`，將本篇判定為 **SMR** L3 短 Note；重點為 NuScale 與 ORNL 在 DOE GAIN 支持下探索 AI-guided nuclear fuel management、12 NPM 多模組燃料配置、5%-10% 燃料效率推估、毛利與長約成本競爭力。
+- 更新：同步更新 `Stocks/SMR/SMR_儀表板.md`、`Stocks/SMR/SMR_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack dateCreated 顯示 2026-02-12 19:38 UTC（台灣時間 2026-02-13 03:38）；網頁文字完整可讀，未另存 raw，OCR 狀態標「不適用」。5%-10% 燃料效率改善是大叔推估情境，不寫成 NuScale 公司 guidance。
+- 新增：補入大叔美股筆記 Substack 文章《NuScale Power **SMR** 2025 第四季與全年財報》，建立 `KOL/大叔美股筆記/articles/20260227_nuscale_power_smr_2025_q4_uncle.md`。
+- 新增：建立 `Stocks/SMR/quarterly/SMR_筆記_2026Q1.md`，將本篇判定為 **SMR** L3 主題個股文；重點為 Q4 營收空窗、`$1.259B` 流動性、ENTRA1 PMA 非現金費用、TVA 6 GW 非約束性部署、RoPower、AI 資料中心 behind-the-meter 敘事與 DCF 二元估值。
+- 更新：同步更新 `Stocks/SMR/SMR_儀表板.md`、`Stocks/SMR/SMR_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack structured metadata 顯示 2026-02-27 08:31 UTC（台灣時間 2026-02-27 16:31）；網頁文字可完整讀取至免責聲明與官方 LINK，未另存 raw，OCR 狀態標「不適用」。文中 DCF 價位只按大叔原文記為情境估值，不提供買賣建議。
+- 新增：補入大叔美股筆記 Substack Note《**EOSE** JPMorgan 首評 Neutral：YE26 目標價 `$16`，產能爬坡仍是執行風險》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。
+- 更新：同步追加 `Stocks/EOSE/quarterly/EOSE_筆記_2025Q4.md`，將本篇判定為 **EOSE** L2 分析師動作 / 外部中性評級；重點為 JPMorgan / Mark Strouse 首次覆蓋 **EOSE** 給 Neutral、YE26 `$16` 分析師目標價、LDES 需求、國內供應鏈、無關鍵礦物、客戶協議與流動性改善，以及產能爬坡執行風險。
+- 更新：同步更新 `Stocks/EOSE/EOSE_儀表板.md`、`Stocks/EOSE/EOSE_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack structured data 顯示 2025-12-21 05:13 UTC（台灣時間 2025-12-21 13:13）；網頁文字可讀，未另存 raw，OCR 狀態標「不適用」。`$16` 僅記為 JPMorgan 分析師目標價，不寫成大叔自身目標價或買賣建議。
+- 新增：補入大叔美股筆記 Substack 文章《Stifel 2026 年能源設備「首選股」：**EOSE** 目標價 `$22`？》，建立 `KOL/大叔美股筆記/articles/20251217_stifel_2026eose_22_uncle.md`。
+- 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20251217_大叔美股筆記_stifel_eose_22_大叔美股筆記-20251217-stifel-eose-22-5bd050dd.pdf`；PDF 為 3 頁影像截圖，無文字層，OCR 狀態標「部分」。
+- 更新：同步追加 `Stocks/EOSE/quarterly/EOSE_筆記_2025Q4.md`，將本篇判定為 **EOSE** L3 主題個股文；重點為 Stifel 將 **EOSE** 列為 2026 年能源服務與設備 Top Pick、`$22` 分析師目標價、Z3 技術、美國製造、Turtle Creek 自動化、Line 2、Project AMAZE、backlog 與 2028E EBITDA 14 倍估值。
+- 更新：同步更新 `Stocks/EOSE/EOSE_儀表板.md`、`Stocks/EOSE/EOSE_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack metadata 顯示 2025-12-17。`$22` 僅記為 Stifel 分析師目標價，不寫成大叔自身目標價或買賣建議；Stifel 的 4Q25 / 2026 / 2027 模型按研報日期入庫，後續以 2026-02-26 Q4 財報文回頭驗證。
+- 新增：補入大叔美股筆記 Substack 文章《**EOSE** 這份 8-K 是 DOE 發的「續命＋加速」指令》，建立 `KOL/大叔美股筆記/articles/20260223_eose_8k_doe_uncle.md`。
+- 更新：同步追加 `Stocks/EOSE/quarterly/EOSE_筆記_2026Q1.md`，將本篇判定為 **EOSE** L3 主題個股文；重點為 DOE 將 consolidated revenue / EBITDA 財務 covenant 延後到 2027-03-31 結束季度才開始適用，短期違約尾部風險後移，但 2026 年要改看 production & deliveries、backlog 轉 revenue、unit economics 與 liquidity。
+- 更新：同步更新 `Stocks/EOSE/EOSE_儀表板.md`、`Stocks/EOSE/EOSE_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack 顯示 2026-02-23，網頁文字可讀，未另存 raw，OCR 狀態標「不適用」。文中 Brightline、CFO 與前主席賣出只按大叔原文語境記錄，未寫成 **EOSE** 基本面已惡化或買賣建議。
+- 新增：補入大叔美股筆記 Substack 文章《Eos Energy Enterprises, Inc. 宣布擬發行可轉換優先票據》，建立 `KOL/大叔美股筆記/articles/20251119_eose_convertible_notes_uncle.md`。
+- 新增：複製使用者提供之完整網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20251119_大叔美股筆記_eose_convertible_notes_大叔美股筆記-20251119-eose-convertible-notes-41f42edd.pdf`；PDF 為 2 頁影像截圖，OCR 狀態標「部分」。
+- 更新：建立 `Stocks/EOSE/milestones/EOSE_里程碑_20251119_可轉債與資產負債表大掃除.md`，將本篇判定為 **EOSE** L4 里程碑；重點為 `$5億` 2031 可轉債、`$7500萬` 綠鞋、普通股發行、2030 舊債回購、Cerberus 高級擔保貸款清償、capped call 與 `$11.50` 至 `$12.00` 附近的定價後止穩框架。
+- 更新：同步更新 `Stocks/EOSE/EOSE_儀表板.md`、`Stocks/EOSE/EOSE_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack metadata 顯示 2025-11-19。本文未另查後續定價公告，因此 `$15` 轉換價僅記為大叔舉例情境；PDF p.2 多為讀者留言與推薦文章，未將留言內容寫成大叔觀點。
+- 新增：補入大叔美股筆記 Substack 文章《#EOSE 2025年第三季財報亮點》，建立 `KOL/大叔美股筆記/articles/20251116_eose_2025_q3_uncle.md`。
+- 新增：複製使用者提供之完整網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20251116_大叔美股筆記_eose_2025_q3_大叔美股筆記-20251116-eose-2025-q3-edbbb070.pdf`；PDF 為 7 頁影像截圖，無文字層，OCR 狀態標「部分」。
+- 更新：建立 `Stocks/EOSE/quarterly/EOSE_筆記_2025Q4.md`，將本篇判定為 **EOSE** L3 主題個股文；重點為 2025Q3 營收 `$30.5M` 低於市場預期 `$39.6M`、GAAP EPS `-$4.91`、commercial pipeline `$22.6B`、backlog `$644.4M`、現金約 `$126.8M`、Q4 產能三倍 / FY2025 收入指引與 DOE / 現金 runway 風險。
+- 更新：同步更新 `Stocks/EOSE/EOSE_儀表板.md`、`Stocks/EOSE/EOSE_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack metadata 顯示 2025-11-16 04:00 UTC（台灣時間 2025-11-16 12:00）。PDF p.5 後含讀者留言與推薦文章，未將留言內容寫成大叔觀點。
+- 新增：補入大叔美股筆記 Substack Note《**EOSE** 第三方溴供應：2026/2027 供應可銜接但成本較高》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。
+- 更新：同步追加 `Stocks/EOSE/quarterly/EOSE_筆記_2026Q1.md`，將本篇判定為 **EOSE** L2 供應鏈 / 原料成本增量；重點為 TETRA 截圖顯示 2026/2027 第三方溴供應可銜接 Eos 電解液需求，但成本高於既有長期溴供應協議。
+- 更新：同步更新 `Stocks/EOSE/EOSE_儀表板.md`、`Stocks/EOSE/EOSE_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack metadata 顯示 2026-02-26 04:15 UTC（台灣時間 2026-02-26 12:15）；網頁文字與附圖可讀，未另存 raw，OCR 狀態標「不適用」。大叔未補充操作語句，因此只記為資訊分享 / 成本風險提醒。
+- 新增：補入大叔美股筆記 Substack 文章《Eos Energy Enterprises, Inc. **EOSE** 2025 財年第四季財報電話會議紀錄》，建立 `KOL/大叔美股筆記/articles/20260226_eose_2025_q4_call_uncle.md`。
+- 更新：同步追加 `Stocks/EOSE/quarterly/EOSE_筆記_2026Q1.md`，將本篇判定為 **EOSE** L3 主題個股文；重點為 earnings call 中的 2025 全年營收 `$114M`、Q4 營收 `$58M`、downtime 高於 30%、Indensity 出貨、AI data center pipeline、going concern 移除、2026 營收 `$300M` 至 `$400M` guidance 與紀律框架。
+- 更新：同步更新 `Stocks/EOSE/EOSE_儀表板.md`、`Stocks/EOSE/EOSE_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack structured metadata 顯示 2026-02-26 15:47 UTC（台灣時間 2026-02-26 23:47）；網頁文字可讀，未另存 raw，OCR 狀態標「不適用」。留言區提到的內部人賣股屬讀者留言，未寫成大叔觀點。
+- 新增：補入大叔美股筆記 Substack 文章《Eos Energy Enterprises **EOSE** 2025 財年第四季財報》，建立 `KOL/大叔美股筆記/articles/20260226_eose_2025_q4_uncle.md`。
+- 更新：同步追加 `Stocks/EOSE/quarterly/EOSE_筆記_2026Q1.md`，將本篇判定為 **EOSE** L3 主題個股文；重點為 Q4 營收 / EPS miss、產線 downtime、毛虧損、現金約 `$624.6M`、backlog 約 `$701.5M`、DCF 情境估值、2026 下半年毛利轉正與稀釋 / 競爭風險。
+- 更新：同步更新 `Stocks/EOSE/EOSE_儀表板.md`、`Stocks/EOSE/EOSE_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack structured metadata 顯示 2026-02-26 20:17 UTC（台灣時間 2026-02-27 04:17）；網頁文字可讀，未另存 raw，OCR 狀態標「不適用」。文中官方連結未另作外部驗證，財務與估值數字按原文語境入庫。
+- 新增：補入大叔美股筆記 Substack Note《**EOSE** 留校察看一季：長期 thesis 未破但不加倉》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。
+- 更新：同步追加 `Stocks/EOSE/quarterly/EOSE_筆記_2026Q1.md`，將本篇判定為 **EOSE** L3 主題個股文；重點為大叔「多給一季留校察看」、明確不加倉、停損紀律，以及轉貼文中對營收年增 7 倍、2 GWh 產能、Line 2 Q2 投運、2026 營收 `$300M` 至 `$400M`、現金超過 `$600M` 與 Cerberus / DOE 支持的偏多長期框架。
+- 更新：同步更新 `Stocks/EOSE/EOSE_儀表板.md`、`Stocks/EOSE/EOSE_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack metadata 顯示 2026-02-26 18:48 UTC（台灣時間 2026-02-27 02:48）；網頁文字可讀，未另存 raw，OCR 狀態標「不適用」。未另查 X、DOE 或 SEC 原始文件，因此轉貼文中的資金、產能與營收數字均按原文語境入庫。
+- 新增：補入大叔美股筆記 Substack Note《**EOSE** 管理層信任危機：製造延誤與財報後溝通問題》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。
+- 更新：同步追加 `Stocks/EOSE/quarterly/EOSE_筆記_2026Q1.md`，將本篇判定為 **EOSE** L3 主題個股文；重點為大叔認同轉貼信中對管理層溝通的批評、製造延誤未提前預警、約 `$600M` 籌資後財報落差，以及需求敘事被執行風險抵銷。
+- 更新：同步更新 `Stocks/EOSE/EOSE_儀表板.md`、`Stocks/EOSE/EOSE_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack 網頁 metadata 顯示 2026-02-26 18:39 UTC（台灣時間 2026-02-27 02:39）；網頁文字可讀，未另存 raw，OCR 狀態標「不適用」。未另查 X 原文與 SEC 文件，因此轉貼信中的融資金額與股價跌幅只按原文語境入庫。
+- 新增：入庫 Bytc Substack 文章《**EOSE** 2025 Q4 財報》，建立 `KOL/Bytc/articles/20260226_eose_2025_q4.md`。
+- 更新：同步追加 `Stocks/EOSE/quarterly/EOSE_筆記_2026Q1.md`，將本篇判定為 **EOSE** L3 主題個股文；重點為 2025 全年營收 / 出貨改善、Q4 財報落差、2 GWh 產能延遲、2026 毛利率驗證、DOE 考核與稀釋風險。
+- 更新：同步更新 `Stocks/EOSE/EOSE_儀表板.md`、`Stocks/EOSE/EOSE_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`、`indexes/framework_index.md`。
+- 備註：本次為補入舊文；網頁原文可讀，未另存 raw，OCR 狀態標「不適用」；Bytc 對 **EOSE** 的長期敘事偏多但不構成買賣建議。
+- 新增：建立 Lawrence 獨立 KOL 設定與資料夾，入庫《Lawrence 畫 **EOSE** K 線圖：階梯壓力與回測支撐》，追加至 `KOL/Lawrence/notes/Lawrence筆記.md`。
+- 修正：使用者補正 Lawrence **EOSE** K 線圖發文時間為 2026-02-28 13:45；source_id 從暫用 `Lawrence-20260425-eose-kchart-a88dfead` 調整為 `Lawrence-20260228-eose-kchart-a88dfead`。
+- 更新：同步追加 `Stocks/EOSE/quarterly/EOSE_筆記_2026Q1.md`，將本圖判定為 **EOSE** L3 技術面紀錄；重點為 `$10.83` 近期樞紐、`$14.34` / `$20.91` 階梯壓力、`$7.43` / `$4.84` 回測支撐，以及 `$41.84` / `$63.07` 遠端技術投射。
+- 更新：同步更新 `kol_config.yaml`、`docs/KOL_PROFILES.md`、`Stocks/EOSE/EOSE_儀表板.md`、`Stocks/EOSE/EOSE_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`。
+- 備註：本次圖片為對話內嵌截圖，未取得實體 raw；圖上日期、週期與原始發圖時間未完整顯示，OCR 狀態標「部分」，價位只作技術支撐 / 壓力 / 投射紀錄，不提供買賣建議。
+- 新增：補入大叔美股筆記 Substack Note《**EOSE** CEO 兩次內部人買入：約 `$502K`，但別 FOMO》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。
+- 更新：同步追加 `Stocks/EOSE/quarterly/EOSE_筆記_2026Q1.md`，將本篇判定為 **EOSE** L2；重點為 CEO 2026-03-02 與 2026-03-04 兩次買入合計約 `$502K`，以及大叔「請別 FOMO」的紀律提醒。
+- 更新：新增 `#內部人交易` tag，並同步更新 `Stocks/EOSE/EOSE_儀表板.md`、`Stocks/EOSE/EOSE_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 新增：入庫大叔美股筆記 Substack Note《**EOSE** 2026 股東會委託書：授權股、可轉債與 Cerberus 控制權》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。
+- 更新：同步追加 `Stocks/EOSE/quarterly/EOSE_筆記_2026Q2.md`，將本篇判定為 **EOSE** L3 主題個股文；重點為 2026-06-03 股東會、授權普通股 6 億股增至 8 億股、2031 可轉債最高轉換需求、激勵池增加與 Cerberus 控制權。
+- 更新：同步更新 `Stocks/EOSE/EOSE_儀表板.md`、`Stocks/EOSE/EOSE_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 新增：入庫大叔美股筆記 Substack 文章《**EOSE** Q1 震撼彈：Z3 量產》，建立 `KOL/大叔美股筆記/articles/20260409_eose_q1_z3.md`。
+- 更新：同步追加 `Stocks/EOSE/quarterly/EOSE_筆記_2026Q2.md`，將本篇判定為 **EOSE** L3 主題個股文；重點為 Q1 初步營收、Z3 / Line 2 產能、毛利率、現金流、DOE 撥款、Cerberus 違約 / 稀釋與 ATM 風險。
+- 更新：同步更新 `Stocks/EOSE/EOSE_儀表板.md`、`Stocks/EOSE/EOSE_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 新增：入庫 **EOSE** 三則紀錄：大叔 Line 2 FAT Note、大叔 **EOSE** x TURBINE-X AI 電力基礎設施 Note、Lawrence 聊天室技術面觀點。
+- 新增：建立 `Stocks/EOSE/quarterly/EOSE_筆記_2026Q1.md`，收錄 2026-03-27 Line 2 FAT 補入舊文；同步更新 `Stocks/EOSE/quarterly/EOSE_筆記_2026Q2.md`。
+- 更新：同步更新 `KOL/大叔美股筆記/notes/大叔美股筆記.md`、`Stocks/EOSE/EOSE_儀表板.md`、`Stocks/EOSE/EOSE_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：Lawrence 聊天室內容僅作 **EOSE** 個股技術面紀錄，未歸入大叔主筆記；截圖未提供實體 raw，日期標推估。
+- 新增：建立 KOL 投資文章追蹤系統規則文件。
+- 新增：建立 KOL 分類資料夾、全域索引與入庫 / 查詢流程文件。
+- 更新：將大叔美股筆記在本專案的預設來源改為文章 / Note，移除聊天室作為預設資料夾，新增 `KOL/大叔美股筆記/articles/`。
+- 新增：建立 KP / FOMOSoc 資料夾、設定與框架庫空檔。
+- 更新：將「先偵測」升級為所有 KOL 通用流程；偵測後預設直接整理入庫，只有來源不明、疑似重複、檔案不可讀或使用者明確不要整理時才先詢問。
+- 新增：建立 `Stocks/` 個股研究軸與 ONDS 專案資料夾、儀表板、index、2026Q2 季度檔；新增 KOL×個股 L0-L4 交會規則。
+- 新增：建立新 ticker 偵測與升級流程；新增 `indexes/watchlist_index.md`，規定新 ticker 預設只進 ticker index，達條件才升級為 `Stocks/<Ticker>/`。
+- 新增：依使用者要求將 **EOSE**、**SMR** 升級為正式追蹤個股，建立資料夾、儀表板、index 與 2026Q2 季度檔，並寫入 `kol_config.yaml`。
+- 新增：補齊個股季度歸檔規則，明定優先用發文時間，其次事件日期，最後整理日期；季度檔不存在時自動建立。
+- 新增：補齊多 ticker 分流、L2 最低門檻、source of truth、儀表板更新範圍、修正版處理、raw 複製政策、watchlist 冷卻、跨 KOL 比較入庫規則、外部資料補充規則；新增 `Research/` 研究資料軸。
+- 新增：建立 `docs/FORMAT_SPEC.md`，明確定義模板選擇、必填 / 可選區塊、表格格式、個股筆記格式、儀表板格式、Research 格式與省略規則。
+- 更新：格式規格改為 table-first，新增 Ticker 分流表、價位表、催化劑表、風險表、框架摘要表、跨 KOL 比較表，並同步更新模板範例。
+- 更新：個股儀表板補齊已兌現催化劑、未結問題、關鍵風險、持倉依據的固定表格格式。
+- 新增：建立 `docs/TAG_TAXONOMY.md`，定義通用主題、事件、風險、框架 tags，以及 ONDS / EOSE / SMR 個股母題。
+- 更新：補齊 `source_id`、raw 檔命名、OCR 狀態、source index 去重欄位、修訂紀錄與催化劑狀態維護規則。
+- 更新：將 EOSE、SMR 專屬母題寫入 `kol_config.yaml` 與個股規則，並同步更新三個個股儀表板表格。
+- 更新：補齊合併筆記排序規則，明定內文 append-only、頂部文章索引按發文時間倒序、補舊文不重排內文。
+- 備註：目前尚未搬移舊資料；既有 Downloads 筆記可後續依規則匯入。

@@ -1,0 +1,381 @@
+version: 1
+updated: "2026-04-25"
+language: "zh-Hant"
+
+global:
+  default_task_for_new_upload: "ingest"
+  default_cross_compare_scope: "same_kol_only"
+  no_buy_sell_advice: true
+  quote_requires_source: true
+  abort_on_truncated_or_unclear_content: true
+  max_core_concepts: 3
+  max_cross_references_per_article: 2
+  source_id_pattern: "KOL_OR_SOURCE-YYYYMMDD-title-slug-short_hash"
+  raw_filename_pattern: "YYYYMMDD_KOL_OR_SOURCE_title_slug_source_id.ext"
+  combined_note_body_order: "append_only"
+  combined_note_index_order: "publish_date_desc"
+
+enums:
+  signal_strength:
+    - "明確觀點"
+    - "觀察 / 中立"
+    - "玩笑 / 反諷"
+    - "轉述 / 猜測"
+    - "資訊分享"
+  stance:
+    - "看多"
+    - "看空"
+    - "觀望"
+    - "已賣出"
+    - "投機"
+    - "隱含偏多"
+    - "隱含偏空"
+    - "資訊分享"
+  price_type:
+    - "目標價"
+    - "希望價"
+    - "成本價"
+    - "事件價位"
+    - "分析師目標價"
+    - "群友喊價"
+    - "期權履約價"
+    - "warrant / 增發門檻"
+  time_horizon:
+    - "短線"
+    - "中期"
+    - "長期"
+    - "未說明"
+  ocr_status:
+    - "不適用"
+    - "未 OCR"
+    - "完整"
+    - "部分"
+    - "不可靠"
+  source_status:
+    - "新入庫"
+    - "疑似重複"
+    - "補充版"
+    - "修正版"
+    - "已取代"
+    - "封存"
+
+paths:
+  inbox: "inbox"
+  indexes: "indexes"
+  logs: "logs"
+  docs: "docs"
+  stocks: "Stocks"
+  research: "Research"
+  tag_taxonomy: "docs/TAG_TAXONOMY.md"
+
+indexes:
+  ticker: "indexes/ticker_index.md"
+  theme: "indexes/theme_index.md"
+  framework: "indexes/framework_index.md"
+  catalyst: "indexes/catalyst_index.md"
+  source: "indexes/source_index.md"
+  watchlist: "indexes/watchlist_index.md"
+  update_log: "logs/update_log.md"
+
+stock_projects:
+  ONDS:
+    aliases:
+      - "ONDS"
+      - "Ondas"
+      - "Ondas Holdings"
+      - "Ondas Inc."
+    root: "Stocks/ONDS"
+    raw_dir: "Stocks/ONDS/raw"
+    notes_dir: "Stocks/ONDS/notes"
+    quarterly_dir: "Stocks/ONDS/quarterly"
+    milestones_dir: "Stocks/ONDS/milestones"
+    longform_dir: "Stocks/ONDS/longform"
+    dashboard: "Stocks/ONDS/ONDS_儀表板.md"
+    stock_index: "Stocks/ONDS/ONDS_index.md"
+    current_quarter_file_pattern: "ONDS_筆記_YYYYQN.md"
+    milestone_file_pattern: "ONDS_里程碑_[文章標題].md"
+    longform_file_pattern: "ONDS_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    legacy_main_note_locked: "ONDS_筆記.md"
+    theme_tags:
+      - "#十年繁榮"
+      - "#142K據點TAM"
+      - "#空地一體"
+      - "#PS小於1倍"
+      - "#DualUse"
+      - "#以色列併購"
+      - "#以色列訂單"
+      - "#以色列人事"
+      - "#機構洗盤"
+      - "#EPS終極裁判"
+      - "#授權股稀釋"
+      - "#NATO佈局"
+      - "#垂直整合"
+
+  EOSE:
+    aliases:
+      - "EOSE"
+      - "Eos Energy"
+      - "Eos Energy Enterprises"
+      - "Eos Energy Enterprises Inc."
+    root: "Stocks/EOSE"
+    raw_dir: "Stocks/EOSE/raw"
+    notes_dir: "Stocks/EOSE/notes"
+    quarterly_dir: "Stocks/EOSE/quarterly"
+    milestones_dir: "Stocks/EOSE/milestones"
+    longform_dir: "Stocks/EOSE/longform"
+    dashboard: "Stocks/EOSE/EOSE_儀表板.md"
+    stock_index: "Stocks/EOSE/EOSE_index.md"
+    current_quarter_file_pattern: "EOSE_筆記_YYYYQN.md"
+    milestone_file_pattern: "EOSE_里程碑_[文章標題].md"
+    longform_file_pattern: "EOSE_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    theme_tags:
+      - "#鋅電池儲能"
+      - "#LDES長時儲能"
+      - "#DOE貸款"
+      - "#產能爬坡"
+      - "#訂單Backlog"
+      - "#毛利轉正"
+      - "#現金流轉正"
+      - "#稀釋與融資"
+
+  SMR:
+    aliases:
+      - "SMR"
+      - "NuScale"
+      - "NuScale Power"
+      - "NuScale Power Corporation"
+    root: "Stocks/SMR"
+    raw_dir: "Stocks/SMR/raw"
+    notes_dir: "Stocks/SMR/notes"
+    quarterly_dir: "Stocks/SMR/quarterly"
+    milestones_dir: "Stocks/SMR/milestones"
+    longform_dir: "Stocks/SMR/longform"
+    dashboard: "Stocks/SMR/SMR_儀表板.md"
+    stock_index: "Stocks/SMR/SMR_index.md"
+    current_quarter_file_pattern: "SMR_筆記_YYYYQN.md"
+    milestone_file_pattern: "SMR_里程碑_[文章標題].md"
+    longform_file_pattern: "SMR_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    theme_tags:
+      - "#小型模組化反應爐"
+      - "#NRC認證"
+      - "#客戶部署"
+      - "#DOE與政策補助"
+      - "#成本與工期"
+      - "#HALEU燃料"
+      - "#資料中心電力"
+      - "#核能安全敘事"
+
+  INTC:
+    aliases:
+      - "INTC"
+      - "Intel"
+      - "Intel Corporation"
+      - "英特爾"
+    root: "Stocks/INTC"
+    raw_dir: "Stocks/INTC/raw"
+    notes_dir: "Stocks/INTC/notes"
+    quarterly_dir: "Stocks/INTC/quarterly"
+    milestones_dir: "Stocks/INTC/milestones"
+    longform_dir: "Stocks/INTC/longform"
+    dashboard: "Stocks/INTC/INTC_儀表板.md"
+    stock_index: "Stocks/INTC/INTC_index.md"
+    current_quarter_file_pattern: "INTC_筆記_YYYYQN.md"
+    milestone_file_pattern: "INTC_里程碑_[文章標題].md"
+    longform_file_pattern: "INTC_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    theme_tags:
+      - "#AI基建"
+      - "#先進封裝"
+      - "#半導體設備"
+      - "#財報"
+      - "#產品節點"
+      - "#ReRating"
+      - "#估值風險"
+      - "#執行風險"
+      - "#競爭風險"
+
+  TXN:
+    aliases:
+      - "TXN"
+      - "Texas Instruments"
+      - "Texas Instruments Incorporated"
+      - "德州儀器"
+    root: "Stocks/TXN"
+    raw_dir: "Stocks/TXN/raw"
+    notes_dir: "Stocks/TXN/notes"
+    quarterly_dir: "Stocks/TXN/quarterly"
+    milestones_dir: "Stocks/TXN/milestones"
+    longform_dir: "Stocks/TXN/longform"
+    dashboard: "Stocks/TXN/TXN_儀表板.md"
+    stock_index: "Stocks/TXN/TXN_index.md"
+    current_quarter_file_pattern: "TXN_筆記_YYYYQN.md"
+    milestone_file_pattern: "TXN_里程碑_[文章標題].md"
+    longform_file_pattern: "TXN_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    theme_tags:
+      - "#財報"
+      - "#AI基建"
+      - "#功率半導體"
+      - "#產品節點"
+      - "#ReRating"
+      - "#估值風險"
+      - "#執行風險"
+      - "#競爭風險"
+      - "#供應鏈風險"
+
+kols:
+  Bytc:
+    aliases:
+      - "Bytc"
+      - "BTYC"
+      - "Btyc"
+      - "#BTYC"
+      - "#BYTC"
+    root: "KOL/Bytc"
+    raw_dir: "KOL/Bytc/raw"
+    notes_dir: "KOL/Bytc/notes"
+    articles_dir: "KOL/Bytc/articles"
+    main_note: "KOL/Bytc/notes/bytc筆記.md"
+    short_note_max_lines: 150
+    default_note_behavior: "short_merge_long_independent"
+    focus:
+      - "macro"
+      - "AI infra"
+      - "defense"
+      - "liquidity"
+      - "dark pool"
+      - "geopolitics"
+
+  大叔美股筆記:
+    aliases:
+      - "大叔"
+      - "大叔美股筆記"
+      - "Uncle Stock Notes"
+    root: "KOL/大叔美股筆記"
+    raw_dir: "KOL/大叔美股筆記/raw"
+    notes_dir: "KOL/大叔美股筆記/notes"
+    articles_dir: "KOL/大叔美股筆記/articles"
+    main_note: "KOL/大叔美股筆記/notes/大叔美股筆記.md"
+    short_note_max_lines: 150
+    default_note_behavior: "short_merge_long_independent"
+    default_source_types:
+      - "Substack 文章"
+      - "Substack Note"
+      - "社群短評"
+      - "研究文章"
+
+  宋分:
+    aliases:
+      - "宋分"
+      - "美股送分題"
+      - "安分分析師"
+      - "市場解碼"
+      - "分析師備忘錄"
+      - "投資紀律"
+    root: "KOL/宋分"
+    raw_dir: "KOL/宋分/raw"
+    articles_dir: "KOL/宋分/articles"
+    frameworks_dir: "KOL/宋分/frameworks"
+    framework_index: "KOL/宋分/frameworks/宋分框架庫索引.md"
+    default_note_behavior: "independent_article"
+    focus:
+      - "re-rate"
+      - "CCC"
+      - "ROIC"
+      - "Type A / Type B"
+      - "valuation framework"
+      - "institutional positioning"
+
+  KP_FOMOSoc:
+    aliases:
+      - "KP"
+      - "FOMOSoc"
+      - "FOMO Soc"
+      - "FOMO 研究院"
+      - "KP@FOMOSoc"
+      - "KP 思考筆記"
+      - "週末思考筆記"
+      - "深度分析"
+      - "fomosoc.substack.com"
+      - "fomosoc-substack"
+    root: "KOL/KP_FOMOSoc"
+    raw_dir: "KOL/KP_FOMOSoc/raw"
+    notes_dir: "KOL/KP_FOMOSoc/notes"
+    articles_dir: "KOL/KP_FOMOSoc/articles"
+    weekly_dir: "KOL/KP_FOMOSoc/weekly"
+    deep_dive_dir: "KOL/KP_FOMOSoc/deep_dive"
+    frameworks_dir: "KOL/KP_FOMOSoc/frameworks"
+    framework_index: "KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md"
+    trigger_policy: "detect_then_auto_ingest"
+    default_note_behavior: "independent_article"
+    pdf_detection_required: true
+    output_naming:
+      weekly: "KP_KP思考筆記第NN期_[一句話摘要].md"
+      deep_dive: "KP_深度分析第NN期_[主題].md"
+      framework: "KP_[框架或主題].md"
+    focus:
+      - "weekly thinking notes"
+      - "deep dive"
+      - "re-rating"
+      - "framework"
+      - "individual stock analysis"
+      - "macro and sector"
+
+  美股老司機:
+    aliases:
+      - "美股老司機"
+      - "美股老司機 3.0"
+      - "老司機"
+    root: "KOL/美股老司機"
+    raw_dir: "KOL/美股老司機/raw"
+    notes_dir: "KOL/美股老司機/notes"
+    main_note: "KOL/美股老司機/notes/美股老司機投資筆記.md"
+    default_note_behavior: "append_numbered_article"
+    frameworks:
+      - "上駟"
+      - "上等中駟"
+      - "中駟"
+      - "投機"
+      - "圍地論"
+
+  Lawrence:
+    aliases:
+      - "Lawrence"
+      - "lawrence"
+      - "大師兄"
+      - "大師兄Lawrence"
+      - "大師兄lawrence"
+    root: "KOL/Lawrence"
+    raw_dir: "KOL/Lawrence/raw"
+    notes_dir: "KOL/Lawrence/notes"
+    articles_dir: "KOL/Lawrence/articles"
+    main_note: "KOL/Lawrence/notes/Lawrence筆記.md"
+    short_note_max_lines: 150
+    default_note_behavior: "short_merge_long_independent"
+    default_source_types:
+      - "投資社群截圖"
+      - "聊天室技術圖"
+      - "社群短評"
+    focus:
+      - "technical analysis"
+      - "trading range"
+      - "price levels"
+      - "speculative small-cap setup"
+
+  其他KOL:
+    aliases:
+      - "其他KOL"
+      - "未知KOL"
+    root: "KOL/其他KOL"
+    raw_dir: "KOL/其他KOL/raw"
+    notes_dir: "KOL/其他KOL/notes"
+    main_note: "KOL/其他KOL/notes/其他KOL筆記.md"
+    default_note_behavior: "short_merge_long_independent"

@@ -1,0 +1,15 @@
+.DS_Store
+**/.DS_Store
+
+# Editor and local environment noise
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Runtime caches
+.cache/
+tmp/
+temp/
+*.log
