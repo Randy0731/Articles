@@ -93,6 +93,7 @@ YYYYMMDD_KOL_OR_SOURCE_title_slug_source_id.ext
 實體檔案處理：
 
 - PDF、圖片、Markdown、文字檔等實體檔案要複製到對應 `raw/`，不修改原始檔。
+- `raw/` 是本機原始檔保存層，預設不得 commit 或同步至 GitHub / Claude；GitHub / Claude 只同步整理後 Markdown、索引、規則與 URL。
 - 網頁連結只記錄 URL 與抓取日期，除非另存網頁或截圖。
 - 檔案太大或權限不適合複製時，保留原始路徑，並在筆記與 `source_index.md` 標明「未複製 raw」。
 - 筆記、索引與 log 可以保留網頁 URL，但不得寫入本機絕對路徑；本機原始路徑一律集中記錄於 `private/raw_manifest.local.yaml`，該檔不得同步至 Claude 專用 repo 或公開 repo。

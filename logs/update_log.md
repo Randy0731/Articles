@@ -2,6 +2,7 @@
 
 ## 2026-04-26
 
+- 更新：將 `raw/` 與 PDF / 圖片 / ZIP 等原始檔格式加入 `.gitignore`，定位為本機保存層，不同步至 GitHub / Claude；既有 tracked raw PDF 解除 Git 追蹤但保留本機檔案。
 - 更新：新增本機原始路徑集中管理規則；保留網頁 URL 於筆記與索引，將本機絕對路徑集中到 `private/raw_manifest.local.yaml`，並以 `.gitignore` 排除該 private manifest，避免同步至 Claude 專用 repo 或公開 repo。
 - 更新：清理既有 7 篇使用者提供 PDF 來源的 metadata 與 `indexes/source_index.md`，移除散落的本機下載路徑，改以 source_id 對應 private manifest；同時將專案文件內部連結改成相對路徑。
 - 新增：補入大叔美股筆記 Substack Note《**ONDS** 收購 Apeiro Motion：空地一體與 P/S 小於 1 倍併購模板》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20250818-ondas-apeiro-motion-41c45ddb`。

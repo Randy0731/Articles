@@ -118,7 +118,7 @@ KOL_OR_SOURCE-YYYYMMDD-title-slug-short_hash
 若使用者提供本機檔案路徑：
 
 1. 將本機原始路徑記錄到 `private/raw_manifest.local.yaml`，以 `source_id` 對應；不要把本機絕對路徑寫入筆記、索引或 log。
-2. PDF、截圖、Markdown、文字檔等實體檔案，複製一份到對應 `raw/`
+2. PDF、截圖、Markdown、文字檔等實體檔案，複製一份到對應 `raw/`；`raw/` 為本機保存層，不 commit、不同步至 GitHub / Claude。
 3. raw 檔使用標準命名：
 
    ```text

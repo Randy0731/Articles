@@ -17,3 +17,13 @@ temp/
 # Local-only source path manifests; keep out of GitHub / Claude sync
 private/*.local.*
 private/raw_manifest.local.yaml
+
+# Raw/source artifacts stay local; keep GitHub and Claude sync text-only
+**/raw/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.heic
+*.zip
