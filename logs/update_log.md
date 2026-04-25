@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Threads 社群短評《**ONDS** 收購 4M Defense：智慧掃雷與地下情資平台補上地面 AI》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251028-ondas-4m-defense-22b9e392`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md`，將本篇判定為 **ONDS** L4；重點為 4M Defense 的 Terrestrial Intelligence Platform、智慧掃雷、地雷 / IED / UXO 偵測、以色列防務工程能力與 **ONDS** #空地一體 / #DualUse thesis 的延伸。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：Threads 截圖 1/2、2/2 可讀，OCR 狀態標「完整」；大叔貼文日期為 2025-10-28，正文引用 2025-10-27 官方公告。整理日補充查詢顯示 Ondas 2025-10-29 完成 4M Defense 70% 控制權收購、2026-03-16 完成剩餘 30%，但這些 filing 只作事件狀態補充，不倒寫成大叔原始觀點。本篇未提供股價目標、成本價或買賣建議。
 - 新增：補入大叔美股筆記 Facebook 社群短評《**ONDS** x **LPTH** / **UMAC**：紅外熱像與 BlackDiamond 無人機感測器拼圖》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251020-lpth-ondas-umac-strategic-investment-0c916abe`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251020_LPTH紅外熱像與BlackDiamond感測器拼圖.md`，將本篇判定為 **ONDS** L4 里程碑；重點為 Ondas / UMAC 各投 `$4M` 參與 LightPath `$8M` private placement，補強 **ONDS** 無人機生態系的紅外熱像、BlackDiamond 非鍺材料與感測器層拼圖。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`、`indexes/watchlist_index.md`；**LPTH** 判定為單篇 L2 watchlist，不建立 `Stocks/LPTH/`，**UMAC** 為 L1 共同投資方提及。
