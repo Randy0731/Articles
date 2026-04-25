@@ -1,13 +1,13 @@
 # ONDS 投資儀表板
 
-> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md`；補入舊文，未改寫最新 Mistral 立場）
+> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/milestones/ONDS_里程碑_20251020_SafePro策略投資與AI視覺拼圖.md`；補入舊文，未改寫最新 Mistral 立場）
 
 ## 當前立場快照
 
 - **綜合立場**：國防 prime contractor thesis 初步成形，但需用 backlog 轉 revenue、毛利率與 task order 驗證。
 - **大叔最新立場**：資訊分享偏多；轉述 Ondas 完成 Mistral 合併與 backlog 增加，未提供價位或操作。
 - **依據篇章**：`Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md`
-- **歷史脈絡**：`Stocks/ONDS/milestones/ONDS_里程碑_20250818_ApeiroMotion收購協議.md` 是大叔 **ONDS** 空地一體、以色列併購與 P/S 小於 1 倍併購模板的早期 L4 來源；`Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md` 建立 Rift 戰略投資、Wåsp 美國獨家分銷與可消耗無人機產品線的商業化路徑；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` 則補上 `$425M` 融資、`$11.50` 機構成本與 warrants / 授權股稀釋的資本結構脈絡。
+- **歷史脈絡**：`Stocks/ONDS/milestones/ONDS_里程碑_20250818_ApeiroMotion收購協議.md` 是大叔 **ONDS** 空地一體、以色列併購與 P/S 小於 1 倍併購模板的早期 L4 來源；`Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md` 建立 Rift 戰略投資、Wåsp 美國獨家分銷與可消耗無人機產品線的商業化路徑；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` 補上 `$425M` 融資、`$11.50` 機構成本與 warrants / 授權股稀釋的資本結構脈絡；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_SafePro策略投資與AI視覺拼圖.md` 則把 Safe Pro AI threat detection 納入 **ONDS** #垂直整合 與 #DualUse 拼圖。
 
 ## 關鍵價位追蹤
 
@@ -33,6 +33,7 @@
 | Mistral / World View 併購後 backlog 能否轉成收入與毛利？ | 2026-04-26 | task order、10-Q revenue、gross margin、cash conversion | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` | 待追蹤 |
 | IDIQ 合約車輛是否轉成具體 program-of-record deployment？ | 2026-04-26 | U.S. Army / Special Operations task order、8-K、客戶公告 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` | 待追蹤 |
 | `$407.2M` net proceeds 能否轉成 OAS revenue、backlog、M&A synergy 或產能規模？ | 2026-04-26 | 10-Q cash flow、OAS revenue、gross margin、M&A / JV / strategic investment 更新 | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` | 待追蹤 |
+| Safe Pro AI threat detection 能否整合進 OAS 產品並轉成部署 / 收入？ | 2026-04-26 | SPOTD NODE / SpotlightAI 與 American Robotics、Airobotics、Apeiro 或 Mistral 產品線整合；軍方 / 人道任務客戶公告；OAS revenue / backlog | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_SafePro策略投資與AI視覺拼圖.md` | 待追蹤 |
 | common warrants 與授權股條件如何處理？ | 2026-04-26 | 2026-01-31 後 cash settlement、股東批准增加授權股、warrant exercise 狀態 | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` | 待確認 |
 | Wåsp 2025Q4 初始交付與 DOW program bids 是否轉成終端客戶訂單？ | 2026-04-26 | Wåsp 交付確認、DOW program awards、客戶公告、OAS revenue / inventory | `Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md` | 待確認 / 待追蹤 |
 | Apeiro 地面機器人與光纖線軸能否持續放大收入貢獻？ | 2026-04-26 | OAS revenue、Apeiro product orders、NDAA-compliant spool production、gross margin | `Stocks/ONDS/milestones/ONDS_里程碑_20250818_ApeiroMotion收購協議.md` | 部分已驗證；仍待追 2026 scale |
@@ -43,6 +44,7 @@
 |---|---|---|---|---|
 | IDIQ 合約車輛不等於保證採購 | 高 | 沒有具體 task order、交付或收入認列 | task order、8-K、10-Q backlog 轉 revenue | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 | `$425M` offering 與 warrants 帶來 fully diluted shares 壓力 | 高 | pre-funded warrants、common warrants、授權股增加或 cash settlement 造成稀釋 / 現金壓力 | shares outstanding、fully diluted shares、S-3 / 8-K、股東批准、warrant exercise / settlement | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` |
+| Safe Pro 策略投資未轉成實際整合與收入 | 高 | 投資後沒有產品整合、客戶部署、合約或收入貢獻 | OAS revenue、Safe Pro revenue、8-K、客戶公告、產品整合更新 | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_SafePro策略投資與AI視覺拼圖.md` |
 | Wåsp 首批 500 架是分銷啟動訂單，不是終端政府採購 | 高 | 市場把 Ondas 向 Rift 的採購訂單誤讀為美國國防部大單 | DOW program awards、task order、交付 / 收入認列、庫存 | `Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md` |
 | 併購整合與成本控制 | 中 | Mistral、World View 與 OAS 平台整合拖慢交付或拉高費用 | 毛利率、OPEX、整合費用、管理層更新 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 | RSU / 併購對價與後續融資稀釋 | 中 | 股權激勵、併購對價或現金需求推升股本 | shares outstanding、RSU vesting、S-8 / 10-Q、現金餘額 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
@@ -52,5 +54,5 @@
 | 篇章 | 日期 | 一句話結論 | 權重 |
 |---|---|---|---|
 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` | 2026-04-24 | Mistral 合併完成讓 **ONDS** 取得美軍 IDIQ 合約車輛、國內製造整合能力與約 `$457M` pro forma backlog，是 ONDS defense prime thesis 的第一個核心里程碑。 | 高 |
+| `Stocks/ONDS/milestones/ONDS_里程碑_20251020_SafePro策略投資與AI視覺拼圖.md` | 2025-10-20 | Safe Pro 策略投資把 **ONDS** 無人機平台與 AI threat detection / tactical edge 影像分析連起來，是 #垂直整合 和 #DualUse thesis 的軟體層拼圖。 | 高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` | 2025-10-20 | `$425M` 融資提供資本彈藥並建立 `$11.50` 機構成本事件價位，但 warrants、授權股與資金使用效率是後續核心風險。 | 高 |
-| `Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md` | 2025-10-03 | Wåsp 首批 500 架訂單驗證大叔所說的戰略投資 + 美國獨家分銷模式，但仍需 DOW program award 與交付收入確認。 | 高 |

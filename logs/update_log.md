@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Facebook 社群短評《**ONDS** x Safe Pro：`$14M` 策略投資與 AI 視覺拼圖》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251020-ondas-safepro-ai-88cd3480`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251020_SafePro策略投資與AI視覺拼圖.md`，將本篇判定為 **ONDS** L4 里程碑；重點為 Ondas 領投 Safe Pro `$14M` private placement、Safe Pro AI threat detection / SPOTD NODE 與 Ondas OAS 無人機平台的垂直整合拼圖。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`、`indexes/watchlist_index.md`；**SPAI** 判定為單篇 L2 watchlist，不建立 `Stocks/SPAI/`。
+- 備註：Facebook 截圖文字可讀，Safe Pro 2025-10-20 / 2025-10-22 官方新聞稿可交叉確認，OCR 狀態標「完整」。`$14M` 為 Safe Pro 私募案總額，由 Ondas 領投；不寫成 Ondas 單獨出資全額，也不寫成大叔對 **SPAI** 的買賣建議。
 - 新增：補入大叔美股筆記 Facebook 貼文《**ONDS** 歷次融資整理：`$11.50` 機構成本與稀釋風險》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251020-ondas-financing-history-ff799be6`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md`，將本篇判定為 **ONDS** L4；重點為 2025 年 10 月 `$425M` stock and warrant offering、`$11.50` 機構成本 / 事件價位、73,920,000 股 common warrants、約 `$407.2M` net proceeds、授權股 / warrant 稀釋風險與資金使用效率追蹤。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
