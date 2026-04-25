@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Facebook 貼文《**ONDS** 歷次融資整理：`$11.50` 機構成本與稀釋風險》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251020-ondas-financing-history-ff799be6`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md`，將本篇判定為 **ONDS** L4；重點為 2025 年 10 月 `$425M` stock and warrant offering、`$11.50` 機構成本 / 事件價位、73,920,000 股 common warrants、約 `$407.2M` net proceeds、授權股 / warrant 稀釋風險與資金使用效率追蹤。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Facebook 截圖顯示 2025-10-20，使用者提供截圖可讀，OCR 狀態標「完整」。2025 年 10 月 `$425M` 融資核心條款已用 Ondas 2025-10-06 pricing 與 2025-10-07 closing 官方新聞稿確認；貼文中較早歷史融資條目在快速官方核對中有未對齊處，已標「待核對 / 可能有出入」，後續不得當成已驗證官方融資史。`$11.50` 只記為大叔觀察機構成本的事件價位，不是目標價、支撐、買點或買賣建議。
 - 更新：同步補強 `AGENTS.md` 頂層指令，明確規定 `raw/` 與 `private/raw_manifest.local.yaml` 為本機保存層，不 commit、不同步 GitHub / Claude；新資料入庫時網頁 URL 可留在筆記與索引，本機絕對路徑只進 private manifest。
 - 更新：將 `raw/` 與 PDF / 圖片 / ZIP 等原始檔格式加入 `.gitignore`，定位為本機保存層，不同步至 GitHub / Claude；既有 tracked raw PDF 解除 Git 追蹤但保留本機檔案。
 - 更新：新增本機原始路徑集中管理規則；保留網頁 URL 於筆記與索引，將本機絕對路徑集中到 `private/raw_manifest.local.yaml`，並以 `.gitignore` 排除該 private manifest，避免同步至 Claude 專用 repo 或公開 repo。
