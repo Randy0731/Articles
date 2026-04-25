@@ -5,7 +5,7 @@
 - **類型**：Substack 文章 / 研報解讀 / 分析師動作
 - **發文時間**：2025-12-17（Substack metadata：2025-12-17 05:28 UTC；台灣時間 2025-12-17 13:28）
 - **整理日期**：2026-04-25
-- **原始檔案 / URL**：https://unclestocknotes.substack.com/p/stifel-2026eose-22；`本機原始路徑見 private/raw_manifest.local.yaml（未同步）`
+- **原始檔案 / URL**：https://unclestocknotes.substack.com/p/stifel-2026eose-22；本機原始路徑見 `private/raw_manifest.local.yaml`（未同步）
 - **source_id**：大叔美股筆記-20251217-stifel-eose-22-5bd050dd
 - **raw 路徑 / URL**：`KOL/大叔美股筆記/raw/20251217_大叔美股筆記_stifel_eose_22_大叔美股筆記-20251217-stifel-eose-22-5bd050dd.pdf`
 - **OCR 狀態**：部分（PDF 為 3 頁網頁截圖，無文字層；以頁面影像視讀整理，正文與 Stifel 附圖可讀）

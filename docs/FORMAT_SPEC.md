@@ -1,6 +1,6 @@
 # 寫作格式規格
 
-本文件是格式硬規格。範例模板見 [docs/TEMPLATES.md](docs/TEMPLATES.md)。
+本文件是格式硬規格。範例模板見 [TEMPLATES.md](TEMPLATES.md)。
 
 ## 1. 模板選擇
 
@@ -34,7 +34,7 @@
 - 個股摘要表中未提及的列直接刪除；一般觀點表可填「未說明」。
 - 引文只保留真正有證據價值的短引文。
 - 整理者推論必須放在「整理者延伸」或明確標示「整理者判斷」。
-- 每篇入庫筆記必須有 `source_id`；實體檔案需記錄 raw 路徑或原始路徑；OCR / PDF / 截圖需記錄 OCR 狀態。
+- 每篇入庫筆記必須有 `source_id`；實體檔案需記錄 raw 路徑或 URL；OCR / PDF / 截圖需記錄 OCR 狀態。本機絕對路徑不得寫入筆記或索引，只能以 `source_id` 對應保存在 `private/raw_manifest.local.yaml`。
 
 ## 2.5 表格優先規則
 

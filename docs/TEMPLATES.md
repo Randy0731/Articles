@@ -1,6 +1,6 @@
 # 筆記與索引模板
 
-格式硬規格見 [docs/FORMAT_SPEC.md](docs/FORMAT_SPEC.md)。本文件只提供可複製的範例模板。
+格式硬規格見 [FORMAT_SPEC.md](FORMAT_SPEC.md)。本文件只提供可複製的範例模板。
 
 ## 合併筆記檔頭模板
 

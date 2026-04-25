@@ -4,12 +4,12 @@
 
 ## 0. 啟動前檢查
 
-1. 讀 [PROJECT_RULES.md](PROJECT_RULES.md)
-2. 讀 [kol_config.yaml](kol_config.yaml)
-3. 讀 [docs/KOL_PROFILES.md](docs/KOL_PROFILES.md)
-4. 讀 [docs/STOCK_PROFILES.md](docs/STOCK_PROFILES.md)
-5. 讀 [docs/FORMAT_SPEC.md](docs/FORMAT_SPEC.md)
-6. 讀 [docs/TAG_TAXONOMY.md](docs/TAG_TAXONOMY.md)
+1. 讀 [PROJECT_RULES.md](../PROJECT_RULES.md)
+2. 讀 [kol_config.yaml](../kol_config.yaml)
+3. 讀 [KOL_PROFILES.md](KOL_PROFILES.md)
+4. 讀 [STOCK_PROFILES.md](STOCK_PROFILES.md)
+5. 讀 [FORMAT_SPEC.md](FORMAT_SPEC.md)
+6. 讀 [TAG_TAXONOMY.md](TAG_TAXONOMY.md)
 7. 查看相關 KOL / Stock / Research 資料夾與索引是否已有重複資料
 
 ## 0.5 通用偵測
@@ -32,9 +32,9 @@
 - 預計寫入路徑
 - 是否疑似重複
 
-若涉及已追蹤個股，依 [docs/STOCK_PROFILES.md](docs/STOCK_PROFILES.md) 判斷 L0-L4 交會等級。
+若涉及已追蹤個股，依 [STOCK_PROFILES.md](STOCK_PROFILES.md) 判斷 L0-L4 交會等級。
 
-若出現新 ticker，依 [docs/STOCK_PROFILES.md](docs/STOCK_PROFILES.md) 的「新 ticker 偵測與升級流程」處理；預設只更新 `ticker_index.md`，不要自動建立 `Stocks/<Ticker>/`。
+若出現新 ticker，依 [STOCK_PROFILES.md](STOCK_PROFILES.md) 的「新 ticker 偵測與升級流程」處理；預設只更新 `ticker_index.md`，不要自動建立 `Stocks/<Ticker>/`。
 
 偵測完成後，若使用者沒有明確禁止整理，直接進入後續入庫流程。
 
@@ -117,7 +117,7 @@ KOL_OR_SOURCE-YYYYMMDD-title-slug-short_hash
 
 若使用者提供本機檔案路徑：
 
-1. 記錄原始路徑到筆記 metadata
+1. 將本機原始路徑記錄到 `private/raw_manifest.local.yaml`，以 `source_id` 對應；不要把本機絕對路徑寫入筆記、索引或 log。
 2. PDF、截圖、Markdown、文字檔等實體檔案，複製一份到對應 `raw/`
 3. raw 檔使用標準命名：
 
@@ -134,8 +134,8 @@ KOL_OR_SOURCE-YYYYMMDD-title-slug-short_hash
 
 若原始檔很大或不適合複製：
 
-1. 保留原始路徑
-2. 在筆記 metadata 標明「未複製 raw，僅記錄原始路徑」
+1. 將本機原始路徑保留在 `private/raw_manifest.local.yaml`
+2. 在筆記 metadata 標明「未複製 raw，private manifest 保存本機原始路徑」
 
 若是 PDF：
 
@@ -184,7 +184,7 @@ OCR 狀態判定：
 
 ## 5. 筆記生成
 
-依 [docs/FORMAT_SPEC.md](docs/FORMAT_SPEC.md) 選擇格式；需要範例時參考 [docs/TEMPLATES.md](docs/TEMPLATES.md)。
+依 [FORMAT_SPEC.md](FORMAT_SPEC.md) 選擇格式；需要範例時參考 [TEMPLATES.md](TEMPLATES.md)。
 
 每篇至少包含：
 
@@ -253,7 +253,7 @@ OCR 狀態判定：
 
 1. 原文主整理仍放在來源所屬位置，例如 `KOL/KP_FOMOSoc/weekly/`。
 2. 對每個 ticker 獨立判斷 L0-L4，不整篇文章套同一等級。
-3. 依 [docs/STOCK_PROFILES.md](docs/STOCK_PROFILES.md) 的季度歸檔規則判斷季度：優先用發文時間，其次事件日期，最後整理日期。
+3. 依 [STOCK_PROFILES.md](STOCK_PROFILES.md) 的季度歸檔規則判斷季度：優先用發文時間，其次事件日期，最後整理日期。
 4. 到 `Stocks/<Ticker>/` 寫入摘要型個股筆記、季度合併檔、長文獨立檔或里程碑檔。
 5. 若季度檔不存在，自動建立 `<Ticker>_筆記_YYYYQ<N>.md`。
 6. 依 L2 / L3 / L4 更新該股儀表板，不把 L2 小訊號硬寫成立場轉變。

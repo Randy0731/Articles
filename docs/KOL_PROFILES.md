@@ -1,6 +1,6 @@
 # KOL 專屬規則
 
-本文件只放 KOL 專屬語境與特殊處理。通用規則見 [PROJECT_RULES.md](PROJECT_RULES.md)，tag 標準化見 [docs/TAG_TAXONOMY.md](docs/TAG_TAXONOMY.md)。
+本文件只放 KOL 專屬語境與特殊處理。通用規則見 [PROJECT_RULES.md](../PROJECT_RULES.md)，tag 標準化見 [TAG_TAXONOMY.md](TAG_TAXONOMY.md)。
 
 ## Bytc / BTYC
 
@@ -256,7 +256,7 @@ head -c 4 <path> | od -c
 
 ### 個股交會規則
 
-若 KP 文章對已追蹤個股達到 L2 以上重要性，除了 KP 主整理，也要依 [docs/STOCK_PROFILES.md](docs/STOCK_PROFILES.md) 更新對應 `Stocks/<Ticker>/` 的個股筆記或儀表板。不要把整篇 KP 文章複製到個股資料夾，只萃取與該股投資論述有關的內容。
+若 KP 文章對已追蹤個股達到 L2 以上重要性，除了 KP 主整理，也要依 [STOCK_PROFILES.md](STOCK_PROFILES.md) 更新對應 `Stocks/<Ticker>/` 的個股筆記或儀表板。不要把整篇 KP 文章複製到個股資料夾，只萃取與該股投資論述有關的內容。
 
 ## 美股老司機 3.0
 
@@ -345,6 +345,6 @@ KOL/<新KOL名稱>/articles/
 
 並更新：
 
-- [kol_config.yaml](kol_config.yaml)
+- [kol_config.yaml](../kol_config.yaml)
 - 本文件的 KOL 專屬規則
 - `indexes/source_index.md`

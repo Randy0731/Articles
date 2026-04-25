@@ -95,6 +95,7 @@ YYYYMMDD_KOL_OR_SOURCE_title_slug_source_id.ext
 - PDF、圖片、Markdown、文字檔等實體檔案要複製到對應 `raw/`，不修改原始檔。
 - 網頁連結只記錄 URL 與抓取日期，除非另存網頁或截圖。
 - 檔案太大或權限不適合複製時，保留原始路徑，並在筆記與 `source_index.md` 標明「未複製 raw」。
+- 筆記、索引與 log 可以保留網頁 URL，但不得寫入本機絕對路徑；本機原始路徑一律集中記錄於 `private/raw_manifest.local.yaml`，該檔不得同步至 Claude 專用 repo 或公開 repo。
 
 OCR 狀態固定使用：
 
@@ -332,7 +333,7 @@ Stocks/<Ticker>/
 | 類型 | Substack 文章、Note、聊天室、研究報告、財報分析、留言討論 |
 | 發文時間 | 確切日期或推估 |
 | 整理日期 | YYYY-MM-DD |
-| raw 路徑 | raw 複本路徑、原始路徑或 URL |
+| raw 路徑 | raw 複本路徑或 URL；本機絕對路徑只放 `private/raw_manifest.local.yaml` |
 | OCR 狀態 | 不適用 / 未 OCR / 完整 / 部分 / 不可靠 |
 | 相關 ticker | 無則寫無 |
 | 主題 tags | 例如 AI infra、memory、defense、re-rate |
@@ -369,7 +370,7 @@ logs/update_log.md
 1. 讀 [kol_config.yaml](kol_config.yaml) 與 [docs/KOL_PROFILES.md](docs/KOL_PROFILES.md)。
 2. 讀 [docs/TAG_TAXONOMY.md](docs/TAG_TAXONOMY.md)，優先使用標準 tags。
 3. 建立 `source_id`，判斷 KOL、文章類型、是否為短文或長文。
-4. 複製 raw 或記錄原始路徑 / URL，標明 OCR 狀態。
+4. 複製 raw 或記錄 URL，標明 OCR 狀態；本機原始路徑只寫入 `private/raw_manifest.local.yaml`。
 5. 檢查既有筆記與索引，避免重複。
 6. 產出結構化筆記。
 7. 更新相關索引：

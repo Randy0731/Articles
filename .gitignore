@@ -13,3 +13,7 @@
 tmp/
 temp/
 *.log
+
+# Local-only source path manifests; keep out of GitHub / Claude sync
+private/*.local.*
+private/raw_manifest.local.yaml

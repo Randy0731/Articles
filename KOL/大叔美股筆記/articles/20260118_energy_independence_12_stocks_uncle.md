@@ -5,7 +5,7 @@
 - **類型**：Substack 文章 / 產業籃子 / 投資框架
 - **發文時間**：2026-01-18（Substack datePublished：19:24 UTC；台灣時間 2026-01-19 03:24；使用者 PDF 畫面顯示 Jan 19）
 - **整理日期**：2026-04-25
-- **原始檔案 / URL**：https://open.substack.com/pub/unclestocknotes/p/12?utm_campaign=post-expanded-share&utm_medium=web；`本機原始路徑見 private/raw_manifest.local.yaml（未同步）`
+- **原始檔案 / URL**：https://open.substack.com/pub/unclestocknotes/p/12?utm_campaign=post-expanded-share&utm_medium=web；本機原始路徑見 `private/raw_manifest.local.yaml`（未同步）
 - **source_id**：大叔美股筆記-20260118-energy-independence-12-stocks-805a90a9
 - **raw 路徑 / URL**：`KOL/大叔美股筆記/raw/20260118_大叔美股筆記_energy_independence_12_stocks_大叔美股筆記-20260118-energy-independence-12-stocks-805a90a9.pdf`
 - **OCR 狀態**：部分（6 頁網頁截圖 PDF，無文字層；第 1-4 頁為文章本體，第 5 頁文章收尾後進入留言 / 推薦文章，第 6 頁為頁尾；核心內容可辨識）

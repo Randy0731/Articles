@@ -5,7 +5,7 @@
 - **類型**：Substack 文章 / 資本結構分析
 - **發文時間**：2025-11-19
 - **整理日期**：2026-04-25
-- **原始檔案 / URL**：https://unclestocknotes.substack.com/p/eos-energy-enterprises-inc；`本機原始路徑見 private/raw_manifest.local.yaml（未同步）`
+- **原始檔案 / URL**：https://unclestocknotes.substack.com/p/eos-energy-enterprises-inc；本機原始路徑見 `private/raw_manifest.local.yaml`（未同步）
 - **source_id**：大叔美股筆記-20251119-eose-convertible-notes-41f42edd
 - **raw 路徑 / URL**：`KOL/大叔美股筆記/raw/20251119_大叔美股筆記_eose_convertible_notes_大叔美股筆記-20251119-eose-convertible-notes-41f42edd.pdf`
 - **OCR 狀態**：部分（PDF 為 2 頁網頁截圖，無文字層；第 1 頁主文可完整辨識，第 2 頁多為留言與推薦文章，未寫成大叔觀點）

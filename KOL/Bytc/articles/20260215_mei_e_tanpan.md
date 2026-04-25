@@ -5,7 +5,7 @@
 - **類型**：Substack 文章 / 宏觀地緣政治 / 供應鏈分析
 - **發文時間**：2026-02-15
 - **整理日期**：2026-04-25
-- **原始檔案 / URL**：https://btyc.substack.com/p/18d；`本機原始路徑見 private/raw_manifest.local.yaml（未同步）`
+- **原始檔案 / URL**：https://btyc.substack.com/p/18d；本機原始路徑見 `private/raw_manifest.local.yaml`（未同步）
 - **source_id**：Bytc-20260215-mei-e-tanpan-c4b0557f
 - **raw 路徑 / URL**：`KOL/Bytc/raw/20260215_Bytc_mei_e_tanpan_Bytc-20260215-mei-e-tanpan-c4b0557f.pdf`
 - **OCR 狀態**：部分

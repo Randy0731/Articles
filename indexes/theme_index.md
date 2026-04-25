@@ -1,6 +1,6 @@
 # Theme Index
 
-用來查詢主題、產業、宏觀脈絡與板塊。tag 優先使用 [docs/TAG_TAXONOMY.md](docs/TAG_TAXONOMY.md)。
+用來查詢主題、產業、宏觀脈絡與板塊。tag 優先使用 [docs/TAG_TAXONOMY.md](../docs/TAG_TAXONOMY.md)。
 
 ## 格式
 
