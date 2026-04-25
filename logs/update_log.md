@@ -10,6 +10,10 @@
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20250818_ApeiroMotion收購協議.md`，將本篇判定為 **ONDS** L4；重點為 Apeiro Motion 收購協議、地面機器人 / UGV、proprietary fiber optic spools、P/S 小於 1 倍併購模板與以色列防務客戶語境。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
 - 備註：本次為補入舊文；Substack metadata 顯示 2025-08-18 13:43 UTC，Note body_json 與附圖可讀，未另存 raw，OCR 狀態標「不適用」。整理日補充查詢使用 Ondas 2025-08-18 與 2025-09-18 官方新聞稿確認原公告與後續收購狀態；補充資料已標示為整理日補充，未倒寫成大叔原始觀點。本篇沒有股價目標或買賣建議。
+- 新增：補入大叔美股筆記 Facebook 貼文《**ONDS** Wåsp 初始訂單：Rift 投資與美國國防分銷模式開始驗證》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251003-ondas-wasp-rift-order-cd47f0f2`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md`，將本篇判定為 **ONDS** L4；重點為 Ondas 向 Rift Dynamics 下達首批 500 架 Wåsp 採購訂單、American Robotics 美國獨家分銷、Kitron 美國製造、NDAA / NATO 合規與大叔所說「模式開始成功」。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Facebook 截圖顯示 2025-10-03，Ondas 官方新聞稿為 2025-10-02。使用者提供截圖可讀，並以 Ondas 官方新聞稿交叉確認，OCR 狀態標「完整」。首批 500 架是 Ondas 對 Rift 的採購 / 分銷啟動訂單，不是美國政府終端採購；2025Q4 初始交付、20,000 台 / 月產能目標與 DOW program bids 均列入待確認 / 待追蹤。本篇沒有股價目標或買賣建議。
 - 新增：入庫大叔美股筆記 Substack Note《**ONDS** 完成 Mistral 合併：美軍 IDIQ 與 backlog 里程碑》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20260424-ondas-mistral-merger-f6d916b6`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md`，將本篇判定為 **ONDS** L4；重點為 Mistral 合併完成、U.S. Army / Special Operations IDIQ 合約車輛、Mistral backlog 約 `$264M`，以及調整 Mistral 與 World View 後 pro forma backlog 約 `$457M`。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
