@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Threads 短評《**ONDS** 任命 Yoav Har-Even：Rafael / Iron Dome 背景與全球國防通路》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251110-ondas-yoav-hareven-advisory-8ca2f082`。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為前 Rafael President & CEO、Iron Dome / David's Sling / Trophy 全球發展與銷售操盤手 Yoav Har-Even 加入 OAS Advisory Board，補強 **ONDS** global defense channel、產品整合、戰略夥伴與國際擴張 thesis。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Threads 截圖 1/2、2/2 可讀，OCR 狀態標「完整」。Threads 原頁外部讀取受限；Ondas 官方公告日期為 2025-11-10 且文字可讀。顧問任命、履歷與信用背書不等於訂單、defense prime partnership、revenue 或 backlog，本篇未提供股價目標或買賣建議。
 - 新增：補入大叔美股筆記 Substack Note《**ONDS** Iron Drone Raider：Securiton Germany 選為 Bundeswehr C-UAS 動能攔截方案》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251108-ondas-securiton-iron-drone-6087a62c`。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為 Securiton Germany 選擇 Iron Drone Raider 作為其向德國聯邦國防軍提供的 c-UAS 系統中的動能攔截方案，補強 **ONDS** Iron Drone Raider 在歐洲防務 / critical security pipeline 的產品驗證。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
