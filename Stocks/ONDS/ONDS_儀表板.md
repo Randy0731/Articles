@@ -1,20 +1,22 @@
 # ONDS 投資儀表板
 
-> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；補入大叔 2025-12-18 Eric Brock Form 4 / **ONDS** 解讀，屬歷史 L3 內部人 alignment 訊號，未改寫最新 Mistral 立場）
+> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md`；補入大叔 2025-12-18 Roboteam 收購完成 / **ONDS** 解讀，屬歷史 L4 空地一體與 ground robotics 里程碑，未改寫最新 Mistral 立場）
 
 ## 當前立場快照
 
-- **綜合立場**：國防 prime contractor thesis 初步成形，OAS 股權結構回收讓核心無人機平台 ownership 更清楚，Eric Brock / Privet Ventures LLC Form 4 補上管理層 alignment 訊號，DFG / PDW 補上攻擊端，Ondas Networks / dot16 鐵路通訊標準化補上第二引擎；Stifel 2025-12 研報把這些拼圖整理成 sell-side platform re-rating 框架，但仍需用 fully diluted shares、non-cash charge 拆解、backlog / orders 轉 revenue、毛利率、task order / railroad rollout 驗證。
+- **綜合立場**：國防 prime contractor thesis 初步成形，OAS 股權結構回收讓核心無人機平台 ownership 更清楚，Roboteam 補上戰術 UGV / ground robotics 與短期 revenue contribution，Eric Brock / Privet Ventures LLC Form 4 補上管理層 alignment 訊號，DFG / PDW 補上攻擊端，Ondas Networks / dot16 鐵路通訊標準化補上第二引擎；Stifel 2025-12 研報把這些拼圖整理成 sell-side platform re-rating 框架，但仍需用 fully diluted shares、non-cash charge 拆解、backlog / orders 轉 revenue、毛利率、task order / railroad rollout 驗證。
 - **大叔最新立場**：資訊分享偏多；轉述 Ondas 完成 Mistral 合併與 backlog 增加，未提供價位或操作。
 - **依據篇章**：`Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md`
 - **歷史脈絡**：`Stocks/ONDS/milestones/ONDS_里程碑_20250818_ApeiroMotion收購協議.md` 是大叔 **ONDS** 空地一體、以色列併購與 P/S 小於 1 倍併購模板的早期 L4 來源；`Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md` 建立 Rift 戰略投資、Wåsp 美國獨家分銷與可消耗無人機產品線的商業化路徑；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` 補上 `$425M` 融資、`$11.50` 機構成本與 warrants / 授權股稀釋的資本結構脈絡；`Stocks/ONDS/milestones/ONDS_里程碑_20251213_OAS股權回收與非現金費用.md` 把 OAS 子公司層級 notes / warrants / minority rights 換成母公司股本，讓 ownership 更清楚但也增加 fully diluted shares 與 Q4 non-cash charge headline risk；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_SafePro策略投資與AI視覺拼圖.md` 把 Safe Pro AI threat detection 納入 **ONDS** #垂直整合 與 #DualUse 拼圖；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_LPTH紅外熱像與BlackDiamond感測器拼圖.md` 補上 LightPath 紅外熱像 / BlackDiamond 感測器層；`Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md` 則把 4M Defense 智慧掃雷、TIP 與地下威脅辨識接到 #空地一體 / #以色列併購 thesis；`Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md` 補上 Insight SIM / AI electro-optical sensing，讓平台、感測、AI 判讀與任務行動的閉環更完整；`Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md` 補上 Sentrycs CoRF / protocol-layer C-UAS 接管層，使 Iron Drone Raider 的動能攔截前段多了非干擾、合規緩解與 25 國部署基礎；`Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md` 把 PDW C100 / FPV combat robotics 放進攻擊端，讓大叔的 **ONDS** thesis 從防禦、偵察、通訊推進到完整無人機戰場生態系；`Stocks/ONDS/milestones/ONDS_里程碑_20251208_DFG烏克蘭FPV攻擊端拼圖.md` 則把烏克蘭 DFG 的 combat-proven、低成本、可消耗 FPV / ISR / simulator 能力放入攻擊端與訓練端，但仍需 investment closing 與合規產品化；`Stocks/ONDS/milestones/ONDS_里程碑_20251202_OMB_ASDA政策牆與美國無人機合規護城河.md` 則把 OMB / ASDA / FASC-prohibited UAS 禁令接到 American Robotics、Airobotics、Optimus 與 Iron Drone Raider 的政府採購合規護城河；`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 的 2025-11-13 Q3 13F 短評，補上 BlackRock、Geode 與 Group One institutional ownership / 籌碼能見度訊號，但它只反映 2025-09-30 持倉，不等於即時買盤；2025-11-10 Yoav Har-Even 短評，補上 OAS defense channel、Rafael / Iron Dome 信用背書與 strategic partnership 人脈；2025-11-08 Securiton Germany 短評，補上 Iron Drone Raider 在德國 / Bundeswehr c-UAS solution 中的歐洲 integrator selection 訊號；同日美軍 100 萬架無人機採購短評，則將 Sentrycs C-UAS、mission-critical wireless 與美國本土 autonomous systems 供應鏈放進更大的 Army attritable drone 採購背景。
 - **本次補入的歷史研報**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔整理 Stifel 初評 **ONDS** Buy / `$13` 分析師目標價，核心是國防無人機十年滲透、platform integrator / acquisition flywheel 與 2030 `$1B` revenue、20% EBITDA margin 模型；`$13` 不是大叔自身目標價，且整理日需注意後續 sell-side target 已變動。
+- **本次補入的 Roboteam 里程碑**：`Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md` 顯示大叔解讀 **ONDS** 完成 Roboteam 收購為 air + ground autonomy 拼圖補齊；SEC 8-K 披露 cash purchase price 約 `$81.7M`，官方曾預期 Roboteam 2026 revenue 至少 `$30M`，整理日補充 2025 Form 10-K 顯示收購後 revenue `$7M`、net income `$3.6M`。這是 revenue / integration 里程碑，不是股價目標或操作。
 - **本次補入的 Form 4 補充**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔解讀 Eric Brock / Privet Ventures LLC Form 4：1,153,625 股、`$8.07`、transaction code `J`，屬 OAS exchange 相關 other acquisition；這是管理層 alignment 訊號，不是公開市場現金買入、買點或目標價。
 
 ## 關鍵價位追蹤
 
 | 來源 | 目標價 | 停損 / 支撐 | 提出時間 | 出處篇章 |
 |---|---|---|---|---|
+| Roboteam 收購（大叔 2025-12-18 解讀） | 無；`$81.7M` 為 Roboteam 收購現金對價，不是股價目標、買點或支撐 | 官方 2025-11-25 曾預期 Roboteam 2025Q4 revenue `$3M-$4M`、2026 至少 `$30M`；需追毛利與現金轉換 | 2025-12-18 | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md` |
 | SEC Form 4 / Eric Brock（大叔 2025-12-18 解讀） | 無；`$8.07` 為 OAS exchange / Form 4 transaction price，不是目標價、買點或支撐 | 1,153,625 股為 Privet Ventures LLC indirect ownership 申報數；transaction code `J` 不是公開市場現金買入 | 2025-12-18 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Stifel / 2025-12-15 初評（大叔 2025-12-17 研報解讀） | `$13` 為 Stifel 分析師目標價，基於 2030 `$1B` revenue、20% EBITDA margin 與 35x EBITDA multiple 折現；非大叔自身目標價或本專案建議 | 研報截圖 price `$8.75` 為 2025-12-12 事件價位，不是買點 | 2025-12-17 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | 大叔 / 2025-11-21 PDW 投資文 | `$30-$32` 為大叔在 `$10B` 市值、5x PS 情境下的估值推演；非本專案目標價或買賣建議 | 未提供 | 2025-11-21 | `Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md` |
@@ -40,6 +42,7 @@
 | 問題 | 提出時間 | 等待事件 / 數據 | 出處篇章 | 狀態 |
 |---|---|---|---|---|
 | Mistral / World View 併購後 backlog 能否轉成收入與毛利？ | 2026-04-26 | task order、10-Q revenue、gross margin、cash conversion | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` | 待追蹤 |
+| Roboteam UGV / ground robotics 能否把 air + ground thesis 轉成 revenue、毛利與可售系統？ | 2026-04-26 | 2026 revenue 是否接近至少 `$30M` expectation、`$20M+` orders fulfillment、OAS / Mistral / Sentrycs product bundle、gross margin、operating cash flow、goodwill / intangible amortization | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md` | 待追蹤 |
 | Eric Brock / Privet Ventures LLC Form 4 的 alignment 訊號，能否和 OAS execution 同向？ | 2026-04-26 | Sentrycs 整合、PDW、Blue UAS 採購節奏、RoboTeam / OAS contribution、revenue、gross margin、fully diluted shares | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | Stifel 2030 `$1B` revenue / 20% EBITDA margin 模型能否被 2026-2027 revenue ramp 與 fully diluted shares 支撐？ | 2026-04-26 | 2026 / 2027 revenue、OAS / Mistral revenue contribution、EBITDA、gross margin、shares outstanding、warrant exercise | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | OAS exchange 後的 fully diluted shares、99% ownership 與 Q4 non-cash charge 如何影響財報解讀？ | 2026-04-26 | 2025Q4 / FY2025 earnings release、cash flow statement、shares outstanding、OAS ownership、adjusted EBITDA reconciliation | `Stocks/ONDS/milestones/ONDS_里程碑_20251213_OAS股權回收與非現金費用.md` | 待追蹤 |
@@ -71,6 +74,7 @@
 | 風險 | 追蹤強度 | 觸發條件 | 觀察指標 | 出處篇章 |
 |---|---|---|---|---|
 | IDIQ 合約車輛不等於保證採購 | 高 | 沒有具體 task order、交付或收入認列 | task order、8-K、10-Q backlog 轉 revenue | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
+| Roboteam 現金收購被過度解讀為 free cash flow 已改善 | 高 | 市場把 revenue / net income 或大叔「立刻有現金流」語句直接寫成自由現金流已兌現 | operating cash flow、working capital、inventory、deferred revenue、gross margin、purchase accounting、goodwill impairment | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md` |
 | Eric Brock Form 4 被誤讀為公開市場 CEO 現金買入 | 高 | 查詢時忽略 transaction code `J`、OAS exchange 註腳與 indirect ownership through Privet Ventures LLC | SEC Form 4 code / footnote、8-K Exchange Agreement、direct / indirect ownership、shares outstanding | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Stifel `$13` 分析師目標價被誤讀為大叔自身目標價或本專案建議 | 高 | 查詢時把外部賣方 target 寫成 KOL target、買點或最新 target | Stifel target revision、後續大叔自身估值、公司 guidance、現價與估值假設 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | 2030 `$1B` revenue / 20% EBITDA margin 模型過度前置 | 高 | 市場先給 platform re-rating，但 2026-2027 revenue、margin、cash flow 或 fully diluted shares 未支撐 | revenue、backlog conversion、gross margin、EBITDA、cash burn、shares outstanding | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
@@ -99,11 +103,12 @@
 | 併購整合與成本控制 | 中 | Mistral、World View 與 OAS 平台整合拖慢交付或拉高費用 | 毛利率、OPEX、整合費用、管理層更新 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 | RSU / 併購對價與後續融資稀釋 | 中 | 股權激勵、併購對價或現金需求推升股本 | shares outstanding、RSU vesting、S-8 / 10-Q、現金餘額 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 
-## 持倉判斷依據（最近 16 篇關鍵筆記）
+## 持倉判斷依據（最近 17 篇關鍵筆記）
 
 | 篇章 | 日期 | 一句話結論 | 權重 |
 |---|---|---|---|
 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` | 2026-04-24 | Mistral 合併完成讓 **ONDS** 取得美軍 IDIQ 合約車輛、國內製造整合能力與約 `$457M` pro forma backlog，是 ONDS defense prime thesis 的第一個核心里程碑。 | 高 |
+| `Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md` | 2025-12-18 | Roboteam 100% 現金收購完成，補上 **ONDS** 戰術 UGV / ground robotics 與 air + ground autonomy thesis；但 `$81.7M` 對價需用 2026 revenue、毛利、現金流與整合結果驗證。 | 高 |
 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 2025-12-18 | Eric Brock / Privet Ventures LLC Form 4 顯示 1,153,625 股、`$8.07`、transaction code `J`，大叔解讀為 OAS 權益換成母公司普通股的管理層 alignment 訊號；但這不是公開市場現金買入。 | 中高 |
 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 2025-12-17 | Stifel 初評 Buy / `$13` 分析師目標價，將 **ONDS** 包裝成國防無人機十年滲透與 platform integrator re-rating 框架；但 target 屬外部賣方，仍需 revenue、margin 與股數驗證。 | 中高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251213_OAS股權回收與非現金費用.md` | 2025-12-13 | OAS exchange 將子公司 notes / warrants / minority rights 換成 ONDS 母公司股票，改善 ownership / governance clarity，但帶來新股稀釋與 2025Q4 non-cash charge headline risk。 | 高 |

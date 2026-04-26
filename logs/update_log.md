@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack Note《**ONDS** 完成 Roboteam 收購：空中 + 地面 autonomy 拼圖補齊》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251218-ondas-roboteam-acquisition-complete-56d775ee`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md`，將本篇判定為 **ONDS** L4；重點為 Ondas 完成 Robo-Team / Roboteam 100% 收購、約 `$81.7M` 現金對價、UGV / ground robotics 補上 air + ground autonomy 拼圖。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack Note 文字可讀，OCR 狀態標「不適用」。官方 2025-11-25 公告預期 Roboteam 2025Q4 revenue `$3M-$4M`、2026 至少 `$30M`；SEC 2025 Form 10-K 整理日補充顯示收購後 revenue `$7M`、net income `$3.6M`。本篇未提供股價目標或操作，後續需追 revenue quality、gross margin、cash conversion、goodwill / intangible amortization 與 OAS integration。
 - 新增：補入大叔美股筆記 Facebook 短評《**ONDS** CEO Eric Brock Form 4：OAS 權益換成母公司普通股》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251218-ondas-eric-brock-form4-oas-exchange-7ef911b0`。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為 SEC Form 4 顯示 Eric Brock / Privet Ventures LLC 申報 1,153,625 股、`$8.07`、transaction code `J`，註腳稱係依 OAS / ONDS Exchange Agreement 取得。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
