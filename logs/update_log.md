@@ -2,6 +2,11 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-02-20（推估）Facebook 短評《Cantor Fitzgerald 2025Q4 13F：Howard Lutnick 相關持倉、**ONDS** 新倉與 **INTC** / **ORCL** 高成本觀察》，source_id 為 `大叔美股筆記-20260220-cantor-fitzgerald-q4-13f-lutnick-1eee358e`。
+- 新增：建立 `Stocks/INTC/quarterly/INTC_筆記_2026Q1.md`，並追加 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`；將 **ONDS** 判定為 L2 ownership / holder-base signal，**INTC** 判定為 L2 institutional-cost / FOMO observation，其餘 ticker 以 ticker index 記錄。
+- 更新：同步更新 KOL 主筆記、ONDS / INTC index 與 dashboard、source/ticker/theme/catalyst indexes。
+- 備註：Facebook 截圖與整理表核心可讀；SEC 交叉核對 Cantor Fitzgerald, L.P. 2025Q4 13F-HR（report date 2025-12-31, filing date 2026-02-17）確認 ONDS `365,750` 股、INTC common `2,555,851` 股等。表格「預估平均成本」為第三方估算，不是 SEC 13F 原生欄位 / cost basis；13F 是延遲 snapshot，不是即時買盤、官方合作、政府案、order、revenue 或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-02-19 Threads 轉貼《**ONDS** Q4 ownership final update：機構與內部人合計 `61.64%` 轉貼》，source_id 為 `大叔美股筆記-20260219-ondas-q4-ownership-61-64-bmsinvests-1ba46a26`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將 **ONDS** 判定為 L2 ownership / 籌碼訊號；同步更新 ONDS index / dashboard、source/ticker/theme/catalyst indexes。
 - 備註：使用者提供 Threads 截圖與資訊圖，核心數字可讀；BMSInvests X snowflake 對應 2026-02-19 台灣時間。`61.64%` / `261,457,279` shares / Q3 `52.3%` 為第三方 aggregate estimate，13F/G/D methodology 未逐筆重算；1/12 `19,000,000` shares issued 是稀釋 / 股本分母語境，不是即時買盤、成本價、訂單、revenue、backlog 或買賣建議。
