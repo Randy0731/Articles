@@ -6,6 +6,8 @@
 
 | 主題 tag | 日期 | KOL / 來源 | 標題 | 核心觀點 | 相關 ticker | 框架 / 催化劑 | 筆記檔 |
 |---|---|---|---|---|---|---|---|
+| #機構洗盤 | 2025-10-21 | 未具名投資社群 / 使用者 Notion 摘要 | **ONDS** / **PLTR** 窒息量洗盤框架 | A 以 **ONDS** 日 K / 成交量提出 1500-2000 萬股、連續 3-5 天不破底的窒息量條件，B 用 **PLTR** 25%-30% 回檔後打底作歷史類比；本專案標為技術面觀察，不是買點或底部確認 | **ONDS**, **PLTR** | 窒息量；MA200；25%-30% washout；PLTR 類比 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
+| #投資與投機 | 2025-10-21 | 未具名投資社群 / 使用者 Notion 摘要 | **ONDS** 快速洗盤與時間壓力 | 對話把 C-UAS / 國防 AI / 世界盃 / 奧運等時間節點視為可能縮短洗盤期的變數；仍需用量價與基本面消息驗證 | **ONDS** | 快速洗盤三部曲；時間壓力；放量紅 K | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | #NATO佈局 | 2025-10-19 | 大叔美股筆記 / 使用者 Notion 摘要 | **ONDS** 北約市場分析 | 大叔把 **ONDS** 的 C-UAS / autonomous systems thesis 從美國 critical infrastructure 外推到 NATO 32 國與 allied defense procurement，並以 Rift / Wåsp、James Acuna、Iron Drone Raider 歐洲訂單作支柱 | **ONDS** | NATO market；Rift / Wåsp；Iron Drone Raider；James Acuna；allied tenders | `KOL/大叔美股筆記/notes/大叔美股筆記.md`；`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | #ReRating | 2025-10-19 | 大叔美股筆記 / 使用者 Notion 摘要 | **ONDS** C-UAS 國安處女地與 `$20` 情境價 | 大叔將 C-UAS 視為國安驅動的早期市場，保存 `$20` 作為 bullish scenario / options discussion anchor；本專案標明不是正式目標價或建議 | **ONDS** | C-UAS TAM；NATO 外推；`$20` 情境價；options discussion | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；`Stocks/ONDS/ONDS_儀表板.md` |
 | #估值風險 | 2025-10-19 | 大叔美股筆記 / 使用者 Notion 摘要 | `$20` 情境價、2027 / 2028 calls 與 40% 利潤假設 | 2027 / 2028 calls、strike 15-17 屬高風險 options discussion；4,000 據點 * 3 套 * `$100K` 與 40% 利潤均為粗估假設，不可寫成 revenue、guidance 或買賣建議 | **ONDS** | options risk、TAM math、margin assumption、fully diluted shares | `KOL/大叔美股筆記/notes/大叔美股筆記.md`；`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；`Stocks/ONDS/ONDS_儀表板.md` |

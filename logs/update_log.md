@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入使用者 Notion 摘要《**ONDS** / **PLTR** 軍工洗盤模式：窒息量、25%-30% 回檔與 MA200》，source_id 為 `Notion-20251021-onds-pltr-washout-pattern-40c22157`。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將 **ONDS** 判定為 L3 技術面紀錄；**PLTR** 僅作 L1 歷史類比，不建立 `Stocks/PLTR/`。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`。
+- 備註：未提供原始聊天室頁碼，且 A / B 為未具名投資社群成員；本次不歸入大叔或 Lawrence。`$6` 是當時 MA200 / 技術回測位，1500-2000 萬股是窒息量門檻，25%-30% 是 PLTR 類比 / 洗盤假設，均不是買點、目標價、底部確認或買賣建議。
 - 新增：補入使用者 Notion 摘要《**ONDS** 北約市場分析：C-UAS 國安處女地、Patrick Huston 與 `$20` 情境價》，source_id 為 `Notion-20251019-ondas-nato-market-analysis-9e6fe5a8`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；將本篇判定為 **ONDS** L3 NATO market / C-UAS valuation framework，重點為美國 4,000 據點範例、NATO 32 國外推、Patrick Huston strategic capital、Rift / Wåsp、James Acuna 與 Iron Drone Raider 歐洲訂單。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`。
