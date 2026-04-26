@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack 付費文章《X上的神仙打架：當華爾街的「期權數學」槓上 ONDS 的「實業硬漢」，誰在說謊？》，建立 `KOL/大叔美股筆記/articles/20260111_x_onds_warrant_arbitrage_uncle.md`，source_id 為 `大叔美股筆記-20260111-x-onds-warrant-arbitrage-92b643d4`。
+- 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260111_大叔美股筆記_x_onds_warrant_arbitrage_大叔美股筆記-20260111-x-onds-warrant-arbitrage-92b643d4.pdf`；PDF 為 4 頁 image-only 截圖，p.1-p.3 為核心正文 / 結論，p.4 為推薦文章 / footer，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
+- 更新：同步更新 `KOL/大叔美股筆記/notes/大叔美股筆記.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260110_SEC文件毒債清除與28權證.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。
+- 備註：本文判定為既有 2026-01-10 SEC 文件 / `$28` 權證 L4 里程碑的補充，不另開重複里程碑。大叔反駁 Andy Constan `$1.22` warrant cost / `$5.55` Jan 28 `$30` call premium 套利模型，認為 **ONDS** options liquidity 與執行摩擦不足，並把 `$16.45` financing 視為 M&A / capacity expansion fuel；`$30` 是 call strike，不是目標價、買點或買賣建議，後續仍追 options OI、short interest、warrant exercise、fully diluted shares、use of proceeds 與 1/14 / 1/16 disclosure。
 - 新增：補入大叔美股筆記 2026-01-09 Facebook 短評《**ONDS** IMOD 邊境安全主承包商：Drone Hive 與 Battle-tested in Israel 敘事》，source_id 為 `大叔美股筆記-20260109-ondas-imod-border-security-prime-contractor-3f943803`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，判定 **ONDS** L3；同步補充既有 `Stocks/ONDS/milestones/ONDS_里程碑_20251203_政府邊境防護標案與OAS主承包商.md`，不另開重複 L4。
 - 備註：IsraelDefense 原文整理日受 Cloudflare 限制，使用者提供 Facebook 截圖可讀；本篇把 IMOD / Drone Hive / battle-tested in Israel 記為媒體與 KOL 語境，不寫成新金額、已認列 revenue、Pentagon 合約或買賣建議。
