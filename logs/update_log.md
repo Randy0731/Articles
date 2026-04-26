@@ -2,6 +2,11 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack 付費文章《#ONDS 估值模型全拆解》，建立 `KOL/大叔美股筆記/articles/20260118_onds_valuation_model_uncle.md`，source_id 為 `大叔美股筆記-20260118-onds-valuation-model-82f-fe62dde1`。
+- 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260118_大叔美股筆記_onds_valuation_model_大叔美股筆記-20260118-onds-valuation-model-82f-fe62dde1.pdf`；PDF 為 6 頁 image-only 截圖，p.1-p.4 為核心正文，p.5-p.6 為留言 / 推薦文章，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260118_投資者日估值模型與14_25公允價值.md`，將本篇判定為 **ONDS** L4；重點為大叔用 OAS Investor Day `$170M-$180M` 2026 revenue target、`$65.3M` backlog、`$1.5B+` pro forma cash、2030 `$1.5B+` revenue / 30% EBITDA 推導 `$14.25` 風險調整合理值。
+- 更新：同步更新 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 文章索引、`Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md` 與 `private/raw_manifest.local.yaml`。
+- 備註：官方 Ondas 2026-01-16 Investor Day PR 確認 2026 target `$170M-$180M`、backlog `$65.3M`、pro forma cash `$1.5B+`；官方 deck p.59 確認 2030 `$1.5B+` revenue、30% EBITDA margin 與 `$15+B market cap` path。`$14.25` 是大叔用 20x EV/EBITDA、15% discount rate、4 億 fully diluted shares 等假設推導的 KOL DCF，不是公司 guidance、券商目標價、買點或本專案買賣建議；DDP / Initial DoW orders、2026Q3 EBITDA+、warrants / dilution 與 cash burn 均列入後續追蹤。
 - 新增：補入大叔美股筆記 Substack 付費文章《內部備忘錄：#ONDS SEC 文件揭密》，建立 `KOL/大叔美股筆記/articles/20260110_onds_sec_filing_death_spiral_uncle.md`，source_id 為 `大叔美股筆記-20260110-onds-sec-filing-death-spiral-c75ee6d8`。
 - 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260110_大叔美股筆記_onds_sec_filing_death_spiral_大叔美股筆記-20260110-onds-sec-filing-death-spiral-c75ee6d8.pdf`；PDF 為 8 頁 image-only 截圖，p.1-p.5 為正文與官方文件，p.6-p.8 為留言 / 推薦文章，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260110_SEC文件毒債清除與28權證.md`，將本篇判定為 **ONDS** L4；重點為大叔把 2025/10 後賣壓歸因於 2022-2024 舊可轉債 reset / acceleration overhang，並用 2025-07-18 all convertible notes retired 與 2026-01-09 `$16.45` / `$28` financing 推論新機構 alignment。
