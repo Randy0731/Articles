@@ -2,6 +2,10 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-02-19 Facebook 短評《**ONDS** Calcalist：Aeronautics / mPrest / Rafael 人才流動與以色列國防審查風險》，source_id 為 `大叔美股筆記-20260219-ondas-aeronautics-rafael-mprest-calcalist-b81272b5`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將 **ONDS** 判定為 L3 media-reported Israeli defense M&A optionality；同步更新 ONDS index / dashboard、source/ticker/theme/catalyst indexes。
+- 備註：Facebook 截圖與資訊圖可讀；Calcalist 原文可交叉確認 reported acquisition talks / Rafael executive migration / national-security concern，且同篇記錄 Rafael 對 board discussion / compensation 等事項的否認或限定說法。Aeronautics / Controp / mPrest are not signed/closed deals; no official ONDS PR/8-K/revenue/backlog; not buy-sell advice.
+
 - 新增：補入大叔美股筆記 2026-02-17 Facebook 短評《**ONDS** Sentrycs 德國州警空域防護合約與 Scout 便攜式 C-UAS》，source_id 為 `大叔美股筆記-20260217-ondas-sentrycs-german-police-contract-426507f3`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260217_Sentrycs德國州警空域防護合約.md`，判定 **ONDS** L4；同步追加 KOL 主筆記與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`。
 - 更新：同步更新 ONDS index / dashboard、source/ticker/theme/catalyst indexes。
