@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack 文章《ONDS 財報解析：需求與技術都是真的》，建立 `KOL/大叔美股筆記/articles/20260326_onds_earnings_call_q2_check_uncle.md`，source_id 為 `大叔美股筆記-20260326-onds-earnings-call-q2-check-3d15794f`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260326_財報法說會中立評估與Q2執行檢核.md`，將本篇判定為 **ONDS** L4；重點為大叔在 FY2025 財報 / 法說會後承認產品與需求真實，但把驗證門檻轉為 Q2 / H2 revenue ramp、Mistral closing、PMI、warrants / fully diluted shares、cash burn 與 adjusted EBITDA。
+- 更新：同步更新 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 文章索引、`Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260324_FY2025財報與2026_375M指引.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md` 與 `indexes/catalyst_index.md`；**PLTR** 僅作 Palantir AIP / Warp Speed / Maven / C2 供應商 L1 提及，不建立 `Stocks/PLTR/`。
+- 備註：Substack HTML 正文可讀，未另存 raw，OCR 狀態標「不適用」；已用 Ondas 2026-03-23 FY2025 官方 release 交叉確認 revenue、backlog、cash / pro forma cash、warrant non-cash charge 與 profitability roadmap。`$10` 為文章當時估值語境，`$11-$12` / `$15` 為低成本持有者風險報酬檢視語境，不是本專案目標價、停利或買賣建議。
 - 新增：補入大叔美股筆記 Substack 付費文章《#ONDS 提前公布2025年第四季及全年財務業績》，建立 `KOL/大叔美股筆記/articles/20260324_onds_fy2025_results_uncle.md`，source_id 為 `大叔美股筆記-20260324-ondas-fy2025-results-e7b02a05`。
 - 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260324_大叔美股筆記_ondas_fy2025_results_大叔美股筆記-20260324-ondas-fy2025-results-e7b02a05.pdf`；PDF 為 7 頁 image-only 截圖，p.1-p.5 為核心正文，p.6 為免責聲明 / 留言，p.7 為推薦文章 / footer，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260324_FY2025財報與2026_375M指引.md`，將本篇判定為 **ONDS** L4；重點為大叔拆解 FY2025 release：Q4 revenue `$30.1M`、FY2025 revenue `$50.7M`、OAS FY2025 revenue `$49.7M` / +840%、OAS backlog `$68.3M`、2026 revenue target 至少 `$375M`、Q1 target `$38M-$40M`、pro forma cash 約 `$1.55B`、Q4 `$82.2M` warrant liability non-cash charge 與 profitability roadmap。
