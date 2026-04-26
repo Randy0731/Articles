@@ -2,6 +2,11 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-03-01（推估）Facebook 短評《LUCAS 首次實戰：低成本單向攻擊無人機與 **ONDS** C-UAS 需求》，source_id 為 `大叔美股筆記-20260301-lucas-combat-use-cuas-demand-e862a228`。
+- 更新：同步追加 KOL 主筆記與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將 **ONDS** 判定為 L2 C-UAS demand / drone-war macro signal；**RCAT**、**DPRO**、**KTOS** 以 ticker + watchlist 記錄，**PLTR** 以 ticker index 記錄。
+- 更新：同步更新 ONDS index / dashboard、source/ticker/theme/catalyst/watchlist indexes。
+- 備註：Military Times 2026-02-28 報導支撐 LUCAS first combat-use 與約 `$35,000` unit-cost framing；大叔對 RCAT / DPRO / KTOS / PLTR / ONDS 的連結屬 KOL 外推。LUCAS 是 one-way attack drone 事件，不是 **ONDS** 訂單、backlog、revenue，也不是 listed companies award 或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-02-20（推估）Facebook 短評《Cantor Fitzgerald 2025Q4 13F：Howard Lutnick 相關持倉、**ONDS** 新倉與 **INTC** / **ORCL** 高成本觀察》，source_id 為 `大叔美股筆記-20260220-cantor-fitzgerald-q4-13f-lutnick-1eee358e`。
 - 新增：建立 `Stocks/INTC/quarterly/INTC_筆記_2026Q1.md`，並追加 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`；將 **ONDS** 判定為 L2 ownership / holder-base signal，**INTC** 判定為 L2 institutional-cost / FOMO observation，其餘 ticker 以 ticker index 記錄。
 - 更新：同步更新 KOL 主筆記、ONDS / INTC index 與 dashboard、source/ticker/theme/catalyst indexes。
