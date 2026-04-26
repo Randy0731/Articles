@@ -2,6 +2,11 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-02-09 Substack 付費文《**ONDS** 4M Defense `$3000萬+` 以色列-敘利亞邊境智慧掃雷合約》，source_id 為 `大叔美股筆記-20260209-ondas-4m-defense-30m-demining-israel-efcefd83`。
+- 新增：建立 `KOL/大叔美股筆記/articles/20260209_onds_4m_demining_30m_uncle.md` 與 `Stocks/ONDS/milestones/ONDS_里程碑_20260209_4MDefense以色列3000萬美元掃雷合約.md`，判定 **ONDS** L4；已複製 PDF raw 至 `KOL/大叔美股筆記/raw/20260209_大叔美股筆記_ondas_3000_大叔美股筆記-20260209-ondas-4m-defense-30m-demining-israel-efcefd83.pdf`，OCR 狀態「部分」。
+- 更新：同步更新 KOL 主筆記索引、4M acquisition 母里程碑、ONDS index / dashboard、source/ticker/theme/catalyst indexes 與 private raw manifest。
+- 備註：PDF 3 頁 image-only，p.1-p.2 核心正文，p.3 留言 / footer；官方確認 4M Defense won tender valued over `$30M`, covers ~741 acres, initial execution up to 3 years with options。`$30M+` not target/revenue recognized/Ukraine order/buy-sell advice.
+
 - 新增：補入大叔美股筆記 2026-02-08 X 短評《**ONDS** Jane Street 13G/A 減持與 Vanguard 13G：機構 ownership 換手訊號》，source_id 為 `大叔美股筆記-20260208-ondas-jane-street-vanguard-13g-e1449e34`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。
 - 備註：使用者提供 X / Fintel 截圖可讀；整理者以 SEC 13G / 13G-A 交叉核對 Jane Street 19,596,582 -> 11,475,382（-41.44%）、Vanguard 18,767,157、Goldman Sachs 18,980,633.51、Hood River 16,101,140。13G / 13G-A 是延遲 ownership snapshot，不是即時買賣；Jane Street 仍持有 11.48M 股；Vanguard 18.8M 不可寫成當日新增或成本價；本篇不是訂單、revenue、backlog 或買賣建議。
