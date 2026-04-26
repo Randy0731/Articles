@@ -2,7 +2,7 @@
 
 - **來源 KOL**：大叔美股筆記
 - **原文主整理**：`KOL/大叔美股筆記/notes/大叔美股筆記.md`
-- **原始來源**：https://substack.com/@unclestocknotes/note/c-189068939；https://ir.ondas.com/press-releases/detail/264/ondas-completes-acquisition-of-roboteam-a-global-leader-in；https://www.sec.gov/Archives/edgar/data/1646188/000121390025122848/ea0270093-8k_ondas.htm；https://ir.ondas.com/press-releases/detail/258/ondas-to-acquire-roboteam-expanding-market-footprint-and；https://www.sec.gov/Archives/edgar/data/1646188/000121390026035981/ea0282911-10k_ondas.htm
+- **原始來源**：https://substack.com/@unclestocknotes/note/c-189068939；https://www.facebook.com/Unclestocknotess/posts/pfbid02ieiMqQXgTnV3EUh3mqaHb4hNiH1n84LrAhsqz1CLxT8gqKb1MQH5JFAsQDFx7VQwl；https://ir.ondas.com/press-releases/detail/264/ondas-completes-acquisition-of-roboteam-a-global-leader-in；https://www.sec.gov/Archives/edgar/data/1646188/000121390025122848/ea0270093-8k_ondas.htm；https://ir.ondas.com/press-releases/detail/258/ondas-to-acquire-roboteam-expanding-market-footprint-and；https://www.sec.gov/Archives/edgar/data/1646188/000121390026035981/ea0282911-10k_ondas.htm
 - **source_id**：大叔美股筆記-20251218-ondas-roboteam-acquisition-complete-56d775ee
 - **raw 路徑 / URL**：URL（未另存 raw）
 - **OCR 狀態**：不適用
@@ -36,6 +36,7 @@
 | 現金對價 | 收購價約 `$81.7M` cash | 2025-12-17 | SEC 8-K | 不是股價目標或買點 |
 | revenue expectation | Roboteam 預期 2025Q4 貢獻 `$3M-$4M` revenue、2026 至少 `$30M` revenue | 2025-11-25 公告 | Ondas 官方 | Forward-looking，需要後續 10-Q / 10-K 驗證 |
 | orders | 既有主要軍方客戶超過 `$20M` orders，預計 2026 履行 | 2025-11-25 公告 | Ondas 官方 | 需追 delivery、revenue recognition、gross margin |
+| 研報補充 | Oppenheimer 2025-12-01 company update 將 Roboteam 收購解讀為 highly synergistic air + ground autonomy deal，維持 **ONDS** Outperform / `$12` target | 2025-12-03 大叔轉述 | 大叔 Facebook / Oppenheimer 單頁截圖 | 補充 source_id：`大叔美股筆記-20251203-ondas-oppenheimer-roboteam-99a4b6fb`；`$12` 是外部分析師 target，不是本里程碑或大叔自身目標價 |
 | 整理日補充 | Robo-Team 自收購日後認列 revenue `$7M`、net income `$3.6M` | 2025 Form 10-K | SEC 10-K | 支撐短期 revenue contribution，但仍需拆現金流與毛利品質 |
 
 ### 風險表

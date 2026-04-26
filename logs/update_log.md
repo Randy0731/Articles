@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 2025-12-03 Facebook 短評《**ONDS** Oppenheimer Roboteam 收購報告：`$80M` 現金交易與空地一體整合》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251203-ondas-oppenheimer-roboteam-99a4b6fb`。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為大叔轉述 Oppenheimer 2025-12-01 company update《Acquiring Roboteam: Highly Synergistic Deal》，維持 Outperform / `$12` target，並把 Roboteam 收購解讀為 air + ground autonomy synergy。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Facebook 截圖完整可讀，Oppenheimer report 只有使用者提供的單頁截圖，OCR 狀態標「部分」。`$12` 是 Oppenheimer 分析師目標價，不是大叔自身目標價、買點或買賣建議；`$80M` / 約 `$81.7M` 是 Roboteam 收購對價，不是股價支撐。Oppenheimer 對 Roboteam 2026 近 `$40M` / 2027 `$80M+` revenue model 屬外部分析師假設，官方 2025-11-25 公告只確認 2026 revenue 至少 `$30M` expectation 與 `$20M+` existing major customer orders，後續仍需用 revenue、gross margin、operating cash flow 與 purchase accounting 驗證。
 - 新增：補入大叔美股筆記 2025-12-03 Threads 短評《**ONDS** 贏得政府邊境防護標案：OAS 主承包商與數千架無人機系統》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251203-ondas-border-protection-tender-bf1e0fdf`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251203_政府邊境防護標案與OAS主承包商.md`，將本篇判定為 **ONDS** L4；重點為 OAS 被選為 major governmental entity autonomous border-protection program 主承包商，標案涉及數千架 autonomous drones、persistent ISR、swarm-based response、automated threat mitigation 與 centralized C2。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。

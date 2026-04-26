@@ -1,6 +1,6 @@
 # ONDS 投資儀表板
 
-> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/milestones/ONDS_里程碑_20251203_政府邊境防護標案與OAS主承包商.md`；補入大叔 2025-12-03 **ONDS** 政府邊境防護標案短評，未改寫最新 Mistral 立場）
+> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；補入大叔 2025-12-03 **ONDS** Oppenheimer Roboteam 收購報告短評，未改寫最新 Mistral 立場）
 
 ## 當前立場快照
 
@@ -11,6 +11,7 @@
 - **本次補入的溢價募資初評**：`Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` 補上大叔 2025-10-06 Substack：大叔把 `$425M` above-market offering 解讀為市場信任票，認為資金讓 Wåsp 生產、供應鏈、政府標案與 M&A / JV / strategic investments 進入可執行階段；但 `$11.50` 是 offering price、`$20` 是 common warrant exercise price，皆不是目標價或買點。
 - **本次補入的平台總論**：`Stocks/ONDS/milestones/ONDS_里程碑_20251103_國防自主系統平台總論.md` 顯示大叔在 2025-11-03 已把 **ONDS** 2025 併購拼圖整理成觀察、理解、行動、連接四層 systems-of-systems 框架；這是後續 Sentrycs、PDW、DFG、Roboteam、Mistral 的母框架，但也把最大風險鎖定在整合、財務驗證、授權股 / warrant 稀釋與跨國供應鏈。
 - **本次補入的政府邊境防護標案**：`Stocks/ONDS/milestones/ONDS_里程碑_20251203_政府邊境防護標案與OAS主承包商.md` 顯示大叔把 OAS 被選為 autonomous border-protection system 主承包商，解讀為 **ONDS** defense prime / system integrator thesis 的重要驗證；整理日補充 Ondas 2026-03-04 官方確認 Airobotics 收到該 tender 底下 `$20M` initial purchase order。這是 initial stage，完整多年度 program 仍需用 follow-on orders、deployment、revenue、gross margin 與 cash collection 驗證。
+- **本次補入的 Oppenheimer Roboteam 收購報告**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔轉述 Oppenheimer 2025-12-01 company update：維持 Outperform / `$12` target，將約 `$80M` Roboteam 全現金收購解讀為 highly synergistic air + ground autonomy deal。這是 Roboteam 交易的 sell-side validation，不是新 L4 事件；`$12` 是外部分析師目標價，Oppenheimer 2026 近 `$40M` / 2027 `$80M+` Roboteam revenue model 需後續財報驗證。
 - **本次補入的 Q3 財報長文**：`Stocks/ONDS/milestones/ONDS_里程碑_20251115_Q3財報與2026營收指引.md` 顯示大叔把 2025Q3 `$10.1M` revenue、OAS 約 96% 佔比、FY2025 至少 `$36M` 與 FY2026 初步至少 `$110M` 指引解讀為 **ONDS** revenue inflection；整理日需按官方資料校準 cash / restricted cash 約 `$433.4M`、10 月 offering 後 pro forma cash 約 `$840.4M`，且文中 `$25-$30` DCF 是 KOL 情境不是建議。
 - **本次補入的 Maxim 研報短評**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔轉述 Maxim Group 2025-11-14 報告：Buy 維持、目標價從 `$5` 上調至 `$10`。本篇的重點是把 Q3 revenue beat、post-offering cash 約 `$840.4M`、FY2026 至少 `$110M` 指引與 M&A / platform thesis 接成外部 sell-side re-rating；`$10` 是 Maxim 分析師目標價，不是大叔自身目標價，且 Facebook 轉述 2027 revenue `$481M` 與可視 report 表格 2027E CY `$237.2M` 需待完整原報告校準。
 - **本次補入的 Oppenheimer 升評短評**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔轉述 Oppenheimer 2025-11-14 rating change：從 Perform 升至 Outperform，12-18 個月分析師目標價 `$12`。Oppenheimer 將 **ONDS** 定位為 lower skies / C-UAS open drone platform，報告截圖列出 pro forma cash `$840M`、OAS backlog `$22.2M`、2027 C-UAS TAM `$10.5B` 與 2030 `~$1B` revenue path；大叔同篇明確提醒「記得要獲利」，所以這是外部背書加上獲利 / 風險紀律提醒。
@@ -29,6 +30,7 @@
 | Roboteam 收購（大叔 2025-12-18 解讀） | 無；`$81.7M` 為 Roboteam 收購現金對價，不是股價目標、買點或支撐 | 官方 2025-11-25 曾預期 Roboteam 2025Q4 revenue `$3M-$4M`、2026 至少 `$30M`；需追毛利與現金轉換 | 2025-12-18 | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md` |
 | SEC Form 4 / Eric Brock（大叔 2025-12-18 解讀） | 無；`$8.07` 為 OAS exchange / Form 4 transaction price，不是目標價、買點或支撐 | 1,153,625 股為 Privet Ventures LLC indirect ownership 申報數；transaction code `J` 不是公開市場現金買入 | 2025-12-18 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Stifel / 2025-12-15 初評（大叔 2025-12-17 研報解讀） | `$13` 為 Stifel 分析師目標價，基於 2030 `$1B` revenue、20% EBITDA margin 與 35x EBITDA multiple 折現；非大叔自身目標價或本專案建議 | 研報截圖 price `$8.75` 為 2025-12-12 事件價位，不是買點 | 2025-12-17 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
+| Oppenheimer / 2025-12-01 Roboteam acquisition update（大叔 2025-12-03 轉述） | `$12` 為 Oppenheimer 維持的 12-18 個月分析師目標價；非大叔自身目標價或本專案建議 | `$80M` / 約 `$81.7M` 是 Roboteam 現金收購對價，不是股價支撐；2026 近 `$40M`、2027 `$80M+` Roboteam revenue 為分析師模型，需財報驗證 | 2025-12-03 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Maxim / 2025-11-14 報告（大叔 2025-11-17 轉述） | `$10` 為 Maxim 分析師目標價，從 `$5` 上調；非大叔自身目標價或本專案建議 | report 截圖 closing price 11/13/25 `$6.56` 不是買點；Facebook 轉述 2027 revenue `$481M` 與可視表格 2027E CY `$237.2M` 不一致，需回完整報告校準 | 2025-11-17 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Oppenheimer / 2025-11-14 升評（大叔同日轉述） | `$12` 為 Oppenheimer 12-18 個月分析師目標價；非大叔自身目標價或本專案建議 | report 截圖 price `$6.56` 不是買點；大叔貼文明確提醒「記得要獲利」 | 2025-11-14 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | 大叔 / 2025-11-21 PDW 投資文 | `$30-$32` 為大叔在 `$10B` 市值、5x PS 情境下的估值推演；非本專案目標價或買賣建議 | 未提供 | 2025-11-21 | `Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md` |
@@ -62,6 +64,7 @@
 | 2025-11-03 平台總論中的 Observe / Understand / Act / Connect，能否形成可採購 mission system？ | 2026-04-26 | integrated demo、joint offering、task order、customer acceptance、OAS / Mistral / Roboteam / Sentrycs / 4M / Safe Pro revenue mix | `Stocks/ONDS/milestones/ONDS_里程碑_20251103_國防自主系統平台總論.md` | 待追蹤 |
 | Maxim `$10` target 背後的 2027 revenue / 12x EV-Sales 模型能否被財務數字支撐？ | 2026-04-26 | 完整 Maxim report、2026 / 2027 revenue、gross margin、adjusted EBITDA、fully diluted shares、EV / Sales multiple | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | Oppenheimer `$12` target 背後的 lower skies TAM 與 2030 `~$1B` revenue path 能否被財務數字支撐？ | 2026-04-26 | 2026E revenue `$134.5M`、2027E revenue `$336.2M`、C-UAS TAM `$10.5B`、revenue、gross margin、adjusted EBITDA、fully diluted shares | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
+| Oppenheimer 對 Roboteam 2026 / 2027 revenue model 能否兌現？ | 2026-04-26 | Roboteam 2026 revenue 是否接近 `$40M` analyst model、2027 是否達 `$80M+`、existing `$20M+` orders fulfillment、gross margin、operating cash flow | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | airport C-UAS / 「賣鏟子」框架能否轉成更多機場部署與收入？ | 2026-04-26 | Iron Drone Raider / Optimus / OAS airport deployments、airport authority contract、critical infrastructure customer announcement、10-Q revenue / backlog、gross margin | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | DHS / FEMA C-UAS grant 是否轉成 **ONDS** 下游採購或 OAS revenue？ | 2026-04-26 | FEMA award notices、SAA / subrecipient procurement、FIFA World Cup / America 250 / critical infrastructure C-UAS deployments、vendor selection、OAS revenue / backlog | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | Patrick Huston COO / GC 的軍事化與合規化能否轉成政府合約執行力？ | 2026-04-26 | DoD / allied agency award、IDIQ task order、program delivery、compliance gating、OAS / Mistral / Roboteam / Sentrycs revenue、gross margin | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
@@ -106,6 +109,7 @@
 | DHS / FEMA C-UAS grant 被誤讀為 **ONDS** 已得標 | 高 | 市場把 `$500M` grant funding pool 直接寫成 **ONDS** 訂單、backlog 或 revenue | FEMA award notice、state / local procurement、vendor selection、8-K、10-Q OAS revenue / backlog | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Patrick Huston COO 任命被誤讀為已取得政府合約 | 高 | 市場把 military / legal / compliance background 直接寫成 DoD award、task order、backlog 或 revenue | 8-K、contract award、USAspending、customer announcement、10-Q backlog / revenue | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Roboteam 現金收購被過度解讀為 free cash flow 已改善 | 高 | 市場把 revenue / net income 或大叔「立刻有現金流」語句直接寫成自由現金流已兌現 | operating cash flow、working capital、inventory、deferred revenue、gross margin、purchase accounting、goodwill impairment | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md` |
+| Oppenheimer Roboteam revenue model 被過度前置 | 高 | 市場把 2026 近 `$40M` / 2027 `$80M+` Roboteam revenue assumptions 當成已兌現收入，或把 `$80M` 收購價當成估值支撐 | 10-Q / 10-K revenue、gross margin、orders fulfillment、operating cash flow、purchase accounting、goodwill | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | 4M + Safe Pro pilot 被誤讀為已取得長期合約或收入 | 高 | 市場把八週 field validation 寫成政府採購、UN / NGO 合約、backlog 或 recurring revenue | 8-K、客戶公告、contract value、revenue recognition、gross margin、deployment count | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_4M_SafePro中東排雷試點.md` |
 | Eric Brock Form 4 被誤讀為公開市場 CEO 現金買入 | 高 | 查詢時忽略 transaction code `J`、OAS exchange 註腳與 indirect ownership through Privet Ventures LLC | SEC Form 4 code / footnote、8-K Exchange Agreement、direct / indirect ownership、shares outstanding | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Stifel `$13` 分析師目標價被誤讀為大叔自身目標價或本專案建議 | 高 | 查詢時把外部賣方 target 寫成 KOL target、買點或最新 target | Stifel target revision、後續大叔自身估值、公司 guidance、現價與估值假設 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
@@ -138,7 +142,7 @@
 | 併購整合與成本控制 | 中 | Mistral、World View 與 OAS 平台整合拖慢交付或拉高費用 | 毛利率、OPEX、整合費用、管理層更新 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 | RSU / 併購對價與後續融資稀釋 | 中 | 股權激勵、併購對價或現金需求推升股本 | shares outstanding、RSU vesting、S-8 / 10-Q、現金餘額 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 
-## 持倉判斷依據（最近 25 篇關鍵筆記）
+## 持倉判斷依據（最近 26 篇關鍵筆記）
 
 | 篇章 | 日期 | 一句話結論 | 權重 |
 |---|---|---|---|
@@ -153,6 +157,7 @@
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251208_DFG烏克蘭FPV攻擊端拼圖.md` | 2025-12-08 | DFG planned investment 把烏克蘭戰場驗證、低成本、可消耗 FPV / ISR / simulator 技術納入 **ONDS** 攻擊端 thesis，但仍需 final terms、closing、合規生產與訂單驗證。 | 高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251204_BrentLaing與dot16鐵路通訊標準化.md` | 2025-12-04 | Brent Laing 加入 Ondas Networks Board，配合 AAR dot16 upgrade path 脈絡，將 **ONDS** thesis 從 OAS 無人機延伸到 FullMAX / 北美鐵路通訊第二引擎。 | 高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251203_政府邊境防護標案與OAS主承包商.md` | 2025-12-03 | OAS 被選為政府 autonomous border-protection system 主承包商，整理日補充 `$20M` initial PO 已落地，驗證 **ONDS** defense prime / system-of-systems thesis 進入政府級標案；仍需 follow-on orders、部署、收入與毛利驗證。 | 高 |
+| `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 2025-12-03 | Oppenheimer Roboteam update 維持 `$12` target，並把 `$80M` 現金收購解讀為 air + ground synergy；但 target / revenue model 屬外部賣方假設，仍需 revenue、margin、cash conversion 驗證。 | 中高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251202_OMB_ASDA政策牆與美國無人機合規護城河.md` | 2025-12-02 | OMB / ASDA 將 secure domestic / allied UAS 合規從題材推進為 federal funds 採購約束，補強 Optimus / Airobotics / Iron Drone Raider 的政府採購政策護城河。 | 高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251202_IronDroneRaider第二筆歐洲機場820萬美元訂單.md` | 2025-12-02 | 同一歐洲 security authority 兩週內下第二筆約 `$8.2M` Iron Drone Raider 機場訂單，兩筆合計約 `$16.4M`，repeat order 強化 C-UAS 客戶信任 thesis。 | 高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md` | 2025-11-21 | PDW `$35M` 戰略投資補上 C100 / FPV combat robotics 攻擊端，讓大叔把 **ONDS** 從防禦、偵察、通訊平台推進到完整無人機戰場生態系。 | 高 |
