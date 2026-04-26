@@ -1,6 +1,6 @@
 # ONDS 投資儀表板
 
-> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；補入 2025-12-07 大叔 Fintel 機構持股 / 籌碼鎖定短評，未改寫最新 Mistral 立場）
+> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/milestones/ONDS_里程碑_20260206_EricBrockFoxBusiness與APAC防務合約.md`；補入 2026-02-06 大叔 Eric Brock Fox Business 訪談 / APAC 防務合約 / Blue List 短文，未改寫最新 Mistral 立場）
 
 ## 當前立場快照
 
@@ -10,6 +10,7 @@
 - **歷史脈絡**：`Stocks/ONDS/milestones/ONDS_里程碑_20250818_ApeiroMotion收購協議.md` 是大叔 **ONDS** 空地一體、以色列併購與 P/S 小於 1 倍併購模板的早期 L4 來源；`Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md` 建立 Rift 戰略投資、Wåsp 美國獨家分銷與可消耗無人機產品線的商業化路徑；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` 納入 2025-10-06 溢價募資初評與 2025-10-20 融資整理，補上 `$425M` 資本彈藥、`$11.50` 機構成本與 warrants / 授權股稀釋的資本結構脈絡；`Stocks/ONDS/milestones/ONDS_里程碑_20251213_OAS股權回收與非現金費用.md` 把 OAS 子公司層級 notes / warrants / minority rights 換成母公司股本，讓 ownership 更清楚但也增加 fully diluted shares 與 Q4 non-cash charge headline risk；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_SafePro策略投資與AI視覺拼圖.md` 把 Safe Pro AI threat detection 納入 **ONDS** #垂直整合 與 #DualUse 拼圖；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_LPTH紅外熱像與BlackDiamond感測器拼圖.md` 補上 LightPath 紅外熱像 / BlackDiamond 感測器層；`Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md` 則把 4M Defense 智慧掃雷、TIP 與地下威脅辨識接到 #空地一體 / #以色列併購 thesis；`Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md` 補上 Insight SIM / AI electro-optical sensing，讓平台、感測、AI 判讀與任務行動的閉環更完整；`Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md` 補上 Sentrycs CoRF / protocol-layer C-UAS 接管層，使 Iron Drone Raider 的動能攔截前段多了非干擾、合規緩解與 25 國部署基礎；`Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md` 把 PDW C100 / FPV combat robotics 放進攻擊端，讓大叔的 **ONDS** thesis 從防禦、偵察、通訊推進到完整無人機戰場生態系；`Stocks/ONDS/milestones/ONDS_里程碑_20251208_DFG烏克蘭FPV攻擊端拼圖.md` 則把烏克蘭 DFG 的 combat-proven、低成本、可消耗 FPV / ISR / simulator 能力放入攻擊端與訓練端，但仍需 investment closing 與合規產品化；`Stocks/ONDS/milestones/ONDS_里程碑_20251202_OMB_ASDA政策牆與美國無人機合規護城河.md` 則把 OMB / ASDA / FASC-prohibited UAS 禁令接到 American Robotics、Airobotics、Optimus 與 Iron Drone Raider 的政府採購合規護城河；`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 的 2025-11-13 Q3 13F 短評，補上 BlackRock、Geode 與 Group One institutional ownership / 籌碼能見度訊號，但它只反映 2025-09-30 持倉，不等於即時買盤；2025-11-10 Yoav Har-Even 短評，補上 OAS defense channel、Rafael / Iron Dome 信用背書與 strategic partnership 人脈；2025-11-08 Securiton Germany 短評，補上 Iron Drone Raider 在德國 / Bundeswehr c-UAS solution 中的歐洲 integrator selection 訊號；同日美軍 100 萬架無人機採購短評，則將 Sentrycs C-UAS、mission-critical wireless 與美國本土 autonomous systems 供應鏈放進更大的 Army attritable drone 採購背景。
 - **本次補入的 Sentrycs 8-K / selloff 解讀**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔在 2025-11-17 將 **ONDS** 因 Sentrycs 8-K / Registration Rights 下跌解讀為 filing headline panic，不是新公開市場融資；8-K 對應的是 Sentrycs 100% closing、既有收購對價股份註冊與 sellers daily resale limit 10% ADV。這補強稀釋辨識與 filing 風險追蹤：10% ADV 限制降低一次性倒貨風險，但不消除 future resale overhang，也不取代整合 / revenue / margin 驗證。
 - **本次補入的 Fintel institutional ownership 圖表**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔在 2025-12-07 將 Fintel 圖表中 Dec 2025 institutional ownership 升至逾 1.1 億股，解讀為機構共識、股價反彈背後的機構買盤與籌碼鎖定；本專案記為 L2 籌碼訊號，不寫成公司基本面兌現、即時主動買盤或買賣建議。
+- **本次補入的 Eric Brock Fox Business / APAC 防務合約訪談**：`Stocks/ONDS/milestones/ONDS_里程碑_20260206_EricBrockFoxBusiness與APAC防務合約.md` 顯示大叔整理 Brock 在 Fox Business 訪談中談到亞太政府 defense contract、Optimus Blue List、critical infrastructure / C-UAS demand 與 NDAA / 非中國供應鏈合規；Ondas 官方 2026-02-03 新聞稿確認 classified APAC defense contract，初始系統預計 2026 年交付。這是 L4 thesis 補強，但合約金額 / 客戶未披露，Blue List 仍需轉 task order、deployment、revenue 和 gross margin 才算商業化驗證。
 - **本次補入的 CEO 訪談**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示 Eric Brock 在 2025-10 Benzinga / Dailymotion 訪談中把 **ONDS** 定位為 dual-use autonomous systems / C-UAS / ISR / ground robotics 整合者，並提出十年繁榮與產業整合框架；同時表示近四個月籌近 `$900M`、資產負債表 north of `$840M`、近期無再融資計畫。這是管理層 framing，不是新訂單或買賣建議；訪談中的 2025 `$25M` / 2026 doubling 已被後續 2025-11-13 官方 FY2025 至少 `$36M` / FY2026 至少 `$110M` guidance supersede，整理日 2026-03-23 官方 FY2025 release 又顯示 FY2025 revenue `$50.7M`、2026 revenue target 至少 `$375M`。
 - **本次補入的 critical infrastructure TAM 粗算**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔用 142,000 個全美關鍵基礎設施據點、每點 3 套、每套 `$100K` 建立 **ONDS** 約 `$42.6B` 系統 TAM，含維護 / 營運延伸到 `$60B-$90B`；`$50` 是大叔粗算情境價，Lawrence 同場 `$60` 只記為群友喊價 / sentiment。這是 valuation imagination，不是公司 revenue、backlog、正式目標價或買賣建議。
 - **本次補入的 NATO market / C-UAS 情境價框架**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔把 **ONDS** 的 C-UAS thesis 從美國 4,000 據點範例延伸到 NATO 32 國 / allied defense procurement，並以 Patrick Huston strategic capital、Rift / Wåsp、James Acuna、Iron Drone Raider 歐洲訂單作支柱；`$20` 是大叔情境價 / 2027-2028 calls 討論錨，不是正式目標價或買賣建議。4,000 * 3 * `$100K` 與 40% 利潤都是粗估假設，不是 revenue、backlog 或 guidance。
@@ -37,6 +38,7 @@
 
 | 來源 | 目標價 | 停損 / 支撐 | 提出時間 | 出處篇章 |
 |---|---|---|---|---|
+| Eric Brock Fox Business / APAC 防務合約（大叔 2026-02-06 整理） | 無；APAC classified defense contract 未披露金額、客戶或股價目標 | Optimus Blue List 是 rapid procurement path，不是支撐或買點；2026 initial delivery 需追收入認列 | 2026-02-06 | `Stocks/ONDS/milestones/ONDS_里程碑_20260206_EricBrockFoxBusiness與APAC防務合約.md` |
 | Roboteam 收購（大叔 2025-12-18 解讀） | 無；`$81.7M` 為 Roboteam 收購現金對價，不是股價目標、買點或支撐 | 官方 2025-11-25 曾預期 Roboteam 2025Q4 revenue `$3M-$4M`、2026 至少 `$30M`；需追毛利與現金轉換 | 2025-12-18 | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md` |
 | SEC Form 4 / Eric Brock（大叔 2025-12-18 解讀） | 無；`$8.07` 為 OAS exchange / Form 4 transaction price，不是目標價、買點或支撐 | 1,153,625 股為 Privet Ventures LLC indirect ownership 申報數；transaction code `J` 不是公開市場現金買入 | 2025-12-18 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Stifel / 2025-12-15 初評（大叔 2025-12-17 研報解讀） | `$13` 為 Stifel 分析師目標價，基於 2030 `$1B` revenue、20% EBITDA margin 與 35x EBITDA multiple 折現；非大叔自身目標價或本專案建議 | 研報截圖 price `$8.75` 為 2025-12-12 事件價位，不是買點 | 2025-12-17 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
@@ -71,12 +73,15 @@
 | 2026-03-23 | Ondas 發布 2025Q4 / FY2025 財報 | Q4 revenue `$30.1M`、net loss `$101.0M`，headline loss 包含大型 non-cash charge；本次僅作 OAS exchange 文章的整理日補充，仍待另文細拆 OAS exchange、warrant liability、cash flow 與 fully diluted shares | `Stocks/ONDS/milestones/ONDS_里程碑_20251213_OAS股權回收與非現金費用.md` |
 | 2026-03-16 | Ondas 完成 4M Defense 剩餘 30% 收購 | 取得 HoldCo / 4M fully diluted 100% 權益；對價為 352,968 股普通股及最多 `$1.4M` 股份 earn-out（整理日補充） | `Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md` |
 | 2026-03-04 | Airobotics 收到 autonomous border-protection tender 底下 `$20M` initial purchase order | 這是 2025-12-03 OAS selected as prime contractor 後的 initial stage，啟動 rapid development、system integration 與 phased deployment；仍需追 follow-on expansion orders、部署、收入認列與毛利 | `Stocks/ONDS/milestones/ONDS_里程碑_20251203_政府邊境防護標案與OAS主承包商.md` |
+| 2026-02-03 | Ondas 宣布 APAC classified defense contract，Brock 同日 Fox Business 訪談提及 | 亞太政府客戶合約，任務包含 autonomous tactical UAS、ISR、C-UAS 與 threat mitigation；initial systems expected in 2026，但金額 / 客戶未披露 | `Stocks/ONDS/milestones/ONDS_里程碑_20260206_EricBrockFoxBusiness與APAC防務合約.md` |
 | 2026-01-28 | American Robotics Optimus drone 取得 DCMA Blue List status | 這是 2025-10-30 Green UAS 認證後續正面進展，降低 federal procurement 摩擦；仍需以 task order、部署與 OAS revenue 驗證 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 
 ## 未結問題（Open Questions）
 
 | 問題 | 提出時間 | 等待事件 / 數據 | 出處篇章 | 狀態 |
 |---|---|---|---|---|
+| APAC classified defense contract 是否能轉成 2026 可見 revenue / backlog conversion？ | 2026-04-26 | initial systems delivery、customer acceptance、OAS revenue、gross margin、cash collection、是否披露 contract value | `Stocks/ONDS/milestones/ONDS_里程碑_20260206_EricBrockFoxBusiness與APAC防務合約.md` | 待追蹤 |
+| Optimus Blue List 是否轉成 federal procurement / critical infrastructure deployments？ | 2026-04-26 | DoD / DHS / state / critical infrastructure task order、deployment count、OAS revenue / backlog | `Stocks/ONDS/milestones/ONDS_里程碑_20260206_EricBrockFoxBusiness與APAC防務合約.md`；`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | 大叔 2025-10-23 的 **ONDS** 震倉框架是否被後續量價驗證？ | 2026-04-26 | 最新 MA200、極度縮量、不破底、後續放量紅 K、社群討論熱度 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | **ONDS** 的機構持有人類型是否支持「機構耐心」判斷？ | 2026-04-26 | 13F / 13G、基金類型、持股比例、options OI、short interest | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | Palantir Foundry 是否實際支撐 **ONDS** enterprise scale，而不只是 IT 工具導入？ | 2026-04-26 | production / logistics / deployment reporting、delivery cycle、program reporting、customer award | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
@@ -136,6 +141,7 @@
 | 風險 | 追蹤強度 | 觸發條件 | 觀察指標 | 出處篇章 |
 |---|---|---|---|---|
 | IDIQ 合約車輛不等於保證採購 | 高 | 沒有具體 task order、交付或收入認列 | task order、8-K、10-Q backlog 轉 revenue | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
+| APAC classified defense contract 被過度外推 | 高 | 未披露客戶、金額、系統數量與毛利，市場卻直接年化或視為大型 program | 10-Q / 10-K revenue、backlog、deferred revenue、customer concentration、gross margin | `Stocks/ONDS/milestones/ONDS_里程碑_20260206_EricBrockFoxBusiness與APAC防務合約.md` |
 | Q3 revenue inflection 與 FY2026 指引被過度前置 | 高 | 市場把一季 `$10.1M` revenue 或 FY2026 指引直接當成穩定 run-rate / 已兌現收入 | quarterly revenue、gross margin、adjusted EBITDA、operating cash flow、backlog conversion、fully diluted shares | `Stocks/ONDS/milestones/ONDS_里程碑_20251115_Q3財報與2026營收指引.md` |
 | 現金與 pro forma cash 被誤讀 | 高 | 把 2025-09-30 cash、10 月 offering 後 pro forma cash、後續併購 / 投資現金使用混成同一個數字 | cash / restricted cash、pro forma cash、cash used in operations、acquisitions / investments、10-Q / 10-K | `Stocks/ONDS/milestones/ONDS_里程碑_20251115_Q3財報與2026營收指引.md` |
 | CEO 訪談被誤讀為正式 guidance 或保證 | 高 | 把 2025-10 訪談中的 `$25M` / doubling、no near-term raise 或 ten-year boom 直接寫成最新 guidance / 承諾 | official guidance、10-Q / 10-K、8-K、capital raise filings、cash flow | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
@@ -199,11 +205,12 @@
 | 併購整合與成本控制 | 中 | Mistral、World View 與 OAS 平台整合拖慢交付或拉高費用 | 毛利率、OPEX、整合費用、管理層更新 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 | RSU / 併購對價與後續融資稀釋 | 中 | 股權激勵、併購對價或現金需求推升股本 | shares outstanding、RSU vesting、S-8 / 10-Q、現金餘額 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 
-## 持倉判斷依據（最近 36 篇關鍵筆記）
+## 持倉判斷依據（最近 37 篇關鍵筆記）
 
 | 篇章 | 日期 | 一句話結論 | 權重 |
 |---|---|---|---|
 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` | 2026-04-24 | Mistral 合併完成讓 **ONDS** 取得美軍 IDIQ 合約車輛、國內製造整合能力與約 `$457M` pro forma backlog，是 ONDS defense prime thesis 的第一個核心里程碑。 | 高 |
+| `Stocks/ONDS/milestones/ONDS_里程碑_20260206_EricBrockFoxBusiness與APAC防務合約.md` | 2026-02-06 | Eric Brock Fox Business 訪談把 APAC classified defense contract、Optimus Blue List、C-UAS / critical infrastructure demand 與 NDAA 合規串成同一條 defense + homeland security 採購路徑；但需用 2026 delivery、revenue、gross margin 與 task order 驗證。 | 高 |
 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 2025-12-23 | 大叔用機場無人機干擾與「賣鏟子」框架補強 **ONDS** C-UAS / airspace security 基礎設施供應商 thesis；但仍需用 airport deployments、repeat orders、revenue 與毛利驗證。 | 中高 |
 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 2025-12-19 | Patrick Huston 升任 COO、General Counsel and Secretary，補上大叔所說 **ONDS** 軍事化與合規化 operating layer；但仍需用 government award、task order、revenue 與毛利驗證。 | 中高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md` | 2025-12-18 | Roboteam 100% 現金收購完成，補上 **ONDS** 戰術 UGV / ground robotics 與 air + ground autonomy thesis；但 `$81.7M` 對價需用 2026 revenue、毛利、現金流與整合結果驗證。 | 高 |

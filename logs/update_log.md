@@ -340,3 +340,10 @@
 - 更新：將 EOSE、SMR 專屬母題寫入 `kol_config.yaml` 與個股規則，並同步更新三個個股儀表板表格。
 - 更新：補齊合併筆記排序規則，明定內文 append-only、頂部文章索引按發文時間倒序、補舊文不重排內文。
 - 備註：目前尚未搬移舊資料；既有 Downloads 筆記可後續依規則匯入。
+
+## 2026-04-26
+
+- 新增：補入大叔美股筆記 Substack 文章《Ondas 執行長 Eric Brock 接受 Fox Business 訪問》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260206_EricBrockFoxBusiness與APAC防務合約.md`，將本篇判定為 **ONDS** L4 里程碑；重點為 Eric Brock 在 Fox Business 訪談中串起 APAC classified defense contract、Optimus Blue List、C-UAS / critical infrastructure demand 與 NDAA / 非中國供應鏈合規。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack 顯示發文時間 2026-02-06，Fox Business 訪談 aired 2026-02-03。Ondas 官方 2026-02-03 新聞稿確認 APAC classified defense contract，初始系統預計 2026 年交付；2026-01-28 官方新聞稿確認 Optimus DCMA Blue List status。APAC 合約金額 / 客戶未披露，Blue List 不等於採購、合約或收入；本篇未提供股價目標或操作。
