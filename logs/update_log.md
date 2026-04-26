@@ -2,6 +2,9 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 2026-01-09 Facebook 短評《**ONDS** IMOD 邊境安全主承包商：Drone Hive 與 Battle-tested in Israel 敘事》，source_id 為 `大叔美股筆記-20260109-ondas-imod-border-security-prime-contractor-3f943803`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，判定 **ONDS** L3；同步補充既有 `Stocks/ONDS/milestones/ONDS_里程碑_20251203_政府邊境防護標案與OAS主承包商.md`，不另開重複 L4。
+- 備註：IsraelDefense 原文整理日受 Cloudflare 限制，使用者提供 Facebook 截圖可讀；本篇把 IMOD / Drone Hive / battle-tested in Israel 記為媒體與 KOL 語境，不寫成新金額、已認列 revenue、Pentagon 合約或買賣建議。
 - 新增：補入大叔美股筆記 2026-01-07 X 短評《**ONDS** 4M 排雷作業：協助清除 453 枚反戰車地雷》，source_id 為 `大叔美股筆記-20260107-ondas-4m-demining-453-mines-fabeea6c`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將本篇判定為 **ONDS** L2；重點為大叔轉貼 BMSInvests / Ondas LinkedIn operational update，將 4M Demining 協助中和 / 清除 `453` 枚反戰車地雷作為 4M land intelligence / smart demining field operation proof point。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`；本篇不是新合約、backlog、revenue、earn-out 達成或買賣建議。
