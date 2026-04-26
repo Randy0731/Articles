@@ -2,7 +2,7 @@
 
 - **來源 KOL**：大叔美股筆記
 - **原文主整理**：`KOL/大叔美股筆記/notes/大叔美股筆記.md`
-- **原始來源**：https://unclestocknotes.substack.com/p/ondas-eric-brock-fox-business?utm_source=publication-search；https://www.ondas.com/post/ondas-secures-classified-defense-contract-in-asia-pacific-expanding-autonomous-counter-uas-and-tac；https://ir.ondas.com/press-releases/detail/275/ondas-american-robotics-optimus-drone-approved-for-rapid
+- **原始來源**：https://unclestocknotes.substack.com/p/ondas-eric-brock-fox-business?utm_source=publication-search；https://www.facebook.com/Unclestocknotess/posts/pfbid0qjnPvQowdmWU8TCsVGh1uu6h99kRs2kW9VnXDWe6oHUGCExmHpNQV5HSQR6MqB4wl?rdid=UP0EXAT0SJ1F4pLV；https://www.ondas.com/post/ondas-secures-classified-defense-contract-in-asia-pacific-expanding-autonomous-counter-uas-and-tac；https://ir.ondas.com/press-releases/detail/275/ondas-american-robotics-optimus-drone-approved-for-rapid
 - **source_id**：大叔美股筆記-20260206-ondas-eric-brock-fox-business-71306a50
 - **raw 路徑 / URL**：URL（未另存 raw）
 - **OCR 狀態**：不適用
@@ -90,5 +90,11 @@
 > 呼應 `Stocks/ONDS/milestones/ONDS_里程碑_20251202_OMB_ASDA政策牆與美國無人機合規護城河.md`：本篇把 NDAA / 非中國供應鏈與 Optimus Blue List 採購路徑接到實際政府客戶討論。
 
 > 呼應 `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md`：APAC contract 顯示 OAS / Airobotics 國際防務 traction，Mistral 則後續補上美國 defense prime / IDIQ 合約車輛。
+
+### 修訂紀錄
+
+| 日期 | 類型 | 說明 |
+|---|---|---|
+| 2026-04-27 | 補充來源 / 去重 | 使用者補充大叔 Facebook URL 與 Ondas 官方 APAC 防務合約截圖；截圖可讀內容與本里程碑既有 2026-02-03 官方新聞稿來源重疊，且未顯示可讀的大叔新增評論，因此不另開重複里程碑。source index 另以 `大叔美股筆記-20260203-ondas-apac-contract-facebook-47910d1f` 記為 duplicate / supplemental source。 |
 
 ---

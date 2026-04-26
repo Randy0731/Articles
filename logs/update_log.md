@@ -2,6 +2,10 @@
 
 ## 2026-04-27
 
+- 更新：使用者補充大叔美股筆記 Facebook URL 與 Ondas 官方 APAC 防務合約截圖（`pfbid0qjn...`），經去重判定與既有 `大叔美股筆記-20260206-ondas-eric-brock-fox-business-71306a50` / `Stocks/ONDS/milestones/ONDS_里程碑_20260206_EricBrockFoxBusiness與APAC防務合約.md` 重疊；未見可讀的大叔新增評論，因此不另開重複 KOL 文章或 ONDS 里程碑。
+- 更新：在 `indexes/source_index.md` 新增 duplicate / supplemental source `大叔美股筆記-20260203-ondas-apac-contract-facebook-47910d1f`，並補充既有 KOL 主筆記與 APAC 里程碑的來源 / 修訂紀錄。
+- 備註：Facebook 截圖中的官方新聞稿標題為 Ondas 取得 Asia-Pacific strategic defense contract；既有筆記已收錄 Ondas 2026-02-03 APAC classified defense contract 官方來源。合約金額、客戶與系統數量仍未披露，不能寫成 revenue、backlog 或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-02-03 Substack 付費文章《#ONDS 正在我們眼前，走進美國與盟國的「國防核心圈」》，建立 `KOL/大叔美股筆記/articles/20260203_onds_rotron_aero_defense_core_uncle.md`，source_id 為 `大叔美股筆記-20260203-onds-rotron-aero-defense-core-6830b833`。
 - 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260203_大叔美股筆記_onds_rotron_aero_defense_core_大叔美股筆記-20260203-onds-rotron-aero-defense-core-6830b833.pdf`；PDF 為 4 頁 image-only 截圖，p.1-p.3 為核心正文，p.4 為推薦文章 / footer，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260203_RotronAero收購與DT300BlueUAS.md`，將本篇判定為 **ONDS** L4；重點為大叔把 Rotron Aero / DT-300 Blue UAS 解讀為 **ONDS** 進入美國與盟國國防核心圈，產品邊界從 ISR / C-UAS / ground robotics 延伸到 long-range strike、one-way effector、propulsion 與 UK / NATO supply chain。
