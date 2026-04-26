@@ -2,6 +2,10 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-02-19 Threads 轉貼《**ONDS** Q4 ownership final update：機構與內部人合計 `61.64%` 轉貼》，source_id 為 `大叔美股筆記-20260219-ondas-q4-ownership-61-64-bmsinvests-1ba46a26`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將 **ONDS** 判定為 L2 ownership / 籌碼訊號；同步更新 ONDS index / dashboard、source/ticker/theme/catalyst indexes。
+- 備註：使用者提供 Threads 截圖與資訊圖，核心數字可讀；BMSInvests X snowflake 對應 2026-02-19 台灣時間。`61.64%` / `261,457,279` shares / Q3 `52.3%` 為第三方 aggregate estimate，13F/G/D methodology 未逐筆重算；1/12 `19,000,000` shares issued 是稀釋 / 股本分母語境，不是即時買盤、成本價、訂單、revenue、backlog 或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-02-19 Facebook 短評《**ONDS** Calcalist：Aeronautics / mPrest / Rafael 人才流動與以色列國防審查風險》，source_id 為 `大叔美股筆記-20260219-ondas-aeronautics-rafael-mprest-calcalist-b81272b5`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將 **ONDS** 判定為 L3 media-reported Israeli defense M&A optionality；同步更新 ONDS index / dashboard、source/ticker/theme/catalyst indexes。
 - 備註：Facebook 截圖與資訊圖可讀；Calcalist 原文可交叉確認 reported acquisition talks / Rafael executive migration / national-security concern，且同篇記錄 Rafael 對 board discussion / compensation 等事項的否認或限定說法。Aeronautics / Controp / mPrest are not signed/closed deals; no official ONDS PR/8-K/revenue/backlog; not buy-sell advice.
