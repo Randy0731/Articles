@@ -2,6 +2,10 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-02-05（推估）Facebook 短評《**ONDS** CEO 親自確認：Wåsp 競逐 DDP / Gauntlet Phase I》，source_id 為 `大叔美股筆記-20260205-ondas-ceo-wasp-ddp-confirmation-522da399`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，補充 `Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md`，並更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。
+- 備註：Facebook 截圖僅顯示 2月5日，依 DDP 2026-02-03 事件脈絡推估為 2026-02-05。Brock X 截圖確認 Wåsp 競逐 DDP 與 industrial scale / surge capacity thesis，但整理日 official DDP data 顯示 W.S. Darley route 未進 Top 11；本篇不是 **ONDS** 訂單、backlog、revenue 或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-02-04 Facebook 短評《**ONDS / RCAT / KTOS / AVAV** DDP Phase I 入圍名單：PDW / Teal / Kratos 與 The Gauntlet》，source_id 為 `大叔美股筆記-20260204-ddp-phase1-pdw-rcat-ktos-9ecd5481`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，補充 `Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md`，並更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md` 與 `indexes/watchlist_index.md`；**RCAT** / **KTOS** / **AVAV** 只進 watchlist / ticker index，不建立 Stocks 專案。
 - 備註：War.gov 2026-02-03 是 DDP Phase I invite，不是 award；整理日補充 Drone Dominance official leaderboard current 2026-04-14：PDW / Teal completed Gauntlet I but did not rank Top 11，PDW production capabilities signal remains。Kratos SRE 與 current DDP data 有版本差異；本篇不是 **ONDS** / **RCAT** / **KTOS** / **AVAV** 訂單、backlog、revenue 或買賣建議。

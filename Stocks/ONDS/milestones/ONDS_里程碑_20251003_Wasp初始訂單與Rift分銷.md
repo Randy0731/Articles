@@ -2,7 +2,7 @@
 
 - **來源 KOL**：大叔美股筆記
 - **原文主整理**：`KOL/大叔美股筆記/notes/大叔美股筆記.md`
-- **原始來源**：https://www.facebook.com/Unclestocknotess/posts/760089670183653/；https://www.ondas.com/post/ondas-places-initial-order-for-w%C3%A5sp-attritable-drones-from-rift-dynamics-for-distribution-to-u-s-de
+- **原始來源**：https://www.facebook.com/Unclestocknotess/posts/760089670183653/；https://www.ondas.com/post/ondas-places-initial-order-for-w%C3%A5sp-attritable-drones-from-rift-dynamics-for-distribution-to-u-s-de；補充來源：大叔 2026-02-05 Facebook / Eric Brock X DDP Wåsp confirmation、War.gov DDP Phase I、Drone Dominance leaderboard / vendor data
 - **source_id**：大叔美股筆記-20251003-ondas-wasp-rift-order-cd47f0f2
 - **raw 路徑 / URL**：URL（未另存 raw；使用者提供對話內嵌截圖）
 - **OCR 狀態**：完整（使用者截圖可讀，並以 Ondas 官方新聞稿交叉確認）
@@ -71,5 +71,23 @@
 ### 本篇在 **ONDS** 投資論述中的歷史定位
 
 本篇是 **ONDS** 「投資 / 併購 / 分銷」模式開始被大叔明確寫成可驗證商業路徑的早期節點。Apeiro 建立空地一體與低 P/S 併購模板；Wåsp / Rift 則把戰略投資、NDAA 合規產品、美國製造與 American Robotics 分銷窗口串成一條美國國防市場通路；後續 Mistral 合併再把這條路徑推進到 defense prime、IDIQ 合約車輛與 backlog 驗證。
+
+### 2026-02-05 DDP / CEO confirmation 補充
+
+2026-02-05 大叔 Facebook 短評以「CEO親自確認，恭喜 #ONDS」轉貼 Eric Brock X 截圖。Brock 將 Wåsp 直接放入 Drone Dominance Program 競逐語境，稱 Wåsp competitiveness 與 industrial plan 可支撐 Dept. of War 所需 scale、service quality 與 surge capacity。這補強本篇「American Robotics 美國分銷 + Wåsp 可消耗無人機」thesis 已進入 DDP / Gauntlet Phase I 競逐流程。
+
+整理日官方核對仍需降溫：War.gov DDP Phase I 是 invite / competition；Drone Dominance current vendor data 顯示 W.S. Darley 參與且進入 production capability top 5th percentile entries，但 selected=false，且不在 Top 11 selected to receive orders。因此本補充不能寫成 **ONDS** / Wåsp 已取得 DDP 首批 order、backlog 或 revenue。
+
+| 補充點 | 對本里程碑的意義 | 不能外推成 |
+|---|---|---|
+| Brock 親自表態 Wåsp highly competitive | 管理層把 Wåsp 與 DDP / Dept. of War requirements 直接連起來 | 正式 award / PO |
+| industrial plan / surge capacity | 呼應 2025-10 產能與美國供應鏈 thesis | 20,000+ / month demand 或已認列 revenue |
+| W.S. Darley current DDP data | 顯示 Wåsp route 可能透過 partner 參與 DDP；有 production capability 訊號 | **ONDS** 本體入 Top 11 或已獲首批訂單 |
+
+### 修訂紀錄
+
+| 日期 | 類型 | 說明 |
+|---|---|---|
+| 2026-04-27 | 補充版 | 補入大叔 2026-02-05 CEO / Wåsp / DDP confirmation 短評；確認本篇 thesis 進入 DDP 競逐語境，但 W.S. Darley / Wåsp 未進 Top 11，不能寫成首批訂單或 revenue |
 
 ---
