@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Facebook 短評《**ONDS** Brent Laing 加入 Ondas Networks Board：dot16 鐵路通訊標準化》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251204-ondas-brent-laing-dot16-c08713ca`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251204_BrentLaing與dot16鐵路通訊標準化.md`，將本篇判定為 **ONDS** L4；重點為大叔把 Ondas Networks / FullMAX / IEEE 802.16t 從 OAS 之外拉成第二引擎 thesis，並以 Brent Laing 的 Class I railroad / AREMA 背景與 AAR dot16 upgrade path 作為核心證據。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；使用者提供 Facebook 截圖顯示 2025-12-04 且文字可讀，OCR 狀態標「完整」。Ondas 官方 2025-12-02 新聞稿確認 Brent Laing 加入 Ondas Networks board、AAR WCC 於 2025-09 將 dot16 作為 legacy 160 MHz LMR voice network upgrade path，並稱 dot16 已在 900 MHz 與 450 MHz networks formally adopted；本篇沒有股價目標、成本價或買賣建議，也不代表 **ONDS** 已取得鐵路訂單。
 - 新增：補入大叔美股筆記 Threads 短評《**ONDS** 第二筆 820 萬美元 C-UAS 機場訂單：兩週合計 1640 萬美元》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251202-ondas-second-8-2m-airport-order-39c9ce98`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251202_IronDroneRaider第二筆歐洲機場820萬美元訂單.md`，將本篇判定為 **ONDS** L4；重點為同一歐洲 major security authority 在兩週內下第二筆約 `$8.2M` Iron Drone Raider 機場 C-UAS 採購單，兩筆合計約 `$16.4M`，Airobotics 作 prime contractor。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
