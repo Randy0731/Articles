@@ -6,6 +6,9 @@
 
 | 日期 | 事件 | 相關 ticker | KOL / 來源 | 出處 | 重要性 | 狀態 | 結果 / 後續 | 最後檢查 |
 |---|---|---|---|---|---|---|---|---|
+| 2026-04-27 | **SES** CFO 交接：Ray Liu 接替 Jing Nealis | **SES** | Bytc | `KOL/Bytc/notes/bytc筆記.md` | 中 | 待追蹤 | Bytc 將 CFO 交接解讀為公司進入新的財務與成本管控階段；需追後續 opex、burn rate、guidance 溝通與資本配置是否改善 | 2026-04-26 |
+| 2026-12-31（推估） | **SES** 2026 全年營收 `$30M` 至 `$35M` 目標與轉型驗證 | **SES** | Bytc | `KOL/Bytc/notes/bytc筆記.md` | 高 | 待追蹤 | 檢查 ESS / 無人機電池營收、UZ Energy / ATG EPower `$20M` 分銷合約轉收入、SiB 多年合約貢獻、gross margin、COGS 與 opex 是否支持轉型 thesis | 2026-04-26 |
+| 未定 | **SES** Search in a Box 大型電池製造商合約與 phase two 材料測試 | **SES** | Bytc | `KOL/Bytc/notes/bytc筆記.md` | 中 | 待追蹤 | Bytc 記錄 **SES** 已有約 6 家客戶透過平台發現的新電池材料推進至第二階段測試，並取得大型電池製造商 SiB 多年合約；後續追收入貢獻、續約、客戶揭露與產品毛利 | 2026-04-26 |
 | 未定 | **ONDS** / Insight SIM AI sensing 整合與商業化檢查 | **ONDS** | 大叔美股筆記 / Ondas 官方新聞稿 / SEC filing | `KOL/大叔美股筆記/notes/大叔美股筆記.md`；`Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md`；`Stocks/ONDS/ONDS_儀表板.md` | 高 | 待追蹤 | 檢查 Insight SIM、AI electro-optical sensing 與 edge processing 是否整合進 Optimus、Iron Drone Raider、Apeiro、Mistral / OAS 任務系統，並轉成 government / commercial programs、serial production、backlog、revenue 與 gross margin | 2026-04-26 |
 | 2025-10-27 | **ONDS** 完成 Insight Intelligent Sensors 51% 控制權收購 | **ONDS** | Ondas 2025 Form 10-K / 大叔美股筆記整理日補充 | `KOL/大叔美股筆記/notes/大叔美股筆記.md`；`Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md` | 高 | 已兌現 | Ondas 2025 Form 10-K 顯示公司於 2025-10-27 完成 Insight 51% controlling interest 收購，現金對價約 `$3.5M`；此為收購 closing，不等於 Insight thesis 已商業化驗證 | 2026-04-26 |
 | 未定 | **ONDS** 4M Defense TIP / smart demining 商業化檢查 | **ONDS** | 大叔美股筆記 / Ondas 官方新聞稿 / SEC filing | `KOL/大叔美股筆記/notes/大叔美股筆記.md`；`Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md`；`Stocks/ONDS/ONDS_儀表板.md` | 高 | 待追蹤 | 檢查 4M Terrestrial Intelligence Platform、智慧掃雷與地表 / 地下威脅辨識是否轉成以色列 / 烏克蘭 / 全球 tender、backlog、revenue、gross margin 與 OAS 整合產品 | 2026-04-26 |

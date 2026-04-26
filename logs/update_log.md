@@ -2,6 +2,9 @@
 
 ## 2026-04-26
 
+- 新增：入庫 Bytc Substack Note《**SES** AI 財報：營收驚喜、轉型陣痛與 SiB 商業化》，追加至 `KOL/Bytc/notes/bytc筆記.md`，source_id 為 `Bytc-20260424-ses-ai-q1-sib-commercialization-430b7c49`。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`、`indexes/watchlist_index.md`；本篇判定為 **SES** L3 候選追蹤，尚未建立 `Stocks/SES/`。
+- 備註：Substack metadata 顯示 2026-04-24 05:22 UTC；Note 文字完整可讀，OCR 狀態標「不適用」。Bytc 核心判斷是 **SES** Q1 營收 beat、ESS / 無人機電池轉型與 Search in a Box 首度商業化，但成本、opex、EV 路線邊緣化與 2026 revenue target 仍需後續驗證；本文未提供股價目標或買賣建議。
 - 新增：補入大叔美股筆記 Facebook 社群短評《**ONDS** 收購 Insight：AI 感知層補上 OAS 的眼睛》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251029-ondas-insight-ai-sensing-58000f61`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md`，將本篇判定為 **ONDS** L4；重點為 Insight Intelligent Sensors 的 Smart Imaging Module、edge AI electro-optical sensing、即時偵測 / 分類 / 追蹤與 Optimus / Iron Drone Raider / Apeiro 的平台整合潛力。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
