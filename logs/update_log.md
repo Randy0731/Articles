@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Facebook 社群短評《**ONDS** 收購 Insight：AI 感知層補上 OAS 的眼睛》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251029-ondas-insight-ai-sensing-58000f61`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md`，將本篇判定為 **ONDS** L4；重點為 Insight Intelligent Sensors 的 Smart Imaging Module、edge AI electro-optical sensing、即時偵測 / 分類 / 追蹤與 Optimus / Iron Drone Raider / Apeiro 的平台整合潛力。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：Facebook 截圖文字可讀，OCR 狀態標「完整」；大叔貼文日期為 2025-10-29，Ondas 官方新聞稿同日公告收購 Insight 控制權。整理日補充查詢顯示 Ondas 2025 Form 10-K 稱 2025-10-27 完成 51% 控制權收購、現金對價約 `$3.5M`，但此補充不倒寫成大叔原始觀點。本篇未提供股價目標、成本價或買賣建議。
 - 新增：補入大叔美股筆記 Threads 社群短評《**ONDS** 收購 4M Defense：智慧掃雷與地下情資平台補上地面 AI》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251028-ondas-4m-defense-22b9e392`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md`，將本篇判定為 **ONDS** L4；重點為 4M Defense 的 Terrestrial Intelligence Platform、智慧掃雷、地雷 / IED / UXO 偵測、以色列防務工程能力與 **ONDS** #空地一體 / #DualUse thesis 的延伸。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。

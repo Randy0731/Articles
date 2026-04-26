@@ -5,6 +5,7 @@
 | 日期 | 檔案 | 來源 KOL / 來源 | 事件類型 | 母題標籤 | 交會等級 | 一句話結論 |
 |---|---|---|---|---|---|---|
 | 2026-04-24 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` | 大叔美股筆記 / Ondas 官方新聞稿 | 併購完成 / 國防合約 / backlog | #國防科技 #併購 #訂單合約 #DualUse #空地一體 #垂直整合 | L4 | Mistral 合併完成讓 **ONDS** 取得美軍 IDIQ 合約車輛、國內美國製造整合能力與約 `$457M` pro forma backlog，投資論述從平台敘事推進到 defense prime thesis 驗證。 |
+| 2025-10-29 | `Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md` | 大叔美股筆記 / Ondas 官方新聞稿 / SEC filing | 併購 / AI sensing / 光電感測 | #國防科技 #併購 #DualUse #垂直整合 #以色列併購 | L4 | Insight Intelligent Sensors 將 AI electro-optical sensing、SIM edge processing 與實戰驗證感知模組納入 **ONDS** OAS，補上大叔垂直整合 thesis 的「感知層 / 眼睛」。 |
 | 2025-10-28 | `Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md` | 大叔美股筆記 / Ondas 官方新聞稿 / SEC filing | 併購 / 智慧掃雷 / 地下情資平台 | #國防科技 #併購 #DualUse #空地一體 #以色列併購 | L4 | 4M Defense 將智慧掃雷、Terrestrial Intelligence Platform 與地表 / 地下威脅辨識納入 **ONDS** OAS 能力邊界，補強大叔的 AI + Robotics 國防應用與空地一體 thesis。 |
 | 2025-10-20 | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_LPTH紅外熱像與BlackDiamond感測器拼圖.md` | 大叔美股筆記 / LightPath 官方新聞稿 | 策略投資 / 紅外熱像 / 光學感測器 / 國防供應鏈 | #國防科技 #增發融資 #DualUse #垂直整合 #供應鏈風險 | L4 | Ondas 與 UMAC 各投 `$4M` 參與 LightPath `$8M` 私募，大叔將 **LPTH** BlackDiamond / 紅外熱像視為 **ONDS** 無人機生態系的感測器層拼圖。 |
 | 2025-10-20 | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_SafePro策略投資與AI視覺拼圖.md` | 大叔美股筆記 / Safe Pro 官方新聞稿 | 策略投資 / AI 威脅偵測 / 國防無人機整合 | #國防科技 #增發融資 #DualUse #垂直整合 | L4 | Ondas 領投 Safe Pro `$14M` 私募案，讓大叔把 **ONDS** 無人機平台與 Safe Pro AI threat detection / tactical edge 影像分析連成垂直整合拼圖。 |
