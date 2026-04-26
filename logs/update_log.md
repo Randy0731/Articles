@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 2026-01-02 Threads 短評《**ONDS** Sentrycs 羅馬尼亞 / 布加勒斯特機場：國家級 C-UAS 標準模組論點》，source_id 為 `大叔美股筆記-20260102-ondas-sentrycs-romania-cuas-7cf56070`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將本篇判定為 **ONDS** L3 Sentrycs / national C-UAS architecture thesis；重點為大叔把 Sentrycs LinkedIn December Bulletin 中的 Romania / Bucharest airport authority / national-agency demo，解讀為 **ONDS** 從反無人機設備商走向國家級 C-UAS 標準模組候選。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md` 與 `indexes/theme_index.md`。
+- 備註：使用者於對話提供 Threads 截圖，截圖可讀；Sentrycs LinkedIn 原文可讀並提到 Romania、Bucharest airport authority、Defense Forces / Police / SPP / SRI / Navy / Border Forces 等代表，以及 20 km detection / tracking 等能力。未另存 raw，OCR 狀態標「完整」。本篇不是同日新增 order、revenue、backlog、標準化採購或買賣建議；需追正式採購、deployment acceptance、second-country replication、OAS / Sentrycs revenue 與毛利率。
 - 新增：補入大叔美股筆記 2026-01-03 Facebook 短評《**ONDS** 搬總部到 West Palm Beach 與更名 Ondas Inc：佛州國防金融圈與平台化訊號》，source_id 為 `大叔美股筆記-20260103-ondas-west-palm-ondas-inc-99b2d035`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將本篇判定為 **ONDS** L3 公司定位 / institutional capital thesis；重點為大叔把 Ondas 官方 2026-01-02 計畫更名 Ondas Inc. 與 West Palm Beach 總部，解讀為從 Holdings 控股語境轉向 integrated operating platform，並靠近佛州國防、科技、金融、家族辦公室、避險基金與 institutional capital。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md` 與 `indexes/theme_index.md`。
