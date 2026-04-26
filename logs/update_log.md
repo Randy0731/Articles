@@ -1,5 +1,12 @@
 # Update Log
 
+## 2026-04-27
+
+- 新增：補入大叔美股筆記 Substack 付費文章《【大叔週報】 H.C. Wainwright 將ONDS 目標價喊到 `$25`》，建立 `KOL/大叔美股筆記/articles/20260121_onds_hc_wainwright_25_uncle.md`，source_id 為 `大叔美股筆記-20260121-onds-hc-wainwright-25-2277c6d4`。
+- 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260121_大叔美股筆記_onds_hc_wainwright_25_大叔美股筆記-20260121-onds-hc-wainwright-25-2277c6d4.pdf`；PDF 為 4 頁 image-only 截圖，p.1-p.3 為核心正文 / 結論，p.4 為推薦文章 / footer，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
+- 更新：同步更新 `KOL/大叔美股筆記/notes/大叔美股筆記.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260118_投資者日估值模型與14_25公允價值.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md` 與 `private/raw_manifest.local.yaml`。
+- 備註：本文判定為既有 2026-01-18 Investor Day / `$14.25` 估值模型 L4 里程碑的補充，不另開重複里程碑。大叔轉述 H.C. Wainwright 將 **ONDS** target price 由 `$12` 上調至 `$25`，並把 `>$1.5B` cash、2026 `$170M-$180M` outlook、2030 `$1.5B` target、`>$500M` sales pipeline 與 multiple active M&A targets 串成 platform re-rating thesis。`$25` 是 H.C. Wainwright 分析師目標價，不是大叔自身 target、公司 guidance、買點或本專案買賣建議；pipeline 不是 backlog / revenue，cash deployment、M&A ROI、gross margin 與 fully diluted shares 仍需後續驗證。
+
 ## 2026-04-26
 
 - 新增：補入大叔美股筆記 2026-01-19 Facebook 短評《**ONDS** mPrest / 鐵穹 C2 併購卡關：國防主權與 Drone-in-a-Box 確認》，source_id 為 `大叔美股筆記-20260119-ondas-mprest-imod-freeze-c2-453e2c27`。
