@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Facebook 短評《OMB ASDA 執行規則：**ONDS** / 美國無人機合規政策牆》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251202-omb-asda-secure-uas-policy-06d0cbae`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251202_OMB_ASDA政策牆與美國無人機合規護城河.md`，將本篇判定為 **ONDS** L4；重點為 OMB M-26-02 執行 American Security Drone Act，2025-12-22 起 federal funds 禁用 FASC-prohibited UAS，並要求 UAS 以 aircraft + IT system 納入採購與資安流程。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`、`indexes/watchlist_index.md`；**AVAV** / **RCAT** 判定為多次 L2 watchlist，**KTOS** 只作 L1 hashtag / 同業提及。
+- 備註：本次為補入舊文；Facebook 截圖顯示 2025-12-02 且文字可讀，OCR 狀態標「完整」。Facebook 原頁未登入狀態不可讀，因此以使用者截圖為 KOL 主來源，並用 OMB 官方 M-26-02 PDF 交叉確認 2025-11-21 memo、2025-12-22 生效日與 180 天 agency process 更新要求。本篇沒有股價目標、成本價或買賣建議，也不代表 **ONDS**、**AVAV**、**RCAT** 或 **KTOS** 已取得新合約。
 - 新增：補入大叔美股筆記 Substack 文章《Ondas **ONDS** 3500 萬美元戰略投資》，建立 `KOL/大叔美股筆記/articles/20251121_ondas_pdw_35m_strategic_investment_uncle.md`，source_id 為 `大叔美股筆記-20251121-ondas-pdw-35m-strategic-investment-22da79ca`。
 - 新增：複製使用者提供之完整網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20251121_大叔美股筆記_ondas_pdw_35m_strategic_investment_大叔美股筆記-20251121-ondas-pdw-35m-strategic-investment-22da79ca.pdf`；PDF 為 5 頁影像截圖，正文至 p.2，p.3-p.5 為留言、推薦文章與頁尾，OCR 狀態標「部分」。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md`，將本篇判定為 **ONDS** L4；重點為 Ondas 對 Performance Drone Works 的 `$35M` strategic investment，補上 C100 / FPV combat robotics 攻擊端，讓大叔的 OAS thesis 從防禦、偵察、通訊推進到完整無人機戰場生態系。
