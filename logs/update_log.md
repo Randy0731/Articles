@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Facebook 短評《**ONDS** CEO Eric Brock Form 4：OAS 權益換成母公司普通股》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251218-ondas-eric-brock-form4-oas-exchange-7ef911b0`。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為 SEC Form 4 顯示 Eric Brock / Privet Ventures LLC 申報 1,153,625 股、`$8.07`、transaction code `J`，註腳稱係依 OAS / ONDS Exchange Agreement 取得。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；使用者提供 Facebook 截圖可讀，OCR 狀態標「完整」。本篇是 2025-12-13 OAS exchange 的後續 Form 4 / management alignment 訊號，不是公開市場現金買入、不是買點、支撐或目標價；後續仍需用 OAS / Mistral / Sentrycs / PDW / RoboTeam revenue、margin、fully diluted shares 驗證。
 - 新增：補入大叔美股筆記 Substack 文章《【研究報告解讀】Stifel 對 Ondas **ONDS**：`$13` 目標價與 2030 平台整合模型》，建立 `KOL/大叔美股筆記/articles/20251217_stifel_ondas_13_uncle.md`，source_id 為 `大叔美股筆記-20251217-stifel-ondas-13-1b4d10a0`。
 - 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20251217_大叔美股筆記_stifel_ondas_13_大叔美股筆記-20251217-stifel-ondas-13-1b4d10a0.pdf`；PDF 為 4 頁影像截圖，無文字層，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3 主題個股文；重點為 Stifel 初評 Buy / `$13` 分析師目標價、國防無人機十年滲透、platform integrator / acquisition flywheel、YTD `$855M` new capital、2026E revenue `$151.3M`、2027E revenue `$290.0M` 與 2030 `$1B` revenue / 20% EBITDA margin 模型。
