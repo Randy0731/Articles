@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Facebook 短評《**ONDS** Hood River 13F 與 Drone ETF 文件：750 萬股機構持股訊號》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251031-ondas-hood-river-drone-etf-aa8e4ae0`。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L2；重點為 Hood River Capital Management 2025Q2 13F 顯示持有 **ONDS** 7,540,974 股、value `$14,478,670`，以及 Hood River Drone Innovators ETF N-1A / 485A 帶來的 drone ETF 題材能見度。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Facebook 截圖顯示 2025-10-31，使用者提供截圖可讀，OCR 狀態標「完整」。整理者以 SEC 官方文件核對後，7,540,974 股持股數字來自 Hood River Capital Management 2025Q2 Form 13F-HR，而大叔貼文中的 Hood River Drone Innovators ETF SEC 連結是 N-1A / 485A 文件，不直接等同 ETF 已持有 **ONDS**；本文未提供股價目標、成本價或買賣建議。
 - 新增：補入大叔美股筆記 Facebook 短評《**ONDS** Optimus 1-EX Green UAS：政府採購信任門檻補強》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251031-ondas-optimus-green-uas-3ebc874e`。
 - 新增：建立 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為 American Robotics Optimus 1-EX 取得 AUVSI Green UAS certification，與 DIU Blue UAS 路徑對齊，補強政府 / 企業部署時的資安、供應鏈與可信度門檻。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
