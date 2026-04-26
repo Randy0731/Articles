@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack Note《**ONDS** Iron Drone Raider：Securiton Germany 選為 Bundeswehr C-UAS 動能攔截方案》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251108-ondas-securiton-iron-drone-6087a62c`。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為 Securiton Germany 選擇 Iron Drone Raider 作為其向德國聯邦國防軍提供的 c-UAS 系統中的動能攔截方案，補強 **ONDS** Iron Drone Raider 在歐洲防務 / critical security pipeline 的產品驗證。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack metadata 顯示 2025-11-08 12:55 UTC，Note 文字可讀，OCR 狀態標「不適用」。X 原文外部讀取受限；Ondas 2025-11-13 Q3 official release / SEC exhibit 後續確認 Securiton Germany selection 與德國整合 / 展示背景。本文未披露合約金額、採購數量或 Bundeswehr 正式 award，不提供買賣建議。
 - 新增：補入大叔美股筆記 Facebook 短評《美軍 100 萬架無人機採購：**AVAV** / **RCAT** / **ONDS** / **TDY** 產業分流》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251108-us-army-1m-drones-72bd47a8`。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇對 **ONDS** 判定為 L2；重點為美軍低成本、可消耗、大規模無人機採購計畫強化 Sentrycs C-UAS、mission-critical wireless / autonomous systems 與本土供應鏈需求背景，但不寫成 **ONDS** 已取得訂單。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`、`indexes/watchlist_index.md`；**AVAV** / **RCAT** 判定為單篇 L2 watchlist，**TDY** 為 L1 供應鏈提及。
