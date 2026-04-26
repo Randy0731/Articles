@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入使用者 Notion 摘要《**ONDS** 北約市場分析：C-UAS 國安處女地、Patrick Huston 與 `$20` 情境價》，source_id 為 `Notion-20251019-ondas-nato-market-analysis-9e6fe5a8`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；將本篇判定為 **ONDS** L3 NATO market / C-UAS valuation framework，重點為美國 4,000 據點範例、NATO 32 國外推、Patrick Huston strategic capital、Rift / Wåsp、James Acuna 與 Iron Drone Raider 歐洲訂單。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次以使用者貼上 Notion 摘要為主，Notion 未另驗證且未提供原始聊天室頁碼，因此不收入逐字長引文。`$20` 是大叔情境價 / options discussion anchor，不是正式目標價、買點或買賣建議；2027 / 2028 calls 為高風險衍生品討論；4,000 據點 * 3 套 * `$100K` 與 40% 利潤均為粗估假設，不是 **ONDS** revenue、backlog 或 guidance。
 - 新增：補入使用者 Notion 摘要《**ONDS** 關鍵基礎設施 TAM 粗算：142,000 據點、426,000 套系統與 `$50` / `$60` 情境價》，source_id 為 `Notion-20251019-ondas-critical-infrastructure-valuation-f05057d2`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `KOL/Lawrence/notes/Lawrence筆記.md`；大叔部分記錄 `$42.6B` / `$60B-$90B` TAM 與 `$50` 情境價，Lawrence 部分只記錄 `$60` 群友喊價 / sentiment，避免混成大叔觀點。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，並更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`。
