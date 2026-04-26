@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 2026-01-02（推估）Facebook 短評《#ONDS 2025 年度表現的核心要點》，source_id 為 `大叔美股筆記-20260102-ondas-2025-performance-recap-1457c77b`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將本篇判定為 **ONDS** L3 年度 thesis recap；重點為大叔整理 2025 年股價 +271%、52 週 `$0.57-$11.70`、高成交量、Sentrycs / Roboteam 等併購、Optimus / 機場 C-UAS / 邊境標案與人才 / partner network 補強。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md` 與 `indexes/theme_index.md`；**KOPN** / **SPAI** / **PLTR** 僅作 **ONDS** 投資 / 合作 / partner 脈絡提及，不建立個股專案。
+- 備註：使用者於對話提供 Facebook 貼文截圖與資訊圖，截圖可讀，未另存 raw，OCR 狀態標「完整」。本篇是年度回顧，不是 2026-01-02 新訂單、目標價或買賣建議；`8,360 萬` / 約 `2.2 億` 成交量與部分金額需後續按 market data / 官方公告校準。
 - 新增：補入大叔美股筆記 Substack 付費文章《拆解 $ONDS 增發 4 億授權股的背後》，建立 `KOL/大叔美股筆記/articles/20260411_onds_authorized_shares_4b_uncle.md`，source_id 為 `大叔美股筆記-20260411-onds-authorized-shares-4b-d97d56c6`。
 - 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260411_大叔美股筆記_onds_authorized_shares_4b_大叔美股筆記-20260411-onds-authorized-shares-4b-d97d56c6.pdf`；PDF 為 5 頁 image-only 截圖，p.1-p.3 為核心正文，p.4 為免責聲明 / 留言，p.5 為推薦文章 / footer，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260411_授權股本增至12億與併購彈藥.md`，將本篇判定為 **ONDS** L4；重點為大叔把 Proposal 4 授權普通股從 8 億增至 12 億，解讀為大型併購 / platform expansion 彈藥與防禦牌，而非立即 ATM 或已發行 4 億股。
