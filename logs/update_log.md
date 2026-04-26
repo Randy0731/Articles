@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack Note《**ONDS** 投資 Drone Fight Group：烏克蘭實戰 FPV 攻擊端拼圖》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251208-ondas-dfg-11m-investment-d96bc080`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251208_DFG烏克蘭FPV攻擊端拼圖.md`，將本篇判定為 **ONDS** L4；重點為 Ondas Capital 計畫投資最高 `$11M` in Drone Fight Group，補上烏克蘭戰場驗證、低成本、可消耗 FPV / ISR / simulator 攻擊端拼圖。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack metadata 顯示 2025-12-08 17:28 UTC，正文 metadata 可讀但有一處編碼瑕疵，不影響核心整理。Ondas 官方 2025-12-08 新聞稿確認 intent to invest up to `$11M` in DFG，並明示 subject to finalization of terms、definitive agreement and compliance requirements；本篇不是已完成收購、訂單、backlog 或 revenue，未提供股價目標或買賣建議。
 - 新增：補入大叔美股筆記 Facebook 短評《**ONDS** Brent Laing 加入 Ondas Networks Board：dot16 鐵路通訊標準化》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251204-ondas-brent-laing-dot16-c08713ca`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251204_BrentLaing與dot16鐵路通訊標準化.md`，將本篇判定為 **ONDS** L4；重點為大叔把 Ondas Networks / FullMAX / IEEE 802.16t 從 OAS 之外拉成第二引擎 thesis，並以 Brent Laing 的 Class I railroad / AREMA 背景與 AAR dot16 upgrade path 作為核心證據。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
