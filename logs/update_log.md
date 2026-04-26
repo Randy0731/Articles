@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack 文章《**ONDS** Ondas Holdings 旗下 4M Defense 和 Safe Pro Group 完成中東試點項目》，建立 `KOL/大叔美股筆記/articles/20251218_ondas_4m_safepro_middle_east_pilot_uncle.md`，source_id 為 `大叔美股筆記-20251218-ondas-4m-safepro-middle-east-pilot-607e06c5`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251218_4M_SafePro中東排雷試點.md`，將本篇對 **ONDS** 判定為 L4；重點為 4M Defense + Safe Pro 完成中東八週 AI 排雷試點，約 22 英畝內辨識近 150 個 hazard indicators、約 60 個 confirmed landmines / UXO，驗證 4M land intelligence + Safe Pro SPOTD + drone imagery 的垂直整合。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`、`indexes/watchlist_index.md`；**SPAI** 判定為多次 L2 watchlist，尚不建立 `Stocks/SPAI/`。
+- 備註：本次為補入舊文；Substack 文章與 Ondas / Safe Pro 官方新聞稿文字可讀，OCR 狀態標「不適用」。本事件是產品試點 / field validation，不是長期合約、正式採購、backlog、revenue 或買賣建議；後續需追 government / NGO / reconstruction customer adoption、contract value、revenue recognition、gross margin 與 OAS / Mistral 合約車輛是否放大。
 - 新增：補入大叔美股筆記 Substack Note《**ONDS** 完成 Roboteam 收購：空中 + 地面 autonomy 拼圖補齊》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251218-ondas-roboteam-acquisition-complete-56d775ee`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md`，將本篇判定為 **ONDS** L4；重點為 Ondas 完成 Robo-Team / Roboteam 100% 收購、約 `$81.7M` 現金對價、UGV / ground robotics 補上 air + ground autonomy 拼圖。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
