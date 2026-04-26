@@ -1,6 +1,6 @@
 # ONDS 投資儀表板
 
-> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；補入大叔 2025-12-23 airport C-UAS / 「賣鏟子」框架，屬歷史 L3 市場定位與機場空域安全需求訊號，未改寫最新 Mistral 立場）
+> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；補入大叔 2025-11-02 DHS / FEMA C-UAS grant，屬歷史 L2 政策資金池 / demand backdrop，未改寫最新 Mistral 立場）
 
 ## 當前立場快照
 
@@ -14,6 +14,7 @@
 - **本次補入的 Form 4 補充**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔解讀 Eric Brock / Privet Ventures LLC Form 4：1,153,625 股、`$8.07`、transaction code `J`，屬 OAS exchange 相關 other acquisition；這是管理層 alignment 訊號，不是公開市場現金買入、買點或目標價。
 - **本次補入的 Patrick Huston COO 補充**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔解讀退役陸軍准將 Patrick Huston 升任 COO 為 **ONDS** 「軍事化」與「合規化」訊號；官方 / 8-K 確認其自 2025-12-16 起任 COO、General Counsel and Secretary，負責 operational scale、acquisition integration、legal / regulatory / compliance / governance。這是 government contracting readiness，不是訂單、backlog 或 revenue。
 - **本次補入的 airport C-UAS / 「賣鏟子」補充**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔將機場無人機干擾視為「不得不解決」的昂貴營運痛點，並把 **ONDS** 放在 C-UAS / airspace security 基礎設施供應商位置。這是 market positioning / demand thesis，不是新訂單、backlog 或 revenue。
+- **本次補入的 DHS / FEMA C-UAS grant 補充**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示 DHS / FEMA C-UAS Grant Program 提供兩個財政年度合計 `$500M` 資金池，FY2026 優先 FIFA World Cup 2026 / America 250 相關州與 NCR。這是 public safety / critical infrastructure C-UAS 預算背景，不是 **ONDS** 已得標、backlog 或 revenue。
 
 ## 關鍵價位追蹤
 
@@ -46,6 +47,7 @@
 |---|---|---|---|---|
 | Mistral / World View 併購後 backlog 能否轉成收入與毛利？ | 2026-04-26 | task order、10-Q revenue、gross margin、cash conversion | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` | 待追蹤 |
 | airport C-UAS / 「賣鏟子」框架能否轉成更多機場部署與收入？ | 2026-04-26 | Iron Drone Raider / Optimus / OAS airport deployments、airport authority contract、critical infrastructure customer announcement、10-Q revenue / backlog、gross margin | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
+| DHS / FEMA C-UAS grant 是否轉成 **ONDS** 下游採購或 OAS revenue？ | 2026-04-26 | FEMA award notices、SAA / subrecipient procurement、FIFA World Cup / America 250 / critical infrastructure C-UAS deployments、vendor selection、OAS revenue / backlog | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | Patrick Huston COO / GC 的軍事化與合規化能否轉成政府合約執行力？ | 2026-04-26 | DoD / allied agency award、IDIQ task order、program delivery、compliance gating、OAS / Mistral / Roboteam / Sentrycs revenue、gross margin | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | Roboteam UGV / ground robotics 能否把 air + ground thesis 轉成 revenue、毛利與可售系統？ | 2026-04-26 | 2026 revenue 是否接近至少 `$30M` expectation、`$20M+` orders fulfillment、OAS / Mistral / Sentrycs product bundle、gross margin、operating cash flow、goodwill / intangible amortization | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md` | 待追蹤 |
 | 4M + Safe Pro 中東 pilot 能否轉成正式合約、revenue 與 mission solution？ | 2026-04-26 | government / NGO / reconstruction customer adoption、contract value、revenue recognition、gross margin、Mistral / OAS contract vehicle task order | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_4M_SafePro中東排雷試點.md` | 待追蹤 |
@@ -81,6 +83,7 @@
 |---|---|---|---|---|
 | IDIQ 合約車輛不等於保證採購 | 高 | 沒有具體 task order、交付或收入認列 | task order、8-K、10-Q backlog 轉 revenue | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 | airport C-UAS / 「賣鏟子」框架被誤讀為已取得機場採購 | 高 | 市場把機場無人機痛點或管理層 market positioning 直接寫成新訂單、backlog 或 revenue | 8-K、airport authority award、客戶公告、10-Q revenue / backlog、gross margin | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
+| DHS / FEMA C-UAS grant 被誤讀為 **ONDS** 已得標 | 高 | 市場把 `$500M` grant funding pool 直接寫成 **ONDS** 訂單、backlog 或 revenue | FEMA award notice、state / local procurement、vendor selection、8-K、10-Q OAS revenue / backlog | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Patrick Huston COO 任命被誤讀為已取得政府合約 | 高 | 市場把 military / legal / compliance background 直接寫成 DoD award、task order、backlog 或 revenue | 8-K、contract award、USAspending、customer announcement、10-Q backlog / revenue | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Roboteam 現金收購被過度解讀為 free cash flow 已改善 | 高 | 市場把 revenue / net income 或大叔「立刻有現金流」語句直接寫成自由現金流已兌現 | operating cash flow、working capital、inventory、deferred revenue、gross margin、purchase accounting、goodwill impairment | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md` |
 | 4M + Safe Pro pilot 被誤讀為已取得長期合約或收入 | 高 | 市場把八週 field validation 寫成政府採購、UN / NGO 合約、backlog 或 recurring revenue | 8-K、客戶公告、contract value、revenue recognition、gross margin、deployment count | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_4M_SafePro中東排雷試點.md` |

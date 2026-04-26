@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 2025-11-02 Facebook 短評 / X 轉貼《DHS / FEMA C-UAS 補助計畫：`$500M` 資金池與 FIFA / America 250 安保需求》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251102-dhs-fema-cuas-grant-30e70ba5`。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L2 C-UAS policy funding pool / demand backdrop；重點為 DHS / FEMA Assistance Listing `97.161`、申請期 2025-10-28 至 2025-12-05、兩個財政年度合計 `$500M`、FY2026 優先 FIFA World Cup 2026 / America 250 相關州與 NCR。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`；並修正 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 文章索引中 2025-12-23 / 2025-12-21 的倒序位置。
+- 備註：本篇是 C-UAS public safety / critical infrastructure 資金池與政策順風，不是 **ONDS** 訂單、backlog、revenue、股價目標或買賣建議；使用者提供 Facebook 截圖可讀，X 原頁外部讀取受限，核心日期與金額以 DHS / FEMA NOFO / Grants.gov 交叉確認。
 - 新增：補入大叔美股筆記 Substack 文章《✈️ 機場大亂？無人機滿天飛！#ONDS 如何做那個聰明人？》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251223-ondas-airport-drone-shovels-98cbba60`。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為大叔把機場無人機干擾定位為昂貴痛點，並以「賣鏟子」框架解讀 **ONDS** 的 C-UAS / airspace security 基礎設施供應商位置。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`；並補齊 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 頂部索引中前一筆 Patrick Huston COO 補入列。
