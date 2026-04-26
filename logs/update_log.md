@@ -2,6 +2,11 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack 付費文章《內部備忘錄：#ONDS SEC 文件揭密》，建立 `KOL/大叔美股筆記/articles/20260110_onds_sec_filing_death_spiral_uncle.md`，source_id 為 `大叔美股筆記-20260110-onds-sec-filing-death-spiral-c75ee6d8`。
+- 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260110_大叔美股筆記_onds_sec_filing_death_spiral_大叔美股筆記-20260110-onds-sec-filing-death-spiral-c75ee6d8.pdf`；PDF 為 8 頁 image-only 截圖，p.1-p.5 為正文與官方文件，p.6-p.8 為留言 / 推薦文章，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260110_SEC文件毒債清除與28權證.md`，將本篇判定為 **ONDS** L4；重點為大叔把 2025/10 後賣壓歸因於 2022-2024 舊可轉債 reset / acceleration overhang，並用 2025-07-18 all convertible notes retired 與 2026-01-09 `$16.45` / `$28` financing 推論新機構 alignment。
+- 更新：同步更新 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 文章索引、`Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：官方 Ondas 2026-01-09 新聞稿與 SEC 424B5 確認 `$1B` offering、`$16.45` combined offering price、`$28.00` common warrant exercise price、121,580,548 common warrants 與 potential `$3.4B` additional gross proceeds if fully cash-exercised；Ondas 2025-07-21 官方稿確認截至 2025-07-18 已無 outstanding convertible notes。`$28` 是權證履約價 / 大叔推論錨，不是正式目標價、買點或本專案建議；毒債清除不等於沒有 future warrant / resale / M&A 稀釋風險。
 - 新增：補入大叔美股筆記 2025-12-07 Facebook 短評《**ONDS** Fintel 機構持股暴增：1.1 億股與籌碼鎖定訊號》，source_id 為 `大叔美股筆記-20251207-ondas-fintel-institutional-ownership-e973e112`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L2 institutional ownership / 籌碼訊號；重點為大叔把 Fintel Dec 2025 institutional ownership 從低位跳升至 `110,000 x1000` shares 以上，解讀為機構共識、股價反彈背後的機構買盤與籌碼鎖定。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
