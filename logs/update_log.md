@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入 Benzinga / Dailymotion 2025-10 Eric Brock CEO 訪談整理，source_id 為 `Benzinga-20251020-ondas-eric-brock-ceo-interview-2b2298e0`。
+- 更新：追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3 管理層訪談；重點為 Brock 將 **ONDS** 定位為 dual-use autonomous systems / C-UAS / ISR / ground robotics 整合者，提出十年繁榮、產業整合者與資本彈藥框架。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`。
+- 備註：Notion 外部讀取 404；本次以使用者貼上整理與 Dailymotion transcript 為主，並以 Ondas 2025-11-13 Q3 official release、2026-03-23 FY2025 official release、AUSA / Wåsp 官方頁面交叉校準。訪談未提供股價目標或買賣建議；`$25M` / doubling 是 2025-10 訪談語境，已被後續官方 Q3 guidance supersede，整理日官方 FY2025 release 又顯示 FY2025 revenue `$50.7M`、2026 revenue target 至少 `$375M`；no near-term raise 是時間敏感 management statement，不可寫成保證。
 - 新增：補入大叔美股筆記 2025-12-03 Facebook 短評《**ONDS** Oppenheimer Roboteam 收購報告：`$80M` 現金交易與空地一體整合》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251203-ondas-oppenheimer-roboteam-99a4b6fb`。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為大叔轉述 Oppenheimer 2025-12-01 company update《Acquiring Roboteam: Highly Synergistic Deal》，維持 Outperform / `$12` target，並把 Roboteam 收購解讀為 air + ground autonomy synergy。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
