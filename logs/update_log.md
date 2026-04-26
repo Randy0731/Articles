@@ -2,6 +2,11 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack 文章《【研究報告解讀】Stifel 對 Ondas **ONDS**：`$13` 目標價與 2030 平台整合模型》，建立 `KOL/大叔美股筆記/articles/20251217_stifel_ondas_13_uncle.md`，source_id 為 `大叔美股筆記-20251217-stifel-ondas-13-1b4d10a0`。
+- 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20251217_大叔美股筆記_stifel_ondas_13_大叔美股筆記-20251217-stifel-ondas-13-1b4d10a0.pdf`；PDF 為 4 頁影像截圖，無文字層，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3 主題個股文；重點為 Stifel 初評 Buy / `$13` 分析師目標價、國防無人機十年滲透、platform integrator / acquisition flywheel、YTD `$855M` new capital、2026E revenue `$151.3M`、2027E revenue `$290.0M` 與 2030 `$1B` revenue / 20% EBITDA margin 模型。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：`$13` 僅記為 Stifel 2025-12-15 初評分析師目標價，不是大叔自身目標價、買點或本專案買賣建議；整理日補充顯示後續公開市場報導已有 Stifel target updates，查詢時需按日期區分，不得把舊 target 當成最新 sell-side view。
 - 新增：補入大叔美股筆記 Facebook 短評《**ONDS** OAS 股權回收：100% 控制權與 Q4 非現金費用》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251213-ondas-oas-exchange-noncash-charge-d04feb04`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251213_OAS股權回收與非現金費用.md`，將本篇判定為 **ONDS** L4；重點為 OAS notes / warrants / OAS common stock exchange，把子公司層級權利換成母公司 ONDS common stock，改善 OAS ownership / governance clarity，但帶來新股稀釋與 2025Q4 one-time non-cash charge headline risk。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
