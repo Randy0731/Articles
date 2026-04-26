@@ -1,13 +1,13 @@
 # ONDS 投資儀表板
 
-> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md`；補入 Sentrycs / CoRF 反無人機併購舊文，未改寫最新 Mistral 立場）
+> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；補入美軍 100 萬架無人機採購產業分流舊文，未改寫最新 Mistral 立場）
 
 ## 當前立場快照
 
 - **綜合立場**：國防 prime contractor thesis 初步成形，但需用 backlog 轉 revenue、毛利率與 task order 驗證。
 - **大叔最新立場**：資訊分享偏多；轉述 Ondas 完成 Mistral 合併與 backlog 增加，未提供價位或操作。
 - **依據篇章**：`Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md`
-- **歷史脈絡**：`Stocks/ONDS/milestones/ONDS_里程碑_20250818_ApeiroMotion收購協議.md` 是大叔 **ONDS** 空地一體、以色列併購與 P/S 小於 1 倍併購模板的早期 L4 來源；`Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md` 建立 Rift 戰略投資、Wåsp 美國獨家分銷與可消耗無人機產品線的商業化路徑；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` 補上 `$425M` 融資、`$11.50` 機構成本與 warrants / 授權股稀釋的資本結構脈絡；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_SafePro策略投資與AI視覺拼圖.md` 把 Safe Pro AI threat detection 納入 **ONDS** #垂直整合 與 #DualUse 拼圖；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_LPTH紅外熱像與BlackDiamond感測器拼圖.md` 補上 LightPath 紅外熱像 / BlackDiamond 感測器層；`Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md` 則把 4M Defense 智慧掃雷、TIP 與地下威脅辨識接到 #空地一體 / #以色列併購 thesis；`Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md` 補上 Insight SIM / AI electro-optical sensing，讓平台、感測、AI 判讀與任務行動的閉環更完整；`Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md` 補上 Sentrycs CoRF / protocol-layer C-UAS 接管層，使 Iron Drone Raider 的動能攔截前段多了非干擾、合規緩解與 25 國部署基礎。
+- **歷史脈絡**：`Stocks/ONDS/milestones/ONDS_里程碑_20250818_ApeiroMotion收購協議.md` 是大叔 **ONDS** 空地一體、以色列併購與 P/S 小於 1 倍併購模板的早期 L4 來源；`Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md` 建立 Rift 戰略投資、Wåsp 美國獨家分銷與可消耗無人機產品線的商業化路徑；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` 補上 `$425M` 融資、`$11.50` 機構成本與 warrants / 授權股稀釋的資本結構脈絡；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_SafePro策略投資與AI視覺拼圖.md` 把 Safe Pro AI threat detection 納入 **ONDS** #垂直整合 與 #DualUse 拼圖；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_LPTH紅外熱像與BlackDiamond感測器拼圖.md` 補上 LightPath 紅外熱像 / BlackDiamond 感測器層；`Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md` 則把 4M Defense 智慧掃雷、TIP 與地下威脅辨識接到 #空地一體 / #以色列併購 thesis；`Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md` 補上 Insight SIM / AI electro-optical sensing，讓平台、感測、AI 判讀與任務行動的閉環更完整；`Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md` 補上 Sentrycs CoRF / protocol-layer C-UAS 接管層，使 Iron Drone Raider 的動能攔截前段多了非干擾、合規緩解與 25 國部署基礎；`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 的 2025-11-08 美軍 100 萬架無人機採購短評，將 Sentrycs C-UAS、mission-critical wireless 與美國本土 autonomous systems 供應鏈放進更大的 Army attritable drone 採購背景。
 
 ## 關鍵價位追蹤
 
@@ -39,6 +39,7 @@
 | LightPath BlackDiamond / 紅外熱像感測器能否整合進 OAS / UMAC drone ecosystem？ | 2026-04-26 | **LPTH** camera / optics revenue、**ONDS** OAS product update、American Robotics / Airobotics / Apeiro / Mistral 整合、客戶部署與 backlog | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_LPTH紅外熱像與BlackDiamond感測器拼圖.md` | 待追蹤 |
 | Insight SIM / AI electro-optical sensing 能否整合進 OAS 任務系統並轉成部署 / 收入？ | 2026-04-26 | Optimus、Iron Drone Raider、Apeiro、Mistral / OAS 任務系統整合；government / commercial programs；serial production；OAS revenue / backlog | `Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md` | 待追蹤 |
 | Sentrycs CoRF / C-UAS 接管層能否整合進 OAS detect-to-defeat solution？ | 2026-04-26 | Iron Drone Raider、Optimus、Mistral 合約車輛與 OAS mission solution 整合；defense / homeland security task order；C-UAS revenue mix | `Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md` | 待追蹤 |
+| 美軍 100 萬架無人機採購計畫能否轉成 **ONDS** 的 C-UAS / mission-critical wireless / OAS task order？ | 2026-04-26 | Army procurement program details、Blue UAS / supplier lists、C-UAS program、Mistral 合約車輛、OAS revenue / backlog | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | Optimus Green UAS / DCMA Blue List 能否轉成政府採購與部署收入？ | 2026-04-26 | rapid federal procurement、DoD / DHS / state government / critical infrastructure program award、task order、部署數量、OAS revenue / backlog | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | Hood River 13F 持股與 Drone ETF 題材能否延續成實際機構需求？ | 2026-04-26 | 後續 13F / 13G / 13G/A、Drone ETF 是否生效、正式 holdings disclosure、**ONDS** 權重與申購規模 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | 4M Defense TIP / 智慧掃雷能否轉成可持續 tender、revenue 與 OAS 整合？ | 2026-04-26 | Israel / Ukraine / global tender awards、4M revenue / backlog、TIP 與 OAS / Safe Pro / LightPath / Mistral / Apeiro integration | `Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md` | 待追蹤 |
@@ -56,6 +57,7 @@
 | LightPath 策略投資未轉成感測器採購、設計導入或收入 | 高 | **LPTH** BlackDiamond / 紅外熱像技術沒有進入 **ONDS** 或 **UMAC** 產品與客戶部署 | OAS product update、LightPath camera / optics revenue、design win、10-Q、客戶公告 | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_LPTH紅外熱像與BlackDiamond感測器拼圖.md` |
 | Insight AI sensing 未轉成 OAS 可銷售方案 | 高 | SIM / electro-optical sensing 沒有整合進 Optimus、Iron Drone Raider、Apeiro、Mistral 或其他任務系統 | OAS product update、program win、客戶公告、backlog、revenue mix、gross margin | `Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md` |
 | Sentrycs CoRF / C-UAS 接管層未轉成可銷售方案 | 高 | CoRF 沒有與 Iron Drone Raider、Optimus、Mistral 或其他 OAS 任務系統形成可部署 detect-to-defeat offering | OAS product update、program win、task order、backlog、C-UAS revenue mix、gross margin | `Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md` |
+| 宏觀採購預算被誤讀為 **ONDS** 已取得訂單 | 高 | 美軍 100 萬架無人機採購計畫沒有轉成 **ONDS** 具體 award、task order 或 revenue | Army / DoD award、USAspending、8-K、OAS revenue、backlog、C-UAS program disclosure | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Green UAS / Blue List 被誤讀為已取得採購 | 高 | 認證或清單狀態沒有轉成政府合約、task order 或 revenue | program award、8-K、客戶公告、OAS revenue、backlog | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Hood River 13F / Drone ETF 題材被誤讀為已形成被動買盤 | 中 | 市場把 2025Q2 13F 持股或 ETF N-1A 文件直接解讀為 ETF 已持有 **ONDS** 或機構需求保證延續 | 13F / 13G 變化、ETF effective filing、正式 holdings disclosure、基金網站持倉 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | 4M Defense 排雷 TAM 與技術速度未轉成可驗證收入 | 高 | 全球排雷需求、4 倍速度與低成本敘事沒有轉成 tender、部署、revenue 或毛利 | 4M tender wins、contract value、backlog、revenue recognition、gross margin、deployment metrics | `Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md` |

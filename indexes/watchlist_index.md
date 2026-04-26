@@ -6,6 +6,8 @@
 
 | Ticker | 首次日期 | 最近日期 | 來源 KOL | 觸發原因 | 目前狀態 | 升級條件 |
 |---|---|---|---|---|---|---|
+| **AVAV** | 2025-11-08 | 2025-11-08 | 大叔美股筆記 | 大叔在美軍 100 萬架無人機採購短評中，將 AeroVironment 的 Switchblade、Puma / Raven、既有產線與長期合約關係列為最直接、最穩固的 sUAS 受益方向 | 觀察中；單篇 L2，不建立 Stocks 專案 | 若後續出現 U.S. Army 相關 award、Switchblade / Puma / Raven 大量採購、產能擴張、營收 / backlog 明確增量、更多 KOL L2+，或使用者要求追蹤，升級為 Stocks 專案 |
+| **RCAT** | 2025-11-08 | 2025-11-08 | 大叔美股筆記 | 大叔將 Red Cat / Teal Drones 放在 Blue UAS 與低成本即時偵察 ISR / FPV 無人機受益段落，認為符合美軍大規模、低成本採購方向 | 觀察中；單篇 L2，不建立 Stocks 專案 | 若後續出現 Teal / Blue UAS program award、DoD / Army task order、產能與交付驗證、收入 / backlog 明確增量、更多 KOL L2+，或使用者要求追蹤，升級為 Stocks 專案 |
 | **SPAI** | 2025-10-20 | 2025-10-20 | 大叔美股筆記 | 大叔將 Safe Pro 視為 **ONDS** 無人機平台的 AI threat detection / tactical edge 視覺分析拼圖；Safe Pro `$14M` 私募案由 Ondas 領投，官方稱 proceeds 用於 AI computer vision 與 threat detection 開發 / 整合 | 觀察中；單篇 L2，不建立 Stocks 專案 | 若後續出現 Safe Pro 與 Ondas OAS 產品整合、軍方 / 人道任務部署、收入 / backlog、更多 KOL L2+，或使用者要求追蹤，升級為 Stocks 專案 |
 | **LPTH** | 2025-10-20 | 2025-10-20 | 大叔美股筆記 | 大叔將 LightPath 的 BlackDiamond / 紅外熱像頭視為 **ONDS** 無人機生態系的「眼睛」層；官方新聞稿顯示 Ondas 與 UMAC 各投 `$4M` 參與 **LPTH** `$8M` 私募，支援 drone applications commercialization | 觀察中；單篇 L2，不建立 Stocks 專案 | 若後續出現 **LPTH** 與 Ondas / UMAC 產品整合、紅外熱像系統訂單、BlackDiamond 取代 Germanium 的量產 / 毛利驗證、更多 KOL L2+，或使用者要求追蹤，升級為 Stocks 專案 |
 | **VST** | 2026-01-10 | 2026-01-10 | 大叔美股筆記 | 大叔把 Meta 6.6 GW 核能採購視為 Vistra 既有核電資產與現金流的 L2 受益訊號 | 觀察中 | 若後續出現更多 KOL L2+、正式 PPA / 升級 CAPEX / 現金流數字，或使用者要求追蹤，升級為 Stocks 專案 |

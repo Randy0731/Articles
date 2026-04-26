@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Facebook 短評《美軍 100 萬架無人機採購：**AVAV** / **RCAT** / **ONDS** / **TDY** 產業分流》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251108-us-army-1m-drones-72bd47a8`。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇對 **ONDS** 判定為 L2；重點為美軍低成本、可消耗、大規模無人機採購計畫強化 Sentrycs C-UAS、mission-critical wireless / autonomous systems 與本土供應鏈需求背景，但不寫成 **ONDS** 已取得訂單。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`、`indexes/watchlist_index.md`；**AVAV** / **RCAT** 判定為單篇 L2 watchlist，**TDY** 為 L1 供應鏈提及。
+- 備註：本次為補入舊文；Facebook 截圖顯示 2025-11-08 且文字可讀，OCR 狀態標「完整」。Facebook 原頁未登入狀態不可讀；Reuters 原頁外部讀取受限，因此以使用者提供截圖與 ArmyRecognition 的 Reuters 轉述可讀來源交叉確認「兩到三年內至少 100 萬架」核心採購規模。本篇未提供股價目標、成本價或買賣建議。
 - 新增：補入大叔美股筆記 Substack Note《**ONDS** 收購 Sentrycs：CoRF 反無人機接管層補上 OAS 防空拼圖》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251104-ondas-sentrycs-cuas-f3244854`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md`，將本篇判定為 **ONDS** L4；重點為 Sentrycs Cyber-over-RF / protocol-layer C-UAS detection and takeover 補上 Iron Drone Raider 動能攔截前段，使 **ONDS** C-UAS thesis 從攔截器推進到 full-spectrum detect-to-defeat 架構。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
