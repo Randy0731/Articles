@@ -2,6 +2,11 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-01-28 Substack 短文《**ONDS** Optimus DCMA Blue List：Blue UAS 採購資格與 Drone-in-a-Box 路徑》，source_id 為 `大叔美股筆記-20260128-ondas-optimus-blue-uas-1ca73921`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260128_Optimus_DCMA_BlueList採購資格.md`，將本篇判定為 **ONDS** L4；重點為大叔把 American Robotics Optimus drone 取得 DCMA Blue List status 解讀為美國國防 / 聯邦採購入口與 Blue UAS 通行證。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，並更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。
+- 備註：Substack 全文可讀，Ondas 官方 2026-01-28 新聞稿確認 Optimus drone granted Blue List status by DCMA，並稱可降低 federal procurement 摩擦、加快 contracting timelines；本篇是 2025-10-30 Green UAS certification 的後續正面節點。大叔文中 `$25` 是分析師目標價語境，不是大叔新增 target；`$500M pipeline` 不是 backlog 或 revenue。Blue List 不等於 DoD / DHS 已採購、task order、backlog、revenue 或排他護城河，不提供買賣建議。
+
 - 新增：補入大叔美股筆記 2026-01-27 Facebook 短評《**ONDS** AAR / Airlink dot16：鐵路通訊基礎設施供應商 thesis》，source_id 為 `大叔美股筆記-20260127-onds-aar-airlink-dot16-9ce122fd`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，並補充既有 `Stocks/ONDS/milestones/ONDS_里程碑_20251204_BrentLaing與dot16鐵路通訊標準化.md`；同步更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。
 - 備註：使用者於對話提供 Facebook 截圖，截圖文字可讀；YoYInvestor X 原頁整理日因 JavaScript 受限未完整讀取，另以 Ondas Networks CTC / Radio Codeline 頁與 Ondas 2025-07-24 802.16t buildout 新聞稿交叉支撐 Airlink / 900 MHz / 802.16t 技術脈絡。大叔提醒 **ONDS** 是基礎建設供應商、不是玩弄股權，並把 AAR / Siemens Airlink / IEEE 802.16t / dot16 / 900 MHz migration 視為 Ondas Networks 鐵路通訊第二引擎補強；本篇不是 Class I railroad 訂單、backlog、revenue 或買賣建議，增資必要性仍需用 fully diluted shares、M&A ROI、cash burn 與 per-share value 驗證。
