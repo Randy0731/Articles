@@ -1,10 +1,10 @@
 # ONDS 投資儀表板
 
-> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/milestones/ONDS_里程碑_20251218_4M_SafePro中東排雷試點.md`；補入大叔 2025-12-18 4M Defense + Safe Pro 中東 AI 排雷試點 / **ONDS** 解讀，屬歷史 L4 產品試點與垂直整合驗證，未改寫最新 Mistral 立場）
+> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；補入大叔 2025-12-19 Patrick Huston 升任 COO / **ONDS** 解讀，屬歷史 L3 管理層、軍事化與政府採購合規 readiness 訊號，未改寫最新 Mistral 立場）
 
 ## 當前立場快照
 
-- **綜合立場**：國防 prime contractor thesis 初步成形，OAS 股權結構回收讓核心無人機平台 ownership 更清楚，Roboteam 補上戰術 UGV / ground robotics 與短期 revenue contribution，4M + Safe Pro 中東試點驗證 land intelligence / AI 排雷整合，Eric Brock / Privet Ventures LLC Form 4 補上管理層 alignment 訊號，DFG / PDW 補上攻擊端，Ondas Networks / dot16 鐵路通訊標準化補上第二引擎；Stifel 2025-12 研報把這些拼圖整理成 sell-side platform re-rating 框架，但仍需用 fully diluted shares、non-cash charge 拆解、backlog / orders 轉 revenue、毛利率、task order / railroad rollout、pilot-to-contract 驗證。
+- **綜合立場**：國防 prime contractor thesis 初步成形，OAS 股權結構回收讓核心無人機平台 ownership 更清楚，Roboteam 補上戰術 UGV / ground robotics 與短期 revenue contribution，4M + Safe Pro 中東試點驗證 land intelligence / AI 排雷整合，Patrick Huston 升任 COO / General Counsel 補上軍事化與政府採購合規 operating layer，Eric Brock / Privet Ventures LLC Form 4 補上管理層 alignment 訊號，DFG / PDW 補上攻擊端，Ondas Networks / dot16 鐵路通訊標準化補上第二引擎；Stifel 2025-12 研報把這些拼圖整理成 sell-side platform re-rating 框架，但仍需用 fully diluted shares、non-cash charge 拆解、backlog / orders 轉 revenue、毛利率、government contracting readiness、task order / railroad rollout、pilot-to-contract 驗證。
 - **大叔最新立場**：資訊分享偏多；轉述 Ondas 完成 Mistral 合併與 backlog 增加，未提供價位或操作。
 - **依據篇章**：`Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md`
 - **歷史脈絡**：`Stocks/ONDS/milestones/ONDS_里程碑_20250818_ApeiroMotion收購協議.md` 是大叔 **ONDS** 空地一體、以色列併購與 P/S 小於 1 倍併購模板的早期 L4 來源；`Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md` 建立 Rift 戰略投資、Wåsp 美國獨家分銷與可消耗無人機產品線的商業化路徑；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` 補上 `$425M` 融資、`$11.50` 機構成本與 warrants / 授權股稀釋的資本結構脈絡；`Stocks/ONDS/milestones/ONDS_里程碑_20251213_OAS股權回收與非現金費用.md` 把 OAS 子公司層級 notes / warrants / minority rights 換成母公司股本，讓 ownership 更清楚但也增加 fully diluted shares 與 Q4 non-cash charge headline risk；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_SafePro策略投資與AI視覺拼圖.md` 把 Safe Pro AI threat detection 納入 **ONDS** #垂直整合 與 #DualUse 拼圖；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_LPTH紅外熱像與BlackDiamond感測器拼圖.md` 補上 LightPath 紅外熱像 / BlackDiamond 感測器層；`Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md` 則把 4M Defense 智慧掃雷、TIP 與地下威脅辨識接到 #空地一體 / #以色列併購 thesis；`Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md` 補上 Insight SIM / AI electro-optical sensing，讓平台、感測、AI 判讀與任務行動的閉環更完整；`Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md` 補上 Sentrycs CoRF / protocol-layer C-UAS 接管層，使 Iron Drone Raider 的動能攔截前段多了非干擾、合規緩解與 25 國部署基礎；`Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md` 把 PDW C100 / FPV combat robotics 放進攻擊端，讓大叔的 **ONDS** thesis 從防禦、偵察、通訊推進到完整無人機戰場生態系；`Stocks/ONDS/milestones/ONDS_里程碑_20251208_DFG烏克蘭FPV攻擊端拼圖.md` 則把烏克蘭 DFG 的 combat-proven、低成本、可消耗 FPV / ISR / simulator 能力放入攻擊端與訓練端，但仍需 investment closing 與合規產品化；`Stocks/ONDS/milestones/ONDS_里程碑_20251202_OMB_ASDA政策牆與美國無人機合規護城河.md` 則把 OMB / ASDA / FASC-prohibited UAS 禁令接到 American Robotics、Airobotics、Optimus 與 Iron Drone Raider 的政府採購合規護城河；`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 的 2025-11-13 Q3 13F 短評，補上 BlackRock、Geode 與 Group One institutional ownership / 籌碼能見度訊號，但它只反映 2025-09-30 持倉，不等於即時買盤；2025-11-10 Yoav Har-Even 短評，補上 OAS defense channel、Rafael / Iron Dome 信用背書與 strategic partnership 人脈；2025-11-08 Securiton Germany 短評，補上 Iron Drone Raider 在德國 / Bundeswehr c-UAS solution 中的歐洲 integrator selection 訊號；同日美軍 100 萬架無人機採購短評，則將 Sentrycs C-UAS、mission-critical wireless 與美國本土 autonomous systems 供應鏈放進更大的 Army attritable drone 採購背景。
@@ -12,6 +12,7 @@
 - **本次補入的 Roboteam 里程碑**：`Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md` 顯示大叔解讀 **ONDS** 完成 Roboteam 收購為 air + ground autonomy 拼圖補齊；SEC 8-K 披露 cash purchase price 約 `$81.7M`，官方曾預期 Roboteam 2026 revenue 至少 `$30M`，整理日補充 2025 Form 10-K 顯示收購後 revenue `$7M`、net income `$3.6M`。這是 revenue / integration 里程碑，不是股價目標或操作。
 - **本次補入的 4M + Safe Pro 試點里程碑**：`Stocks/ONDS/milestones/ONDS_里程碑_20251218_4M_SafePro中東排雷試點.md` 顯示大叔解讀 4M Defense + Safe Pro 中東八週 AI 排雷試點為 **ONDS** 垂直整合 field validation；官方披露約 22 英畝、近 150 個 hazard indicators、約 60 個 confirmed landmines / UXO，Safe Pro SPOTD 累計 2.2M+ images / 41,400+ detections / 11,423 hectares。這是產品 / 試點里程碑，不是正式長期合約、backlog 或 revenue。
 - **本次補入的 Form 4 補充**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔解讀 Eric Brock / Privet Ventures LLC Form 4：1,153,625 股、`$8.07`、transaction code `J`，屬 OAS exchange 相關 other acquisition；這是管理層 alignment 訊號，不是公開市場現金買入、買點或目標價。
+- **本次補入的 Patrick Huston COO 補充**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔解讀退役陸軍准將 Patrick Huston 升任 COO 為 **ONDS** 「軍事化」與「合規化」訊號；官方 / 8-K 確認其自 2025-12-16 起任 COO、General Counsel and Secretary，負責 operational scale、acquisition integration、legal / regulatory / compliance / governance。這是 government contracting readiness，不是訂單、backlog 或 revenue。
 
 ## 關鍵價位追蹤
 
@@ -43,6 +44,7 @@
 | 問題 | 提出時間 | 等待事件 / 數據 | 出處篇章 | 狀態 |
 |---|---|---|---|---|
 | Mistral / World View 併購後 backlog 能否轉成收入與毛利？ | 2026-04-26 | task order、10-Q revenue、gross margin、cash conversion | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` | 待追蹤 |
+| Patrick Huston COO / GC 的軍事化與合規化能否轉成政府合約執行力？ | 2026-04-26 | DoD / allied agency award、IDIQ task order、program delivery、compliance gating、OAS / Mistral / Roboteam / Sentrycs revenue、gross margin | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | Roboteam UGV / ground robotics 能否把 air + ground thesis 轉成 revenue、毛利與可售系統？ | 2026-04-26 | 2026 revenue 是否接近至少 `$30M` expectation、`$20M+` orders fulfillment、OAS / Mistral / Sentrycs product bundle、gross margin、operating cash flow、goodwill / intangible amortization | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md` | 待追蹤 |
 | 4M + Safe Pro 中東 pilot 能否轉成正式合約、revenue 與 mission solution？ | 2026-04-26 | government / NGO / reconstruction customer adoption、contract value、revenue recognition、gross margin、Mistral / OAS contract vehicle task order | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_4M_SafePro中東排雷試點.md` | 待追蹤 |
 | Eric Brock / Privet Ventures LLC Form 4 的 alignment 訊號，能否和 OAS execution 同向？ | 2026-04-26 | Sentrycs 整合、PDW、Blue UAS 採購節奏、RoboTeam / OAS contribution、revenue、gross margin、fully diluted shares | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
@@ -76,6 +78,7 @@
 | 風險 | 追蹤強度 | 觸發條件 | 觀察指標 | 出處篇章 |
 |---|---|---|---|---|
 | IDIQ 合約車輛不等於保證採購 | 高 | 沒有具體 task order、交付或收入認列 | task order、8-K、10-Q backlog 轉 revenue | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
+| Patrick Huston COO 任命被誤讀為已取得政府合約 | 高 | 市場把 military / legal / compliance background 直接寫成 DoD award、task order、backlog 或 revenue | 8-K、contract award、USAspending、customer announcement、10-Q backlog / revenue | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Roboteam 現金收購被過度解讀為 free cash flow 已改善 | 高 | 市場把 revenue / net income 或大叔「立刻有現金流」語句直接寫成自由現金流已兌現 | operating cash flow、working capital、inventory、deferred revenue、gross margin、purchase accounting、goodwill impairment | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md` |
 | 4M + Safe Pro pilot 被誤讀為已取得長期合約或收入 | 高 | 市場把八週 field validation 寫成政府採購、UN / NGO 合約、backlog 或 recurring revenue | 8-K、客戶公告、contract value、revenue recognition、gross margin、deployment count | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_4M_SafePro中東排雷試點.md` |
 | Eric Brock Form 4 被誤讀為公開市場 CEO 現金買入 | 高 | 查詢時忽略 transaction code `J`、OAS exchange 註腳與 indirect ownership through Privet Ventures LLC | SEC Form 4 code / footnote、8-K Exchange Agreement、direct / indirect ownership、shares outstanding | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
@@ -106,11 +109,12 @@
 | 併購整合與成本控制 | 中 | Mistral、World View 與 OAS 平台整合拖慢交付或拉高費用 | 毛利率、OPEX、整合費用、管理層更新 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 | RSU / 併購對價與後續融資稀釋 | 中 | 股權激勵、併購對價或現金需求推升股本 | shares outstanding、RSU vesting、S-8 / 10-Q、現金餘額 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 
-## 持倉判斷依據（最近 18 篇關鍵筆記）
+## 持倉判斷依據（最近 19 篇關鍵筆記）
 
 | 篇章 | 日期 | 一句話結論 | 權重 |
 |---|---|---|---|
 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` | 2026-04-24 | Mistral 合併完成讓 **ONDS** 取得美軍 IDIQ 合約車輛、國內製造整合能力與約 `$457M` pro forma backlog，是 ONDS defense prime thesis 的第一個核心里程碑。 | 高 |
+| `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 2025-12-19 | Patrick Huston 升任 COO、General Counsel and Secretary，補上大叔所說 **ONDS** 軍事化與合規化 operating layer；但仍需用 government award、task order、revenue 與毛利驗證。 | 中高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_Roboteam收購完成.md` | 2025-12-18 | Roboteam 100% 現金收購完成，補上 **ONDS** 戰術 UGV / ground robotics 與 air + ground autonomy thesis；但 `$81.7M` 對價需用 2026 revenue、毛利、現金流與整合結果驗證。 | 高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251218_4M_SafePro中東排雷試點.md` | 2025-12-18 | 4M Defense + Safe Pro 中東 AI 排雷試點完成，驗證 land-intelligence + SPOTD AI + drone imagery 的垂直整合；但仍需 pilot-to-contract、收入、毛利與現金流驗證。 | 高 |
 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 2025-12-18 | Eric Brock / Privet Ventures LLC Form 4 顯示 1,153,625 股、`$8.07`、transaction code `J`，大叔解讀為 OAS 權益換成母公司普通股的管理層 alignment 訊號；但這不是公開市場現金買入。 | 中高 |

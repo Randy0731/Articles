@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Facebook 短評《**ONDS** Patrick Huston 將軍升任 COO：軍事化與合規化訊號》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251219-ondas-patrick-huston-coo-2abdb5fd`。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為 Ondas 官方 / SEC 8-K 確認 Patrick Huston 自 2025-12-16 起任 COO、General Counsel and Secretary，大叔解讀為 **ONDS** 軍事化與合規化、替大規模政府合約 readiness 鋪路。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；使用者提供 Facebook 截圖可讀，OCR 狀態標「完整」。本篇是 C-suite / operational scale / government contracting compliance 訊號，不是訂單、合約、backlog、revenue、股價目標或買賣建議。
 - 新增：補入大叔美股筆記 Substack 文章《**ONDS** Ondas Holdings 旗下 4M Defense 和 Safe Pro Group 完成中東試點項目》，建立 `KOL/大叔美股筆記/articles/20251218_ondas_4m_safepro_middle_east_pilot_uncle.md`，source_id 為 `大叔美股筆記-20251218-ondas-4m-safepro-middle-east-pilot-607e06c5`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251218_4M_SafePro中東排雷試點.md`，將本篇對 **ONDS** 判定為 L4；重點為 4M Defense + Safe Pro 完成中東八週 AI 排雷試點，約 22 英畝內辨識近 150 個 hazard indicators、約 60 個 confirmed landmines / UXO，驗證 4M land intelligence + Safe Pro SPOTD + drone imagery 的垂直整合。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`、`indexes/watchlist_index.md`；**SPAI** 判定為多次 L2 watchlist，尚不建立 `Stocks/SPAI/`。
