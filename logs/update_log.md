@@ -2,6 +2,10 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-02-12（推估）Facebook 短評《**ONDS** EU Counter-Drone Action Plan 與 Heidelberg 在地製造門票》，source_id 為 `大叔美股筆記-20260212-ondas-eu-counter-drone-heidelberg-14332f5f`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將 **ONDS** 判定為 L3 European localization / C-UAS policy catalyst；同步更新 ONDS index / dashboard、source/ticker/theme/catalyst indexes。
+- 備註：Facebook 截圖可讀；C-UAS Hub / European Commission action plan 與 Heidelberg / ONDS MoU official PDF 可交叉確認政策與合作背景。EU Action Plan / Heidelberg MoU / later ONBERG context 不是 EU order、supplier selection、backlog、revenue 或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-02-09 Substack 付費文《**ONDS** 4M Defense `$3000萬+` 以色列-敘利亞邊境智慧掃雷合約》，source_id 為 `大叔美股筆記-20260209-ondas-4m-defense-30m-demining-israel-efcefd83`。
 - 新增：建立 `KOL/大叔美股筆記/articles/20260209_onds_4m_demining_30m_uncle.md` 與 `Stocks/ONDS/milestones/ONDS_里程碑_20260209_4MDefense以色列3000萬美元掃雷合約.md`，判定 **ONDS** L4；已複製 PDF raw 至 `KOL/大叔美股筆記/raw/20260209_大叔美股筆記_ondas_3000_大叔美股筆記-20260209-ondas-4m-defense-30m-demining-israel-efcefd83.pdf`，OCR 狀態「部分」。
 - 更新：同步更新 KOL 主筆記索引、4M acquisition 母里程碑、ONDS index / dashboard、source/ticker/theme/catalyst indexes 與 private raw manifest。
