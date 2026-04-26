@@ -1,6 +1,6 @@
 # ONDS 投資儀表板
 
-> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/milestones/ONDS_里程碑_20251202_OMB_ASDA政策牆與美國無人機合規護城河.md`；補入大叔 2025-12-02 OMB / ASDA 政策短評，屬歷史 L4 thesis 升級，未改寫最新 Mistral 立場）
+> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/milestones/ONDS_里程碑_20251117_IronDroneRaider歐洲機場820萬美元訂單.md`；補入大叔 2025-11-17 Iron Drone Raider 歐洲機場 `$8.2M` 訂單短評，屬歷史 L4 訂單里程碑，未改寫最新 Mistral 立場）
 
 ## 當前立場快照
 
@@ -8,6 +8,7 @@
 - **大叔最新立場**：資訊分享偏多；轉述 Ondas 完成 Mistral 合併與 backlog 增加，未提供價位或操作。
 - **依據篇章**：`Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md`
 - **歷史脈絡**：`Stocks/ONDS/milestones/ONDS_里程碑_20250818_ApeiroMotion收購協議.md` 是大叔 **ONDS** 空地一體、以色列併購與 P/S 小於 1 倍併購模板的早期 L4 來源；`Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md` 建立 Rift 戰略投資、Wåsp 美國獨家分銷與可消耗無人機產品線的商業化路徑；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` 補上 `$425M` 融資、`$11.50` 機構成本與 warrants / 授權股稀釋的資本結構脈絡；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_SafePro策略投資與AI視覺拼圖.md` 把 Safe Pro AI threat detection 納入 **ONDS** #垂直整合 與 #DualUse 拼圖；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_LPTH紅外熱像與BlackDiamond感測器拼圖.md` 補上 LightPath 紅外熱像 / BlackDiamond 感測器層；`Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md` 則把 4M Defense 智慧掃雷、TIP 與地下威脅辨識接到 #空地一體 / #以色列併購 thesis；`Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md` 補上 Insight SIM / AI electro-optical sensing，讓平台、感測、AI 判讀與任務行動的閉環更完整；`Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md` 補上 Sentrycs CoRF / protocol-layer C-UAS 接管層，使 Iron Drone Raider 的動能攔截前段多了非干擾、合規緩解與 25 國部署基礎；`Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md` 把 PDW C100 / FPV combat robotics 放進攻擊端，讓大叔的 **ONDS** thesis 從防禦、偵察、通訊推進到完整無人機戰場生態系；`Stocks/ONDS/milestones/ONDS_里程碑_20251202_OMB_ASDA政策牆與美國無人機合規護城河.md` 則把 OMB / ASDA / FASC-prohibited UAS 禁令接到 American Robotics、Airobotics、Optimus 與 Iron Drone Raider 的政府採購合規護城河；`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 的 2025-11-13 Q3 13F 短評，補上 BlackRock、Geode 與 Group One institutional ownership / 籌碼能見度訊號，但它只反映 2025-09-30 持倉，不等於即時買盤；2025-11-10 Yoav Har-Even 短評，補上 OAS defense channel、Rafael / Iron Dome 信用背書與 strategic partnership 人脈；2025-11-08 Securiton Germany 短評，補上 Iron Drone Raider 在德國 / Bundeswehr c-UAS solution 中的歐洲 integrator selection 訊號；同日美軍 100 萬架無人機採購短評，則將 Sentrycs C-UAS、mission-critical wireless 與美國本土 autonomous systems 供應鏈放進更大的 Army attritable drone 採購背景。
+- **本次補入的歷史里程碑**：`Stocks/ONDS/milestones/ONDS_里程碑_20251117_IronDroneRaider歐洲機場820萬美元訂單.md` 將 Iron Drone Raider 從產品 / selection 訊號推進到約 `$8.2M` 披露金額的歐洲機場 C-UAS 採購單；Airobotics 作 prime contractor，後續重點是部署、驗收、收入認列、毛利與 repeat order。
 
 ## 關鍵價位追蹤
 
@@ -36,6 +37,7 @@
 |---|---|---|---|---|
 | Mistral / World View 併購後 backlog 能否轉成收入與毛利？ | 2026-04-26 | task order、10-Q revenue、gross margin、cash conversion | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` | 待追蹤 |
 | ASDA / OMB M-26-02 政策牆能否轉成 **ONDS** government procurement？ | 2026-04-26 | agency solicitation、grant terms、waiver、Optimus / Airobotics / Iron Drone Raider task order、OAS revenue、backlog | `Stocks/ONDS/milestones/ONDS_里程碑_20251202_OMB_ASDA政策牆與美國無人機合規護城河.md` | 待追蹤 |
+| Iron Drone Raider 歐洲機場 `$8.2M` 訂單能否轉成可確認收入、毛利與後續機場訂單？ | 2026-04-26 | deployment、customer acceptance、10-Q revenue recognition、OAS gross margin、follow-on order | `Stocks/ONDS/milestones/ONDS_里程碑_20251117_IronDroneRaider歐洲機場820萬美元訂單.md` | 待追蹤 |
 | PDW `$35M` 戰略投資能否轉成 **ONDS** 的攻擊端產品整合、訂單或收入？ | 2026-04-26 | PDW 投資條款、持股比例、C100 / AM-FPV 產能、Army / DoD award、Mistral / OAS integration、revenue contribution | `Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md` | 待追蹤 |
 | IDIQ 合約車輛是否轉成具體 program-of-record deployment？ | 2026-04-26 | U.S. Army / Special Operations task order、8-K、客戶公告 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` | 待追蹤 |
 | `$407.2M` net proceeds 能否轉成 OAS revenue、backlog、M&A synergy 或產能規模？ | 2026-04-26 | 10-Q cash flow、OAS revenue、gross margin、M&A / JV / strategic investment 更新 | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` | 待追蹤 |
@@ -60,6 +62,7 @@
 |---|---|---|---|---|
 | IDIQ 合約車輛不等於保證採購 | 高 | 沒有具體 task order、交付或收入認列 | task order、8-K、10-Q backlog 轉 revenue | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 | ASDA / OMB 政策牆被誤讀為 **ONDS** 已取得訂單 | 高 | 政策禁令與 secure UAS 要求沒有轉成 **ONDS** 具體 award、task order 或 revenue | agency procurement notices、USAspending、8-K、OAS revenue、backlog、gross margin | `Stocks/ONDS/milestones/ONDS_里程碑_20251202_OMB_ASDA政策牆與美國無人機合規護城河.md` |
+| Iron Drone Raider `$8.2M` 機場訂單被誤讀為已形成可年化 recurring revenue | 高 | 單筆採購尚未披露交付期、驗收條件、維護收入、系統數量或 follow-on order | 10-Q revenue recognition、deferred revenue、backlog、OAS gross margin、customer update | `Stocks/ONDS/milestones/ONDS_里程碑_20251117_IronDroneRaider歐洲機場820萬美元訂單.md` |
 | PDW 戰略投資被誤讀為已取得攻擊型無人機收入或控制權 | 高 | `$35M` 投資沒有披露持股比例、商業權利、分銷權、產品整合或收入貢獻 | 投資條款、10-Q 投資分類、C100 / AM-FPV 出貨、Army award、OAS revenue | `Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md` |
 | 大叔 `$30-$32` 估值情境過度前置 | 高 | 市場先按 `$10B` 市值 / 5x PS re-rating 定價，但 revenue、gross margin 或 fully diluted shares 未支持 | revenue run-rate、PS multiple、fully diluted shares、warrant exercise、gross margin、cash burn | `Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md` |
 | `$425M` offering 與 warrants 帶來 fully diluted shares 壓力 | 高 | pre-funded warrants、common warrants、授權股增加或 cash settlement 造成稀釋 / 現金壓力 | shares outstanding、fully diluted shares、S-3 / 8-K、股東批准、warrant exercise / settlement | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` |
@@ -78,13 +81,14 @@
 | 併購整合與成本控制 | 中 | Mistral、World View 與 OAS 平台整合拖慢交付或拉高費用 | 毛利率、OPEX、整合費用、管理層更新 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 | RSU / 併購對價與後續融資稀釋 | 中 | 股權激勵、併購對價或現金需求推升股本 | shares outstanding、RSU vesting、S-8 / 10-Q、現金餘額 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 
-## 持倉判斷依據（最近 9 篇關鍵筆記）
+## 持倉判斷依據（最近 10 篇關鍵筆記）
 
 | 篇章 | 日期 | 一句話結論 | 權重 |
 |---|---|---|---|
 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` | 2026-04-24 | Mistral 合併完成讓 **ONDS** 取得美軍 IDIQ 合約車輛、國內製造整合能力與約 `$457M` pro forma backlog，是 ONDS defense prime thesis 的第一個核心里程碑。 | 高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251202_OMB_ASDA政策牆與美國無人機合規護城河.md` | 2025-12-02 | OMB / ASDA 將 secure domestic / allied UAS 合規從題材推進為 federal funds 採購約束，補強 Optimus / Airobotics / Iron Drone Raider 的政府採購政策護城河。 | 高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md` | 2025-11-21 | PDW `$35M` 戰略投資補上 C100 / FPV combat robotics 攻擊端，讓大叔把 **ONDS** 從防禦、偵察、通訊平台推進到完整無人機戰場生態系。 | 高 |
+| `Stocks/ONDS/milestones/ONDS_里程碑_20251117_IronDroneRaider歐洲機場820萬美元訂單.md` | 2025-11-17 | 約 `$8.2M` 歐洲機場 Iron Drone Raider 採購單把 C-UAS thesis 從 selection / demonstration 推進到披露金額的部署訂單，Airobotics 作 prime contractor。 | 高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md` | 2025-11-04 | Sentrycs 補上 CoRF / protocol-layer C-UAS 接管層，讓 Iron Drone Raider 的動能攔截前段多了非動能 detect / takeover / mitigate 能力。 | 高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md` | 2025-10-29 | Insight Intelligent Sensors 補上 SIM / AI electro-optical sensing 與 edge perception，讓 **ONDS** 垂直整合 thesis 從平台、AI 判讀、熱像感測推進到感知層。 | 高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md` | 2025-10-28 | 4M Defense 把智慧掃雷、TIP、地表 / 地下威脅辨識與以色列防務工程能力接到 OAS，補強 **ONDS** #空地一體 與 AI + Robotics 國防應用 thesis。 | 高 |

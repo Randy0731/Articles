@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Facebook 短評《**ONDS** Iron Drone Raider：歐洲大型機場 820 萬美元 C-UAS 訂單》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251117-ondas-iron-drone-8-2m-airport-order-3381326a`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251117_IronDroneRaider歐洲機場820萬美元訂單.md`，將本篇判定為 **ONDS** L4；重點為 Ondas 取得約 `$8.2M` purchase order，於歐洲最大型國際機場之一部署多套 Iron Drone Raider C-UAS，Airobotics 作 prime contractor。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；使用者提供 Facebook 截圖顯示 2025-11-17 且文字可讀，OCR 狀態標「完整」。Ondas 官方 2025-11-17 新聞稿確認約 `$8.2M` 採購單、歐洲大型國際機場場景與 Airobotics prime contractor 角色；官方未揭露機場名稱、採購數量、收入認列時程或毛利率。本篇沒有股價目標、成本價或買賣建議。
 - 新增：補入大叔美股筆記 Facebook 短評《OMB ASDA 執行規則：**ONDS** / 美國無人機合規政策牆》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251202-omb-asda-secure-uas-policy-06d0cbae`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251202_OMB_ASDA政策牆與美國無人機合規護城河.md`，將本篇判定為 **ONDS** L4；重點為 OMB M-26-02 執行 American Security Drone Act，2025-12-22 起 federal funds 禁用 FASC-prohibited UAS，並要求 UAS 以 aircraft + IT system 納入採購與資安流程。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`、`indexes/watchlist_index.md`；**AVAV** / **RCAT** 判定為多次 L2 watchlist，**KTOS** 只作 L1 hashtag / 同業提及。
