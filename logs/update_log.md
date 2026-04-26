@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 2025-12-07 Facebook 短評《**ONDS** Fintel 機構持股暴增：1.1 億股與籌碼鎖定訊號》，source_id 為 `大叔美股筆記-20251207-ondas-fintel-institutional-ownership-e973e112`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L2 institutional ownership / 籌碼訊號；重點為大叔把 Fintel Dec 2025 institutional ownership 從低位跳升至 `110,000 x1000` shares 以上，解讀為機構共識、股價反彈背後的機構買盤與籌碼鎖定。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：Facebook 截圖與 Fintel chart 可讀，未另存 raw，OCR 狀態標「完整」。本篇不是公司基本面、訂單或 revenue；`$8-$10` 是走勢描述，不是目標價、買點或支撐；Fintel aggregate ownership 需後續用 13F / 13G / fund holdings 拆分持有人類型、報告時點、被動 / ETF / options hedge 與持續性，不提供買賣建議。
 - 新增：補入大叔美股筆記 Substack 文章《**ONDS** Sentrycs 8-K 下跌解讀：法律收尾、非新稀釋與賣方限制》，source_id 為 `大叔美股筆記-20251117-ondas-sentrycs-8k-selloff-1cb3735a`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為大叔把 2025-11-17 Sentrycs 8-K / Registration Rights selloff 解讀為標準法律文件誤讀，非公司缺錢向市場新增融資。
 - 更新：補充 `Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md`，將 seller daily sales 10% ADV limit、registration rights / resale headline risk 與 future resale overhang 納入既有 Sentrycs L4 里程碑後續追蹤。
