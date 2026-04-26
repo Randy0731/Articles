@@ -2,6 +2,10 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-01-27 Facebook 短評《**ONDS** AAR / Airlink dot16：鐵路通訊基礎設施供應商 thesis》，source_id 為 `大叔美股筆記-20260127-onds-aar-airlink-dot16-9ce122fd`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，並補充既有 `Stocks/ONDS/milestones/ONDS_里程碑_20251204_BrentLaing與dot16鐵路通訊標準化.md`；同步更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。
+- 備註：使用者於對話提供 Facebook 截圖，截圖文字可讀；YoYInvestor X 原頁整理日因 JavaScript 受限未完整讀取，另以 Ondas Networks CTC / Radio Codeline 頁與 Ondas 2025-07-24 802.16t buildout 新聞稿交叉支撐 Airlink / 900 MHz / 802.16t 技術脈絡。大叔提醒 **ONDS** 是基礎建設供應商、不是玩弄股權，並把 AAR / Siemens Airlink / IEEE 802.16t / dot16 / 900 MHz migration 視為 Ondas Networks 鐵路通訊第二引擎補強；本篇不是 Class I railroad 訂單、backlog、revenue 或買賣建議，增資必要性仍需用 fully diluted shares、M&A ROI、cash burn 與 per-share value 驗證。
+
 - 新增：補入大叔美股筆記 Substack 付費文章《【大叔獨家】拆解 Stifel 報告的「潛台詞」：為什麼是 `$27`?》，建立 `KOL/大叔美股筆記/articles/20260122_onds_stifel_27_uncle.md`，source_id 為 `大叔美股筆記-20260122-onds-stifel-27-269dfbfe`。
 - 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260122_大叔美股筆記_onds_stifel_27_大叔美股筆記-20260122-onds-stifel-27-269dfbfe.pdf`；PDF 為 4 頁 image-only 截圖，p.1-p.3 為核心正文 / Stifel 摘要 / 結論，p.4 為推薦文章 / footer，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
 - 更新：同步更新 `KOL/大叔美股筆記/notes/大叔美股筆記.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260118_投資者日估值模型與14_25公允價值.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md` 與 `private/raw_manifest.local.yaml`。
