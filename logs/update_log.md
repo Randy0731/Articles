@@ -2,6 +2,11 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack 文章《Ondas **ONDS** 3500 萬美元戰略投資》，建立 `KOL/大叔美股筆記/articles/20251121_ondas_pdw_35m_strategic_investment_uncle.md`，source_id 為 `大叔美股筆記-20251121-ondas-pdw-35m-strategic-investment-22da79ca`。
+- 新增：複製使用者提供之完整網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20251121_大叔美股筆記_ondas_pdw_35m_strategic_investment_大叔美股筆記-20251121-ondas-pdw-35m-strategic-investment-22da79ca.pdf`；PDF 為 5 頁影像截圖，正文至 p.2，p.3-p.5 為留言、推薦文章與頁尾，OCR 狀態標「部分」。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md`，將本篇判定為 **ONDS** L4；重點為 Ondas 對 Performance Drone Works 的 `$35M` strategic investment，補上 C100 / FPV combat robotics 攻擊端，讓大叔的 OAS thesis 從防禦、偵察、通訊推進到完整無人機戰場生態系。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；PDF 顯示 2025-11-21，公開 Substack 頁面與 Ondas 官方公告顯示 2025-11-20，已在 metadata 標明。公開 Substack URL 只能讀到前段，全文以使用者提供 PDF 為主要來源；留言與推薦文章未寫成大叔觀點。`$30-$32` 只記為大叔在 `$10B` 市值與 5x PS 下的估值情境，不提供買賣建議。
 - 新增：補入大叔美股筆記 Facebook 短評《**ONDS** Q3 13F：BlackRock、Geode 與 Group One 持股變化》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251113-ondas-q3-13f-institutional-64860aaa`。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L2；重點為 BlackRock、Geode Capital Management 與 Group One Trading 的 2025Q3 13F institutional ownership / 籌碼訊號。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
