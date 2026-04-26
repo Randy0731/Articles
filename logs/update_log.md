@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Facebook 短評《**ONDS** Q3 13F：BlackRock、Geode 與 Group One 持股變化》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251113-ondas-q3-13f-institutional-64860aaa`。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L2；重點為 BlackRock、Geode Capital Management 與 Group One Trading 的 2025Q3 13F institutional ownership / 籌碼訊號。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Facebook 截圖與 Fintel 表格截圖可讀，OCR 狀態標「完整」。整理者以 SEC 13F information table 交叉核對後，BlackRock 原始 13F 合計 5,034,975 股、Geode 合計 3,481,130 股、Group One 普通股 1,904,147 股；BlackRock 截圖數字為 5,034,375 股，差 600 股，後續引用只寫約 503 萬股。13F 持倉日為 2025-09-30，不等於 2025-11-13 即時買盤；Group One 可能涉及 options hedge，本篇未提供股價目標、成本價或買賣建議。
 - 新增：補入大叔美股筆記 Threads 短評《**ONDS** 任命 Yoav Har-Even：Rafael / Iron Dome 背景與全球國防通路》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251110-ondas-yoav-hareven-advisory-8ca2f082`。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為前 Rafael President & CEO、Iron Dome / David's Sling / Trophy 全球發展與銷售操盤手 Yoav Har-Even 加入 OAS Advisory Board，補強 **ONDS** global defense channel、產品整合、戰略夥伴與國際擴張 thesis。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
