@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack 文章《溢價募資 4.25 億美元：Ondas Holdings 如何為其無人機帝國插上鋼鐵之翼？》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251006-ondas-425m-premium-financing-19df77f4`。
+- 更新：將本篇判定為 **ONDS** L4 事件的「新來源 / 補充來源」，併入既有 `Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md`，不另開重複里程碑；重點為大叔在 pricing 當日把 `$425M` above-market offering 解讀為市場信任票、Wåsp 生產 / 供應鏈 / 政府標案 / M&A 執行彈藥。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`。
+- 備註：Substack 全文可讀，OCR 狀態標「不適用」，未另存 raw。Ondas 官方 2025-10-06 新聞稿確認 `$425M` gross proceeds、`$11.50` combined offering price、73,920,000 股 common warrants、`$20.00` exercise price 與潛在 `$1.5B` additional gross proceeds；`$11.50` / `$20` 均不是股價目標、買點或買賣建議，後續仍需以 fully diluted shares、net proceeds 使用效率、OAS / Wåsp revenue、backlog 與 gross margin 驗證。
 - 新增：補入大叔美股筆記 Substack 文章《Ondas Holdings **ONDS**：透過戰略收購，建構自主生態系統》，建立 `KOL/大叔美股筆記/articles/20251103_ondas_autonomous_systems_platform_uncle.md`，source_id 為 `大叔美股筆記-20251103-ondas-autonomous-systems-platform-d92df0d9`。
 - 新增：複製使用者提供之完整網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20251103_大叔美股筆記_ondas_autonomous_systems_platform_大叔美股筆記-20251103-ondas-autonomous-systems-platform-d92df0d9.pdf`；PDF 為 11 頁影像截圖，p.1-p.6 為正文、p.7-p.9 為參考連結、p.10-p.11 為留言與推薦文章，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251103_國防自主系統平台總論.md`，將本篇判定為 **ONDS** L4；重點為大叔將 **ONDS** 2025 併購拼圖整理成觀察、理解、行動、連接四層 systems-of-systems 平台框架。
