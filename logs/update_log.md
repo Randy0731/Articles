@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 2026-01-05 Facebook 短評《**ONDS** BVLOS 法規時間線：Drone-in-a-Box 與超視距飛行解鎖論點》，source_id 為 `大叔美股筆記-20260105-ondas-bvlos-rulemaking-d971ed5b`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將本篇判定為 **ONDS** L3 regulatory catalyst / Drone-in-a-Box thesis；重點為大叔把 Reginfo RIN `2120-AL82` / BVLOS 的 `2026-01-16` statutory final deadline，解讀為 **ONDS** Optimus / Drone-in-a-Box / critical infrastructure / 邊境、鐵路、油管巡檢場景的監管解鎖。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`；將 2026-01-16 BVLOS 催化標為「延期 / 待確認」。
+- 備註：使用者於對話提供 Facebook 貼文截圖與 Reginfo 截圖，截圖可讀，未另存 raw，OCR 狀態標「完整」。整理日核對 Federal Register 2026-01-28 重新開放 BVLOS NPRM 評論期，2026-02-10 拒絕延長且評論期至 2026-02-11；本次未找到 final rule 已發布紀錄。因此本篇不是 **ONDS** 訂單、backlog、revenue、BVLOS 授權已落地或買賣建議。
 - 新增：補入大叔美股筆記 2026-01-02 Threads 短評《**ONDS** Sentrycs 羅馬尼亞 / 布加勒斯特機場：國家級 C-UAS 標準模組論點》，source_id 為 `大叔美股筆記-20260102-ondas-sentrycs-romania-cuas-7cf56070`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將本篇判定為 **ONDS** L3 Sentrycs / national C-UAS architecture thesis；重點為大叔把 Sentrycs LinkedIn December Bulletin 中的 Romania / Bucharest airport authority / national-agency demo，解讀為 **ONDS** 從反無人機設備商走向國家級 C-UAS 標準模組候選。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md` 與 `indexes/theme_index.md`。
