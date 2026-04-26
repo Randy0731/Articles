@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 2025-11-17 Facebook 短評《**ONDS** Maxim Group 報告：Buy 維持、目標價上調至 `$10`》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251117-ondas-maxim-pt-10-b81d2ee3`。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為大叔轉述 Maxim Group 2025-11-14 報告，將 **ONDS** Buy 維持、12-month target 從 `$5` 上調至 `$10`，並把 Q3 revenue beat、post-offering cash 約 `$840.4M`、FY2026 至少 `$110M` 指引與 M&A / platform expansion 串成外部 re-rating 框架。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Facebook 截圖完整可讀，Maxim report 只有使用者提供的單頁截圖，OCR 狀態標「部分」。`$10` 是 Maxim 分析師目標價，不是大叔自身目標價、買點或買賣建議；Facebook 轉述 2027 revenue `$481M` 與可視 report 表格 2027E CY `$237.2M` 不一致，需回完整原始報告校準。
 - 新增：補入大叔美股筆記 Substack 文章《#ONDS | ONDAS HOLDINGS 2025 第三季業績》，建立 `KOL/大叔美股筆記/articles/20251115_ondas_q3_2025_earnings_uncle.md`，source_id 為 `大叔美股筆記-20251115-ondas-q3-2025-earnings-ce3fe87b`。
 - 新增：複製使用者提供之完整網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20251115_大叔美股筆記_ondas_q3_2025_earnings_大叔美股筆記-20251115-ondas-q3-2025-earnings-ce3fe87b.pdf`；PDF 為 9 頁影像截圖，p.1-p.8 上半為正文與免責聲明，p.8 下半起為留言 / 推薦文章，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251115_Q3財報與2026營收指引.md`，將本篇判定為 **ONDS** L4；重點為大叔把 2025Q3 `$10.1M` revenue、OAS 約 96% 佔比、FY2025 至少 `$36M` 與 FY2026 初步至少 `$110M` 指引解讀為 **ONDS** revenue inflection。
