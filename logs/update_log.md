@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 2026-01-03 Facebook 短評《**ONDS** 搬總部到 West Palm Beach 與更名 Ondas Inc：佛州國防金融圈與平台化訊號》，source_id 為 `大叔美股筆記-20260103-ondas-west-palm-ondas-inc-99b2d035`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將本篇判定為 **ONDS** L3 公司定位 / institutional capital thesis；重點為大叔把 Ondas 官方 2026-01-02 計畫更名 Ondas Inc. 與 West Palm Beach 總部，解讀為從 Holdings 控股語境轉向 integrated operating platform，並靠近佛州國防、科技、金融、家族辦公室、避險基金與 institutional capital。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md` 與 `indexes/theme_index.md`。
+- 備註：使用者於對話提供 Facebook 貼文截圖與官方新聞稿截圖，截圖可讀；另快速核對 Ondas 官方網頁標題與日期，官方新聞稿日期為 2026-01-02，name change expected during Q1 2026。未另存 raw，OCR 狀態標「完整」。本篇不是訂單、revenue、backlog、政府背書、13F 買盤證明或買賣建議；政治時點與 institutional capital 敘事需後續 filing / 13F / task order 驗證。
 - 新增：補入大叔美股筆記 2026-01-02（推估）Facebook 短評《#ONDS 2025 年度表現的核心要點》，source_id 為 `大叔美股筆記-20260102-ondas-2025-performance-recap-1457c77b`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將本篇判定為 **ONDS** L3 年度 thesis recap；重點為大叔整理 2025 年股價 +271%、52 週 `$0.57-$11.70`、高成交量、Sentrycs / Roboteam 等併購、Optimus / 機場 C-UAS / 邊境標案與人才 / partner network 補強。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md` 與 `indexes/theme_index.md`；**KOPN** / **SPAI** / **PLTR** 僅作 **ONDS** 投資 / 合作 / partner 脈絡提及，不建立個股專案。
