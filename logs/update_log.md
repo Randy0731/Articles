@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Facebook 短評《**ONDS** Optimus 1-EX Green UAS：政府採購信任門檻補強》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251031-ondas-optimus-green-uas-3ebc874e`。
+- 新增：建立 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為 American Robotics Optimus 1-EX 取得 AUVSI Green UAS certification，與 DIU Blue UAS 路徑對齊，補強政府 / 企業部署時的資安、供應鏈與可信度門檻。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Facebook 截圖顯示 2025-10-31，AUVSI / EIN 原稿發布於 2025-10-30 13:16 GMT；整理日補充查詢顯示 Optimus 後續於 2026-01-28 取得 DCMA Blue List status，但不倒寫為大叔原始觀點。Green UAS / Blue List 均不等於採購、合約或收入，不提供買賣建議。
 - 新增：入庫 Bytc Substack Note《**SES** AI 財報：營收驚喜、轉型陣痛與 SiB 商業化》，追加至 `KOL/Bytc/notes/bytc筆記.md`，source_id 為 `Bytc-20260424-ses-ai-q1-sib-commercialization-430b7c49`。
 - 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`、`indexes/watchlist_index.md`；本篇判定為 **SES** L3 候選追蹤，尚未建立 `Stocks/SES/`。
 - 備註：Substack metadata 顯示 2026-04-24 05:22 UTC；Note 文字完整可讀，OCR 狀態標「不適用」。Bytc 核心判斷是 **SES** Q1 營收 beat、ESS / 無人機電池轉型與 Search in a Box 首度商業化，但成本、opex、EV 路線邊緣化與 2026 revenue target 仍需後續驗證；本文未提供股價目標或買賣建議。

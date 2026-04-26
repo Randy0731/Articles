@@ -1,6 +1,6 @@
 # ONDS 投資儀表板
 
-> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md`；補入舊文，未改寫最新 Mistral 立場）
+> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；補入舊文，未改寫最新 Mistral 立場）
 
 ## 當前立場快照
 
@@ -26,6 +26,7 @@
 |---|---|---|---|
 | 2026-04-24 | Ondas 完成 Mistral 合併 | 取得 U.S. Army / Special Operations IDIQ 合約車輛與美國本土製造 / 整合能力；Mistral backlog 約 `$264M`，調整 Mistral 與 World View 後 pro forma backlog 約 `$457M` | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 | 2026-03-16 | Ondas 完成 4M Defense 剩餘 30% 收購 | 取得 HoldCo / 4M fully diluted 100% 權益；對價為 352,968 股普通股及最多 `$1.4M` 股份 earn-out（整理日補充） | `Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md` |
+| 2026-01-28 | American Robotics Optimus drone 取得 DCMA Blue List status | 這是 2025-10-30 Green UAS 認證後續正面進展，降低 federal procurement 摩擦；仍需以 task order、部署與 OAS revenue 驗證 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 
 ## 未結問題（Open Questions）
 
@@ -37,6 +38,7 @@
 | Safe Pro AI threat detection 能否整合進 OAS 產品並轉成部署 / 收入？ | 2026-04-26 | SPOTD NODE / SpotlightAI 與 American Robotics、Airobotics、Apeiro 或 Mistral 產品線整合；軍方 / 人道任務客戶公告；OAS revenue / backlog | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_SafePro策略投資與AI視覺拼圖.md` | 待追蹤 |
 | LightPath BlackDiamond / 紅外熱像感測器能否整合進 OAS / UMAC drone ecosystem？ | 2026-04-26 | **LPTH** camera / optics revenue、**ONDS** OAS product update、American Robotics / Airobotics / Apeiro / Mistral 整合、客戶部署與 backlog | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_LPTH紅外熱像與BlackDiamond感測器拼圖.md` | 待追蹤 |
 | Insight SIM / AI electro-optical sensing 能否整合進 OAS 任務系統並轉成部署 / 收入？ | 2026-04-26 | Optimus、Iron Drone Raider、Apeiro、Mistral / OAS 任務系統整合；government / commercial programs；serial production；OAS revenue / backlog | `Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md` | 待追蹤 |
+| Optimus Green UAS / DCMA Blue List 能否轉成政府採購與部署收入？ | 2026-04-26 | rapid federal procurement、DoD / DHS / state government / critical infrastructure program award、task order、部署數量、OAS revenue / backlog | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | 4M Defense TIP / 智慧掃雷能否轉成可持續 tender、revenue 與 OAS 整合？ | 2026-04-26 | Israel / Ukraine / global tender awards、4M revenue / backlog、TIP 與 OAS / Safe Pro / LightPath / Mistral / Apeiro integration | `Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md` | 待追蹤 |
 | common warrants 與授權股條件如何處理？ | 2026-04-26 | 2026-01-31 後 cash settlement、股東批准增加授權股、warrant exercise 狀態 | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` | 待確認 |
 | Wåsp 2025Q4 初始交付與 DOW program bids 是否轉成終端客戶訂單？ | 2026-04-26 | Wåsp 交付確認、DOW program awards、客戶公告、OAS revenue / inventory | `Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md` | 待確認 / 待追蹤 |
@@ -51,6 +53,7 @@
 | Safe Pro 策略投資未轉成實際整合與收入 | 高 | 投資後沒有產品整合、客戶部署、合約或收入貢獻 | OAS revenue、Safe Pro revenue、8-K、客戶公告、產品整合更新 | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_SafePro策略投資與AI視覺拼圖.md` |
 | LightPath 策略投資未轉成感測器採購、設計導入或收入 | 高 | **LPTH** BlackDiamond / 紅外熱像技術沒有進入 **ONDS** 或 **UMAC** 產品與客戶部署 | OAS product update、LightPath camera / optics revenue、design win、10-Q、客戶公告 | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_LPTH紅外熱像與BlackDiamond感測器拼圖.md` |
 | Insight AI sensing 未轉成 OAS 可銷售方案 | 高 | SIM / electro-optical sensing 沒有整合進 Optimus、Iron Drone Raider、Apeiro、Mistral 或其他任務系統 | OAS product update、program win、客戶公告、backlog、revenue mix、gross margin | `Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md` |
+| Green UAS / Blue List 被誤讀為已取得採購 | 高 | 認證或清單狀態沒有轉成政府合約、task order 或 revenue | program award、8-K、客戶公告、OAS revenue、backlog | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | 4M Defense 排雷 TAM 與技術速度未轉成可驗證收入 | 高 | 全球排雷需求、4 倍速度與低成本敘事沒有轉成 tender、部署、revenue 或毛利 | 4M tender wins、contract value、backlog、revenue recognition、gross margin、deployment metrics | `Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md` |
 | Wåsp 首批 500 架是分銷啟動訂單，不是終端政府採購 | 高 | 市場把 Ondas 向 Rift 的採購訂單誤讀為美國國防部大單 | DOW program awards、task order、交付 / 收入認列、庫存 | `Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md` |
 | 併購整合與成本控制 | 中 | Mistral、World View 與 OAS 平台整合拖慢交付或拉高費用 | 毛利率、OPEX、整合費用、管理層更新 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
