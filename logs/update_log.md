@@ -347,3 +347,7 @@
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260206_EricBrockFoxBusiness與APAC防務合約.md`，將本篇判定為 **ONDS** L4 里程碑；重點為 Eric Brock 在 Fox Business 訪談中串起 APAC classified defense contract、Optimus Blue List、C-UAS / critical infrastructure demand 與 NDAA / 非中國供應鏈合規。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
 - 備註：本次為補入舊文；Substack 顯示發文時間 2026-02-06，Fox Business 訪談 aired 2026-02-03。Ondas 官方 2026-02-03 新聞稿確認 APAC classified defense contract，初始系統預計 2026 年交付；2026-01-28 官方新聞稿確認 Optimus DCMA Blue List status。APAC 合約金額 / 客戶未披露，Blue List 不等於採購、合約或收入；本篇未提供股價目標或操作。
+- 新增：補入大叔美股筆記 Substack Note《**ONDS** 技術圖轉貼：趨勢線、0.618 回檔與 `$15.87` 上方目標》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。
+- 新增：建立 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將本篇判定為 **ONDS** L2 技術面短訊；重點為大叔轉貼 Donald J. Dean X 技術圖，記錄 `$9.12` 0.618 Fibonacci 回檔支撐觀察與 `$15.87` 上方技術目標。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`。
+- 備註：本次為補入舊文；Substack metadata 顯示 2026-02-13 23:06 UTC（台灣時間 2026-02-14 07:06）。`$15.87` 是轉貼 X 圖表的技術目標，不是大叔正式基本面目標價、買點或本專案買賣建議；本篇未新增公司訂單、revenue、backlog 或財報資訊。
