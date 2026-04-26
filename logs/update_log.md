@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack 付費文章《避險基金說 ONDS 是騙局，頂級投行卻說這是「轉大人」？》，建立 `KOL/大叔美股筆記/articles/20260113_onds_stifel_17_big_boy_pants_uncle.md`，source_id 為 `大叔美股筆記-20260113-onds-stifel-17-big-boy-pants-4bc7696e`。
+- 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260113_大叔美股筆記_onds_stifel_17_big_boy_pants_大叔美股筆記-20260113-onds-stifel-17-big-boy-pants-4bc7696e.pdf`；PDF 為 4 頁 image-only 截圖，p.1-p.3 為核心正文 / 結論，p.4 為推薦文章 / footer，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
+- 更新：同步更新 `KOL/大叔美股筆記/notes/大叔美股筆記.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260110_SEC文件毒債清除與28權證.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。
+- 備註：本文判定為既有 2026-01-10 SEC 文件 / `$28` 權證 L4 里程碑的補充，不另開重複里程碑。大叔轉述 Stifel Jan 11 研報維持 Buy、target price 由 `$13` 上調至 `$17`，並以 "Big Boy Pants On" 框架反駁 `$1B` financing 只是套利 / scam；`$17` 是 Stifel 分析師目標價，不是大叔自身 target、買點或本專案買賣建議。`$28` warrants / 約 `$3.4B` potential proceeds 同時記為長期 capital source 與 fully diluted shares / warrant overhang 追蹤項。
 - 新增：補入大叔美股筆記 Substack 付費文章《X上的神仙打架：當華爾街的「期權數學」槓上 ONDS 的「實業硬漢」，誰在說謊？》，建立 `KOL/大叔美股筆記/articles/20260111_x_onds_warrant_arbitrage_uncle.md`，source_id 為 `大叔美股筆記-20260111-x-onds-warrant-arbitrage-92b643d4`。
 - 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260111_大叔美股筆記_x_onds_warrant_arbitrage_大叔美股筆記-20260111-x-onds-warrant-arbitrage-92b643d4.pdf`；PDF 為 4 頁 image-only 截圖，p.1-p.3 為核心正文 / 結論，p.4 為推薦文章 / footer，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
 - 更新：同步更新 `KOL/大叔美股筆記/notes/大叔美股筆記.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260110_SEC文件毒債清除與28權證.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。
