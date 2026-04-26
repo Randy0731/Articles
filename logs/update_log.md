@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack Note《**ONDS** 收購 Sentrycs：CoRF 反無人機接管層補上 OAS 防空拼圖》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251104-ondas-sentrycs-cuas-f3244854`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md`，將本篇判定為 **ONDS** L4；重點為 Sentrycs Cyber-over-RF / protocol-layer C-UAS detection and takeover 補上 Iron Drone Raider 動能攔截前段，使 **ONDS** C-UAS thesis 從攔截器推進到 full-spectrum detect-to-defeat 架構。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack metadata 顯示 2025-11-04 20:08 UTC，Note 文字完整可讀，OCR 狀態標「不適用」。Ondas 官方新聞稿同日公告 Sentrycs 收購協議，2025-11-17 Form 8-K 顯示收購完成、總對價 `$225M`（`$125M` 現金與最高 `$100M` 普通股對價）；整理日補充不倒寫成大叔原始觀點。本篇未提供股價目標、成本價或買賣建議。
 - 新增：補入大叔美股筆記 Facebook 短評《**ONDS** Hood River 13F 與 Drone ETF 文件：750 萬股機構持股訊號》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251031-ondas-hood-river-drone-etf-aa8e4ae0`。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L2；重點為 Hood River Capital Management 2025Q2 13F 顯示持有 **ONDS** 7,540,974 股、value `$14,478,670`，以及 Hood River Drone Innovators ETF N-1A / 485A 帶來的 drone ETF 題材能見度。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
