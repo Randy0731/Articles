@@ -2,6 +2,11 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack 付費文章《#ONDS 的併購豪賭》，建立 `KOL/大叔美股筆記/articles/20260312_onds_ma_dilution_mistral_bird_uncle.md`，source_id 為 `大叔美股筆記-20260312-onds-ma-dilution-mistral-bird-c7532d2c`。
+- 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260312_大叔美股筆記_onds_ma_dilution_mistral_bird_大叔美股筆記-20260312-onds-ma-dilution-mistral-bird-c7532d2c.pdf`；PDF 為 5 頁 image-only 截圖，p.1-p.3 為核心正文，p.4-p.5 為免責聲明 / 留言 / 推薦文章，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260312_Mistral_Bird併購稀釋與10元天花板.md`，將本篇判定為 **ONDS** L4；重點為大叔估算 Mistral / Bird 合計新股約 2,297 萬股、直接稀釋約 5.1%、併購後股本約 4.73 億股，並用 2026 revenue `$245M` / 15x-25x P/S 推導 `$7.77` / `$10.35` / `$13.00` 情境。
+- 更新：同步更新 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 文章索引、`Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md` 與 `private/raw_manifest.local.yaml`。
+- 備註：Ondas 2026-03-09 8-K 確認 Mistral 交易總額 `$175M` 與 `$122.5M` stock portion，並披露 Mistral `$1B+` IDIQ / DoD contract vehicle 背景；Ondas 2026-03-11 8-K 確認 Bird acquisition 相關 6,933,110 股 resale registration。Bird 第二付款 / volume-limit 慢性賣壓為大叔文件解讀，本次標為待回查完整 424B7 / acquisition agreement；`$7.77` / `$10.35` / `$13.00` 是 KOL P/S 情境，不是正式目標價、買點或本專案買賣建議。
 - 新增：補入大叔美股筆記 Substack 付費文章《#ONDS 估值模型全拆解》，建立 `KOL/大叔美股筆記/articles/20260118_onds_valuation_model_uncle.md`，source_id 為 `大叔美股筆記-20260118-onds-valuation-model-82f-fe62dde1`。
 - 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260118_大叔美股筆記_onds_valuation_model_大叔美股筆記-20260118-onds-valuation-model-82f-fe62dde1.pdf`；PDF 為 6 頁 image-only 截圖，p.1-p.4 為核心正文，p.5-p.6 為留言 / 推薦文章，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260118_投資者日估值模型與14_25公允價值.md`，將本篇判定為 **ONDS** L4；重點為大叔用 OAS Investor Day `$170M-$180M` 2026 revenue target、`$65.3M` backlog、`$1.5B+` pro forma cash、2030 `$1.5B+` revenue / 30% EBITDA 推導 `$14.25` 風險調整合理值。
