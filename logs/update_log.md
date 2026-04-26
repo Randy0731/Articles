@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Facebook 短評《**ONDS** OAS 股權回收：100% 控制權與 Q4 非現金費用》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251213-ondas-oas-exchange-noncash-charge-d04feb04`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251213_OAS股權回收與非現金費用.md`，將本篇判定為 **ONDS** L4；重點為 OAS notes / warrants / OAS common stock exchange，把子公司層級權利換成母公司 ONDS common stock，改善 OAS ownership / governance clarity，但帶來新股稀釋與 2025Q4 one-time non-cash charge headline risk。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；使用者提供 Facebook 截圖與 SEC 8-K 截圖可讀，OCR 狀態標「完整」。SEC 2025-12-12 8-K 確認 10/11 holders written election、估發 6,887,150 至 7,325,914 股、估計 2025Q4 non-cash charge 約 `$56.6M` 至 `$60.5M`；2025-12-17 8-K 後續確認 exchange agreements executed，交易後 Ondas 約持有 OAS 99%。本篇不是營收、訂單或現金流出，未提供股價目標或買賣建議。
 - 新增：補入大叔美股筆記 Substack Note《**ONDS** 投資 Drone Fight Group：烏克蘭實戰 FPV 攻擊端拼圖》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251208-ondas-dfg-11m-investment-d96bc080`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251208_DFG烏克蘭FPV攻擊端拼圖.md`，將本篇判定為 **ONDS** L4；重點為 Ondas Capital 計畫投資最高 `$11M` in Drone Fight Group，補上烏克蘭戰場驗證、低成本、可消耗 FPV / ISR / simulator 攻擊端拼圖。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
