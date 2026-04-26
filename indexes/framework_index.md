@@ -6,6 +6,7 @@
 
 | 框架 | KOL | 來源文章 | 一句話定義 | 適用情境 | 觀察指標 |
 |---|---|---|---|---|---|
+| 觀察－理解－行動－連接自主系統框架 | 大叔美股筆記 | `KOL/大叔美股筆記/articles/20251103_ondas_autonomous_systems_platform_uncle.md`；`Stocks/ONDS/milestones/ONDS_里程碑_20251103_國防自主系統平台總論.md` | 將國防自主平台拆成感測 / 光學觀察、AI / 地圖理解、空中 / 地面行動與抗干擾通訊連接四層；判斷重點是各收購拼圖能否形成可採購的任務系統閉環 | Defense tech、C-UAS、無人機、地面機器人、智慧排雷、critical infrastructure security、平台型併購公司 | integrated demo、joint offering、task order、revenue / backlog conversion、gross margin、fully diluted shares、跨國供應鏈與人才整合 |
 | AI 供血系統與類比晶片成本護城河 | 大叔美股筆記 | `KOL/大叔美股筆記/articles/20260425_txn_2026_q1_uncle.md`；`KOL/大叔美股筆記/notes/大叔美股筆記.md` | 當 AI 與工業循環從 GPU headline 走向電源、感測、控制與自動化實際需求時，具備長產品週期與自有 300mm 產能的類比晶片公司可把復甦轉成毛利率與 FCF | 類比晶片、功率半導體、AI 資料中心電源、工業自動化、重資產半導體製造 | Industrial revenue、data center revenue、PMIC / VRM / GaN 訂單、300mm utilization、gross margin、FCF、inventory、CHIPS Act proceeds |
 | Agentic AI CPU 復權框架 | 大叔美股筆記 | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md`；`KOL/大叔美股筆記/notes/大叔美股筆記.md` | 當 AI 從大型模型訓練走向推論與代理式工作流，低延遲、邏輯分支、記憶體定址與企業端部署會讓 CPU / x86 重新被定價 | CPU、伺服器、AI PC、企業推論、邊緣 AI、ASIC / GPU 之外的 AI 基建 | DCAI revenue、Xeon / EPYC 出貨、AMX / NPU 採用、推論工作負載、AI PC 換機、客戶 TCO / perf-per-watt |
 | 新 CEO 洗大澡與核心造血辨識 | 大叔美股筆記 | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md` | 新任 CEO 可用一次性重組費用清理歷史包袱；判斷重點不是 GAAP headline，而是剔除一次性項目後的毛利率、EPS、成本結構與後續現金流是否改善 | 老牌硬體 / 製造公司轉型、重資產公司重組、管理層更替後的財報解讀 | restructuring charge、GAAP vs Non-GAAP EPS、gross margin、operating expense、free cash flow、下一季 guidance、是否反覆出現一次性費用 |

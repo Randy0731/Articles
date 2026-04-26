@@ -2,6 +2,11 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack 文章《Ondas Holdings **ONDS**：透過戰略收購，建構自主生態系統》，建立 `KOL/大叔美股筆記/articles/20251103_ondas_autonomous_systems_platform_uncle.md`，source_id 為 `大叔美股筆記-20251103-ondas-autonomous-systems-platform-d92df0d9`。
+- 新增：複製使用者提供之完整網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20251103_大叔美股筆記_ondas_autonomous_systems_platform_大叔美股筆記-20251103-ondas-autonomous-systems-platform-d92df0d9.pdf`；PDF 為 11 頁影像截圖，p.1-p.6 為正文、p.7-p.9 為參考連結、p.10-p.11 為留言與推薦文章，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251103_國防自主系統平台總論.md`，將本篇判定為 **ONDS** L4；重點為大叔將 **ONDS** 2025 併購拼圖整理成觀察、理解、行動、連接四層 systems-of-systems 平台框架。
+- 更新：同步更新 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 文章索引、`Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`；**SPAI** 只作 L1 被投資方 / 技術拼圖背景，不建立 `Stocks/SPAI/`。
+- 備註：本次為補入舊文；公開 Substack URL 只能讀到前段，全文以使用者提供 PDF 與 OCR / 可視讀為主要來源。本文是 **ONDS** 平台 thesis 與風險檢查表，不是單一訂單、backlog、revenue、股價目標或買賣建議；文中 2025 revenue、backlog、授權股與 warrant 狀態需按原文日期保存並用後續 filing / 財報另行校準。
 - 新增：補入大叔美股筆記 2025-11-02 Facebook 短評 / X 轉貼《DHS / FEMA C-UAS 補助計畫：`$500M` 資金池與 FIFA / America 250 安保需求》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251102-dhs-fema-cuas-grant-30e70ba5`。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L2 C-UAS policy funding pool / demand backdrop；重點為 DHS / FEMA Assistance Listing `97.161`、申請期 2025-10-28 至 2025-12-05、兩個財政年度合計 `$500M`、FY2026 優先 FIFA World Cup 2026 / America 250 相關州與 NCR。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`；並修正 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 文章索引中 2025-12-23 / 2025-12-21 的倒序位置。
