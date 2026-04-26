@@ -2,6 +2,9 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 2026-01-07 X 短評《**ONDS** 4M 排雷作業：協助清除 453 枚反戰車地雷》，source_id 為 `大叔美股筆記-20260107-ondas-4m-demining-453-mines-fabeea6c`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將本篇判定為 **ONDS** L2；重點為大叔轉貼 BMSInvests / Ondas LinkedIn operational update，將 4M Demining 協助中和 / 清除 `453` 枚反戰車地雷作為 4M land intelligence / smart demining field operation proof point。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`；本篇不是新合約、backlog、revenue、earn-out 達成或買賣建議。
 - 新增：補入大叔美股筆記 2026-01-05 Facebook 短評《**ONDS** BVLOS 法規時間線：Drone-in-a-Box 與超視距飛行解鎖論點》，source_id 為 `大叔美股筆記-20260105-ondas-bvlos-rulemaking-d971ed5b`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將本篇判定為 **ONDS** L3 regulatory catalyst / Drone-in-a-Box thesis；重點為大叔把 Reginfo RIN `2120-AL82` / BVLOS 的 `2026-01-16` statutory final deadline，解讀為 **ONDS** Optimus / Drone-in-a-Box / critical infrastructure / 邊境、鐵路、油管巡檢場景的監管解鎖。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`；將 2026-01-16 BVLOS 催化標為「延期 / 待確認」。
