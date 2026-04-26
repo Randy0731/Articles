@@ -6,6 +6,8 @@
 
 | 主題 tag | 日期 | KOL / 來源 | 標題 | 核心觀點 | 相關 ticker | 框架 / 催化劑 | 筆記檔 |
 |---|---|---|---|---|---|---|---|
+| #投資與投機 | 2025-10-24 | 大叔美股筆記 / 使用者 Notion 摘要 | **ONDS** 高 conviction 與本金回收紀律 | 大叔明確表示對 **ONDS** 有信心，並提醒若獲利回到 100% 要先拿回成本；本專案記為部位管理與風控紀律，不寫成買賣建議 | **ONDS** | conviction；100% 本金回收；利潤部位；長期持有 | `KOL/大叔美股筆記/notes/大叔美股筆記.md`；`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
+| #機構洗盤 | 2025-10-24 | 大叔美股筆記 / 使用者 Notion 摘要 | **ONDS** 的 **PLTR** 類比與抱股心法 | 大叔用 **PLTR** 投資歷程作比喻，延續 2025-10 月洗盤 / 震倉語境下的持有耐心要求；**PLTR** 只作歷史類比，不能寫成 **ONDS** 必然複製路徑 | **ONDS**, **PLTR** | **PLTR** 類比；波動後重估；持有耐心 | `KOL/大叔美股筆記/notes/大叔美股筆記.md`；`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | #機構洗盤 | 2025-10-23 | 大叔美股筆記 / 使用者 Notion 摘要 | **ONDS** 2025/10 震倉與機構耐心框架 | 大叔把 **ONDS** 當時下殺解讀為震倉，認為機構想拿更多籌碼；洗盤滿足訊號包括 MA200、交易量極度萎縮、討論熱度下降 / 情緒痛苦，並提醒要看持有人是退休基金、動能基金或對沖基金 | **ONDS** | MA200；極度縮量；機構耐心；option flush；無量大跌 | `KOL/大叔美股筆記/notes/大叔美股筆記.md`；`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | #投資與投機 | 2025-10-23 | 大叔美股筆記 / 使用者 Notion 摘要 | **ONDS** 少量建倉問答與長期持有語境 | 大叔在聊天中對無持股者少量建倉的提問回覆偏肯定，並分享自己偏長期、已取回成本、不怕洗盤的部位管理語境；本專案只保留為聊天脈絡，不寫成買賣建議 | **ONDS** | 長期投資；成本取回；少量建倉問答；部位管理 | `KOL/大叔美股筆記/notes/大叔美股筆記.md`；`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | #ReRating | 2025-10-21 | 未具名分析文章 / 使用者 Notion 摘要 | **ONDS** 基礎設施 / RaaS re-rating thesis | 作者主張市場若只把 **ONDS** 看成年收入約 `$25M` 的小型承包商，會低估 Palantir Foundry、Wåsp 產能、capital war chest、combat iteration 與 RaaS 經常性收入模式形成的 infrastructure platform | **ONDS**, **PLTR** | infrastructure thesis；Palantir Foundry；RaaS；Wåsp capacity；capital war chest | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；`Stocks/ONDS/ONDS_儀表板.md` |

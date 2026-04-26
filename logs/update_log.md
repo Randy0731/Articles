@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入使用者 Notion 摘要《**ONDS** 大叔信念加持：PLTR 類比與本金回收紀律》，source_id 為 `Notion-20251024-ondas-conviction-pltr-cost-basis-26090819`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將 **ONDS** 判定為 L3 conviction / 部位管理觀點；**PLTR** 僅作歷史類比 L1，不建立 `Stocks/PLTR/`。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`；本篇無明確公司事件或日期型催化劑，未更新 `indexes/catalyst_index.md`。
+- 備註：大叔明確表示對 **ONDS** 有信心，並用 **PLTR** 類比長期波動與重估歷程；100% 先拿回成本記為部位管理紀律，不是目標價、停利建議或本專案買賣建議。截圖可讀但未提供聊天室頁碼，因此不收入完整逐字長引文。
 - 新增：補入使用者 Notion 摘要《**ONDS** 2025/10 洗盤分析：震倉、MA200 與機構耐心框架》，source_id 為 `Notion-20251023-ondas-oct-washout-analysis-1858645c`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將 **ONDS** 判定為 L3 技術 / 籌碼觀點；重點為大叔把 ONDS 下殺解讀為機構震倉、機構想拿更多籌碼，洗盤滿足訊號為 MA200、交易量極度萎縮與討論熱度下降。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`。

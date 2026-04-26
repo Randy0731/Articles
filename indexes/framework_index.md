@@ -6,6 +6,7 @@
 
 | 框架 | KOL | 來源文章 | 一句話定義 | 適用情境 | 觀察指標 |
 |---|---|---|---|---|---|
+| 大叔本金回收 / 利潤部位紀律 | 大叔美股筆記 | `KOL/大叔美股筆記/notes/大叔美股筆記.md`；`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 對高波動高 conviction 持股，不只看能不能抱住，也要在獲利翻倍時先取回成本，讓剩餘部位轉成利潤部位，降低後續洗盤的心理壓力 | 高波動成長股、defense tech / AI / early-stage platform、KOL 高 conviction 但波動劇烈的持股 | 個人成本、獲利率、倉位比例、稅務與流動性、後續基本面驗證、KOL 立場更新、是否把紀律誤讀為買賣建議 |
 | 大叔機構震倉 / 籌碼乾淨判讀框架 | 大叔美股筆記 | `KOL/大叔美股筆記/notes/大叔美股筆記.md`；`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 當小盤高波動題材股急跌時，先判斷是否為機構震倉：看機構成本、MA200、成交量極度萎縮、散戶討論熱度下降，以及持有人類型的時間尺度 | 小盤高波動國防科技股、機構持股增加後的急跌、option / leverage crowded trade、題材股洗盤 | MA200、極度縮量、是否不破底、社群討論熱度、option open interest、short interest、13F / 13G 持有人類型、退休基金 / 動能基金 / 對沖基金比例 |
 | 基礎設施 / RaaS re-rating 框架 | 未具名分析文章 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 將硬體國防科技公司從「一次性設備承包商」重估為「部署基礎設施 + enterprise data layer + recurring services」平台，但必須用實際部署、服務收入、毛利與股本稀釋驗證 | C-UAS、dual-use autonomous systems、robotics-as-a-service、早期 defense tech platform、資本密集 scale-up 公司 | deployed systems、recurring revenue、service attach rate、gross margin、Palantir / ERP integration、production utilization、backlog conversion、cash burn、fully diluted shares、customer concentration |
 | 窒息量 / 軍工成長股洗盤框架 | 未具名投資社群 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 對高波動國防 / AI 成長股，先用 25%-30% 回檔觀察洗盤深度，再用成交量縮至前波高量約 20%-30%、連續 3-5 天不破底與後續放量紅 K 判斷籌碼是否可能轉乾淨 | 技術面、機構洗盤、C-UAS / defense tech 高波動股、事件前洗盤判讀 | 前波高量、近期均量、窒息量、連續低量天數、MA200、是否破底、後續放量紅 K、基本面公告與稀釋事件 |
