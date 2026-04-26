@@ -2,6 +2,10 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-02-08 X 短評《**ONDS** Jane Street 13G/A 減持與 Vanguard 13G：機構 ownership 換手訊號》，source_id 為 `大叔美股筆記-20260208-ondas-jane-street-vanguard-13g-e1449e34`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。
+- 備註：使用者提供 X / Fintel 截圖可讀；整理者以 SEC 13G / 13G-A 交叉核對 Jane Street 19,596,582 -> 11,475,382（-41.44%）、Vanguard 18,767,157、Goldman Sachs 18,980,633.51、Hood River 16,101,140。13G / 13G-A 是延遲 ownership snapshot，不是即時買賣；Jane Street 仍持有 11.48M 股；Vanguard 18.8M 不可寫成當日新增或成本價；本篇不是訂單、revenue、backlog 或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-02-05（推估）Facebook 短評《**ONDS** CEO 親自確認：Wåsp 競逐 DDP / Gauntlet Phase I》，source_id 為 `大叔美股筆記-20260205-ondas-ceo-wasp-ddp-confirmation-522da399`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，補充 `Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md`，並更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。
 - 備註：Facebook 截圖僅顯示 2月5日，依 DDP 2026-02-03 事件脈絡推估為 2026-02-05。Brock X 截圖確認 Wåsp 競逐 DDP 與 industrial scale / surge capacity thesis，但整理日 official DDP data 顯示 W.S. Darley route 未進 Top 11；本篇不是 **ONDS** 訂單、backlog、revenue 或買賣建議。
