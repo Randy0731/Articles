@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 2025-12-03 Threads 短評《**ONDS** 贏得政府邊境防護標案：OAS 主承包商與數千架無人機系統》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251203-ondas-border-protection-tender-bf1e0fdf`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20251203_政府邊境防護標案與OAS主承包商.md`，將本篇判定為 **ONDS** L4；重點為 OAS 被選為 major governmental entity autonomous border-protection program 主承包商，標案涉及數千架 autonomous drones、persistent ISR、swarm-based response、automated threat mitigation 與 centralized C2。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Threads 截圖與 Ondas 2025-12-03 官方新聞稿可讀，OCR 狀態標「完整」。整理日補充 Ondas 2026-03-04 官方確認 Airobotics 收到該 tender 底下 `$20M` initial purchase order；`$20M` 是初始採購單，不是股價目標、買點或買賣建議，完整多年度 program 仍需 follow-on orders、deployment、revenue recognition、gross margin 與 cash collection 驗證。
 - 新增：補入大叔美股筆記 2025-11-14 Facebook 短評《**ONDS** Oppenheimer 升評 Outperform：`$12` 目標價與 lower skies 平台驗證》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251114-ondas-oppenheimer-outperform-12-89725fad`。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為 Oppenheimer 2025-11-14 將 **ONDS** 從 Perform 升至 Outperform，給予 12-18 個月 `$12` 分析師目標價，並把 ONDS 定位為 lower skies / C-UAS open drone platform。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
