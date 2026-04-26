@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入使用者 Notion 摘要 / 聊天截圖《**ONDS** 政府暗示要「健全平台」：Blue / Green UAS 與 C-UAS 民間補位框架》，source_id 為 `Notion-20251103-ondas-blue-uas-platform-guidance-47bca1b3`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將 **ONDS** 判定為 L3 government platform thesis；**RCAT** / **AVAV** / **KTOS** 只作 L1 同業範疇提及，**PLTR** 只作 L1 個人投資案例，不建立 `Stocks/PLTR/`。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`；本篇沒有新公司事件或日期型催化劑，未更新 `indexes/catalyst_index.md`。
+- 備註：聊天中的「Blue UAS」用語不倒寫為 2025-11-03 官方 Blue List；官方可驗證路徑仍分開記錄為 2025-10-30 Green UAS certification 與 2026-01-28 DCMA Blue List status。`$2` / `$5` / `$8` 對話指向不完全明確，暫不列為 **ONDS** 目標價、買點或本專案買賣建議；「有人下指導棋」也不寫成已證實政府指令或內線。
 - 新增：補入使用者 Notion 摘要《**ONDS** 大叔信念加持：PLTR 類比與本金回收紀律》，source_id 為 `Notion-20251024-ondas-conviction-pltr-cost-basis-26090819`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將 **ONDS** 判定為 L3 conviction / 部位管理觀點；**PLTR** 僅作歷史類比 L1，不建立 `Stocks/PLTR/`。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`；本篇無明確公司事件或日期型催化劑，未更新 `indexes/catalyst_index.md`。

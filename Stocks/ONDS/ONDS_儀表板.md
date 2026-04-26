@@ -1,6 +1,6 @@
 # ONDS 投資儀表板
 
-> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；補入 2025-10-24 大叔信念 / 本金回收紀律，未改寫最新 Mistral 立場）
+> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；補入 2025-11-03 大叔「政府健全平台」聊天框架，未改寫最新 Mistral 立場）
 
 ## 當前立場快照
 
@@ -17,6 +17,7 @@
 - **本次補入的大叔信念 / 本金回收紀律**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔在 2025-10-24 明確表示對 **ONDS** 有信心，並用 **PLTR** 作長期波動後重估的持有心法類比；同時提醒獲利回到 100% 時先拿回成本。這是 conviction 與部位管理語境，不是股價目標、停利建議或本專案買賣建議。
 - **本次補入的溢價募資初評**：`Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` 補上大叔 2025-10-06 Substack：大叔把 `$425M` above-market offering 解讀為市場信任票，認為資金讓 Wåsp 生產、供應鏈、政府標案與 M&A / JV / strategic investments 進入可執行階段；但 `$11.50` 是 offering price、`$20` 是 common warrant exercise price，皆不是目標價或買點。
 - **本次補入的平台總論**：`Stocks/ONDS/milestones/ONDS_里程碑_20251103_國防自主系統平台總論.md` 顯示大叔在 2025-11-03 已把 **ONDS** 2025 併購拼圖整理成觀察、理解、行動、連接四層 systems-of-systems 框架；這是後續 Sentrycs、PDW、DFG、Roboteam、Mistral 的母框架，但也把最大風險鎖定在整合、財務驗證、授權股 / warrant 稀釋與跨國供應鏈。
+- **本次補入的政府健全平台框架**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔在 2025-11-03 聊天中把 **ONDS** 的 Blue / Green UAS 採購信任路徑，連到美國政府需要透過民間企業健全反無人機平台的需求；**RCAT** / **AVAV** / **KTOS** 只列為同業範疇，**PLTR** 只作政府 deal 與長期等待的個人案例。這是 thesis 與心法補充，不是新訂單、官方 Blue List 事件或買賣建議。
 - **本次補入的政府邊境防護標案**：`Stocks/ONDS/milestones/ONDS_里程碑_20251203_政府邊境防護標案與OAS主承包商.md` 顯示大叔把 OAS 被選為 autonomous border-protection system 主承包商，解讀為 **ONDS** defense prime / system integrator thesis 的重要驗證；整理日補充 Ondas 2026-03-04 官方確認 Airobotics 收到該 tender 底下 `$20M` initial purchase order。這是 initial stage，完整多年度 program 仍需用 follow-on orders、deployment、revenue、gross margin 與 cash collection 驗證。
 - **本次補入的 Oppenheimer Roboteam 收購報告**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔轉述 Oppenheimer 2025-12-01 company update：維持 Outperform / `$12` target，將約 `$80M` Roboteam 全現金收購解讀為 highly synergistic air + ground autonomy deal。這是 Roboteam 交易的 sell-side validation，不是新 L4 事件；`$12` 是外部分析師目標價，Oppenheimer 2026 近 `$40M` / 2027 `$80M+` Roboteam revenue model 需後續財報驗證。
 - **本次補入的 Q3 財報長文**：`Stocks/ONDS/milestones/ONDS_里程碑_20251115_Q3財報與2026營收指引.md` 顯示大叔把 2025Q3 `$10.1M` revenue、OAS 約 96% 佔比、FY2025 至少 `$36M` 與 FY2026 初步至少 `$110M` 指引解讀為 **ONDS** revenue inflection；整理日需按官方資料校準 cash / restricted cash 約 `$433.4M`、10 月 offering 後 pro forma cash 約 `$840.4M`，且文中 `$25-$30` DCF 是 KOL 情境不是建議。
@@ -43,6 +44,7 @@
 | 大叔 / 2025-11-21 PDW 投資文 | `$30-$32` 為大叔在 `$10B` 市值、5x PS 情境下的估值推演；非本專案目標價或買賣建議 | 未提供 | 2025-11-21 | `Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md` |
 | 大叔 / 2025-11-15 Q3 財報文 | `$25-$30` 為大叔 DCF 情境價值，基於 2027 FCF 轉正與高增長假設；非本專案目標價或買賣建議 | `$6.80-$7.00`、約 `$6.00`、約 `$5.00-$5.20` 為原文技術支撐；文章估值用股價 `$7.18`、FY26 P/S 約 18x | 2025-11-15 | `Stocks/ONDS/milestones/ONDS_里程碑_20251115_Q3財報與2026營收指引.md` |
 | 大叔 / 2025-11-03 平台總論 | 無；文中 `$20` 僅是 warrant 生效條件相關價位，不是目標價、買點或支撐 | 2025 revenue `$25M` 與 OAS `$20M` 為原文日期下的門檻 / 估計，需用 FY2025 財報校準 | 2025-11-03 | `Stocks/ONDS/milestones/ONDS_里程碑_20251103_國防自主系統平台總論.md` |
+| 大叔 / 2025-11-03 聊天框架 | 無；`$2` / `$5` / `$8` 對話指向不完全明確，暫不列為 **ONDS** 目標價、買點或支撐 | 本篇重點是政府健全反無人機平台 thesis、Blue / Green UAS 採購信任路徑與 **PLTR** 本金回收心法；不是價位框架 | 2025-11-03 23:29 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | 未具名投資社群 / 2025-10-21 技術洗盤分析 | 無目標價；`$6.0` 為當時 MA200 / 年線回測區，不是買點 | 1500-2000 萬股 / 日為窒息量門檻；需連續 3-5 天不破底，後續再看放量紅 K；25%-30% 回檔為 PLTR 類比 / 軍工成長股洗盤假設 | 2025-10-21 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | 大叔 / 2025-10-24 信念加持 | 無目標價；100% 是獲利翻倍後先取回本金的部位管理門檻，不是股價 target 或停利建議 | **PLTR** 是長期波動後重估的持有心法類比，不是 **ONDS** 必然路徑 | 2025-10-24 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | 大叔 / 2025-10-20 融資整理 | 未提供 | `$11.50` 為機構成本 / 事件價位，非目標價、買點或保證支撐 | 2025-10-20 | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` |
@@ -87,6 +89,7 @@
 | 大叔 142,000 critical infrastructure sites / 3 systems per site / `$100K` ASP 是否可被實際標案驗證？ | 2026-04-26 | RFP / site lists、deployment count、ASP、service revenue、attach rate、C-UAS / drone-in-a-box contract values | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | 10%-20% / 50% market share assumptions 是否過度前置？ | 2026-04-26 | ONDS market share、competitor wins（AVAV / RTX / LHX / Anduril）、gross margin、revenue conversion、fully diluted shares | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | 2025-11-03 平台總論中的 Observe / Understand / Act / Connect，能否形成可採購 mission system？ | 2026-04-26 | integrated demo、joint offering、task order、customer acceptance、OAS / Mistral / Roboteam / Sentrycs / 4M / Safe Pro revenue mix | `Stocks/ONDS/milestones/ONDS_里程碑_20251103_國防自主系統平台總論.md` | 待追蹤 |
+| 大叔 2025-11-03「政府健全平台」聊天框架能否由後續採購驗證？ | 2026-04-26 | Green UAS / DCMA Blue List、ASDA / OMB rules、DHS / DoD solicitations、task order、OAS revenue / backlog、同業 awards | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | Maxim `$10` target 背後的 2027 revenue / 12x EV-Sales 模型能否被財務數字支撐？ | 2026-04-26 | 完整 Maxim report、2026 / 2027 revenue、gross margin、adjusted EBITDA、fully diluted shares、EV / Sales multiple | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | Oppenheimer `$12` target 背後的 lower skies TAM 與 2030 `~$1B` revenue path 能否被財務數字支撐？ | 2026-04-26 | 2026E revenue `$134.5M`、2027E revenue `$336.2M`、C-UAS TAM `$10.5B`、revenue、gross margin、adjusted EBITDA、fully diluted shares | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | Oppenheimer 對 Roboteam 2026 / 2027 revenue model 能否兌現？ | 2026-04-26 | Roboteam 2026 revenue 是否接近 `$40M` analyst model、2027 是否達 `$80M+`、existing `$20M+` orders fulfillment、gross margin、operating cash flow | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
@@ -150,6 +153,8 @@
 | `$50` / `$60` 情境價被誤讀為正式目標價或買賣建議 | 高 | 把大叔粗算或 Lawrence 群友喊價寫成 target | 後續 KOL updates、actual price、fundamental validation、fully diluted shares | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | 政府入股 speculation 被誤讀為催化劑 | 中 | 無 filing / policy 而寫成美國政府將入股 | Congressional / DoD / DHS policy、SEC filing、CFIUS / national security review | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | 平台總論被誤讀為已完成整合產品 | 高 | 市場把「觀察 / 理解 / 行動 / 連接」框架直接視為可售系統、訂單或 revenue | integrated demo、joint offering、customer acceptance、task order、gross margin、support cost | `Stocks/ONDS/milestones/ONDS_里程碑_20251103_國防自主系統平台總論.md` |
+| 「政府健全平台」聊天框架被誤讀為官方指令或已得標 | 高 | 把大叔聊天中的政府暗示、下指導棋或民間企業補位，寫成 **ONDS** 已取得政府 mandate / award / revenue | solicitation、award notice、USAspending、8-K、10-Q OAS revenue / backlog、official Blue List / Green UAS records | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
+| Blue UAS / Green UAS / DCMA Blue List 時點混淆 | 高 | 把 2025-11-03 聊天中的 Blue UAS 說法倒寫成當日官方 Blue List，或忽略 2025-10-30 Green UAS 與 2026-01-28 Blue List 的差異 | AUVSI Green UAS announcement、Ondas 2026-01-28 DCMA Blue List press release、procurement notices | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | airport C-UAS / 「賣鏟子」框架被誤讀為已取得機場採購 | 高 | 市場把機場無人機痛點或管理層 market positioning 直接寫成新訂單、backlog 或 revenue | 8-K、airport authority award、客戶公告、10-Q revenue / backlog、gross margin | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | DHS / FEMA C-UAS grant 被誤讀為 **ONDS** 已得標 | 高 | 市場把 `$500M` grant funding pool 直接寫成 **ONDS** 訂單、backlog 或 revenue | FEMA award notice、state / local procurement、vendor selection、8-K、10-Q OAS revenue / backlog | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Patrick Huston COO 任命被誤讀為已取得政府合約 | 高 | 市場把 military / legal / compliance background 直接寫成 DoD award、task order、backlog 或 revenue | 8-K、contract award、USAspending、customer announcement、10-Q backlog / revenue | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
@@ -187,7 +192,7 @@
 | 併購整合與成本控制 | 中 | Mistral、World View 與 OAS 平台整合拖慢交付或拉高費用 | 毛利率、OPEX、整合費用、管理層更新 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 | RSU / 併購對價與後續融資稀釋 | 中 | 股權激勵、併購對價或現金需求推升股本 | shares outstanding、RSU vesting、S-8 / 10-Q、現金餘額 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 
-## 持倉判斷依據（最近 33 篇關鍵筆記）
+## 持倉判斷依據（最近 34 篇關鍵筆記）
 
 | 篇章 | 日期 | 一句話結論 | 權重 |
 |---|---|---|---|
@@ -211,6 +216,7 @@
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251115_Q3財報與2026營收指引.md` | 2025-11-15 | 大叔把 **ONDS** Q3 `$10.1M` revenue、OAS 約 96% 佔比與 FY2026 至少 `$110M` 初步 target 視為 revenue inflection；但估值需用 2026 revenue、毛利、cash 與 fully diluted shares 驗證。 | 高 |
 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 2025-11-14 | Oppenheimer 將 **ONDS** 從 Perform 升至 Outperform、給 `$12` 分析師目標價，將 ONDS 定位為 lower skies open drone platform；但大叔同篇提醒「記得要獲利」，需避免把研報 target 當追價訊號。 | 中高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md` | 2025-11-04 | Sentrycs 補上 CoRF / protocol-layer C-UAS 接管層，讓 Iron Drone Raider 的動能攔截前段多了非動能 detect / takeover / mitigate 能力。 | 高 |
+| `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 2025-11-03 | 大叔把 **ONDS** 放進政府透過民間企業健全反無人機平台的框架，並提醒 Blue / Green UAS 採購信任、併購補位與 **PLTR** 式政府 deal 耐心；但這不是官方 Blue List、訂單或買賣建議。 | 中高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251103_國防自主系統平台總論.md` | 2025-11-03 | 大叔把 **ONDS** 2025 併購拼圖整理為觀察、理解、行動、連接四層 systems-of-systems 平台總論；後續全部里程碑都要回到整合 demo、合約、收入與稀釋來驗證。 | 高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md` | 2025-10-29 | Insight Intelligent Sensors 補上 SIM / AI electro-optical sensing 與 edge perception，讓 **ONDS** 垂直整合 thesis 從平台、AI 判讀、熱像感測推進到感知層。 | 高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md` | 2025-10-28 | 4M Defense 把智慧掃雷、TIP、地表 / 地下威脅辨識與以色列防務工程能力接到 OAS，補強 **ONDS** #空地一體 與 AI + Robotics 國防應用 thesis。 | 高 |
