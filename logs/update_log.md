@@ -358,6 +358,12 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack 付費文章《#ONDS 8-K 文件裡面的蛛絲馬跡》，建立 `KOL/大叔美股筆記/articles/20260316_onds_4m_8k_terms_uncle.md`。
+- 新增：複製使用者提供之完整網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260316_大叔美股筆記_onds_4m_8k_terms_大叔美股筆記-20260316-onds-4m-8k-terms-d8fbafbc.pdf`；PDF 為 3 頁影像截圖，p.1-p.2 上半為核心正文，OCR 狀態標「部分」。
+- 更新：同步補強既有 `Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md`，不另開重複里程碑；本篇判定為 **ONDS** L4 補充，重點為 4M Defense 剩餘 30% 收購的 `352,968` 股對價、最高 `$1.4M` earn-out、2026/2027 revenue +30% 條件、10% ADTV 賣股限制與 put / call / minority rights 取消。
+- 更新：同步更新 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 文章索引、`Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Substack metadata 顯示發文時間 2026-03-16，Ondas 官方 2026-03-16 Form 8-K / Supplement 已交叉確認主要條款。`352,968` 股與 `$1.4M` earn-out 是交易對價，不是股價目標或買賣建議；earn-out / 10% ADTV 限制降低風險但不等於 4M revenue、毛利、resale overhang 或整合成效已兌現。
+
 - 新增：補入大叔美股筆記 Substack 文章《Ondas 執行長 Eric Brock 接受 Fox Business 訪問》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260206_EricBrockFoxBusiness與APAC防務合約.md`，將本篇判定為 **ONDS** L4 里程碑；重點為 Eric Brock 在 Fox Business 訪談中串起 APAC classified defense contract、Optimus Blue List、C-UAS / critical infrastructure demand 與 NDAA / 非中國供應鏈合規。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
