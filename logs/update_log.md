@@ -2,6 +2,10 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-01-29（推估）Facebook Reel 短評《**ONDS** 2025Q4 13F：Vanguard / UBS / IMC-Chicago 加碼持股》，source_id 為 `大叔美股筆記-20260129-ondas-q4-13f-vanguard-ubs-imc-132fc624`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將本篇判定為 **ONDS** L2 institutional ownership / 籌碼訊號；同步更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。
+- 備註：使用者提供 Facebook Reel 截圖，文字可讀；整理者以 SEC 13F information tables 交叉核對 Vanguard 2025Q4 common shares 18,767,157、UBS 1,888,800、IMC-Chicago common 348,815，且前季股數對應截圖增幅。13F report date 是 2025-12-31，不等於 2026-01-29 即時買盤；13F value / share 不是機構成本；IMC 同份 13F 另有 call / put rows，不能寫成純方向性長倉。本篇不是訂單、revenue、backlog 或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-01-28 Substack 短文《**ONDS** Optimus DCMA Blue List：Blue UAS 採購資格與 Drone-in-a-Box 路徑》，source_id 為 `大叔美股筆記-20260128-ondas-optimus-blue-uas-1ca73921`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260128_Optimus_DCMA_BlueList採購資格.md`，將本篇判定為 **ONDS** L4；重點為大叔把 American Robotics Optimus drone 取得 DCMA Blue List status 解讀為美國國防 / 聯邦採購入口與 Blue UAS 通行證。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，並更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。
