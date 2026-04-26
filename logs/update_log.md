@@ -2,6 +2,11 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack 文章《**ONDS** Sentrycs 8-K 下跌解讀：法律收尾、非新稀釋與賣方限制》，source_id 為 `大叔美股筆記-20251117-ondas-sentrycs-8k-selloff-1cb3735a`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為大叔把 2025-11-17 Sentrycs 8-K / Registration Rights selloff 解讀為標準法律文件誤讀，非公司缺錢向市場新增融資。
+- 更新：補充 `Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md`，將 seller daily sales 10% ADV limit、registration rights / resale headline risk 與 future resale overhang 納入既有 Sentrycs L4 里程碑後續追蹤。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md` 與 `private/raw_manifest.local.yaml`；原始 PDF 已複製到 ignored raw 路徑。
+- 備註：PDF 共 5 頁，p.1-p.3 為正文與 SEC 8-K 截圖，p.4-p.5 為留言與推薦文章，未寫成 KOL 觀點；OCR 狀態標「部分」。`$225M` / `$125M` 為 Sentrycs 收購對價，`$840M` 是大叔引用的現金背景，均不是股價目標、買點或本專案建議；10% ADV 限制減緩但不消除後續賣方 resale overhang。
 - 新增：補入使用者 Notion 摘要 / 聊天截圖《**ONDS** 政府暗示要「健全平台」：Blue / Green UAS 與 C-UAS 民間補位框架》，source_id 為 `Notion-20251103-ondas-blue-uas-platform-guidance-47bca1b3`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將 **ONDS** 判定為 L3 government platform thesis；**RCAT** / **AVAV** / **KTOS** 只作 L1 同業範疇提及，**PLTR** 只作 L1 個人投資案例，不建立 `Stocks/PLTR/`。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`；本篇沒有新公司事件或日期型催化劑，未更新 `indexes/catalyst_index.md`。

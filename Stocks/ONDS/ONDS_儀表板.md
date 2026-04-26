@@ -1,6 +1,6 @@
 # ONDS 投資儀表板
 
-> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；補入 2025-11-03 大叔「政府健全平台」聊天框架，未改寫最新 Mistral 立場）
+> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；補入 2025-11-17 大叔 Sentrycs 8-K 下跌解讀，未改寫最新 Mistral 立場）
 
 ## 當前立場快照
 
@@ -8,6 +8,7 @@
 - **大叔最新立場**：資訊分享偏多；轉述 Ondas 完成 Mistral 合併與 backlog 增加，未提供價位或操作。
 - **依據篇章**：`Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md`
 - **歷史脈絡**：`Stocks/ONDS/milestones/ONDS_里程碑_20250818_ApeiroMotion收購協議.md` 是大叔 **ONDS** 空地一體、以色列併購與 P/S 小於 1 倍併購模板的早期 L4 來源；`Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md` 建立 Rift 戰略投資、Wåsp 美國獨家分銷與可消耗無人機產品線的商業化路徑；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` 納入 2025-10-06 溢價募資初評與 2025-10-20 融資整理，補上 `$425M` 資本彈藥、`$11.50` 機構成本與 warrants / 授權股稀釋的資本結構脈絡；`Stocks/ONDS/milestones/ONDS_里程碑_20251213_OAS股權回收與非現金費用.md` 把 OAS 子公司層級 notes / warrants / minority rights 換成母公司股本，讓 ownership 更清楚但也增加 fully diluted shares 與 Q4 non-cash charge headline risk；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_SafePro策略投資與AI視覺拼圖.md` 把 Safe Pro AI threat detection 納入 **ONDS** #垂直整合 與 #DualUse 拼圖；`Stocks/ONDS/milestones/ONDS_里程碑_20251020_LPTH紅外熱像與BlackDiamond感測器拼圖.md` 補上 LightPath 紅外熱像 / BlackDiamond 感測器層；`Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md` 則把 4M Defense 智慧掃雷、TIP 與地下威脅辨識接到 #空地一體 / #以色列併購 thesis；`Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md` 補上 Insight SIM / AI electro-optical sensing，讓平台、感測、AI 判讀與任務行動的閉環更完整；`Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md` 補上 Sentrycs CoRF / protocol-layer C-UAS 接管層，使 Iron Drone Raider 的動能攔截前段多了非干擾、合規緩解與 25 國部署基礎；`Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md` 把 PDW C100 / FPV combat robotics 放進攻擊端，讓大叔的 **ONDS** thesis 從防禦、偵察、通訊推進到完整無人機戰場生態系；`Stocks/ONDS/milestones/ONDS_里程碑_20251208_DFG烏克蘭FPV攻擊端拼圖.md` 則把烏克蘭 DFG 的 combat-proven、低成本、可消耗 FPV / ISR / simulator 能力放入攻擊端與訓練端，但仍需 investment closing 與合規產品化；`Stocks/ONDS/milestones/ONDS_里程碑_20251202_OMB_ASDA政策牆與美國無人機合規護城河.md` 則把 OMB / ASDA / FASC-prohibited UAS 禁令接到 American Robotics、Airobotics、Optimus 與 Iron Drone Raider 的政府採購合規護城河；`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 的 2025-11-13 Q3 13F 短評，補上 BlackRock、Geode 與 Group One institutional ownership / 籌碼能見度訊號，但它只反映 2025-09-30 持倉，不等於即時買盤；2025-11-10 Yoav Har-Even 短評，補上 OAS defense channel、Rafael / Iron Dome 信用背書與 strategic partnership 人脈；2025-11-08 Securiton Germany 短評，補上 Iron Drone Raider 在德國 / Bundeswehr c-UAS solution 中的歐洲 integrator selection 訊號；同日美軍 100 萬架無人機採購短評，則將 Sentrycs C-UAS、mission-critical wireless 與美國本土 autonomous systems 供應鏈放進更大的 Army attritable drone 採購背景。
+- **本次補入的 Sentrycs 8-K / selloff 解讀**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔在 2025-11-17 將 **ONDS** 因 Sentrycs 8-K / Registration Rights 下跌解讀為 filing headline panic，不是新公開市場融資；8-K 對應的是 Sentrycs 100% closing、既有收購對價股份註冊與 sellers daily resale limit 10% ADV。這補強稀釋辨識與 filing 風險追蹤：10% ADV 限制降低一次性倒貨風險，但不消除 future resale overhang，也不取代整合 / revenue / margin 驗證。
 - **本次補入的 CEO 訪談**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示 Eric Brock 在 2025-10 Benzinga / Dailymotion 訪談中把 **ONDS** 定位為 dual-use autonomous systems / C-UAS / ISR / ground robotics 整合者，並提出十年繁榮與產業整合框架；同時表示近四個月籌近 `$900M`、資產負債表 north of `$840M`、近期無再融資計畫。這是管理層 framing，不是新訂單或買賣建議；訪談中的 2025 `$25M` / 2026 doubling 已被後續 2025-11-13 官方 FY2025 至少 `$36M` / FY2026 至少 `$110M` guidance supersede，整理日 2026-03-23 官方 FY2025 release 又顯示 FY2025 revenue `$50.7M`、2026 revenue target 至少 `$375M`。
 - **本次補入的 critical infrastructure TAM 粗算**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔用 142,000 個全美關鍵基礎設施據點、每點 3 套、每套 `$100K` 建立 **ONDS** 約 `$42.6B` 系統 TAM，含維護 / 營運延伸到 `$60B-$90B`；`$50` 是大叔粗算情境價，Lawrence 同場 `$60` 只記為群友喊價 / sentiment。這是 valuation imagination，不是公司 revenue、backlog、正式目標價或買賣建議。
 - **本次補入的 NATO market / C-UAS 情境價框架**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔把 **ONDS** 的 C-UAS thesis 從美國 4,000 據點範例延伸到 NATO 32 國 / allied defense procurement，並以 Patrick Huston strategic capital、Rift / Wåsp、James Acuna、Iron Drone Raider 歐洲訂單作支柱；`$20` 是大叔情境價 / 2027-2028 calls 討論錨，不是正式目標價或買賣建議。4,000 * 3 * `$100K` 與 40% 利潤都是粗估假設，不是 revenue、backlog 或 guidance。
@@ -40,6 +41,7 @@
 | Stifel / 2025-12-15 初評（大叔 2025-12-17 研報解讀） | `$13` 為 Stifel 分析師目標價，基於 2030 `$1B` revenue、20% EBITDA margin 與 35x EBITDA multiple 折現；非大叔自身目標價或本專案建議 | 研報截圖 price `$8.75` 為 2025-12-12 事件價位，不是買點 | 2025-12-17 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Oppenheimer / 2025-12-01 Roboteam acquisition update（大叔 2025-12-03 轉述） | `$12` 為 Oppenheimer 維持的 12-18 個月分析師目標價；非大叔自身目標價或本專案建議 | `$80M` / 約 `$81.7M` 是 Roboteam 現金收購對價，不是股價支撐；2026 近 `$40M`、2027 `$80M+` Roboteam revenue 為分析師模型，需財報驗證 | 2025-12-03 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Maxim / 2025-11-14 報告（大叔 2025-11-17 轉述） | `$10` 為 Maxim 分析師目標價，從 `$5` 上調；非大叔自身目標價或本專案建議 | report 截圖 closing price 11/13/25 `$6.56` 不是買點；Facebook 轉述 2027 revenue `$481M` 與可視表格 2027E CY `$237.2M` 不一致，需回完整報告校準 | 2025-11-17 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
+| Sentrycs 8-K 下跌解讀（大叔 2025-11-17） | 無；`$225M` / `$125M` 是 Sentrycs 收購總對價 / 現金對價，不是股價目標；`$840M` 是大叔引用的現金背景 | 賣方每日 aggregate resale 不得超過 average daily volume 10%；限制減緩供給但不消除 future resale overhang | 2025-11-17 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | Oppenheimer / 2025-11-14 升評（大叔同日轉述） | `$12` 為 Oppenheimer 12-18 個月分析師目標價；非大叔自身目標價或本專案建議 | report 截圖 price `$6.56` 不是買點；大叔貼文明確提醒「記得要獲利」 | 2025-11-14 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | 大叔 / 2025-11-21 PDW 投資文 | `$30-$32` 為大叔在 `$10B` 市值、5x PS 情境下的估值推演；非本專案目標價或買賣建議 | 未提供 | 2025-11-21 | `Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md` |
 | 大叔 / 2025-11-15 Q3 財報文 | `$25-$30` 為大叔 DCF 情境價值，基於 2027 FCF 轉正與高增長假設；非本專案目標價或買賣建議 | `$6.80-$7.00`、約 `$6.00`、約 `$5.00-$5.20` 為原文技術支撐；文章估值用股價 `$7.18`、FY26 P/S 約 18x | 2025-11-15 | `Stocks/ONDS/milestones/ONDS_里程碑_20251115_Q3財報與2026營收指引.md` |
@@ -114,6 +116,7 @@
 | LightPath BlackDiamond / 紅外熱像感測器能否整合進 OAS / UMAC drone ecosystem？ | 2026-04-26 | **LPTH** camera / optics revenue、**ONDS** OAS product update、American Robotics / Airobotics / Apeiro / Mistral 整合、客戶部署與 backlog | `Stocks/ONDS/milestones/ONDS_里程碑_20251020_LPTH紅外熱像與BlackDiamond感測器拼圖.md` | 待追蹤 |
 | Insight SIM / AI electro-optical sensing 能否整合進 OAS 任務系統並轉成部署 / 收入？ | 2026-04-26 | Optimus、Iron Drone Raider、Apeiro、Mistral / OAS 任務系統整合；government / commercial programs；serial production；OAS revenue / backlog | `Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md` | 待追蹤 |
 | Sentrycs CoRF / C-UAS 接管層能否整合進 OAS detect-to-defeat solution？ | 2026-04-26 | Iron Drone Raider、Optimus、Mistral 合約車輛與 OAS mission solution 整合；defense / homeland security task order；C-UAS revenue mix | `Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md` | 待追蹤 |
+| Sentrycs registration rights / resale overhang 會不會再觸發 filing headline risk？ | 2026-04-26 | 424B7 / resale prospectus、seller sales、10% ADV 限制、shares outstanding、成交量與股價反應 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；`Stocks/ONDS/milestones/ONDS_里程碑_20251104_Sentrycs反無人機CoRF接管層.md` | 待追蹤 |
 | Securiton Germany 選用 Iron Drone Raider 能否轉成 Bundeswehr / European critical security 訂單與收入？ | 2026-04-26 | German procurement notice、Securiton / Ondas 公告、Iron Drone Raider delivery、OAS backlog / revenue | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | Yoav Har-Even 能否把 Rafael / Iron Dome 背景轉成 OAS defense prime partnership、產品整合或採購？ | 2026-04-26 | strategic partnership、MoU、defense prime announcement、product integration、program award、OAS backlog / revenue | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | BlackRock / Geode / Group One Q3 13F 增持是否延續成穩定 institutional ownership？ | 2026-04-26 | 後續 13F / 13G / 13G/A、ETF / index inclusion、fund holdings、options open interest、dealer positioning | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
@@ -192,7 +195,7 @@
 | 併購整合與成本控制 | 中 | Mistral、World View 與 OAS 平台整合拖慢交付或拉高費用 | 毛利率、OPEX、整合費用、管理層更新 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 | RSU / 併購對價與後續融資稀釋 | 中 | 股權激勵、併購對價或現金需求推升股本 | shares outstanding、RSU vesting、S-8 / 10-Q、現金餘額 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 
-## 持倉判斷依據（最近 34 篇關鍵筆記）
+## 持倉判斷依據（最近 35 篇關鍵筆記）
 
 | 篇章 | 日期 | 一句話結論 | 權重 |
 |---|---|---|---|
@@ -212,6 +215,7 @@
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251202_IronDroneRaider第二筆歐洲機場820萬美元訂單.md` | 2025-12-02 | 同一歐洲 security authority 兩週內下第二筆約 `$8.2M` Iron Drone Raider 機場訂單，兩筆合計約 `$16.4M`，repeat order 強化 C-UAS 客戶信任 thesis。 | 高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251121_PDW戰略投資與攻擊端拼圖.md` | 2025-11-21 | PDW `$35M` 戰略投資補上 C100 / FPV combat robotics 攻擊端，讓大叔把 **ONDS** 從防禦、偵察、通訊平台推進到完整無人機戰場生態系。 | 高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251117_IronDroneRaider歐洲機場820萬美元訂單.md` | 2025-11-17 | 約 `$8.2M` 歐洲機場 Iron Drone Raider 採購單把 C-UAS thesis 從 selection / demonstration 推進到披露金額的部署訂單，Airobotics 作 prime contractor。 | 高 |
+| `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 2025-11-17 | 大叔把 Sentrycs 8-K / Registration Rights 下跌解讀為標準法律文件誤讀，不是新公開市場融資；10% ADV seller resale limit 減少一次性倒貨風險，但 future resale overhang 與 Sentrycs revenue conversion 仍需追。 | 中高 |
 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 2025-11-17 | Maxim 維持 Buy 並把 **ONDS** 分析師目標價從 `$5` 上調至 `$10`，顯示 Q3 beat、現金彈藥與 M&A platform thesis 開始進入外部 re-rating；但 target 不是大叔自身目標價，2027 模型需校準。 | 中高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251115_Q3財報與2026營收指引.md` | 2025-11-15 | 大叔把 **ONDS** Q3 `$10.1M` revenue、OAS 約 96% 佔比與 FY2026 至少 `$110M` 初步 target 視為 revenue inflection；但估值需用 2026 revenue、毛利、cash 與 fully diluted shares 驗證。 | 高 |
 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 2025-11-14 | Oppenheimer 將 **ONDS** 從 Perform 升至 Outperform、給 `$12` 分析師目標價，將 ONDS 定位為 lower skies open drone platform；但大叔同篇提醒「記得要獲利」，需避免把研報 target 當追價訊號。 | 中高 |
