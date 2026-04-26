@@ -2,6 +2,9 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 2026-01-19 Facebook 短評《**ONDS** mPrest / 鐵穹 C2 併購卡關：國防主權與 Drone-in-a-Box 確認》，source_id 為 `大叔美股筆記-20260119-ondas-mprest-imod-freeze-c2-453e2c27`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，並補充既有 `Stocks/ONDS/milestones/ONDS_里程碑_20251203_政府邊境防護標案與OAS主承包商.md`；同步更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。
+- 備註：使用者於對話提供 Facebook 截圖，截圖可讀；Calcalist 2026-01-18 原文整理日可讀。大叔轉述 Calcalist：以色列國防部 freeze / 延宕 Ondas 約 `$100M` mPrest bid，因 mPrest 涉及 Iron Dome C2 / classified defense systems；大叔解讀為 **ONDS** 嘗試補上 national command layer，同時把 Airobotics / Drone-in-a-Box 邊境主承包商路線視為被忽略的確認利多。本篇不是已完成併購、官方公司公告、revenue、backlog 或買賣建議；mPrest C2 thesis 與 border tender execution 需分流追蹤。
 - 新增：補入大叔美股筆記 Substack 付費文章《避險基金說 ONDS 是騙局，頂級投行卻說這是「轉大人」？》，建立 `KOL/大叔美股筆記/articles/20260113_onds_stifel_17_big_boy_pants_uncle.md`，source_id 為 `大叔美股筆記-20260113-onds-stifel-17-big-boy-pants-4bc7696e`。
 - 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260113_大叔美股筆記_onds_stifel_17_big_boy_pants_大叔美股筆記-20260113-onds-stifel-17-big-boy-pants-4bc7696e.pdf`；PDF 為 4 頁 image-only 截圖，p.1-p.3 為核心正文 / 結論，p.4 為推薦文章 / footer，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
 - 更新：同步更新 `KOL/大叔美股筆記/notes/大叔美股筆記.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260110_SEC文件毒債清除與28權證.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。
