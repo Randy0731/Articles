@@ -2,6 +2,11 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-02-14 Facebook 短評《**ONDS** Iron Drone Raider 北約成員國民用基礎設施新訂單》，source_id 為 `大叔美股筆記-20260214-ondas-iron-drone-raider-nato-order-d4379dac`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260213_IronDroneRaider北約民用基礎設施新訂單.md`，判定 **ONDS** L4；同步追加 KOL 主筆記與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`。
+- 更新：同步更新 ONDS index / dashboard、source/ticker/theme/catalyst indexes。
+- 備註：Facebook 截圖與資訊圖可讀；Ondas 官方 2026-02-13 新聞稿確認 new multi-million dollar European / NATO member-country Iron Drone Raider order。官方未披露精確金額、客戶、系統數量或 revenue recognition timing；大叔文中 `$180M` / 訂單成長 180% 屬營收預估 / KOL 語境，不是本筆訂單金額、已認列 revenue 或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-02-12（推估）Facebook 短評《**ONDS** EU Counter-Drone Action Plan 與 Heidelberg 在地製造門票》，source_id 為 `大叔美股筆記-20260212-ondas-eu-counter-drone-heidelberg-14332f5f`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將 **ONDS** 判定為 L3 European localization / C-UAS policy catalyst；同步更新 ONDS index / dashboard、source/ticker/theme/catalyst indexes。
 - 備註：Facebook 截圖可讀；C-UAS Hub / European Commission action plan 與 Heidelberg / ONDS MoU official PDF 可交叉確認政策與合作背景。EU Action Plan / Heidelberg MoU / later ONBERG context 不是 EU order、supplier selection、backlog、revenue 或買賣建議。
