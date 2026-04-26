@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack 文章《✈️ 機場大亂？無人機滿天飛！#ONDS 如何做那個聰明人？》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251223-ondas-airport-drone-shovels-98cbba60`。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為大叔把機場無人機干擾定位為昂貴痛點，並以「賣鏟子」框架解讀 **ONDS** 的 C-UAS / airspace security 基礎設施供應商位置。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`；並補齊 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 頂部索引中前一筆 Patrick Huston COO 補入列。
+- 備註：本次為補入舊文；Substack 全文可讀，OCR 狀態標「不適用」。本篇是 market positioning / demand thesis，不是新訂單、合約、backlog、revenue、股價目標或買賣建議；後續需追 airport / critical infrastructure deployments、repeat orders、10-Q revenue / backlog、gross margin。
 - 新增：補入大叔美股筆記 Facebook 短評《**ONDS** Patrick Huston 將軍升任 COO：軍事化與合規化訊號》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251219-ondas-patrick-huston-coo-2abdb5fd`。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為 Ondas 官方 / SEC 8-K 確認 Patrick Huston 自 2025-12-16 起任 COO、General Counsel and Secretary，大叔解讀為 **ONDS** 軍事化與合規化、替大規模政府合約 readiness 鋪路。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
