@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入使用者 Notion 摘要《**ONDS** 2025/10 洗盤分析：震倉、MA200 與機構耐心框架》，source_id 為 `Notion-20251023-ondas-oct-washout-analysis-1858645c`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將 **ONDS** 判定為 L3 技術 / 籌碼觀點；重點為大叔把 ONDS 下殺解讀為機構震倉、機構想拿更多籌碼，洗盤滿足訊號為 MA200、交易量極度萎縮與討論熱度下降。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`。
+- 備註：未提供原始聊天室頁碼，因此不收入逐字長引文。KH Lee 關於無持股者是否可少量建倉的問答只保留為大叔當時聊天語境，不作本專案買賣建議；MA200 是動態均線，不是固定買點；機構洗盤手法不可寫成已證實操縱。
 - 新增：補入使用者 Notion 摘要《**ONDS** 近期增資分析：Palantir Foundry、RaaS 與基礎設施 thesis》，source_id 為 `Notion-20251021-ondas-infrastructure-financing-analysis-7a0f7b18`。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將 **ONDS** 判定為 L3 thesis synthesis；**PLTR** 僅作 Palantir Foundry 供應商 / product mention 的 L1 提及，不建立 `Stocks/PLTR/`。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`。
