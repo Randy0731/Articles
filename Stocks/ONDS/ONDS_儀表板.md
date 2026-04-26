@@ -1,6 +1,6 @@
 # ONDS 投資儀表板
 
-> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；補入 2025-10-21 PLTR 類比 / 窒息量洗盤技術框架，未改寫最新 Mistral 立場）
+> 最後更新：2026-04-26（觸發來源：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；補入 2025-10-21 基礎設施 / 增資 thesis，未改寫最新 Mistral 立場）
 
 ## 當前立場快照
 
@@ -12,6 +12,7 @@
 - **本次補入的 critical infrastructure TAM 粗算**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔用 142,000 個全美關鍵基礎設施據點、每點 3 套、每套 `$100K` 建立 **ONDS** 約 `$42.6B` 系統 TAM，含維護 / 營運延伸到 `$60B-$90B`；`$50` 是大叔粗算情境價，Lawrence 同場 `$60` 只記為群友喊價 / sentiment。這是 valuation imagination，不是公司 revenue、backlog、正式目標價或買賣建議。
 - **本次補入的 NATO market / C-UAS 情境價框架**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示大叔把 **ONDS** 的 C-UAS thesis 從美國 4,000 據點範例延伸到 NATO 32 國 / allied defense procurement，並以 Patrick Huston strategic capital、Rift / Wåsp、James Acuna、Iron Drone Raider 歐洲訂單作支柱；`$20` 是大叔情境價 / 2027-2028 calls 討論錨，不是正式目標價或買賣建議。4,000 * 3 * `$100K` 與 40% 利潤都是粗估假設，不是 revenue、backlog 或 guidance。
 - **本次補入的 PLTR 類比 / 窒息量洗盤框架**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示未具名投資社群 A / B 用 **ONDS** 日 K 與 **PLTR** 歷史圖形討論軍工成長股洗盤模式：1500-2000 萬股 / 日、連續 3-5 天不破底作為「窒息量」候選條件，`$6` 為當時 MA200 / 年線回測區，25%-30% 為洗盤幅度類比。這是技術面觀察，不是底部確認、買點、目標價或基本面 thesis。
+- **本次補入的基礎設施 / 增資 thesis**：`Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` 顯示未具名作者將 **ONDS** 的 Iron Drone Raider 實戰迭代、Oshri Lugassi 國防通路、Palantir Foundry enterprise data layer、Wåsp 20,000+ / month capacity、`$425M` offering / capital war chest、Ondas Capital 與 RaaS 經常性收入模式串成 infrastructure re-rating thesis。這是 2025-10-21 的 bullish framework，不是公司 guidance 或買賣建議；2025Q2 cash、2025 guide、backlog、市值 / P/S 需用後續 Q3 / FY2025、pro forma cash、fully diluted shares 與 revenue mix 校準。
 - **本次補入的溢價募資初評**：`Stocks/ONDS/milestones/ONDS_里程碑_20251020_425M融資與11_50機構成本.md` 補上大叔 2025-10-06 Substack：大叔把 `$425M` above-market offering 解讀為市場信任票，認為資金讓 Wåsp 生產、供應鏈、政府標案與 M&A / JV / strategic investments 進入可執行階段；但 `$11.50` 是 offering price、`$20` 是 common warrant exercise price，皆不是目標價或買點。
 - **本次補入的平台總論**：`Stocks/ONDS/milestones/ONDS_里程碑_20251103_國防自主系統平台總論.md` 顯示大叔在 2025-11-03 已把 **ONDS** 2025 併購拼圖整理成觀察、理解、行動、連接四層 systems-of-systems 框架；這是後續 Sentrycs、PDW、DFG、Roboteam、Mistral 的母框架，但也把最大風險鎖定在整合、財務驗證、授權股 / warrant 稀釋與跨國供應鏈。
 - **本次補入的政府邊境防護標案**：`Stocks/ONDS/milestones/ONDS_里程碑_20251203_政府邊境防護標案與OAS主承包商.md` 顯示大叔把 OAS 被選為 autonomous border-protection system 主承包商，解讀為 **ONDS** defense prime / system integrator thesis 的重要驗證；整理日補充 Ondas 2026-03-04 官方確認 Airobotics 收到該 tender 底下 `$20M` initial purchase order。這是 initial stage，完整多年度 program 仍需用 follow-on orders、deployment、revenue、gross margin 與 cash collection 驗證。
@@ -67,6 +68,9 @@
 
 | 問題 | 提出時間 | 等待事件 / 數據 | 出處篇章 | 狀態 |
 |---|---|---|---|---|
+| Palantir Foundry 是否實際支撐 **ONDS** enterprise scale，而不只是 IT 工具導入？ | 2026-04-26 | production / logistics / deployment reporting、delivery cycle、program reporting、customer award | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
+| **ONDS** 的 RaaS / recurring revenue 是否能被財報或合約披露驗證？ | 2026-04-26 | recurring revenue、service attach rate、contract duration、service margin、deployment count | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
+| Wåsp 20,000+ / month capacity 是否轉成終端訂單、利用率與 revenue？ | 2026-04-26 | terminal customer PO、DOW awards、delivery、inventory、revenue recognition | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；`Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md` | 待追蹤 |
 | **ONDS** 是否出現連續 3-5 天窒息量且不破底？ | 2026-04-26 | 日成交量低於 1500-2000 萬股、收盤價不破底、MA200 / 年線位置、後續放量紅 K | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | **PLTR** 類比是否失效，或 **ONDS** 的 C-UAS 時間壓力是否縮短打底期？ | 2026-04-26 | 世界盃 / 奧運維安、DoD / DHS / allied awards、C-UAS deployments、重大利多或增發 / 財報消息 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 待追蹤 |
 | Mistral / World View 併購後 backlog 能否轉成收入與毛利？ | 2026-04-26 | task order、10-Q revenue、gross margin、cash conversion | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` | 待追蹤 |
@@ -122,6 +126,10 @@
 | 現金與 pro forma cash 被誤讀 | 高 | 把 2025-09-30 cash、10 月 offering 後 pro forma cash、後續併購 / 投資現金使用混成同一個數字 | cash / restricted cash、pro forma cash、cash used in operations、acquisitions / investments、10-Q / 10-K | `Stocks/ONDS/milestones/ONDS_里程碑_20251115_Q3財報與2026營收指引.md` |
 | CEO 訪談被誤讀為正式 guidance 或保證 | 高 | 把 2025-10 訪談中的 `$25M` / doubling、no near-term raise 或 ten-year boom 直接寫成最新 guidance / 承諾 | official guidance、10-Q / 10-K、8-K、capital raise filings、cash flow | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | 資本彈藥被過度樂觀解讀 | 高 | 把 `$840M+` cash / nearly `$900M` raised 當成永久不用融資，忽略 cash burn、M&A、warrants 與 fully diluted shares | cash / restricted cash、OCF、acquisition payments、warrant exercise / cash settlement、shares outstanding | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
+| 2025-10-21 基礎設施 thesis 的舊數字被當成最新事實 | 高 | 把 `$25M` 2025 guide、2025Q2 cash `$68.6M`、backlog `$22.8M`、P/S 約 100x 直接當成最新資料 | 2025Q3 / FY2025 official release、10-Q / 10-K、pro forma cash、fully diluted shares | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
+| Palantir Foundry 導入被過度解讀為規模已兌現 | 中高 | 把 enterprise data layer 直接寫成 Pentagon readiness 已認證或 production scale 已完成 | Foundry integration updates、delivery metrics、program reporting、customer awards | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
+| RaaS / SaaS multiple 套用過早 | 高 | 未披露 recurring revenue scale 卻用 SaaS / infrastructure multiple 重估 | recurring revenue、service attach rate、contract duration、service gross margin、deployment count | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
+| Wåsp capacity 被誤讀為 demand | 高 | 把 20,000+ / month capacity 寫成已確認訂單或 revenue | PO、delivery、inventory、customer acceptance、revenue recognition | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`；`Stocks/ONDS/milestones/ONDS_里程碑_20251003_Wasp初始訂單與Rift分銷.md` |
 | 技術洗盤框架被誤讀為底部確認或買點 | 高 | 僅因接近 `$6` 或量縮就寫成可買 / 洗盤必結束 | 日線收盤、連續低量天數、不破底、後續放量紅 K、基本面消息 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | **PLTR** 類比過度套用 | 高 | 把 **PLTR** 歷史圖形直接推成 **ONDS** 必然路徑、同一批主力或相同漲幅 | **ONDS** 自身成交量、消息面、融資 / 稀釋、收入、backlog | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
 | MA200 / `$6` 隨時間失效 | 中 | 後續均線上移 / 下移或股價結構改變，仍沿用 2025-10-21 的 `$6` | 最新 MA200、收盤價、成交量、支撐 / 壓力更新 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` |
@@ -169,7 +177,7 @@
 | 併購整合與成本控制 | 中 | Mistral、World View 與 OAS 平台整合拖慢交付或拉高費用 | 毛利率、OPEX、整合費用、管理層更新 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 | RSU / 併購對價與後續融資稀釋 | 中 | 股權激勵、併購對價或現金需求推升股本 | shares outstanding、RSU vesting、S-8 / 10-Q、現金餘額 | `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md` |
 
-## 持倉判斷依據（最近 30 篇關鍵筆記）
+## 持倉判斷依據（最近 31 篇關鍵筆記）
 
 | 篇章 | 日期 | 一句話結論 | 權重 |
 |---|---|---|---|
@@ -196,6 +204,7 @@
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251103_國防自主系統平台總論.md` | 2025-11-03 | 大叔把 **ONDS** 2025 併購拼圖整理為觀察、理解、行動、連接四層 systems-of-systems 平台總論；後續全部里程碑都要回到整合 demo、合約、收入與稀釋來驗證。 | 高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md` | 2025-10-29 | Insight Intelligent Sensors 補上 SIM / AI electro-optical sensing 與 edge perception，讓 **ONDS** 垂直整合 thesis 從平台、AI 判讀、熱像感測推進到感知層。 | 高 |
 | `Stocks/ONDS/milestones/ONDS_里程碑_20251028_4MDefense智慧掃雷與地下情資平台.md` | 2025-10-28 | 4M Defense 把智慧掃雷、TIP、地表 / 地下威脅辨識與以色列防務工程能力接到 OAS，補強 **ONDS** #空地一體 與 AI + Robotics 國防應用 thesis。 | 高 |
+| `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 2025-10-21 | 未具名作者把 **ONDS** 的 Palantir Foundry、Wåsp 產能、Oshri Lugassi、combat iteration、capital war chest 與 RaaS 串成 infrastructure re-rating thesis；但需用 recurring revenue、capacity utilization、cash flow 與 fully diluted shares 驗證。 | 中 |
 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 2025-10-21 | 未具名投資社群用 **PLTR** 歷史圖形類比 **ONDS** 軍工成長股洗盤模式，提出 1500-2000 萬股 / 日、連續 3-5 天不破底與後續放量紅 K 作為技術面候選訊號；`$6` 為當時 MA200，不是買點。 | 中低 |
 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 2025-10-20 | Eric Brock 訪談直接給出十年繁榮、dual-use、空地一體與整合者框架，並說近四個月籌近 `$900M`、近期無再融資計畫；但這是管理層敘事，仍需 revenue、毛利、cash conversion 與股數驗證。 | 中高 |
 | `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md` | 2025-10-19 | 大叔把 **ONDS** C-UAS / autonomy thesis 從美國 critical infrastructure 延伸到 NATO 32 國，並用 Patrick Huston、Rift / Wåsp、James Acuna、Iron Drone Raider 歐洲訂單作戰略支柱；`$20` 是情境價與 options 討論錨，不是建議。 | 中 |

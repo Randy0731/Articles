@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入使用者 Notion 摘要《**ONDS** 近期增資分析：Palantir Foundry、RaaS 與基礎設施 thesis》，source_id 為 `Notion-20251021-ondas-infrastructure-financing-analysis-7a0f7b18`。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將 **ONDS** 判定為 L3 thesis synthesis；**PLTR** 僅作 Palantir Foundry 供應商 / product mention 的 L1 提及，不建立 `Stocks/PLTR/`。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`。
+- 備註：本篇為未具名分析文章，非大叔 / Lawrence / 公司公告。作者將 Iron Drone Raider 實戰迭代、Oshri Lugassi、Palantir Foundry、Wåsp 20,000+ / month capacity、`$425M` offering / capital war chest、Ondas Capital 與 RaaS 串成 infrastructure re-rating thesis；2025Q2 cash、2025 guide、backlog、市值 / P/S 等是 2025-10-21 當時口徑，需用後續 Q3 / FY2025、pro forma cash、revenue mix 與 fully diluted shares 校準，不是買賣建議。
 - 新增：補入使用者 Notion 摘要《**ONDS** / **PLTR** 軍工洗盤模式：窒息量、25%-30% 回檔與 MA200》，source_id 為 `Notion-20251021-onds-pltr-washout-pattern-40c22157`。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將 **ONDS** 判定為 L3 技術面紀錄；**PLTR** 僅作 L1 歷史類比，不建立 `Stocks/PLTR/`。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`。
