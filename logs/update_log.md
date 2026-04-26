@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 2025-11-14 Facebook 短評《**ONDS** Oppenheimer 升評 Outperform：`$12` 目標價與 lower skies 平台驗證》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251114-ondas-oppenheimer-outperform-12-89725fad`。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為 Oppenheimer 2025-11-14 將 **ONDS** 從 Perform 升至 Outperform，給予 12-18 個月 `$12` 分析師目標價，並把 ONDS 定位為 lower skies / C-UAS open drone platform。
+- 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。
+- 備註：本次為補入舊文；Facebook 截圖完整可讀，Oppenheimer report 只有使用者提供的單頁截圖，OCR 狀態標「部分」。`$12` 為 Oppenheimer 分析師目標價，不是大叔自身目標價、買點或買賣建議；大叔同篇明確提醒「記得要獲利」。report 截圖顯示 pro forma cash `$840M`、OAS backlog `$22.2M`、C-UAS TAM 2027 `$10.5B` 與 2030 `~$1B` revenue path；Facebook 貼文另提 2028 `$653.1M`，並有一處「2024 / `$72.5M`」轉述，兩者不在單頁截圖可視範圍內，需回完整原始報告校準。
 - 新增：補入大叔美股筆記 2025-11-17 Facebook 短評《**ONDS** Maxim Group 報告：Buy 維持、目標價上調至 `$10`》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，source_id 為 `大叔美股筆記-20251117-ondas-maxim-pt-10-b81d2ee3`。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3；重點為大叔轉述 Maxim Group 2025-11-14 報告，將 **ONDS** Buy 維持、12-month target 從 `$5` 上調至 `$10`，並把 Q3 revenue beat、post-offering cash 約 `$840.4M`、FY2026 至少 `$110M` 指引與 M&A / platform expansion 串成外部 re-rating 框架。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`。
