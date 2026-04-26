@@ -2,6 +2,10 @@
 
 ## 2026-04-26
 
+- 新增：補入使用者 Notion 摘要《**ONDS** 關鍵基礎設施 TAM 粗算：142,000 據點、426,000 套系統與 `$50` / `$60` 情境價》，source_id 為 `Notion-20251019-ondas-critical-infrastructure-valuation-f05057d2`。
+- 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `KOL/Lawrence/notes/Lawrence筆記.md`；大叔部分記錄 `$42.6B` / `$60B-$90B` TAM 與 `$50` 情境價，Lawrence 部分只記錄 `$60` 群友喊價 / sentiment，避免混成大叔觀點。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，並更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`。
+- 備註：Notion 外部讀取 404，且未提供原始聊天室頁碼；本次不收入逐字長引文，只保留使用者摘要中的結構化估算。`$42.6B` / `$60B-$90B` 是 TAM 假設，不是 **ONDS** revenue / backlog；`$50` 是大叔粗算情境價，`$60` 是 Lawrence 群友喊價，皆不是正式目標價、買點或買賣建議。
 - 新增：補入 Benzinga / Dailymotion 2025-10 Eric Brock CEO 訪談整理，source_id 為 `Benzinga-20251020-ondas-eric-brock-ceo-interview-2b2298e0`。
 - 更新：追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，將本篇判定為 **ONDS** L3 管理層訪談；重點為 Brock 將 **ONDS** 定位為 dual-use autonomous systems / C-UAS / ISR / ground robotics 整合者，提出十年繁榮、產業整合者與資本彈藥框架。
 - 更新：同步更新 `Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`。
