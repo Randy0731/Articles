@@ -2,6 +2,11 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-02-17 Facebook 短評《**ONDS** Sentrycs 德國州警空域防護合約與 Scout 便攜式 C-UAS》，source_id 為 `大叔美股筆記-20260217-ondas-sentrycs-german-police-contract-426507f3`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260217_Sentrycs德國州警空域防護合約.md`，判定 **ONDS** L4；同步追加 KOL 主筆記與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`。
+- 更新：同步更新 ONDS index / dashboard、source/ticker/theme/catalyst indexes。
+- 備註：Facebook 截圖可讀；Ondas 官方 2026-02-17 PR 確認 Sentrycs delivered/deployed system for German State Police office and Scout launch at Enforce Tac, with `$9.8B` handheld C-UAS five-year TAM。Contract value/state/system count/revenue timing not disclosed；Scout launch/TAM is not order/backlog/revenue；not buy-sell advice.
+
 - 新增：補入大叔美股筆記 2026-02-14 Facebook 短評《**ONDS** Iron Drone Raider 北約成員國民用基礎設施新訂單》，source_id 為 `大叔美股筆記-20260214-ondas-iron-drone-raider-nato-order-d4379dac`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260213_IronDroneRaider北約民用基礎設施新訂單.md`，判定 **ONDS** L4；同步追加 KOL 主筆記與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`。
 - 更新：同步更新 ONDS index / dashboard、source/ticker/theme/catalyst indexes。
