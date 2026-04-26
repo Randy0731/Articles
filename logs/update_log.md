@@ -2,6 +2,11 @@
 
 ## 2026-04-26
 
+- 新增：補入大叔美股筆記 Substack 付費文章《拆解 $ONDS 增發 4 億授權股的背後》，建立 `KOL/大叔美股筆記/articles/20260411_onds_authorized_shares_4b_uncle.md`，source_id 為 `大叔美股筆記-20260411-onds-authorized-shares-4b-d97d56c6`。
+- 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260411_大叔美股筆記_onds_authorized_shares_4b_大叔美股筆記-20260411-onds-authorized-shares-4b-d97d56c6.pdf`；PDF 為 5 頁 image-only 截圖，p.1-p.3 為核心正文，p.4 為免責聲明 / 留言，p.5 為推薦文章 / footer，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260411_授權股本增至12億與併購彈藥.md`，將本篇判定為 **ONDS** L4；重點為大叔把 Proposal 4 授權普通股從 8 億增至 12 億，解讀為大型併購 / platform expansion 彈藥與防禦牌，而非立即 ATM 或已發行 4 億股。
+- 更新：同步更新 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 文章索引、`Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md` 與 `private/raw_manifest.local.yaml`。
+- 備註：已用 Ondas 官方 annual meeting / proxy statement 交叉確認 Proposal 4：authorized common stock 擬從 800,000,000 增至 1,200,000,000；截至 record date，issued and outstanding 481,883,390 股、reserved for warrants 196,319,805 股、remaining authorized capacity 約 63,696,409 股，2026-03-31 cash and equivalents 超過 `$1.4B`。`$9.14` 是 record date 收盤價，`$20` / `$28` 是 warrant exercise price，不是目標價；後續追 2026-05-28 vote result、8-K、S-3 / S-8、M&A terms、fully diluted shares 與 per-share value。
 - 新增：補入大叔美股筆記 Substack 文章《ONDS 財報解析：需求與技術都是真的》，建立 `KOL/大叔美股筆記/articles/20260326_onds_earnings_call_q2_check_uncle.md`，source_id 為 `大叔美股筆記-20260326-onds-earnings-call-q2-check-3d15794f`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260326_財報法說會中立評估與Q2執行檢核.md`，將本篇判定為 **ONDS** L4；重點為大叔在 FY2025 財報 / 法說會後承認產品與需求真實，但把驗證門檻轉為 Q2 / H2 revenue ramp、Mistral closing、PMI、warrants / fully diluted shares、cash burn 與 adjusted EBITDA。
 - 更新：同步更新 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 文章索引、`Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260324_FY2025財報與2026_375M指引.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md` 與 `indexes/catalyst_index.md`；**PLTR** 僅作 Palantir AIP / Warp Speed / Maven / C2 供應商 L1 提及，不建立 `Stocks/PLTR/`。
