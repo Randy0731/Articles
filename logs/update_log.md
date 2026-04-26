@@ -2,6 +2,12 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-02-03 Substack 付費文章《#ONDS 正在我們眼前，走進美國與盟國的「國防核心圈」》，建立 `KOL/大叔美股筆記/articles/20260203_onds_rotron_aero_defense_core_uncle.md`，source_id 為 `大叔美股筆記-20260203-onds-rotron-aero-defense-core-6830b833`。
+- 新增：複製使用者提供之網頁截圖 PDF 至 `KOL/大叔美股筆記/raw/20260203_大叔美股筆記_onds_rotron_aero_defense_core_大叔美股筆記-20260203-onds-rotron-aero-defense-core-6830b833.pdf`；PDF 為 4 頁 image-only 截圖，p.1-p.3 為核心正文，p.4 為推薦文章 / footer，OCR 狀態標「部分」，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260203_RotronAero收購與DT300BlueUAS.md`，將本篇判定為 **ONDS** L4；重點為大叔把 Rotron Aero / DT-300 Blue UAS 解讀為 **ONDS** 進入美國與盟國國防核心圈，產品邊界從 ISR / C-UAS / ground robotics 延伸到 long-range strike、one-way effector、propulsion 與 UK / NATO supply chain。
+- 更新：同步更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md` 與 `private/raw_manifest.local.yaml`。
+- 備註：整理日補充核對 Ondas 官方 2026-02-02 收購協議公告、2026-03-16 收購完成公告與 2026 Form 10-K；10-K 顯示 Rotron 對價約 `$6.662M` 現金 + `3,334,753` 股普通股，部分股份有 12 個月 lock-up。這些後續資料用於事件追蹤，不倒寫成大叔 2026-02-03 原文當時已全部揭露；Blue UAS / partner list / 收購完成不等於 DoD order、backlog、revenue 或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-01-29（推估）Facebook Reel 短評《**ONDS** 2025Q4 13F：Vanguard / UBS / IMC-Chicago 加碼持股》，source_id 為 `大叔美股筆記-20260129-ondas-q4-13f-vanguard-ubs-imc-132fc624`。
 - 更新：同步追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將本篇判定為 **ONDS** L2 institutional ownership / 籌碼訊號；同步更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。
 - 備註：使用者提供 Facebook Reel 截圖，文字可讀；整理者以 SEC 13F information tables 交叉核對 Vanguard 2025Q4 common shares 18,767,157、UBS 1,888,800、IMC-Chicago common 348,815，且前季股數對應截圖增幅。13F report date 是 2025-12-31，不等於 2026-01-29 即時買盤；13F value / share 不是機構成本；IMC 同份 13F 另有 call / put rows，不能寫成純方向性長倉。本篇不是訂單、revenue、backlog 或買賣建議。
