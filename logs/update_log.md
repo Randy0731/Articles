@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `Bytc-20260209-space-based-solar-power-sbsp-0ddd76af`：整理 Bytc Substack 文章《當太陽不再下山，太空電網如何重塑文明與我們的投資邏輯》，建立 `KOL/Bytc/articles/20260209_space_based_solar_power_sbsp.md`，並複製使用者提供之 5 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260209_Bytc_space_based_solar_power_sbsp_Bytc-20260209-space-based-solar-power-sbsp-0ddd76af.pdf`。本篇為 Space-Based Solar Power / 太空電網 / 能源主權 / 太空基建框架文，重點是 SBSP 從地面驗證、LEO kW 級、GEO 10MW pilot 到 2040-2050 GW 級併網的四階段路徑，WPT、鈣鈦礦 / GaN、在軌組裝、儲能併網、發射成本 `$500/kg` 紅線，以及日本宇宙戰略基金與美國國防預算太空投資。
+- 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes 與 private raw manifest。**NOC**、**FLNC**、**RDW**、**RKLB** 新增 watchlist；**6503.T** / **5802.T** / **6674.T** 進 ticker index；**EOSE** / **SES** 只是 **FLNC** 對照組，**EOSE** 雖為已追蹤個股但本篇沒有形成新 thesis，因此不更新 `Stocks/EOSE/`。OCR 狀態標「部分」，Substack 公開頁全文可讀；本文不是買賣建議。
+
 - 入庫 `大叔美股筆記-20260208-dark-pool-tools-5b8f3802`：整理大叔美股筆記 Substack 文章《Dark Pool 暗池》，建立 `KOL/大叔美股筆記/articles/20260208_dark_pool_tools_uncle.md`，並複製使用者提供之 3 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20260208_大叔美股筆記_dark_pool_tools_大叔美股筆記-20260208-dark-pool-tools-5b8f3802.pdf`。本篇為暗池 / 大盤情緒 / 交易輔助工具框架文，重點是 SqueezeMetrics DIX、Stockgrid、Unusual Whales / Cheddar Flow / BlackBoxStocks，以及券商 T&S 過濾大單、ADF / TRF 場外成交標記與暗池 level 作為支撐 / 壓力確認。
 - 更新：同步更新 source/ticker/theme/framework indexes 與 private raw manifest。**TSLA** / **NVDA** / **AMD** 只作暗池工具教學例子，不建立或更新 `Stocks/`；本文新增「暗池信心確認框架」，核心是價格 / K 線決定進出場，暗池數據只用來增加信心。OCR 狀態標「部分」，Substack 公開頁全文可讀；本文不是買賣建議。
 
