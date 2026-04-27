@@ -10,6 +10,7 @@
 |---|---|---|---|---|---|---|
 | 2026-04-24 | 2026-04-26 | **SES** AI 財報：營收驚喜、轉型陣痛與 SiB 商業化 | Bytc-20260424-ses-ai-q1-sib-commercialization-430b7c49 | **SES** | #財報, #儲能, #AI基建, #產品節點, #管理層發言 | 新入庫；單篇 L3 候選追蹤，不建立 Stocks 專案 |
 | 2026-04-21 22:18 | 2026-04-27 | **ASTS** FCC 248 顆衛星授權：監管門檻與 Verizon 預付款條件 | Bytc-20260421-asts-fcc-248-satellite-grant-6ed4d3f0 | **ASTS** | #監管審批, #產品節點, #訂單合約, #執行風險 | 新入庫；單篇 L3 候選追蹤，不建立 Stocks 專案 |
+| 2026-04-15（台北；Substack metadata 2026-04-14 17:43） | 2026-04-27 | **IONQ** DARPA HARQ 合約：人造鑽石量子記憶體與量子網路總機野心 | Bytc-20260415-ionq-darpa-harq-quantum-networking-00741280 | **IONQ** | #國防科技, #AI基建, #產品節點, #訂單合約, #執行風險 | 新入庫；單篇 L3 候選追蹤，不建立 Stocks 專案 |
 
 ---
 
@@ -118,5 +119,63 @@ Bytc 將 FCC 對 AST & Science / AST SpaceMobile 的授權解讀為 **ASTS** 跨
 | grant with conditions 不等於無條件商業放量 | **ASTS** | 中高 | FCC 條件、干擾保護、頻譜租賃、國際監管或 service-area 限制影響部署 | FCC conditions、ULS / ICFS updates、partner spectrum filings、service launch geography | FCC DA 26-391 |
 | Verizon `$45M` payment 尚需財務文件確認 | **ASTS** | 中 | 市場把監管 approval 直接等同現金已收或 revenue 已認列 | 8-K、10-Q cash flow、deferred revenue、contract liability、management commentary | AST 2025 10-K |
 | 執行與資本開支風險 | **ASTS** | 高 | 衛星發射、製造、在軌性能、ground infrastructure、手機直連體驗或資金需求不及預期 | launch cadence、satellite count in service、capex、cash balance、MNO service launch、user trials | 整理者延伸 |
+
+---
+
+## **IONQ** DARPA HARQ 合約：人造鑽石量子記憶體與量子網路總機野心
+
+- **來源**：[Bytc Substack Note](https://substack.com/@btyc/note/c-243401812)；[IonQ 官方公告](https://www.ionq.com/news/ionq-selected-for-darpas-heterogeneous-architectures-for-quantum-harq-program)；[DARPA HARQ program](https://www.darpa.mil/research/programs/heterogeneous-architectures-for-quantum)
+- **類型**：Substack Note / DARPA HARQ / quantum networking / quantum memory
+- **發文時間**：2026-04-15（台北；Substack metadata 2026-04-14 17:43）
+- **整理日期**：2026-04-27
+- **source_id**：Bytc-20260415-ionq-darpa-harq-quantum-networking-00741280
+- **raw 路徑 / URL**：https://substack.com/@btyc/note/c-243401812（未另存 raw）
+- **OCR 狀態**：不適用
+- **相關 ticker**：**IONQ**
+- **主題 tags**：#國防科技, #AI基建, #產品節點, #訂單合約, #執行風險
+
+### 主旨
+
+Bytc 將 **IONQ** 取得 DARPA HARQ program contract 解讀為量子電腦從單一主機走向異質網路的基礎設施訊號。核心不是「又一台量子電腦」，而是 IonQ 透過人造鑽石量子記憶體與 quantum interconnect，嘗試扮演連接不同量子技術路線的橋樑 / 總機。
+
+### 個股觀點
+
+| 股票代號 | 立場 | 訊號強度 | 價位性質 | 備註 |
+|---|---|---|---|---|
+| **IONQ** | 隱含偏多 / 量子網路基礎設施 optionality | 明確觀點 / L3 候選追蹤 | 未提供股價目標、買點或合約金額 | Bytc 的增量判斷是 **IONQ** 不只想做自己的量子主機，也想成為異質量子網路的連接層；官方公告確認 HARQ 合約與 quantum memories，但商業收入、合約規模與量產時程仍未驗證 |
+
+### 核心概念
+
+- **異質量子網路**：Bytc 用「不同語言」比喻 trapped ions、neutral atoms、superconducting qubits 等不同技術路線。DARPA HARQ 的方向，是讓不同 qubit types 透過 interconnect 協作，而不是每種量子電腦各自成為孤島。
+- **人造鑽石量子記憶體**：IonQ 官方公告稱其 HARQ 貢獻聚焦 quantum memories；Bytc 將這個晶片比喻為量子網路裡的超級路由器，功能是把不同系統連在一起。
+- **基礎設施野心**：Bytc 認為 **IONQ** 參與 HARQ 是在證明自己的技術能連接不同技術的電腦，也顯示其想從量子主機延伸到下一代量子網路總機 / backbone 的野心。
+
+### 關鍵證據
+
+| 證據 | 出處 | 解讀 |
+|---|---|---|
+| Bytc 稱 **IONQ** 取得 DARPA HARQ 合約，並負責人造鑽石量子記憶體晶片 | Bytc Substack Note | KOL 明確把事件解讀為量子網路基礎設施 / 總機角色，而不只是單一量子主機新聞 |
+| IonQ 官方公告確認公司獲 DARPA HARQ program contract，並稱 HARQ 將支援可連接多種量子電腦的 high-speed interconnects | IonQ 官方公告 | 官方層面支撐「DARPA HARQ + heterogeneous quantum computers + quantum interconnect」事件本身 |
+| DARPA HARQ 頁面說明 program 目標是結合不同 qubit types，並以 quantum interconnect components 支援可靠通訊 | DARPA HARQ program | 支撐 Bytc 對「不同量子技術連成網路」的框架解讀 |
+
+### 延伸追蹤
+
+| 日期 | 事件 | 相關 ticker | 影響方向 | 追蹤重點 | 出處 |
+|---|---|---|---|---|---|
+| 2026-04-14（官方公告；台北 2026-04-15） | IonQ 宣布獲 DARPA HARQ program contract | **IONQ** | 正面 / 技術驗證與國防 R&D 背書 | 合約金額、phase / deliverables、quantum memory chips、interconnect demo、是否形成後續 government award 或 commercial networking customer | IonQ 官方公告；Bytc Substack Note |
+| 未定 | HARQ 技術里程碑與量子網路商業化 | **IONQ** | 正面若兌現 | high-speed / high-fidelity quantum interconnect、synthetic diamond memory reliability、heterogeneous system demo、fiber / datacenter / defense networking use cases、revenue / backlog disclosure | DARPA HARQ；IonQ 官方公告 |
+
+### 風險與反例
+
+| 風險 | 相關 ticker | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|---|
+| R&D 合約不等於商業營收 | **IONQ** | 中高 | 市場把 DARPA program participation 直接視為大額 revenue 或 backlog | 合約金額、funding obligation、revenue recognition、8-K / 10-Q disclosure | 整理者延伸 |
+| 異質量子網路技術難度高 | **IONQ** | 高 | quantum memory / interconnect 無法達到 HARQ speed、fidelity 或 scalability 目標 | demo milestone、technical papers、DARPA phase continuation、error / fidelity metrics | DARPA HARQ；IonQ 官方公告 |
+| 商業化時程不確定 | **IONQ** | 中高 | 國防 R&D proof-of-concept 無法轉成 datacenter、fiber network 或 customer deployment | commercial quantum networking orders、customer pilots、bookings / backlog、gross margin | 整理者延伸 |
+| 高敘事個股估值波動 | **IONQ** | 高 | 量子題材估值先行，但 revenue / cash flow 尚未跟上 | revenue growth、cash burn、dilution、guidance、multiple compression | 整理者延伸 |
+
+### 整理者延伸
+
+**IONQ** 先前已在大叔 / Cantor 13F 表格中出現，但那是 institutional-positioning / estimated cost 觀察，不是 **IONQ** 技術 thesis。這篇 Bytc Note 是第一筆以 **IONQ** 本身為核心的 KOL 技術 / 國防 R&D 觀點，因此更新 ticker index 與 watchlist；但目前仍不建立 `Stocks/IONQ/`，後續需等合約金額、技術里程碑、收入 / backlog 或更多 KOL L2+ 來升級。
 
 ---

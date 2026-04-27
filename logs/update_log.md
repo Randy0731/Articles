@@ -2,6 +2,9 @@
 
 ## 2026-04-27
 
+- 入庫 `Bytc-20260415-ionq-darpa-harq-quantum-networking-00741280`：整理 Bytc Substack Note《**IONQ** DARPA HARQ 合約：人造鑽石量子記憶體與量子網路總機野心》，追加至 `KOL/Bytc/notes/bytc筆記.md`。本篇為短 Note / 國防 R&D / quantum networking 催化，Bytc 將 IonQ 取得 DARPA HARQ program contract 解讀為 **IONQ** 從自家量子主機延伸到量子網路基礎設施 / 總機角色，核心技術為人造鑽石 quantum memory chips 與 high-speed quantum interconnect。Substack Note 可讀，IonQ 官方公告確認 2026-04-14 獲 HARQ contract，DARPA HARQ 頁面確認 program 目標為結合不同 qubit types 並發展 reliable quantum interconnect components。
+- 更新：同步更新 source/ticker/theme/catalyst/watchlist indexes。**IONQ** 為非已追蹤個股，本文達單篇 L3 候選追蹤但不建立 `Stocks/IONQ/`；本篇未披露合約金額、commercial backlog、收入認列或量子網路商業部署，後續需追 DARPA phase / deliverables、quantum memory / interconnect demo、government follow-on award、commercial customer、10-Q revenue / cash burn。來源為 URL 與使用者截圖，未另存 raw，OCR 狀態不適用；本文不是買賣建議。
+
 - 入庫 `Bytc-20260416-canberra-3-percent-rearmament-ea67c054`：整理 Bytc Substack 付費文章《坎培拉的百分之三：當南半球開始備戰》，建立 `KOL/Bytc/articles/20260416_canberra_3_percent_rearmament.md`，並複製使用者提供之 8 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260416_Bytc_canberra_3_percent_rearmament_Bytc-20260416-canberra-3-percent-rearmament-ea67c054.pdf`。本篇為地緣政治 / 國防科技 / 供應鏈風險長文，重點是澳洲 2033 年前將國防支出從約 GDP 2% 提高到 3%、Bytc 將拜登與川普的對華路線視為跨黨派延續、東歐 / 中東 / 南美非洲 / 南亞 / 印太的衝突擴散路徑、澳洲作為美軍印太後勤大後方 / AUKUS 工業夥伴 / 南太平洋堡壘 / 中國鐵礦石與鋰礦供應商，以及半導體、電池原材料、稀土與航道構成的看不見供應鏈戰。
 - 更新：同步更新 source/theme/catalyst/framework indexes 與 private raw manifest。本文沒有單一 ticker L2+，S&P 500 與軍工股只作指數 / 板塊語境，不更新 ticker index、watchlist 或 `Stocks/`；不可把全球國防支出升級寫成任一公司確定受惠或買賣建議。OCR 狀態標「部分」，Substack 網頁正文完整可讀，PDF p.1-p.7 從標題、正文、劇本分析、軍工市場段落到結語 / 免責聲明完整可讀，p.8 為 discussion / 推薦文章 / footer，Tesseract 對中文、地圖與部分圖表有雜訊。
 
