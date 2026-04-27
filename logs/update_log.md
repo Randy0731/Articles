@@ -2,6 +2,9 @@
 
 ## 2026-04-27
 
+- 入庫 `Bytc-20260416-canberra-3-percent-rearmament-ea67c054`：整理 Bytc Substack 付費文章《坎培拉的百分之三：當南半球開始備戰》，建立 `KOL/Bytc/articles/20260416_canberra_3_percent_rearmament.md`，並複製使用者提供之 8 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260416_Bytc_canberra_3_percent_rearmament_Bytc-20260416-canberra-3-percent-rearmament-ea67c054.pdf`。本篇為地緣政治 / 國防科技 / 供應鏈風險長文，重點是澳洲 2033 年前將國防支出從約 GDP 2% 提高到 3%、Bytc 將拜登與川普的對華路線視為跨黨派延續、東歐 / 中東 / 南美非洲 / 南亞 / 印太的衝突擴散路徑、澳洲作為美軍印太後勤大後方 / AUKUS 工業夥伴 / 南太平洋堡壘 / 中國鐵礦石與鋰礦供應商，以及半導體、電池原材料、稀土與航道構成的看不見供應鏈戰。
+- 更新：同步更新 source/theme/catalyst/framework indexes 與 private raw manifest。本文沒有單一 ticker L2+，S&P 500 與軍工股只作指數 / 板塊語境，不更新 ticker index、watchlist 或 `Stocks/`；不可把全球國防支出升級寫成任一公司確定受惠或買賣建議。OCR 狀態標「部分」，Substack 網頁正文完整可讀，PDF p.1-p.7 從標題、正文、劇本分析、軍工市場段落到結語 / 免責聲明完整可讀，p.8 為 discussion / 推薦文章 / footer，Tesseract 對中文、地圖與部分圖表有雜訊。
+
 - 入庫 `Bytc-20260416-market-new-high-data-check-c81d5a96`：整理 Bytc Substack 付費文章《大盤新高後的數據盤點》，建立 `KOL/Bytc/articles/20260416_market_new_high_data_check.md`，並複製使用者提供之 5 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260416_Bytc_market_new_high_data_check_Bytc-20260416-market-new-high-data-check-c81d5a96.pdf`。本篇為全市場 / CTA / VIX / 科技估值與 Fed 路徑短長文，重點是 Nasdaq 連續 11 天收漲、CTA 昨天買入約 30 億美元美股且多頭頭寸約 400 億美元、vol control 約買 50 億美元、VIX 兩週跌幅為歷史第七大、Nasdaq / **SOX** 連陽後 forward return 統計、資訊科技板塊估值回到 2022 附近、美國收入月環比約 -0.1% vs PCE 約 +0.5%、Fed 真實立場偏降息但能源衝擊使其暫停，以及 Bytc 本週不操作、反彈約 30% 後優先減少槓桿。
 - 更新：同步更新 source/theme/catalyst/framework indexes 與 private raw manifest。本文無單一 ticker L2+，**SOX** 只作半導體指數統計語境，不更新 ticker index 或 `Stocks/`；Bytc 減少槓桿是 KOL 個人風控紀錄，不是本專案買賣建議。OCR 狀態標「部分」，p.1-p.4 從標題、正文、結論到免責聲明完整可讀，p.5 為 discussion / 推薦文章 / footer，每頁底部 Substack 浮動列與圖表造成 OCR 雜訊。
 
