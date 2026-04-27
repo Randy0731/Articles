@@ -2,6 +2,9 @@
 
 ## 2026-04-27
 
+- 入庫 `Bytc-20260411-macro-data-weekly-20260410-eb05ea80`：整理 Bytc Substack 文章《2026 年 4 月 11 日宏觀數據週報》，建立 `KOL/Bytc/articles/20260411_macro_data_weekly_20260410.md`，並複製使用者提供之 14 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260411_Bytc_macro_data_weekly_20260410_Bytc-20260411-macro-data-weekly-20260410-eb05ea80.pdf`。本篇為宏觀 / CPI / CTA 軋空 / AI 與 crypto 主題長文，重點是 S&P 500 +3.56%、Nasdaq +4.68%、股市情緒 38、VIX 19.23、Put/Call 1.00、3 月 CPI headline 0.9% / 3.3% 但核心 0.2% / 2.6%、2Y 3.799% / 10Y 4.317%、股票基金 +97.6 億美元、債券基金 +96 億美元、MMF 7.82 兆美元、CTA 350 億美元 SPX 空頭與未來一週 450 億美元潛在買盤、4/24 gamma 風險、散戶 SQQQ 做空、Hormuz 兩週停火與美國原油出口接近 500 萬桶 / 日、Apple Baltra / 玻璃基板 / HBM4、具身智能、Meta Muse Spark、Anthropic Mythos、**IBIT** / BTC / ETH DCA、**COIN** 傳統金融抵制與 **CRCL** / USDC CPN Managed Payments。
+- 更新：同步更新 source/theme/ticker/catalyst/framework indexes 與 private raw manifest。本文未觸及本 repo 已追蹤個股 L2+，因此不更新 `Stocks/`；OCR 狀態標「部分」，每頁底部 Substack 浮動列造成局部遮擋與 OCR 雜訊，但核心數據、立場、ticker 分流與結論完整可判讀。
+
 - 入庫 `Bytc-20260407-weekly-data-supplement-20260404-eb424db9`：整理 Bytc Substack 文章《2026 年 4 月 04 日週報數據補充》，建立 `KOL/Bytc/articles/20260407_weekly_data_supplement_20260404.md`，並複製使用者提供之 2 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260407_Bytc_weekly_data_supplement_20260404_Bytc-20260407-weekly-data-supplement-20260404-eb424db9.pdf`。本篇為 2026-04-05 宏觀週報的 LSEG fund-flow 補充，重點是美國股票基金 +70.5 億美元、前週 +369.5 億美元、大型股基金 +146.7 億美元、小型股 -13.4 億美元、中型股 -10.9 億美元、產業型基金 -38.2 億美元、債券基金自 2025-12-31 以來首次單週流出 -101.7 億美元、中短期投資級債券基金終止連續 18 週流入並流出 -59.2 億美元，以及 MMF +58.8 億美元 / 七週內第六次流入。
 - 更新：同步更新 source/theme/catalyst indexes 與 private raw manifest。本文無單一 ticker，不更新 ticker index、watchlist 或 `Stocks/`；OCR 狀態標「部分」，p.1 底部 Substack 浮動列遮住一行伊朗 / Hormuz 文字，因此該行不作精確引文，但核心 fund-flow 數字、結論與日期可讀。
 
