@@ -2,6 +2,9 @@
 
 ## 2026-04-27
 
+- 入庫 `Bytc-20260421-asts-fcc-248-satellite-grant-6ed4d3f0`：整理 Bytc Substack Note《**ASTS** FCC 248 顆衛星授權：監管門檻與 Verizon 預付款條件》，追加至 `KOL/Bytc/notes/bytc筆記.md`，並保存 FCC 官方 25 頁 PDF 至 `KOL/Bytc/raw/20260421_Bytc_asts_fcc_248_satellite_grant_Bytc-20260421-asts-fcc-248-satellite-grant-6ed4d3f0.pdf`。FCC DA 26-391 adopted / released 2026-04-21，授權 AST SpaceMobile NGSO 248 satellites，scope of grant 為部署 223 顆新增 LEO NGSO space stations 並執行 SCS / direct-to-cell operations，狀態為 granted with conditions。
+- 更新：同步更新 source/ticker/theme/catalyst/watchlist indexes。**ASTS** 為非已追蹤個股，本文達單篇 L3 候選追蹤但不建立 `Stocks/ASTS/`；Bytc 推論 Verizon `$45M` commercial prepayment 最後條件解除，SEC 2025 10-K 佐證該 payment 在 Verizon definitive commercial agreement 後只剩 regulatory approvals 條件。後續仍需 8-K / 10-Q 確認實際 cash receipt、deferred revenue / contract liability 與 commercial rollout；本文不是買賣建議。
+
 - 入庫 `Bytc-20260423-copper-ai-new-oil-a82e45cd`：整理 Bytc Substack 付費文章《銅是 AI 時代的新石油》，建立 `KOL/Bytc/articles/20260423_copper_ai_new_oil.md`，並複製使用者提供之 14 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260423_Bytc_copper_ai_new_oil_Bytc-20260423-copper-ai-new-oil-a82e45cd.pdf`。本篇為大宗商品 / AI 電氣化 / 銅供需長文，重點是銅作為電力傳輸與 AI 基建底層金屬、EV 用銅量約為燃油車 2.9 倍、風光儲與輸配電網需求、資料中心每 MW 約 30-40 噸銅、Vera Rubin NVL72 仍使用約 2 英里銅纜、礦山深度提高與新礦週期拉長到約 17 年、2025 年銅礦營運成本較 2019 年高 37%、平均品位降至不到 0.5%、美國銅關稅 / COMEX 庫存轉移、中國剛果與再生銅布局，以及 Bytc 對銅投資價值的克制結論。
 - 更新：新增 `#大宗商品` tag 至 `docs/TAG_TAXONOMY.md`，同步更新 source/theme/ticker/catalyst/framework/watchlist indexes 與 private raw manifest。**FCX** 因大叔與 Bytc 兩條銅 / 電氣化線索更新 watchlist；**SCCO**、**COPX**、**CPER**、**BHP**、**NVDA** 只進 ticker / theme index，不建立 `Stocks/` 專案；本文未觸及已追蹤個股 L2+。OCR 狀態標「部分」，p.1-p.11 從正文到免責聲明完整可讀，p.12-p.14 為 reference，每頁底部 Substack 浮動列遮住少量段落且 OCR 有雜訊，但核心論點、數字、ticker 與 KOL 立場可判讀。
 
