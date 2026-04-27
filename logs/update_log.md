@@ -2,6 +2,10 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-03-06 Facebook 短評《**ONDS** Sentrycs 中東約 `$6M` C-UAS 訂單：building block 與 Cyber-RF 接管層》，source_id 為 `大叔美股筆記-20260306-ondas-sentrycs-middle-east-orders-f4cc76ad`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260306_Sentrycs中東600萬美元反無人機訂單.md`，將本篇判定為 **ONDS** L4 訂單里程碑；同步更新 KOL 主筆記、ONDS index / dashboard、source/ticker/theme/catalyst indexes。
+- 備註：Ondas 官方 2026-03-06 新聞稿確認多筆約 `$6M` Sentrycs cyber-RF C-UAS orders、dozens of systems、current Middle East / other-region defense and homeland-security customers；但這不是完整 program、已認列 revenue、formal target 或買賣建議。
+
 - 新增：補入 Ondas 官方 2026-03-05 新聞稿《Ondas Strengthens OAS Board with McKinsey Senior Partner David Chinn to Support Global Defense Expansion》，source_id 為 `Company-20260305-ondas-david-chinn-oas-board-ded5b092`。
 - 更新：追加 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將本篇判定為 **ONDS** L3 official leadership / governance signal；同步更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。
 - 備註：David Chinn 加入 OAS Board 補強 global defense expansion、defense modernization、national-security customer access 與 system-of-systems governance；這不是 customer order、backlog、revenue、DoD / DHS award、formal target 或買賣建議。
