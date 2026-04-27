@@ -1,5 +1,10 @@
 # Update Log
 
+## 2026-04-28
+
+- 入庫 `Bytc-20260318-ai-autonomous-constitution-compute-demand-5b6bd136`：整理 Bytc Substack 付費文章《AI 都自主立憲了，你還覺得算力快飽和了嗎？》，建立 `KOL/Bytc/articles/20260318_ai_autonomous_constitution_compute_demand.md`，並複製使用者提供之 8 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260318_Bytc_ai_autonomous_constitution_compute_demand_Bytc-20260318-ai-autonomous-constitution-compute-demand-5b6bd136.pdf`。本篇為 AI Agent / 算力需求 / SaaS 估值重估長文，重點是 Claw Colony 約 32 小時 AI Agent 自主制憲、成員權利義務與三權分立 governance、Bytc 認為算力需求不會飽和、GUI 是人類認知缺陷補丁、Software was eaten by AI、AI 原生 / 基礎設施與傳統 SaaS P/S 估值分流，以及 AI 擴散路徑從賣鏟人、軍政高優先級場景、企業商用再到消費端。
+- 更新：同步更新 source/theme/ticker/catalyst/framework indexes 與 private raw manifest。**PLTR** / **CRWV** / **NVDA** 記為 AI 原生與基礎設施 L2 主題籃子；**CRM** / **NOW** 記為傳統 SaaS 估值壓力 L2；**LMND** / **UPST** / **OSCR** 記為垂直 AI 破局者 L2；**9984.T** / **3778.T** 記為日股 AI 布局與算力基建 L2。不建立 `Stocks/`，不新增 watchlist。公開頁只到付費牆前段，完整內容以使用者 PDF 為主；系統無中文 OCR 語言包，採 PDF 影像核讀，OCR 狀態標「部分」；市值、P/S 與三年回報率為 Bytc 圖表 / Yahoo Finance 原文口徑，未逐項外部核價；本文不是買賣建議。
+
 ## 2026-04-27
 
 - 入庫 `Bytc-20260320-trump-global-strategy-world-order-46fbd454`：整理 Bytc Substack 文章《重寫世界秩序：川普的全球戰略》，建立 `KOL/Bytc/articles/20260320_trump_global_strategy_world_order.md`，並複製使用者提供之 7 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260320_Bytc_trump_global_strategy_world_order_Bytc-20260320-trump-global-strategy-world-order-46fbd454.pdf`。本篇為川普全球戰略 / 地緣政治 / 國防與資源秩序長文，重點是 Bytc 將和平委員會、美洲之盾、American Iron Dome / missile defense、美伊戰爭推演、拉美資源與港口、美元石油循環、盟友付費安全與中國能源後路放進同一套後冷戰秩序重寫框架。
