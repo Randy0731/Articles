@@ -2,6 +2,10 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-03-09 Substack Note《**ONDS** 初步財報與 Mistral：8-K 重要性短評》，source_id 為 `大叔美股筆記-20260309-ondas-prelim-results-mistral-tier1-71a8ac32`。
+- 更新：追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，並將本篇判定為 **ONDS** L4 補充來源；同步更新 `Stocks/ONDS/milestones/ONDS_里程碑_20260312_Mistral_Bird併購稀釋與10元天花板.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、source/ticker/theme/catalyst indexes。
+- 備註：大叔稱 3/9 8-K 很重要，理由是 preliminary Q4 / FY2025 revenue beat、當時 2026 `$170M-$180M` target、pro forma cash `>$1.5B` 與 Mistral / Tier 1 defense prime contractor thesis 同時出現；同篇負面提醒 stock consideration / 轉售限制仍可能壓抑後續股價動能。此文與 3/12 Mistral-Bird 長文、3/24 FY2025 final release 高度重疊，因此不另開重複里程碑；後續 official final release 已將 2026 target 上修至 `$375M+`，查詢時需保留版本差異，不得當作最新 guidance 或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-03-06 Facebook 短評《**ONDS** Sentrycs 中東約 `$6M` C-UAS 訂單：building block 與 Cyber-RF 接管層》，source_id 為 `大叔美股筆記-20260306-ondas-sentrycs-middle-east-orders-f4cc76ad`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260306_Sentrycs中東600萬美元反無人機訂單.md`，將本篇判定為 **ONDS** L4 訂單里程碑；同步更新 KOL 主筆記、ONDS index / dashboard、source/ticker/theme/catalyst indexes。
 - 備註：Ondas 官方 2026-03-06 新聞稿確認多筆約 `$6M` Sentrycs cyber-RF C-UAS orders、dozens of systems、current Middle East / other-region defense and homeland-security customers；但這不是完整 program、已認列 revenue、formal target 或買賣建議。

@@ -5,6 +5,7 @@
 - **source_id**：大叔美股筆記-20260312-onds-ma-dilution-mistral-bird-c7532d2c
 - **KOL / 來源**：大叔美股筆記；Ondas 2026-03-09 / 2026-03-11 8-K
 - **原始來源**：https://unclestocknotes.substack.com/p/onds-d54；https://ir.ondas.com/all-sec-filings/content/0001213900-26-024965/0001213900-26-024965.pdf；https://ir.ondas.com/all-sec-filings/content/0001213900-26-025987/0001213900-26-025987.pdf
+- **補充來源**：2026-03-09 Substack Note `大叔美股筆記-20260309-ondas-prelim-results-mistral-tier1-71a8ac32`（初步財報 / Mistral 8-K 重要性短評）
 - **KOL 原文整理**：`KOL/大叔美股筆記/articles/20260312_onds_ma_dilution_mistral_bird_uncle.md`
 - **交會等級**：L4
 - **主題 tags**：#國防科技 #併購 #稀釋風險 #ReRating #估值風險 #訂單合約
@@ -29,6 +30,7 @@
 |---|---|---|
 | Mistral transaction | Ondas 2026-03-09 8-K 確認交易總額 `$175M`，其中 `$122.5M` common stock、`$52.5M` stock escrow | 大叔以 `$122.5M / $10` 推約 `1,225 萬股` |
 | Mistral contract base | 8-K exhibit / PR 稱 Mistral serves as prime contractor on over a billion dollars of IDIQ and various U.S. DoD contracts | IDIQ / contract vehicle 不等於全部已收入化 |
+| 3/9 初步財報短評 | 大叔在 2026-03-09 Note 先把 preliminary Q4 / FY2025 revenue beat、`$170M-$180M` 當時 2026 target、`>$1.5B` cash 與 Mistral / Tier 1 prime contractor thesis 連在一起 | 此為 3/12 稀釋模型前置短評；後續 FY2025 final release 已將 2026 target 上修至至少 `$375M`，需保留版本差異 |
 | Bird resale shares | Ondas 2026-03-11 8-K 確認 resale registration 覆蓋 `6,933,110` 股 | 可確認第一批 resale shares；不等於單日賣出 |
 | Bird second payment / volume limit | 大叔文章提到第二筆付款與 volume-limit 慢性賣壓 | 本次整理未在快速文字抽取中完整獨立核到條文，保留為待回查 424B7 / acquisition agreement |
 | 後續 revenue guidance | 整理日既有 repo 後續資料顯示 2026-03-23 official release 將 2026 revenue target 提至至少 `$375M` | 這支持大叔「需高於 `$250M` 才能抵消稀釋」的財報檢查，但屬本文發表後資訊 |
