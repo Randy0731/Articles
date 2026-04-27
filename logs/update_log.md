@@ -2,6 +2,11 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-03-20 Facebook 短評《**ONDS** Sentrycs / Swisscom：WEF 2026 Davos 空域防護部署》，source_id 為 `大叔美股筆記-20260320-ondas-sentrycs-wef-davos-swisscom-05296c40`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260320_Sentrycs_WEF_Davos_Swisscom部署.md`，判定為 **ONDS** L4 高能見度 deployment validation；同步更新 Sentrycs CoRF 母題里程碑。
+- 更新：同步 `KOL/大叔美股筆記/notes/大叔美股筆記.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、source/ticker/theme/catalyst indexes。
+- 備註：官方頁面確認 Sentrycs Cyber-over-RF deployed at WEF 2026 through Swisscom Broadcast DroneDefence；本篇不是合約金額、backlog、已認列 revenue、exclusive framework 或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-03-17 Substack Note（`大叔美股筆記-20260317-onds-indo-earth-moving-140m-tender-f284457b`），建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260317_INDOEarthMoving收購與1_4億重型工程車輛標案.md`。
 - 更新：同步 `KOL/大叔美股筆記/notes/大叔美股筆記.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260324_FY2025財報與2026_375M指引.md` 與 source / ticker / theme / catalyst indexes。
 - 修正：將大叔原文「1.4 億美元收購」校準為 official purchase price `$5.663M` cash + `5,493,388` shares；`$140M` 為 tender / contingent earn-out context，不寫成收購價、已認列 revenue 或買賣建議。

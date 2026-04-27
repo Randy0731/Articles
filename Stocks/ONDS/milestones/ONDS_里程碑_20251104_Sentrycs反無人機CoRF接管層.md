@@ -21,6 +21,8 @@
 
 2026-04-26 另補入大叔 2025-11-17 Substack《有關於 #ONDS 的下跌》（source_id：`大叔美股筆記-20251117-ondas-sentrycs-8k-selloff-1cb3735a`）：大叔把 Sentrycs closing 8-K / Registration Rights selloff 解讀為標準法律文件被誤讀，強調這是既有併購對價股份的法律收尾，不是公司缺錢向市場新增融資；同時 8-K 披露 sellers aggregate daily sales 不得超過 average daily trading volume 的 10%。此補充不改寫本 L4 主 thesis，但增加「稀釋辨識 / filing headline risk / future resale overhang」追蹤欄位。
 
+2026-04-27 另補入大叔 2026-03-20 Facebook 短評（source_id：`大叔美股筆記-20260320-ondas-sentrycs-wef-davos-swisscom-05296c40`）：Sentrycs CoRF 被整合進 Swisscom Broadcast DroneDefence，支援 WEF 2026 Davos 空域防護。這補上 CoRF 在高規格國際活動安全場景的 reference case；但不是新訂單金額、backlog 或已認列 revenue。
+
 ### 觀點摘要
 
 | 面向 | 內容 |
@@ -41,6 +43,7 @@
 | 完成收購 | Ondas 完成 Sentry CS Ltd 100% 收購 | 2025-11-17 / 總對價 `$225M` | Ondas 2025-11-17 Form 8-K | 整理日補充；含 `$125M` 現金與最高 `$100M` 普通股對價 |
 | 股權對價 | Closing 時發行約 `$29.4M` 普通股，4,096,700 股 | 2025-11-17 | Ondas Form 8-K | 後續 additional stock consideration 最高 `$22.5M` x 3 期，可由公司選擇以現金支付部分 |
 | 賣方限制 | Sellers aggregate daily sales 不得超過 average daily trading volume 的 10% | 2025-11-17 | Ondas Form 8-K / 大叔 2025-11-17 Substack | 大叔將此解讀為防止一次性倒貨的保護條款；仍不等於無賣壓 |
+| 高能見度部署 | Sentrycs CoRF 支援 Swisscom Broadcast DroneDefence / WEF 2026 Davos 空域防護 | 2026-03-19 / 2026-03-20 | Ondas 官方頁面 / 大叔 Facebook | Reference deployment；未披露合約金額、系統數量或 revenue timing |
 
 ### 風險表
 
@@ -49,6 +52,7 @@
 | Sentrycs CoRF 未轉成 OAS 可銷售整合方案 | 高 | CoRF 與 Iron Drone Raider、Optimus、Mistral 或其他 OAS 任務系統停留在概念整合 | OAS product update、program win、task order、backlog、C-UAS revenue mix | 大叔 Substack Note / Ondas 官方新聞稿 / 整理者判斷 |
 | 高額收購對價與股權對價稀釋 | 高 | `$225M` 對價未轉成收入、毛利或 backlog；additional stock consideration 增加股本 | shares outstanding、10-Q purchase accounting、revenue contribution、gross margin | Ondas Form 8-K |
 | Registration rights / resale headline risk | 中高 | 424B7 / S-3 / resale headline 被市場解讀為新融資或賣方即刻倒貨 | resale filings、daily volume、seller limits、price / volume reaction | 大叔 2025-11-17 Substack / Ondas Form 8-K |
+| WEF Davos reference 被誤讀為新大單或已認列 revenue | 高 | high-profile deployment 被寫成 contract value、backlog、exclusive framework 或 recognized revenue | official PR / 8-K、contract value、10-Q Sentrycs revenue、follow-on orders | 大叔 2026-03-20 Facebook / Ondas 官方頁面 |
 | 非干擾 / 合規緩解能力需面對快速變種無人機 | 中 | 自製、改裝或自主導航無人機降低 protocol-layer takeover 成效 | Horizon Engine 更新、field performance、客戶續約、對抗電子戰測試 | Ondas 官方新聞稿 / 整理者判斷 |
 | 多公司拼圖整合成本高於預期 | 中 | Sentrycs、Insight、4M、Apeiro、Safe Pro、LightPath、Mistral 的產品線難以形成統一方案 | integration expense、delivery schedule、customer acceptance、gross margin | 整理者判斷 |
 
@@ -76,6 +80,7 @@
 |---|---|---|---|---|---|
 | 未定 | Sentrycs CoRF / C-UAS 整合與商業化檢查 | **ONDS** | 正面若轉成部署、收入與 backlog | Iron Drone Raider、Optimus、Mistral 合約車輛與 OAS mission solution 整合；defense / homeland security task order；C-UAS revenue mix | 大叔 Substack Note / Ondas 官方新聞稿 |
 | 未定 | Sentrycs 25 國部署能否放大成 repeat orders | **ONDS** | 正面若續約或擴張 | 既有客戶續約、國土安全 / critical infrastructure / military base 擴張、毛利率與現金轉換 | Ondas 官方新聞稿 |
+| 未定 | WEF Davos / Swisscom reference 能否帶來 repeat public-safety / event-security orders | **ONDS** | 正面若轉成 follow-on | Swisscom follow-on、event-security deployments、contract value、10-Q revenue、gross margin | 大叔 Facebook / Ondas 官方頁面 |
 | 未定 | Sentrycs seller resale / filing headline risk 檢查 | **ONDS** | 中性偏風險 | 424B7 / resale prospectus、10% ADV 限制、成交量、seller sales、shares outstanding | 大叔 2025-11-17 Substack / Ondas Form 8-K |
 
 ### 呼應連結
@@ -83,6 +88,8 @@
 > 呼應 `Stocks/ONDS/milestones/ONDS_里程碑_20251029_InsightAI感知層與SIM模組.md`：Insight 補感知 / edge AI，Sentrycs 補 protocol-layer C-UAS 接管，兩者都位於動能攔截前段。
 
 > 補充來源 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`：2025-11-17 大叔對 Sentrycs 8-K 下跌的解讀，應作為本里程碑的 filing / dilution-risk 後續，而不是新的 L4 事件。
+
+> 補充來源 `Stocks/ONDS/milestones/ONDS_里程碑_20260320_Sentrycs_WEF_Davos_Swisscom部署.md`：2026-03-20 大叔把 Sentrycs / Swisscom Broadcast / WEF Davos 空域防護部署稱為很好的廣告宣傳；這是高能見度 reference case，不是合約金額或 revenue。
 
 > 呼應 `Stocks/ONDS/milestones/ONDS_里程碑_20260424_Mistral合併完成.md`：Mistral 補 defense prime 與合約車輛，Sentrycs 補可售的 full-spectrum C-UAS 能力；後續看能否經由合約車輛轉成 program、task order 與收入。
 
