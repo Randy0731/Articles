@@ -2,6 +2,10 @@
 
 ## 2026-04-27
 
+- 新增：補入 Ondas 官方 2026-03-05 新聞稿《Ondas Strengthens OAS Board with McKinsey Senior Partner David Chinn to Support Global Defense Expansion》，source_id 為 `Company-20260305-ondas-david-chinn-oas-board-ded5b092`。
+- 更新：追加 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將本篇判定為 **ONDS** L3 official leadership / governance signal；同步更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。
+- 備註：David Chinn 加入 OAS Board 補強 global defense expansion、defense modernization、national-security customer access 與 system-of-systems governance；這不是 customer order、backlog、revenue、DoD / DHS award、formal target 或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-03-03 Threads 短評《**ONDS** World View `$10M` 戰略投資：高空 ISR 層與分層空域防禦》，source_id 為 `大叔美股筆記-20260303-ondas-world-view-isr-investment-45da8453`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260302_WorldView戰略投資與高空ISR層.md`，將本篇判定為 **ONDS** L4；重點為 World View high-altitude balloon ISR / stratospheric remote sensing 與 Ondas tactical UAS / C-UAS 的 layered ISR thesis。
 - 更新：同步 KOL 主筆記、ONDS index / dashboard、source/ticker/theme/catalyst indexes。
