@@ -6,6 +6,9 @@
 
 | 主題 tag | 日期 | KOL / 來源 | 標題 | 核心觀點 | 相關 ticker | 框架 / 催化劑 | 筆記檔 |
 |---|---|---|---|---|---|---|---|
+| #金融流動性 | 2026-04-07 | Bytc | 2026 年 4 月 04 日週報數據補充 | Bytc 補充截至 2026-04-01 的 LSEG fund-flow：美國股票基金 +70.5 億美元但低於前週 +369.5 億美元，且大型股基金 +146.7 億美元、小型股 -13.4 億美元、中型股 -10.9 億美元、產業型基金 -38.2 億美元；資金仍在股市內，但只敢抱團權值股 | 無 | 權值股抱團；中小型股撤資；sector funds outflow；fund-flow supplement | `KOL/Bytc/articles/20260407_weekly_data_supplement_20260404.md` |
+| #投資與投機 | 2026-04-07 | Bytc | 貨幣市場基金與大型權值股雙停泊 | Bytc 認為面對中東地緣不確定性與即將公布的通膨數據，聰明錢正在從中小型股和部分債市撤資，主要放在貨幣市場基金和大型權值股；MMF +58.8 億美元，是七週內第六次流入 | 無 | MMF +58.8B；large-cap parking；risk-off within equities；2026-04-10 CPI | `KOL/Bytc/articles/20260407_weekly_data_supplement_20260404.md`；`indexes/catalyst_index.md` |
+| #地緣政治 | 2026-04-07 | Bytc | 中東戰爭擔憂暫緩但 Hormuz / 伊朗不確定性仍壓抑情緒 | Bytc 記錄川普暗示美國在中東戰略目標即將達成，使戰爭擔憂暫時緩解；但伊朗 / Hormuz 相關不確定性仍讓市場情緒不如前一週樂觀，因此資金只回到大型權值股與 MMF | 無 | Middle East / Hormuz；Trump headline；TACO joke | `KOL/Bytc/articles/20260407_weekly_data_supplement_20260404.md` |
 | #金融流動性 | 2026-04-05 | Bytc | 2026 年 4 月 04 日宏觀數據週報 | Bytc 認為本週反彈來自壞消息定價緩和與軋空條件成形：股市情緒 19、VIX 23.87、Put/Call 0.99，避險基金淨槓桿降但總槓桿 313.7% 創五年高，CTA 過去一個月賣出全球股票 1840 億美元且 Up tape 情境可能被迫買回 | **INTC**, **MSFT**, **META**, **GOOG**, **IBIT**, **COIN**, **CRCL** | 非農金髮姑娘；CTA 軋空燃料；S&P 500 6750；Put 保護未解除 | `KOL/Bytc/articles/20260405_macro_data_weekly_20260404.md` |
 | #宏觀利率 | 2026-04-05 | Bytc | 非農 178K、薪資降溫與 Powell 暫不加息 | Bytc 將 4/3 非農 178K、失業率 4.3%、平均時薪年增 3.5% 解讀為「就業強、薪資降溫」；2Y 3.805%、10Y 4.309% 回落，Powell 雖警告 39 兆美元國債不可持續，但短期不考慮加息 | 無 | 2026-04-10 CPI；Fed path；MMF 7.81T | `KOL/Bytc/articles/20260405_macro_data_weekly_20260404.md`；`indexes/catalyst_index.md` |
 | #地緣政治 | 2026-04-05 | Bytc | Hormuz 從全面封鎖風險轉為「VIP 通行證」新常態 | Bytc 記錄阿曼、法國、日本商船已通過 Hormuz，並解讀伊朗採取友好 / 非美以背景船隻放行的選擇性策略；短期只要有「價格」減少供給不確定性，對整體市場就是好事，但美國是否接受付費通船仍是風險 | 無 | Hormuz shipping；Oman mediation；oil shock | `KOL/Bytc/articles/20260405_macro_data_weekly_20260404.md` |

@@ -2,6 +2,9 @@
 
 ## 2026-04-27
 
+- 入庫 `Bytc-20260407-weekly-data-supplement-20260404-eb424db9`：整理 Bytc Substack 文章《2026 年 4 月 04 日週報數據補充》，建立 `KOL/Bytc/articles/20260407_weekly_data_supplement_20260404.md`，並複製使用者提供之 2 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260407_Bytc_weekly_data_supplement_20260404_Bytc-20260407-weekly-data-supplement-20260404-eb424db9.pdf`。本篇為 2026-04-05 宏觀週報的 LSEG fund-flow 補充，重點是美國股票基金 +70.5 億美元、前週 +369.5 億美元、大型股基金 +146.7 億美元、小型股 -13.4 億美元、中型股 -10.9 億美元、產業型基金 -38.2 億美元、債券基金自 2025-12-31 以來首次單週流出 -101.7 億美元、中短期投資級債券基金終止連續 18 週流入並流出 -59.2 億美元，以及 MMF +58.8 億美元 / 七週內第六次流入。
+- 更新：同步更新 source/theme/catalyst indexes 與 private raw manifest。本文無單一 ticker，不更新 ticker index、watchlist 或 `Stocks/`；OCR 狀態標「部分」，p.1 底部 Substack 浮動列遮住一行伊朗 / Hormuz 文字，因此該行不作精確引文，但核心 fund-flow 數字、結論與日期可讀。
+
 - 入庫 `Bytc-20260405-macro-data-weekly-20260404-298dfeef`：整理 Bytc Substack 文章《2026 年 4 月 04 日宏觀數據週報》，建立 `KOL/Bytc/articles/20260405_macro_data_weekly_20260404.md`，並複製使用者提供之 11 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260405_Bytc_macro_data_weekly_20260404_Bytc-20260405-macro-data-weekly-20260404-298dfeef.pdf`。本篇為宏觀 / 非農韌性 / CTA 軋空 / crypto 華爾街化長文，重點是 S&P 500 +3.36%、股市情緒 19、VIX 23.87、Put/Call 0.99、NFP 178K / 失業率 4.3% / 平均時薪 3.5%、MMF 7.81 兆美元、Goldman PB 淨槓桿 71.3% / 總槓桿 313.7%、CTA 一個月賣出全球股票 1840 億美元與 Up tape +1420 億美元潛在買盤、S&P 500 6750 空頭防線、Hormuz「VIP 通行證」、**INTC** Fab 34 回購、**MSFT** MAI / OpenAI 雙軌、**META** / **GOOG** 監管恐慌後修復、**IBIT** DCA 已開始、**COIN** OCC conditional charter、**CRCL** / USDC 合規穩定幣爭議與 **ETH** Foundation 質押。
 - 更新：同步更新 source/theme/ticker/catalyst/framework/watchlist indexes、`Stocks/INTC/quarterly/INTC_筆記_2026Q2.md`、`Stocks/INTC/INTC_index.md`、`Stocks/INTC/INTC_儀表板.md` 與 private raw manifest。**INTC** 判定 L2 且已追蹤，補入季度摘要與儀表板；**CRCL** 因多篇 Bytc L2 stablecoin / USDC infrastructure thesis 進 watchlist；其餘 ticker 只更新索引，不建立新 `Stocks/` 專案。OCR 狀態標「部分」，原文 Goldman / CTA、非農、Fab 34、OpenAI、Schwab / Coinbase / Circle / Ethereum 等口徑未逐項外部查驗。
 
