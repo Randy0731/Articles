@@ -2,6 +2,9 @@
 
 ## 2026-04-27
 
+- 入庫 `Bytc-20260408-ukraine-drone-industry-frontline-capital-market-6b29aff7`：整理 Bytc Substack 付費文章《烏克蘭無人機產業，從前線到資本市場》，建立 `KOL/Bytc/articles/20260408_ukraine_drone_industry_frontline_capital_market.md`，並複製使用者提供之 9 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260408_Bytc_ukraine_drone_industry_frontline_capital_market_Bytc-20260408-ukraine-drone-industry-frontline-capital-market-6b29aff7.pdf`。本篇為烏克蘭無人機產業 / 國防科技 / 資本市場長文，重點是前線從西歐轉向東歐、烏克蘭從受援國轉成武器輸出與授權生產節點、P1-SUN / Sting / Strila / OCTOPUS 等低成本攔截機對高價美製系統的 cost-per-kill 壓力、Swarmer / **SWMR** 以戰場資料與 AI swarm software 打通美國資本市場，以及傳統軍工主承包商高單價、長合約、慢迭代模式被重新壓力測試。
+- 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes 與 private raw manifest。**SWMR** 判定為單篇 Bytc L3 候選追蹤，新增 watchlist 但不建立 `Stocks/SWMR/`；**AVAV** 判定 L2 競爭風險並更新既有 watchlist；**RTX** / **LMT** / **NOC** 作傳統軍工模式比較進 ticker index，不建立 `Stocks/`。本文未提到已追蹤 **ONDS**，不因相鄰烏克蘭無人機主題而同步 `Stocks/ONDS/`。OCR 狀態標「部分」，p.1-p.8 文章本體完整可讀，p.9 為 discussion / footer；本文不是買賣建議。
+
 - 入庫 `Bytc-20260414-ai-native-anthropic-openai-capital-loop-53b5e688`：整理 Bytc Substack Note《AI Native 底層協議與巨頭資本閉環：Anthropic / OpenAI cap table》，追加至 `KOL/Bytc/notes/bytc筆記.md`。本篇為 foundation model cap table / AI Native 資本閉環短評，Bytc 將 Google、Amazon、Microsoft 對 Anthropic / OpenAI 的持股與投資放入同一個框架：即使未來由 OpenAI 或 Anthropic 稱霸，底層協議的資金閉環仍可能透過股權、雲端算力與企業分發回到大型科技公司。
 - 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes。**GOOG** / **GOOGL**、**AMZN**、**MSFT** 記為多巨頭 L2 主題觀點，不建立 `Stocks/`；同時補強既有 **GOOG** / **GOOGL** watchlist。Bytc 原文口徑包含 Google 約 14% Anthropic stake / `$3.3B`、Amazon `$8B` / 15%-19% diluted stake、Microsoft OpenAI 約 23.5%、OpenAI 約 `$830B` / Anthropic 約 `$387B`；整理日核對 Anthropic 官方 Series G 為 `$30B` at `$380B` post-money，Microsoft / OpenAI 官方口徑為 roughly 27%，與 Bytc 23.5% 口徑存在差異，已標記需校準。來源為 URL 與使用者截圖，未另存 raw，OCR 狀態不適用；本文不是買賣建議。
 
