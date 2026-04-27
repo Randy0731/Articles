@@ -2,6 +2,10 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-03-16 Substack Note《**ONDS** Rotron 完成與財報前指引上修預期：`$250M-$300M+` 情境與不追高提醒》，source_id 為 `大叔美股筆記-20260316-onds-rotron-guidance-upside-no-chase-2cd15f42`。
+- 更新：追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，將本篇判定為 **ONDS** L4 補充既有 Rotron、Mistral / Bird 與 FY2025 `$375M+` 指引里程碑；同步更新 `Stocks/ONDS/milestones/ONDS_里程碑_20260203_RotronAero收購與DT300BlueUAS.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260312_Mistral_Bird併購稀釋與10元天花板.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260324_FY2025財報與2026_375M指引.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、source/ticker/theme/catalyst indexes。
+- 備註：Substack JSON-LD / HTML 可讀；大叔認為 1 月 `$170M-$180M` 2026 guidance 尚未包含 Mistral、4M、Bird、Rotron，若 3/25 管理層併入預期營收，可能上修至 `$250M-$300M+`。本篇是財報前 KOL 情境與「不追高」風控語境；後續 official FY2025 release 已以 `$375M+` target 校準。不可寫成 formal guidance、order、backlog、recognized revenue 或本專案買賣建議。
+
 - 新增：補入大叔美股筆記 2026-03-13 Substack 文章《**ONDS** Anthony Pompliano 訪談：Eric Brock 的 de-risking、雙引擎與併購套利框架》，source_id 為 `大叔美股筆記-20260313-ondas-anthony-pompliano-ceo-interview-5d84ceb8`。
 - 更新：追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，將本篇判定為 **ONDS** L4 補充既有 Mistral / Bird 併購稀釋與 FY2025 `$375M+` 指引里程碑；同步更新 `Stocks/ONDS/milestones/ONDS_里程碑_20260312_Mistral_Bird併購稀釋與10元天花板.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260324_FY2025財報與2026_375M指引.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、source/ticker/theme/catalyst indexes。
 - 備註：Substack HTML / transcript 可讀；大叔整理 Brock 訪談中的 significant revenue、de-risking、core unmanned / automated systems adoption curve、public consolidator / acquisition arbitrage 與 under-promise / over-deliver。**PLTR** 僅 L1 product/vendor mention。本篇是 CEO interview / KOL framing，不是新訂單、backlog、已認列 revenue、formal guidance、PLTR revenue 或買賣建議。

@@ -5,7 +5,7 @@
 - **source_id**：大叔美股筆記-20260312-onds-ma-dilution-mistral-bird-c7532d2c
 - **KOL / 來源**：大叔美股筆記；Ondas 2026-03-09 / 2026-03-11 8-K
 - **原始來源**：https://unclestocknotes.substack.com/p/onds-d54；https://ir.ondas.com/all-sec-filings/content/0001213900-26-024965/0001213900-26-024965.pdf；https://ir.ondas.com/all-sec-filings/content/0001213900-26-025987/0001213900-26-025987.pdf；https://ir.ondas.com/all-sec-filings/content/0001213900-26-025984/0001213900-26-025984.pdf
-- **補充來源**：2026-03-09 Substack Note `大叔美股筆記-20260309-ondas-prelim-results-mistral-tier1-71a8ac32`（初步財報 / Mistral 8-K 重要性短評）；2026-03-09 Substack 付費文章 `大叔美股筆記-20260309-onds-pentagon-prime-mistral-stock-deal-37def283`（Mistral 全股票收購 / Reg D / escrow / defense prime thesis）；2026-03-11 Substack Note `大叔美股筆記-20260311-ondas-bird-acquisition-resale-risk-b23af1db`（Bird acquisition / 6,933,110 股 resale registration / second-payment overhang 補核）；2026-03-13 Substack 文章 `大叔美股筆記-20260313-ondas-anthony-pompliano-ceo-interview-5d84ceb8`（Eric Brock / Anthony Pompliano 訪談；de-risking、significant revenue、public consolidator / 併購套利口徑）；Ondas 2026-03-11 424B7（Bird `$5.17M` cash、6,933,110 股、約 `$37.879M` Additional Stock Consideration 與 volume limitation）
+- **補充來源**：2026-03-09 Substack Note `大叔美股筆記-20260309-ondas-prelim-results-mistral-tier1-71a8ac32`（初步財報 / Mistral 8-K 重要性短評）；2026-03-09 Substack 付費文章 `大叔美股筆記-20260309-onds-pentagon-prime-mistral-stock-deal-37def283`（Mistral 全股票收購 / Reg D / escrow / defense prime thesis）；2026-03-11 Substack Note `大叔美股筆記-20260311-ondas-bird-acquisition-resale-risk-b23af1db`（Bird acquisition / 6,933,110 股 resale registration / second-payment overhang 補核）；2026-03-13 Substack 文章 `大叔美股筆記-20260313-ondas-anthony-pompliano-ceo-interview-5d84ceb8`（Eric Brock / Anthony Pompliano 訪談；de-risking、significant revenue、public consolidator / 併購套利口徑）；2026-03-16 Substack Note `大叔美股筆記-20260316-onds-rotron-guidance-upside-no-chase-2cd15f42`（Rotron / Mistral / 4M / Bird 併入財測的 `$250M-$300M+` 財報前情境與不追高提醒）；Ondas 2026-03-11 424B7（Bird `$5.17M` cash、6,933,110 股、約 `$37.879M` Additional Stock Consideration 與 volume limitation）
 - **KOL 原文整理**：`KOL/大叔美股筆記/articles/20260312_onds_ma_dilution_mistral_bird_uncle.md`
 - **交會等級**：L4
 - **主題 tags**：#國防科技 #併購 #稀釋風險 #ReRating #估值風險 #訂單合約
@@ -33,6 +33,7 @@
 | 3/9 付費長文 | 大叔把 Mistral 的價值拆成 Pentagon prime contractor access、Maryland 本土組裝 / QA、既有 DoD IDIQ channel，並用 Reg D、escrow、七期付款與三年釋股解釋全股票收購不是一次性倒貨 | 官方可確認 Reg D / escrow / installment structure；「利益綁定」與未來訂單轉換屬大叔解讀，需用 Q2 closing、task order、revenue 與 share count 驗證 |
 | 3/9 初步財報短評 | 大叔在 2026-03-09 Note 先把 preliminary Q4 / FY2025 revenue beat、`$170M-$180M` 當時 2026 target、`>$1.5B` cash 與 Mistral / Tier 1 prime contractor thesis 連在一起 | 此為 3/12 稀釋模型前置短評；後續 FY2025 final release 已將 2026 target 上修至至少 `$375M`，需保留版本差異 |
 | 3/13 Anthony Pompliano 訪談 | 大叔整理 Eric Brock 訪談：近期收購會在 1 月指引之上增加 significant revenue，核心無人 / 自動化業務處於 adoption curve，上述併購將成熟且已有 revenue 的私人公司納入公開上市架構 | 支撐「併購營收解毒」與 public consolidator thesis；但這是管理層訪談 framing，不是新 PO、backlog、已認列 revenue 或單獨正式 guidance |
+| 3/16 guidance upside Note | 大叔認為 1 月 `$170M-$180M` 2026 guidance 未包含 Mistral、4M、Bird、Rotron；若 3/25 管理層併入預期營收，可能上修至 `$250M-$300M+` | 支撐「稀釋靠 revenue step-up 解毒」的財報前情境；`$250M-$300M+` 是 KOL 推估，不是 formal guidance，後續需以 `$375M+` official target 校準 |
 | Bird acquisition consideration | 424B7 確認 Ondas 2026-03-11 acquired 100% of Bird shares，支付 `$5,173,589` cash 並發行 `6,933,110` shares | 這是 Bird closing consideration 的 official filing 口徑；不等於單日賣出 |
 | Bird resale shares | Ondas 2026-03-11 8-K / 424B7 確認 resale registration 覆蓋 `6,933,110` 股 selling stockholder shares | 可確認 resale registration；不等於公司新增融資、公司收現或即時倒貨 |
 | Bird second payment / volume limit | 424B7 描述 Second Payment Date 後 Additional Stock Consideration 約 `$37,879,340`，公司可選擇以現金支付部分或全部；selling stockholders 有 daily trading volume limitation，文件文字出現 `ten percent (15%)` 的內部不一致寫法 | 補核原先條款缺口；大叔約 3.78M 股為其依交易價 / 股價反推的估算，不是本 filing 直接給出的官方後續股數；實際 cash / stock mix、後續股數與 resale activity 仍需追 |
@@ -63,5 +64,6 @@
 | 稀釋壓力被低估 | 高 | 5.1% 是 Mistral / Bird 直接稀釋模型，不包含 Jan 2026 financing、warrants、RSU 或後續 M&A shares |
 | IDIQ 被過度前置 | 高 | Mistral 的 `$1B+` IDIQ / contract vehicle 是取得訂單的通路，不是直接等於 **ONDS** revenue |
 | 訪談口徑被誤讀為正式 guidance | 高 | Brock / Pompliano 訪談中的 `significant revenue`、high multiple、under-promise / over-deliver 屬管理層口徑與 KOL framing，不能寫成新增正式 guidance、訂單、backlog 或已認列 revenue |
+| 3/16 `$250M-$300M+` 情境被誤讀為正式 guidance | 高 | 大叔財報前推估需與 3/23 / 3/24 `$375M+` official target 分版本管理；不能疊加成額外 guidance 或已認列 revenue |
 | Bird resale / second-payment overhang | 中高 | 即使有 volume limitation，6,933,110 股 resale registration 與約 `$37.879M` Additional Stock Consideration 仍可能壓制短期 multiple；限制賣量不等於沒有中期供給壓力 |
 | 併購整合與毛利 | 中高 | Defense prime access 若無法快速轉為 high-margin OAS revenue，股本擴張會拖累 per-share value |

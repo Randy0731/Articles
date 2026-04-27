@@ -6,6 +6,7 @@
 - **事件日期**：2026-02-03（大叔文章；Ondas 官方收購協議公告為 2026-02-02）
 - **整理日期**：2026-04-27
 - **來源**：`KOL/大叔美股筆記/articles/20260203_onds_rotron_aero_defense_core_uncle.md`；[Substack 付費文章](https://unclestocknotes.substack.com/p/onds-9c4)；[Ondas 2026-02-02 Rotron Aero 收購公告](https://www.ondas.com/post/ondas-to-acquire-rotron-aero-expanding-long-range-attack-capabilities-and-unmanned-vehicle-technolo)；[Ondas 2026-03-16 收購完成公告](https://www.ondas.com/post/ondas-completes-acquisition-of-rotron-aerospace-ltd-expanding-long-range-propulsion-technologies-f)；[Ondas 2026 Form 10-K Rotron 條款補充](https://ir.ondas.com/annual-reports/xbrl_doc_only/3172)
+- **補充來源**：2026-03-16 Substack Note `大叔美股筆記-20260316-onds-rotron-guidance-upside-no-chase-2cd15f42`（Rotron closing 後被放入 2026 guidance upside / 英國與北約市場據點語境）
 - **source_id**：`大叔美股筆記-20260203-onds-rotron-aero-defense-core-6830b833`
 - **主題 tags**：#國防科技 #併購 #產品節點 #NATO佈局 #空地一體 #垂直整合 #DualUse #ReRating #執行風險
 - **交會等級**：L4
@@ -37,6 +38,8 @@
 
 Ondas 2026-03-16 公告已宣布完成 Rotron Aerospace Ltd. 收購。Ondas 2026 Form 10-K 顯示交易對價約為 `$6.662M` 現金與 `3,334,753` 股普通股，其中部分股份有 12 個月 lock-up。這些資料用於後續追蹤交易完成與稀釋，不改寫大叔 2026-02-03 原文的時間點。
 
+大叔 2026-03-16 Substack Note 另把 Rotron 放進財報前 guidance upside 框架：他認為 1 月 `$170M-$180M` 2026 revenue guidance 尚未包含 Mistral、4M、Bird、Rotron 等新增資產；若管理層於 3/25 把 Rotron 與其他併購案的預期營收併入財測，可能看見 `$250M-$300M+` 情境。這是 KOL 財報前推估，不是 Rotron 已取得 UK MoD / NATO order、backlog、recognized revenue 或正式 guidance。
+
 ## 風險與追蹤
 
 | 風險 / 問題 | 等級 | 觀察指標 |
@@ -46,6 +49,7 @@ Ondas 2026-03-16 公告已宣布完成 Rotron Aerospace Ltd. 收購。Ondas 2026
 | Rotron 收購後的技術整合不順 | 高 | integration update、product demo、C2 / sensor fusion integration、OAS gross margin |
 | one-way effector / long-range strike 出口管制或客戶審批拖慢 | 高 | UK / NATO / allied approvals、export license、defense customer acceptance |
 | 股本對價與 lock-up 後 resale overhang | 中高 | 3,334,753 shares、659,731 股 lock-up expiry、resale filings、ADTV、short interest |
+| Rotron revenue upside 被過度前置 | 高 | 10-Q OAS / Rotron revenue、customer awards、backlog、gross margin、integration status |
 | 估值框架過度前置 | 高 | revenue、backlog、gross margin、cash burn、fully diluted shares、M&A ROI |
 
 ## 後續催化
