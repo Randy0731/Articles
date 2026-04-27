@@ -2,6 +2,10 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-03-10 Substack Note《**ONDS** 4M Defense `$15.8M` initial order：`$30M+` 掃雷專案開始轉單》，source_id 為 `大叔美股筆記-20260310-ondas-4m-defense-15-8m-initial-order-2c09c131`。
+- 更新：追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，將本篇判定為 **ONDS** L4 補充來源；同步更新 `Stocks/ONDS/milestones/ONDS_里程碑_20260209_4MDefense以色列3000萬美元掃雷合約.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、source/ticker/theme/catalyst indexes。
+- 備註：Substack Note 與 Ondas 2026-03-10 官方 PR 可讀；官方確認 4M Defense received approximately `$15.8M` first operational order，屬先前 over `$30M` multi-year demining program in Israel。官方亦提到 anticipated follow-on orders could expand program value to approximately `$60M`，但未正式 PO 前屬 optionality；本篇不另開重複 4M 里程碑，且不是額外 `$15.8M` double count、已認列 revenue、Ukraine / NATO order 或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-03-09 Substack 付費長文《**ONDS** 從妖股到五角大廈正規軍》，source_id 為 `大叔美股筆記-20260309-onds-pentagon-prime-mistral-stock-deal-37def283`。
 - 新增：建立 `KOL/大叔美股筆記/articles/20260309_onds_pentagon_prime_mistral_stock_deal_uncle.md`，將本篇判定為 **ONDS** L4 補充；已複製 PDF raw 至 `KOL/大叔美股筆記/raw/20260309_大叔美股筆記_onds_pentagon_prime_mistral_stock_deal_大叔美股筆記-20260309-onds-pentagon-prime-mistral-stock-deal-37def283.pdf`，OCR 狀態「部分」。
 - 更新：同步更新 `KOL/大叔美股筆記/notes/大叔美股筆記.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260312_Mistral_Bird併購稀釋與10元天花板.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、source/ticker/theme/catalyst indexes 與 private raw manifest。
