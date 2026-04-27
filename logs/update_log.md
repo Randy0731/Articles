@@ -2,6 +2,9 @@
 
 ## 2026-04-27
 
+- 入庫 `Bytc-20260401-oil-bento-inflation-sovereign-debt-63743a18`：整理 Bytc Substack 文章《一滴油的旅行：從油田到便當，最後如何稀釋國債》，建立 `KOL/Bytc/articles/20260401_oil_bento_inflation_sovereign_debt.md`，並複製使用者提供之 11 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260401_Bytc_oil_bento_inflation_sovereign_debt_Bytc-20260401-oil-bento-inflation-sovereign-debt-63743a18.pdf`。本篇為原油成本傳導 / 通膨 / 主權債務稀釋框架長文，重點是油價從 Hormuz / 煉油 / 石化 / 化肥 / 物流 / LPG / 包材一路傳到便當價格，再進入 CPI、長債、現金購買力與政府債務分母。**TLT** 判定為 L2 長債 / duration 風險案例，不建立 `Stocks/`。
+- 更新：同步更新 source/theme/ticker/catalyst/framework indexes 與 private raw manifest。本文新增「一滴油成本傳導框架」與「通膨債務稀釋與定價權資產框架」；不新增 watchlist。發文時間採 `2026-04-01（台北 / PDF 顯示；Substack public metadata 2026-03-31）`；OCR 狀態標「部分」，p.1-p.9 文章本體完整可讀，p.10-p.11 為 discussion / recommended posts / footer，Substack 公開頁正文可讀；本文不是買賣建議。
+
 - 入庫 `Bytc-20260402-google-quantum-bitcoin-crack-risk-d209eca3`：整理 Bytc Substack 文章《Google 最新量子論文提出比特幣可破解？》，建立 `KOL/Bytc/articles/20260402_google_quantum_bitcoin_crack_risk.md`，並複製使用者提供之 14 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260402_Bytc_google_quantum_bitcoin_crack_risk_Bytc-20260402-google-quantum-bitcoin-crack-risk-d209eca3.pdf`。本篇為 Bitcoin / crypto 量子威脅與 BIP 360 遷移框架長文，重點是 Google Quantum AI / Ethereum Foundation / Stanford 2026-03-30 論文將 secp256k1 / ECDSA 破解資源估計從約 900 萬物理量子位元下修至不到 50 萬，公鑰曝光後約 9 分鐘攻擊窗口與 41% 成功率、2029 / 2033 時間錨、HNDL、BIP 360 / P2MR、BTQ testnet v0.3.0、舊地址 / 中本聰地址治理困境、P2PK / P2PKH / P2WPKH / P2TR 地址風險分層，以及 Bytc 對投資人「不恐慌、提前遷移到安全側」的框架。
 - 更新：同步更新 source/theme/ticker/catalyst/framework/watchlist indexes、`docs/TAG_TAXONOMY.md` 與 private raw manifest。**BTC** 判定 L3 主題資產，**IBIT** / **COIN** / **BTQ** 為 L2 工具 / 託管 / 產品節點，**MSTR** 為 L1 引用案例；**IONQ** / **RGTI** / **QBTS** / **QUBT** 與 **GOOG** / **GOOGL** / **IBM** / **MSFT** / **NVDA** / **AMZN** 只作量子股籃子與大型科技技術背景，不建立 `Stocks/`。OCR 狀態標「部分」；p.1-p.12 由標題、正文、結論與 references 完整可讀，p.13-p.14 為 discussion / recommended posts / footer；網頁公開版顯示 paywall，完整內容以使用者 PDF 為主要來源。
 
