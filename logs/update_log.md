@@ -2,6 +2,10 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-03-12 Substack 文章《**ONDS** x **PLTR** x World View：發布會實況、戰爭經濟學與 system-of-systems》，source_id 為 `大叔美股筆記-20260312-palantir-ondas-worldview-launch-transcript-8280f343`。
+- 更新：追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，將本篇判定為 **ONDS** L4 補充既有 World View 高空 ISR 里程碑；同步更新 `Stocks/ONDS/milestones/ONDS_里程碑_20260302_WorldView戰略投資與高空ISR層.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、source/ticker/theme/catalyst indexes。
+- 備註：本篇與同日 Karp quote Note、Warp Speed / AI Flight Director / SkyWeaver Note 對應同一則 Ondas 2026-03-12 官方 PR；官方確認 Palantir / Ondas / World View AI-enabled multi-domain ISR partnership。大叔發布會整理新增 war economics、data silo breaking、eyes / brain / action-layer system-of-systems 與 ONDS edge / execution / precision layer 角度；**PLTR** 僅 L1 product/vendor mention。本篇不是 DoW / DHS 訂單、backlog、revenue、module-level contract、PLTR 新合約、formal target 或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-03-12 Substack Note《**ONDS** x **PLTR** x World View：Warp Speed / AI Flight Director / SkyWeaver 軟體拼圖》，source_id 為 `大叔美股筆記-20260312-ondas-palantir-worldview-software-stack-fbd7cfad`。
 - 更新：追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，將本篇判定為 **ONDS** L4 補充既有 World View 高空 ISR 里程碑；同步更新 `Stocks/ONDS/milestones/ONDS_里程碑_20260302_WorldView戰略投資與高空ISR層.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、source/ticker/theme/catalyst indexes。
 - 備註：本篇與同日 Karp quote Note 對應同一則 Ondas 2026-03-12 官方 PR；官方確認 Palantir / Ondas / World View AI-enabled multi-domain ISR partnership。大叔進一步把 Palantir role 拆成 Warp Speed（production / logistics）、AI Flight Director（autonomous mission command）與 SkyWeaver（ISR data fusion）；本專案標為 KOL software-stack framing，**PLTR** 僅 L1 product/vendor mention。本篇不是 module-level contract、DoW / DHS 訂單、backlog、revenue、PLTR 新合約或買賣建議。
