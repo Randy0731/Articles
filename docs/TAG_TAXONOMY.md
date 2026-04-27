@@ -30,6 +30,7 @@
 | `#地緣政治` | 戰爭、關稅、供應鏈重組、國防政策 | 中東、台海、澳洲國防支出 |
 | `#宏觀利率` | Fed、通膨、就業、殖利率、美元 | CPI、FOMC、NFP |
 | `#大宗商品` | 原物料、金屬、能源商品與 commodity cycle 供需 | 銅、黃金、原油、鈾、鋰、稀土 |
+| `#加密貨幣` | Bitcoin、Ethereum、ETF、stablecoin、DeFi、RWA、crypto custody 與鏈上金融基礎設施 | BTC、ETH、IBIT、COIN、CRCL、ONDO、BUIDL、USDC |
 
 ## 事件 Tags
 
