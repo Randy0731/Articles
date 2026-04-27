@@ -2,6 +2,8 @@
 
 ## 2026-04-27
 
+- 入庫 `Bytc-20260228-macro-data-weekly-20260227-8d760d44`：整理 Bytc Substack 文章《2026 年 2 月 27 日宏觀數據週報》，建立 `KOL/Bytc/articles/20260228_macro_data_weekly_20260227.md`，並複製使用者提供之 6 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260228_Bytc_macro_data_weekly_20260227_Bytc-20260228-macro-data-weekly-20260227-8d760d44.pdf`。本篇為宏觀 / 資金流長文，重點是高位震盪、Sell Call 平倉、股市 / 加密恐懼、MMF 與美債避險、AI 資本魔法、私人信貸流動性壓力與 40% 現金底線；同步更新 source/theme/ticker/catalyst/framework indexes 與 private raw manifest。文中 **XYZ**、**TSLA**、**COST**、**WMT**、**NFLX**、**CRCL** 只作 L1 資金輪動或作者倉位語境，不同步 `Stocks/`；OCR 狀態標「部分」，p.1-p.5 為文章本體，p.6 為閱讀指南與免責聲明。
+
 - 入庫 `大叔美股筆記-20260427-ondas-airport-protection-center-3828ebb1`：整理大叔 Threads 短評 / BMSInvests X 轉述，記錄 **ONDS** 機場保護中心 / systems-of-systems 架構。追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q2.md`，同步更新 ONDS index/dashboard、source/ticker/theme indexes。此為 **ONDS** L3 platform framing：Optimus、RT-2000、Insight Sensors、Iron Drone、Sentrycs、Scout 與 C4i 被整理成 one-vendor airport-protection stack；不是新訂單、customer award、backlog、recognized revenue、cash collection、official disclosure 或買賣建議。
 
 - 入庫 `Company-20260415-ondas-heidelberg-launch-onberg-ae4344a7`：整理 Ondas 2026-04-15 官方新聞稿，新增 `Stocks/ONDS/milestones/ONDS_里程碑_20260415_ONBERG德國啟動與歐洲無人防禦製造樞紐.md`，記錄 ONBERG 在 Heidelberg 德國 Brandenburg an der Havel facility 正式啟動營運、完成 live operational demonstration，並建立 European production / development / deployment hub。同步更新 ONDS index/dashboard、source/ticker/theme/catalyst indexes。此為 **ONDS** L4 official milestone / operational readiness；不記入 KOL，不寫成 customer award、order、backlog、recognized revenue、cash collection 或買賣建議。
