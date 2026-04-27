@@ -2,6 +2,10 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-03-01（推估）Facebook 短評《Oppenheimer `$400B` 無人機市場：**ONDS** 作為 lower-skies 首選股》，source_id 為 `大叔美股筆記-20260301-oppenheimer-400b-drone-market-270e8928`。
+- 更新：同步追加 KOL 主筆記與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將 **ONDS** 判定為 L2 analyst / TAM signal；同步更新 ONDS index / dashboard、source/ticker/theme/catalyst indexes。
+- 備註：Facebook 截圖與 Stocktwits 截圖核心可讀；Stocktwits 原頁外部讀取受 Cloudflare 限制。`$45B -> $400B` 是 Oppenheimer / Stocktwits 轉述的 global drone market TAM framing，不是 **ONDS** revenue、backlog、order、guidance、formal target 或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-03-01（推估）Facebook 短評《LUCAS 首次實戰：低成本單向攻擊無人機與 **ONDS** C-UAS 需求》，source_id 為 `大叔美股筆記-20260301-lucas-combat-use-cuas-demand-e862a228`。
 - 更新：同步追加 KOL 主筆記與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將 **ONDS** 判定為 L2 C-UAS demand / drone-war macro signal；**RCAT**、**DPRO**、**KTOS** 以 ticker + watchlist 記錄，**PLTR** 以 ticker index 記錄。
 - 更新：同步更新 ONDS index / dashboard、source/ticker/theme/catalyst/watchlist indexes。
