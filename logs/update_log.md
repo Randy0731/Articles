@@ -2,6 +2,8 @@
 
 ## 2026-04-27
 
+- 入庫 `大叔美股筆記-20260402-ondas-kcpd-sentrycs-world-cup-7f4d2a91`：補入大叔 2026-04-02 Substack Note / BMSInvests 轉貼，記錄 KCPD 2026-02 board minutes 批准 Safeware / Sentrycs Gen2 C-UAS 採購 `$996,738.48`，並連到 FIFA World Cup 2026 安保。判定 **ONDS** L3，更新大叔主筆記、`Stocks/ONDS/quarterly/ONDS_筆記_2026Q2.md`、ONDS index/dashboard、source/ticker/theme/catalyst indexes。此為 host-city public-safety 小額採購驗證，不是 ONDS 直接大型訂單、backlog、已認列 revenue 或買賣建議。
+
 - 入庫 `大叔美股筆記-20260325-onds-prefunded-warrants-exercised-cba8849a`：整理大叔 2026-03-25 Substack Note，補充 **ONDS** Jan 2026 offering pre-funded warrants 全數行使 / 籌碼 overhang 拆除；同步更新大叔主筆記、ONDS 1/10 SEC / warrants 里程碑、ONDS index/dashboard、source/ticker/theme/catalyst indexes。SEC 424B5 / 10-K 校準為 `41,790,274` pre-funded warrants、約 `$959.2M` net proceeds、10-K 確認 fully exercised；common warrants / fully diluted shares 仍列追蹤。
 
 - 新增：補入大叔美股筆記 2026-03-23 Substack Note《**ONDS** 正式收購 World View：平流層 ISR 與 Palantir decision layer 拼圖》，source_id 為 `大叔美股筆記-20260323-ondas-worldview-acquisition-8a53efcd`。
