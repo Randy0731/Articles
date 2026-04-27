@@ -11,6 +11,7 @@
 | 2026-04-24 | 2026-04-26 | **SES** AI 財報：營收驚喜、轉型陣痛與 SiB 商業化 | Bytc-20260424-ses-ai-q1-sib-commercialization-430b7c49 | **SES** | #財報, #儲能, #AI基建, #產品節點, #管理層發言 | 新入庫；單篇 L3 候選追蹤，不建立 Stocks 專案 |
 | 2026-04-21 22:18 | 2026-04-27 | **ASTS** FCC 248 顆衛星授權：監管門檻與 Verizon 預付款條件 | Bytc-20260421-asts-fcc-248-satellite-grant-6ed4d3f0 | **ASTS** | #監管審批, #產品節點, #訂單合約, #執行風險 | 新入庫；單篇 L3 候選追蹤，不建立 Stocks 專案 |
 | 2026-04-15（台北；Substack metadata 2026-04-14 17:43） | 2026-04-27 | **IONQ** DARPA HARQ 合約：人造鑽石量子記憶體與量子網路總機野心 | Bytc-20260415-ionq-darpa-harq-quantum-networking-00741280 | **IONQ** | #國防科技, #AI基建, #產品節點, #訂單合約, #執行風險 | 新入庫；單篇 L3 候選追蹤，不建立 Stocks 專案 |
+| 2026-04-14（台北；Substack metadata 2026-04-13 18:32） | 2026-04-27 | AI Native 底層協議與巨頭資本閉環：Anthropic / OpenAI cap table | Bytc-20260414-ai-native-anthropic-openai-capital-loop-53b5e688 | **GOOG**, **GOOGL**, **AMZN**, **MSFT** | #AI基建, #估值風險, #競爭風險, #投資與投機 | 新入庫；多巨頭 L2 框架，不建立 Stocks 專案 |
 
 ---
 
@@ -177,5 +178,71 @@ Bytc 將 **IONQ** 取得 DARPA HARQ program contract 解讀為量子電腦從單
 ### 整理者延伸
 
 **IONQ** 先前已在大叔 / Cantor 13F 表格中出現，但那是 institutional-positioning / estimated cost 觀察，不是 **IONQ** 技術 thesis。這篇 Bytc Note 是第一筆以 **IONQ** 本身為核心的 KOL 技術 / 國防 R&D 觀點，因此更新 ticker index 與 watchlist；但目前仍不建立 `Stocks/IONQ/`，後續需等合約金額、技術里程碑、收入 / backlog 或更多 KOL L2+ 來升級。
+
+---
+
+## AI Native 底層協議與巨頭資本閉環：Anthropic / OpenAI cap table
+
+- **來源**：[Bytc Substack Note](https://substack.com/@btyc/note/c-242866792)；[Anthropic Series G 官方公告](https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation?pubDate=20250818)；[Amazon 對 Anthropic 追加投資公告](https://www.aboutamazon.com/news/aws/amazon-invests-additional-4-billion-anthropic-ai/)；[Amazon 2026-04-24 recap](https://www.aboutamazon.com/news/company-news/amazon-news-weekly-audio-recap-april-24-2026)；[Microsoft / OpenAI partnership 官方說明](https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/)；[OpenAI structure](https://openai.com/our-structure)；[Anthropic / Microsoft / NVIDIA strategic partnerships](https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships?_bhlid=c9644e886e4d77ab0f0f1d24c1bd8886def0b6db)；[TechCrunch / court-docs report](https://techcrunch.com/2025/03/11/google-has-given-anthropic-more-funding-than-previously-known-show-new-filings/)
+- **類型**：Substack Note / foundation model cap table / AI Native 資本閉環
+- **發文時間**：2026-04-14（台北；Substack metadata 2026-04-13 18:32）
+- **整理日期**：2026-04-27
+- **source_id**：Bytc-20260414-ai-native-anthropic-openai-capital-loop-53b5e688
+- **raw 路徑 / URL**：https://substack.com/@btyc/note/c-242866792（未另存 raw）
+- **OCR 狀態**：不適用
+- **相關 ticker**：**GOOG**, **GOOGL**, **AMZN**, **MSFT**
+- **主題 tags**：#AI基建, #估值風險, #競爭風險, #投資與投機
+
+### 主旨
+
+Bytc 的核心判斷是：AI Native 時代的底層協議不論最後由 OpenAI 還是 Anthropic 稱霸，資金閉環仍可能回到巨頭手中。原因不是只有產品使用量，而是 **GOOG** / **GOOGL**、**AMZN**、**MSFT** 同時透過股權、雲端算力、模型分發與企業入口卡位 foundation model winners。
+
+這篇不是單一 ticker 的買賣建議，也沒有給價位；它更像一個 cap table / compute / cloud distribution 框架。
+
+### 個股觀點
+
+| 股票代號 | 立場 | 訊號強度 | 價位性質 | 備註 |
+|---|---|---|---|---|
+| **GOOG**, **GOOGL** | 正面 optionality / Anthropic 股權與 Google Cloud / TPU 關係補強 AI 底層資產暴露 | L2 主題觀點 | 無股價目標；Bytc 原文稱 Google 持有 Anthropic 約 14%、總投入約 `$3.3B` | 14% / `$3.3B` 主要來自新聞與 court-docs 報導口徑，未見 Alphabet 在 10-K 中逐項披露；整理日標為「可追溯但非官方公司口徑」 |
+| **AMZN** | 正面 optionality / Anthropic 投資與 AWS Bedrock / Trainium / cloud channel 綁定 | L2 主題觀點 | 無股價目標；Bytc 原文稱 Amazon 總計投資 Anthropic `$8B`，稀釋後持股 15%-19% | Amazon 官方先前公告可佐證 `$8B` investment scale；15%-19% stake 為 Bytc / 外部資料口徑，未官方逐項核對 |
+| **MSFT** | 正面 optionality / OpenAI 股權與部分 Anthropic exposure，另有 Azure / Copilot / enterprise workflow | L2 主題觀點 | 無股價目標；Bytc 原文稱 Microsoft 持 OpenAI 約 23.5%，也有一些 Anthropic 股權 | Microsoft / OpenAI 官方 2025-10 restructuring 口徑為 Microsoft roughly 27% of OpenAI Group；23.5% 與 27% 差異需視 funding / dilution 口徑再校準 |
+
+### 核心概念
+
+- **AI Native 底層協議**：Bytc 把 OpenAI / Anthropic 放在下一代 AI protocol / infrastructure 層，而不是單純 app 公司。
+- **資本閉環**：即使 public investors 買不到 OpenAI / Anthropic，價值仍可能透過大股東、雲端供應商與算力平台回到 **GOOG** / **GOOGL**、**AMZN**、**MSFT**。
+- **估值相對比較**：Bytc 原文稱 OpenAI 約 `$830B`、Anthropic 約 `$387B`；他的結論是若 OpenAI 沒有被高估，Anthropic 可能被低估。
+- **整理日校準**：Anthropic 官方 2026-02-12 Series G 公告為 raise `$30B`、post-money valuation `$380B`；與 Bytc 約 `$387B` 口徑方向一致但數字不同。
+
+### 關鍵證據
+
+| 證據 | 出處 | 解讀 |
+|---|---|---|
+| Bytc 稱 Google 約 14% Anthropic stake、投入約 `$3.3B` | Bytc Substack Note；TechCrunch / NYT court-docs 相關報導 | 支撐 Google 對 Anthropic 的 equity optionality；但非 Alphabet 逐項披露口徑 |
+| Amazon 對 Anthropic 的投資達 `$8B` | Amazon 官方公告 | 支撐 **AMZN** 透過 Anthropic / AWS / Trainium 建立 foundation model exposure |
+| Anthropic Series G `$30B`、post-money `$380B` | Anthropic 官方公告 | 校準 Bytc 對 Anthropic 約 `$387B` 估值的方向；官方同時披露 Claude run-rate revenue `$14B` |
+| Microsoft / OpenAI 官方 restructuring 後，Microsoft roughly 27% OpenAI Group | Microsoft 官方 blog；OpenAI structure page | 與 Bytc 23.5% 口徑存在差異，查詢時應標註口徑來源 |
+| Microsoft up to `$5B` investment in Anthropic | Anthropic 官方 strategic partnership announcement | 支撐 Bytc「Microsoft 也有一些 Anthropic 股權」的方向，但未提供精確 stake |
+
+### 延伸追蹤
+
+| 日期 | 事件 | 相關 ticker | 影響方向 | 追蹤重點 | 出處 |
+|---|---|---|---|---|---|
+| 2026-02-12 | Anthropic Series G `$30B` / post-money `$380B` | **GOOG**, **GOOGL**, **AMZN**, **MSFT** | 正面若 valuation / ARR 持續擴張 | Anthropic ARR、Claude enterprise adoption、cap table dilution、IPO / secondary valuation、cloud spend commitments | Anthropic 官方公告；Bytc Substack Note |
+| 2026-04-24（整理者補充；非 Bytc 原文） | Amazon 官方 recap 稱將再投 Anthropic `$5B`，另有 up to `$20B` tied to commercial milestones，建立在先前 `$8B` 之上 | **AMZN** | 正面 optionality / 但資本投入更重 | 投資條件、commercial milestones、AWS / Bedrock / Trainium revenue、Anthropic compute commitments、AMZN capex / FCF | Amazon 2026-04-24 recap |
+| 未定 | OpenAI / Anthropic 估值差是否收斂 | **GOOG**, **GOOGL**, **AMZN**, **MSFT** | 未定 | OpenAI valuation、Anthropic valuation、ARR growth、gross margin、cloud commitments、enterprise retention、IPO filing | Bytc Substack Note；整理者延伸 |
+
+### 風險與反例
+
+| 風險 | 相關 ticker | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|---|
+| 私有公司估值波動與口徑不透明 | **GOOG**, **GOOGL**, **AMZN**, **MSFT** | 高 | secondary / funding round valuation 下修，或 public-market multiple 壓縮 | OpenAI / Anthropic valuation、ARR、gross margin、cash burn、compute commitments | Bytc Note；整理者延伸 |
+| cap table 數字有 dilution / conversion 口徑差異 | **GOOG**, **GOOGL**, **AMZN**, **MSFT** | 中高 | 可轉債、Series G / 後續融資、strategic investments 改變 ownership | fully diluted stake、as-converted basis、post-money valuation、filings / court docs | 整理者延伸 |
+| 巨頭投資不等於即時 P&L | **GOOG**, **GOOGL**, **AMZN**, **MSFT** | 中高 | 投資收益無法變成 operating income，或 cloud credits / compute commitments 壓毛利 | equity-method gains / losses、cloud revenue、capex、depreciation、cash flow | 整理者延伸 |
+| foundation model 勝者未定 | **GOOG**, **GOOGL**, **AMZN**, **MSFT** | 中 | OpenAI / Anthropic / Gemini / Meta AI / xAI / open-source route 競爭格局改變 | model benchmark、enterprise adoption、API usage、agent workflow adoption、pricing | Bytc Note；整理者延伸 |
+
+### 整理者延伸
+
+這篇 Note 強化同日 Bytc 長文對 **GOOG** / **GOOGL** 的 AI exposure 追蹤：上一篇聚焦 Search / AI capex / ad model，這篇則補上 Anthropic cap table 與 AI Native protocol optionality。**AMZN** 與 **MSFT** 記為多巨頭 L2 主題觀點，但本篇仍不是單一個股完整 thesis，不新增 `Stocks/` 專案，也不提供買賣建議。
 
 ---

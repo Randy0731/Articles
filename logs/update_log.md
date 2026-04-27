@@ -2,6 +2,9 @@
 
 ## 2026-04-27
 
+- 入庫 `Bytc-20260414-ai-native-anthropic-openai-capital-loop-53b5e688`：整理 Bytc Substack Note《AI Native 底層協議與巨頭資本閉環：Anthropic / OpenAI cap table》，追加至 `KOL/Bytc/notes/bytc筆記.md`。本篇為 foundation model cap table / AI Native 資本閉環短評，Bytc 將 Google、Amazon、Microsoft 對 Anthropic / OpenAI 的持股與投資放入同一個框架：即使未來由 OpenAI 或 Anthropic 稱霸，底層協議的資金閉環仍可能透過股權、雲端算力與企業分發回到大型科技公司。
+- 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes。**GOOG** / **GOOGL**、**AMZN**、**MSFT** 記為多巨頭 L2 主題觀點，不建立 `Stocks/`；同時補強既有 **GOOG** / **GOOGL** watchlist。Bytc 原文口徑包含 Google 約 14% Anthropic stake / `$3.3B`、Amazon `$8B` / 15%-19% diluted stake、Microsoft OpenAI 約 23.5%、OpenAI 約 `$830B` / Anthropic 約 `$387B`；整理日核對 Anthropic 官方 Series G 為 `$30B` at `$380B` post-money，Microsoft / OpenAI 官方口徑為 roughly 27%，與 Bytc 23.5% 口徑存在差異，已標記需校準。來源為 URL 與使用者截圖，未另存 raw，OCR 狀態不適用；本文不是買賣建議。
+
 - 入庫 `Bytc-20260414-google-search-ai-capex-ad-model-ace3de4a`：整理 Bytc Substack 文章《搜索引擎還在印鈔，但印鈔機正在變貴》，建立 `KOL/Bytc/articles/20260414_google_search_ai_capex_ad_model.md`，並複製使用者提供之 9 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260414_Bytc_google_search_ai_capex_ad_model_Bytc-20260414-google-search-ai-capex-ad-model-ace3de4a.pdf`。本篇為 Google 搜尋廣告 / AI Search / AI capex 與估值壓力長文，重點是 Google Search 仍具 high-intent ad moat，但 AI Overviews / AI Mode / Gemini / agent action 會把搜尋從低成本連結分發改成高成本答案與任務完成，迫使 ad auction、conversion attribution、capex、depreciation、margin 與 multiple 重新定價。Alphabet 2025 10-K 與 Q4 2025 earnings transcript 用於校準 2025 revenue、Search revenue、capex 與 2026 capex guidance。
 - 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes 與 private raw manifest。**GOOG** / **GOOGL** 為單篇 Bytc L3 候選追蹤，新增 watchlist，但不建立 `Stocks/GOOG/` 或 `Stocks/GOOGL/`；**MSFT** / **META** 記為 L2 次要比較，**AMZN** / **BIDU** / **BABA** 記為 L1 平台 / 垂直搜尋案例。OCR 狀態標「部分」，Substack 網頁正文與 references 完整可讀；本文未提供股價目標、買點或賣點，也不是本專案買賣建議。
 
