@@ -2,6 +2,9 @@
 
 ## 2026-04-27
 
+- 入庫 `Bytc-20260421-commodity-supercycle-inflation-markets-977210ae`：整理 Bytc Substack 付費文章《大宗商品超級週期、通膨與金融市場的聯動》，建立 `KOL/Bytc/articles/20260421_commodity_supercycle_inflation_markets.md`，並複製使用者提供之 11 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260421_Bytc_commodity_supercycle_inflation_markets_Bytc-20260421-commodity-supercycle-inflation-markets-977210ae.pdf`。本篇為大宗商品 / 通膨 / 股市週期框架長文，重點是 3 月 CPI / PPI 的能源與商品端壓力、核心 CPI / PPI 尚未失控、需求破壞與中國通縮外溢仍壓住終端價格、美林時鐘商品輪動、目前位於銅 / 鋁中段且能源有跡象但農產品尚未展開、1970s / 2008 / 2000 案例比較、商品通膨必須透過 Fed / 信貸收縮才會真正壓垮股市，以及未來 3-6 個月要追 core goods CPI、PPI 加工中間商品、油價與銅價是否同步維持高位、乾旱 / 糧價是否傳導。
+- 更新：同步更新 source/theme/ticker/catalyst/framework indexes 與 private raw manifest。本文未觸及已追蹤個股 L2+，不更新 `Stocks/`；**IGV**、**NVDA**、**MSFT**、**GOOG** 只作 L1 板塊資金流、獲利能力與 2000 年泡沫比較語境，不寫成 Bytc 對單一 ticker 的買賣建議。OCR 狀態標「部分」，p.1-p.10 從標題、正文、結語、免責聲明到 reference 完整可讀，p.11 為 discussion / 推薦文章 / footer；Tesseract 對部分中文與圖表有雜訊，原文宏觀、商品、政策與歷史數字未逐項外部查驗。
+
 - 入庫 `Bytc-20260421-asts-fcc-248-satellite-grant-6ed4d3f0`：整理 Bytc Substack Note《**ASTS** FCC 248 顆衛星授權：監管門檻與 Verizon 預付款條件》，追加至 `KOL/Bytc/notes/bytc筆記.md`，並保存 FCC 官方 25 頁 PDF 至 `KOL/Bytc/raw/20260421_Bytc_asts_fcc_248_satellite_grant_Bytc-20260421-asts-fcc-248-satellite-grant-6ed4d3f0.pdf`。FCC DA 26-391 adopted / released 2026-04-21，授權 AST SpaceMobile NGSO 248 satellites，scope of grant 為部署 223 顆新增 LEO NGSO space stations 並執行 SCS / direct-to-cell operations，狀態為 granted with conditions。
 - 更新：同步更新 source/ticker/theme/catalyst/watchlist indexes。**ASTS** 為非已追蹤個股，本文達單篇 L3 候選追蹤但不建立 `Stocks/ASTS/`；Bytc 推論 Verizon `$45M` commercial prepayment 最後條件解除，SEC 2025 10-K 佐證該 payment 在 Verizon definitive commercial agreement 後只剩 regulatory approvals 條件。後續仍需 8-K / 10-Q 確認實際 cash receipt、deferred revenue / contract liability 與 commercial rollout；本文不是買賣建議。
 
