@@ -2,6 +2,11 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-03-17 Substack Note（`大叔美股筆記-20260317-onds-indo-earth-moving-140m-tender-f284457b`），建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260317_INDOEarthMoving收購與1_4億重型工程車輛標案.md`。
+- 更新：同步 `KOL/大叔美股筆記/notes/大叔美股筆記.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260324_FY2025財報與2026_375M指引.md` 與 source / ticker / theme / catalyst indexes。
+- 修正：將大叔原文「1.4 億美元收購」校準為 official purchase price `$5.663M` cash + `5,493,388` shares；`$140M` 為 tender / contingent earn-out context，不寫成收購價、已認列 revenue 或買賣建議。
+- 備註：Substack Note、Ondas 官方 PR 與 2026 10-K 皆為網頁文字可讀，未另存 raw，OCR 狀態不適用。
+
 - 新增：補入大叔美股筆記 2026-03-16 Substack Note《**ONDS** Rotron 完成與財報前指引上修預期：`$250M-$300M+` 情境與不追高提醒》，source_id 為 `大叔美股筆記-20260316-onds-rotron-guidance-upside-no-chase-2cd15f42`。
 - 更新：追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，將本篇判定為 **ONDS** L4 補充既有 Rotron、Mistral / Bird 與 FY2025 `$375M+` 指引里程碑；同步更新 `Stocks/ONDS/milestones/ONDS_里程碑_20260203_RotronAero收購與DT300BlueUAS.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260312_Mistral_Bird併購稀釋與10元天花板.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260324_FY2025財報與2026_375M指引.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、source/ticker/theme/catalyst indexes。
 - 備註：Substack JSON-LD / HTML 可讀；大叔認為 1 月 `$170M-$180M` 2026 guidance 尚未包含 Mistral、4M、Bird、Rotron，若 3/25 管理層併入預期營收，可能上修至 `$250M-$300M+`。本篇是財報前 KOL 情境與「不追高」風控語境；後續 official FY2025 release 已以 `$375M+` target 校準。不可寫成 formal guidance、order、backlog、recognized revenue 或本專案買賣建議。
