@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `大叔美股筆記-20260208-dark-pool-tools-5b8f3802`：整理大叔美股筆記 Substack 文章《Dark Pool 暗池》，建立 `KOL/大叔美股筆記/articles/20260208_dark_pool_tools_uncle.md`，並複製使用者提供之 3 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20260208_大叔美股筆記_dark_pool_tools_大叔美股筆記-20260208-dark-pool-tools-5b8f3802.pdf`。本篇為暗池 / 大盤情緒 / 交易輔助工具框架文，重點是 SqueezeMetrics DIX、Stockgrid、Unusual Whales / Cheddar Flow / BlackBoxStocks，以及券商 T&S 過濾大單、ADF / TRF 場外成交標記與暗池 level 作為支撐 / 壓力確認。
+- 更新：同步更新 source/ticker/theme/framework indexes 與 private raw manifest。**TSLA** / **NVDA** / **AMD** 只作暗池工具教學例子，不建立或更新 `Stocks/`；本文新增「暗池信心確認框架」，核心是價格 / K 線決定進出場，暗池數據只用來增加信心。OCR 狀態標「部分」，Substack 公開頁全文可讀；本文不是買賣建議。
+
 - 入庫 `Bytc-20260209-bitcoin-bottom-dca-opportunity-36f5cf0f`：整理 Bytc Substack 文章《比特幣我在等什麼機會》，建立 `KOL/Bytc/articles/20260209_bitcoin_bottom_dca_opportunity.md`，並複製使用者提供之 4 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260209_Bytc_bitcoin_bottom_dca_opportunity_Bytc-20260209-bitcoin-bottom-dca-opportunity-36f5cf0f.pdf`。本篇為 Bitcoin 底部判斷 / 金融流動性 / DCA 框架長文，重點是 Bytc 認為 BTC 已大幅回落但美股尚未承認風險，因此更可信底部可能還要等傳統市場痛感、流動性重定價、政府扣押 BTC 潛在賣壓 uncertainty 降低與迷因幣 / altcoin 資金池修復。
 - 更新：同步更新 source/ticker/theme/catalyst/framework indexes 與 private raw manifest。**BTC** 判定為 L3 主題資產，不建立 `Stocks/`；spot BTC ETFs 只作背景概念，留言區 IBIT / 直接買 BTC 問題沒有完整 Bytc 回覆，未寫成 Bytc 對 **IBIT** 或交易所託管的明確觀點。OCR 狀態標「部分」，p.1-p.3 為正文與結論，p.3 下半起為 discussion，p.4 為推薦文章 / footer；本文不是買賣建議。
 

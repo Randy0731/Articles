@@ -6,6 +6,8 @@
 
 | 主題 tag | 日期 | KOL / 來源 | 標題 | 核心觀點 | 相關 ticker | 框架 / 催化劑 | 筆記檔 |
 |---|---|---|---|---|---|---|---|
+| #金融流動性 | 2026-02-08 | 大叔美股筆記 / SqueezeMetrics / Stockgrid | Dark Pool 暗池 | 大叔將暗池視為機構大單留下的成交後痕跡，可用 DIX、Stockgrid、option flow / prints 與券商 T&S 觀察大盤情緒、個股支撐 / 壓力與趨勢確認；但暗池只能增加信心，不應單獨決定進出場 | **TSLA**, **NVDA**, **AMD** | 暗池信心確認框架；DIX > `45%` / < `35%`；ADF / TRF prints | `KOL/大叔美股筆記/articles/20260208_dark_pool_tools_uncle.md`；`indexes/framework_index.md` |
+| #投資與投機 | 2026-02-08 | 大叔美股筆記 | 價格決定進出場，暗池只作確認 | 大叔的暗池備忘錄是「用 K 線決定進出場，用暗池增加信心」：股價到支撐位加上暗池大量買單才是較完整訊號，避免把延遲資料當水晶球 | 全市場 / **TSLA**, **NVDA**, **AMD** | K 線 + DIX / Dark Pool Levels / 大單確認 | `KOL/大叔美股筆記/articles/20260208_dark_pool_tools_uncle.md` |
 | #加密貨幣 | 2026-02-09 | Bytc | 比特幣我在等什麼機會 | Bytc 認為 BTC 這輪已先大幅回落，但美股仍相對平穩，代表 crypto 可能還沒見到真正底部；他將 2018 / 2022 底部、1011 清算、政府扣押 BTC 潛在供給、迷因幣資金池腰斬與 DCA 放進同一套底部等待框架 | **BTC** | BTC 領先風險偏好框架；政府扣押 BTC 潛在賣壓；小額 DCA | `KOL/Bytc/articles/20260209_bitcoin_bottom_dca_opportunity.md`；`indexes/framework_index.md` |
 | #金融流動性 | 2026-02-09 | Bytc | BTC 與美股風險傳導的時間差 | Bytc 把 BTC 視為全球風險偏好的領先指標：BTC 先跌不等於底已到，也可能代表美股還沒開始反映同一個流動性風險；真正可信的 crypto 底部通常需要傳統市場也出現痛感 | **BTC** / 全市場 | BTC 領先風險偏好框架；SPX drawdown / VIX / credit spread 檢查 | `KOL/Bytc/articles/20260209_bitcoin_bottom_dca_opportunity.md`；`indexes/catalyst_index.md` |
 | #投資與投機 | 2026-02-09 | Bytc | 小額 DCA 不是猜底，而是降低猜底依賴 | Bytc 用每天 `$30`、8 年投入 `$87,600`、2024 年底超過 `$1M` 的例子說明，若相信 BTC 長線資產邏輯，DCA 的價值在於不必精準猜底；這是 KOL 個人節奏語境，不是本專案買賣建議 | **BTC** | DCA discipline；bottom timing vs long-term accumulation | `KOL/Bytc/articles/20260209_bitcoin_bottom_dca_opportunity.md` |
