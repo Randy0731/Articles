@@ -2,6 +2,10 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-03-12 Substack Note《**ONDS** x **PLTR** x World View：Karp quote 與 operational intelligence 拼圖》，source_id 為 `大叔美股筆記-20260312-ondas-palantir-worldview-operational-intelligence-6978825d`。
+- 更新：追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，將本篇判定為 **ONDS** L4 補充既有 World View 高空 ISR 里程碑；同步更新 `Stocks/ONDS/milestones/ONDS_里程碑_20260302_WorldView戰略投資與高空ISR層.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、source/ticker/theme/catalyst indexes。
+- 備註：Substack Note 與 Ondas 2026-03-12 官方 PR 可讀；官方確認 Palantir / Ondas / World View partnership to develop AI-enabled multi-domain ISR spanning stratospheric、aerial and ground systems。大叔轉貼 Karp quote，將其解讀為 World View Stratollites + Ondas autonomous systems + Palantir software platform 的 operational intelligence / edge decision layer；**PLTR** 僅 L1 product/vendor mention。本篇不是 DoW / DHS 訂單、backlog、revenue、PLTR 新合約或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-03-11 Substack Note《**ONDS** Bird Aerosystems 併購完成：6,933,110 股 resale 與 aircraft-protection 拼圖》，source_id 為 `大叔美股筆記-20260311-ondas-bird-acquisition-resale-risk-b23af1db`。
 - 更新：追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，將本篇判定為 **ONDS** L4 補充來源；同步更新既有 `Stocks/ONDS/milestones/ONDS_里程碑_20260312_Mistral_Bird併購稀釋與10元天花板.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、source/ticker/theme/catalyst indexes。
 - 備註：Substack Note、Ondas official PR、2026-03-11 8-K 與 424B7 可讀；官方 PR 確認 BIRD AMPS / ASIO 與 700+ aircraft / 40+ aircraft types installed base，8-K / 424B7 確認 6,933,110 股 resale registration、`$5.173M` cash consideration、約 `$37.879M` Additional Stock Consideration 與 volume limitation。大叔將其解讀為 aircraft-protection / airborne ISR 拼圖與 `$10` 附近供給壓力；本篇不是公司新融資、即時倒貨、已認列 revenue 或買賣建議。
