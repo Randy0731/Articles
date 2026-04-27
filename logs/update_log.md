@@ -2,6 +2,8 @@
 
 ## 2026-04-27
 
+- 入庫 `大叔美股筆記-20260427-ondas-airport-protection-center-3828ebb1`：整理大叔 Threads 短評 / BMSInvests X 轉述，記錄 **ONDS** 機場保護中心 / systems-of-systems 架構。追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q2.md`，同步更新 ONDS index/dashboard、source/ticker/theme indexes。此為 **ONDS** L3 platform framing：Optimus、RT-2000、Insight Sensors、Iron Drone、Sentrycs、Scout 與 C4i 被整理成 one-vendor airport-protection stack；不是新訂單、customer award、backlog、recognized revenue、cash collection、official disclosure 或買賣建議。
+
 - 入庫 `Company-20260415-ondas-heidelberg-launch-onberg-ae4344a7`：整理 Ondas 2026-04-15 官方新聞稿，新增 `Stocks/ONDS/milestones/ONDS_里程碑_20260415_ONBERG德國啟動與歐洲無人防禦製造樞紐.md`，記錄 ONBERG 在 Heidelberg 德國 Brandenburg an der Havel facility 正式啟動營運、完成 live operational demonstration，並建立 European production / development / deployment hub。同步更新 ONDS index/dashboard、source/ticker/theme/catalyst indexes。此為 **ONDS** L4 official milestone / operational readiness；不記入 KOL，不寫成 customer award、order、backlog、recognized revenue、cash collection 或買賣建議。
 
 - 入庫 `大叔美股筆記-20260305-ondas-ai-border-security-20m-order-f038a2de`：補入大叔 2026-03-05 X 短帖，記錄 **ONDS** / Airobotics `$20M` autonomous border security initial PO 的 KOL 原始轉述；同步補強既有 `Stocks/ONDS/milestones/ONDS_里程碑_20251203_政府邊境防護標案與OAS主承包商.md`，並更新 KOL 主筆記、ONDS index/dashboard、source/ticker/theme/catalyst indexes。此為既有 2025-12-03 border-protection L4 里程碑的 order-conversion 補充，不另開重複里程碑；`$20M` 是 initial PO，`>$100M` 是 expected multi-year program value 語境，不是完整 program 全額 PO、已交付、已認列 revenue、已收現或買賣建議。
