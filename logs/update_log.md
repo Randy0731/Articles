@@ -2,6 +2,8 @@
 
 ## 2026-04-27
 
+- 補充版 / 去重：使用者補充大叔美股筆記 2026-04-11 Substack Note `https://substack.com/@unclestocknotes/note/c-241635900`。內容與既有 `大叔美股筆記-20260411-onds-authorized-shares-4b-d97d56c6`（《拆解 $ONDS 增發 4 億授權股的背後》）高度重疊，因此併入原 source_id，不另開新筆記；已更新 `KOL/大叔美股筆記/articles/20260411_onds_authorized_shares_4b_uncle.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260411_授權股本增至12億與併購彈藥.md` 與 `indexes/source_index.md` 的來源 URL，並補上 SEC DEF 14A 直連。
+
 - 入庫 `大叔美股筆記-20260406-ondas-4m-defense-50m-border-demining-tender-3e9b42a7`：整理大叔 2026-04-06 Substack Note 與 Ondas 官方 4M Defense competitive tender PR，新增 `Stocks/ONDS/milestones/ONDS_里程碑_20260406_4MDefense以色列邊境排雷5000萬美元標案.md`，並同步更新 KOL 主筆記、ONDS index/dashboard、source/ticker/theme/catalyst indexes。官方確認 4M 在 Israel `$1.7B` Eastern Border Security Barrier 專案中為 IMOD lead contractor 執行排雷，initial / follow-on orders expected over `$50M` program value；本專案標記為 **ONDS** L4，但不寫成已全額 backlog、recognized revenue、cash collection、direct IMOD contract disclosure 或買賣建議。
 
 - 入庫 `大叔美股筆記-20260402-ondas-kcpd-sentrycs-world-cup-7f4d2a91`：補入大叔 2026-04-02 Substack Note / BMSInvests 轉貼，記錄 KCPD 2026-02 board minutes 批准 Safeware / Sentrycs Gen2 C-UAS 採購 `$996,738.48`，並連到 FIFA World Cup 2026 安保。判定 **ONDS** L3，更新大叔主筆記、`Stocks/ONDS/quarterly/ONDS_筆記_2026Q2.md`、ONDS index/dashboard、source/ticker/theme/catalyst indexes。此為 host-city public-safety 小額採購驗證，不是 ONDS 直接大型訂單、backlog、已認列 revenue 或買賣建議。

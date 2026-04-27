@@ -1,11 +1,11 @@
 # 拆解 $ONDS 增發 4 億授權股的背後
 
 - **KOL**：大叔美股筆記
-- **來源**：[大叔美股筆記 Substack 文章](https://unclestocknotes.substack.com/p/onds-4)；[Ondas 2026 Annual Meeting / Proxy Statement](https://ir.ondas.com/annual-meeting)
+- **來源**：[大叔美股筆記 Substack 文章](https://unclestocknotes.substack.com/p/onds-4)；[大叔美股筆記 Substack Note](https://substack.com/@unclestocknotes/note/c-241635900)；[Ondas 2026 Annual Meeting / Proxy Statement](https://ir.ondas.com/annual-meeting)；[SEC DEF 14A](https://www.sec.gov/Archives/edgar/data/0001646188/000121390026045735/ea0285575-02.htm)
 - **類型**：Substack 文章 / Proxy statement 解讀 / 授權股本修正 / 併購彈藥 / 稀釋風險
 - **發文時間**：2026-04-11
 - **整理日期**：2026-04-26
-- **原始檔案 / URL**：https://unclestocknotes.substack.com/p/onds-4；https://ir.ondas.com/annual-meeting；本機原始路徑見 `private/raw_manifest.local.yaml`（未同步）
+- **原始檔案 / URL**：https://unclestocknotes.substack.com/p/onds-4；https://substack.com/@unclestocknotes/note/c-241635900；https://ir.ondas.com/annual-meeting；https://www.sec.gov/Archives/edgar/data/0001646188/000121390026045735/ea0285575-02.htm；本機原始路徑見 `private/raw_manifest.local.yaml`（未同步）
 - **source_id**：大叔美股筆記-20260411-onds-authorized-shares-4b-d97d56c6
 - **raw 路徑 / URL**：`KOL/大叔美股筆記/raw/20260411_大叔美股筆記_onds_authorized_shares_4b_大叔美股筆記-20260411-onds-authorized-shares-4b-d97d56c6.pdf`
 - **OCR 狀態**：部分（5 頁 image-only PDF；p.1-p.3 為核心正文與圖表，p.4 為免責聲明 / 留言，p.5 為推薦文章 / footer；以官方 proxy statement 交叉校準）
@@ -85,3 +85,9 @@
 > 呼應 `Stocks/ONDS/milestones/ONDS_里程碑_20260110_SEC文件毒債清除與28權證.md`：本篇再度把 `$20` / `$28` warrants 放回籌碼壓力與潛在對沖框架。
 
 > 呼應 `Stocks/ONDS/milestones/ONDS_里程碑_20260326_財報法說會中立評估與Q2執行檢核.md`：3/26 文提醒 roll-up / 二次成長要用 Q2 / H2 執行驗證，本篇補上管理層準備更大併購與平台擴張的資本結構工具。
+
+## 修訂紀錄
+
+| 日期 | 類型 | 說明 |
+|---|---|---|
+| 2026-04-27 | 補充版 | 使用者補充同主題 Substack Note `c-241635900`；內容與既有 2026-04-11 授權股本整理高度重疊，併入原 `source_id`，不另開重複筆記。 |
