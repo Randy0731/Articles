@@ -2,6 +2,9 @@
 
 ## 2026-04-27
 
+- 入庫 `Bytc-20260416-market-new-high-data-check-c81d5a96`：整理 Bytc Substack 付費文章《大盤新高後的數據盤點》，建立 `KOL/Bytc/articles/20260416_market_new_high_data_check.md`，並複製使用者提供之 5 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260416_Bytc_market_new_high_data_check_Bytc-20260416-market-new-high-data-check-c81d5a96.pdf`。本篇為全市場 / CTA / VIX / 科技估值與 Fed 路徑短長文，重點是 Nasdaq 連續 11 天收漲、CTA 昨天買入約 30 億美元美股且多頭頭寸約 400 億美元、vol control 約買 50 億美元、VIX 兩週跌幅為歷史第七大、Nasdaq / **SOX** 連陽後 forward return 統計、資訊科技板塊估值回到 2022 附近、美國收入月環比約 -0.1% vs PCE 約 +0.5%、Fed 真實立場偏降息但能源衝擊使其暫停，以及 Bytc 本週不操作、反彈約 30% 後優先減少槓桿。
+- 更新：同步更新 source/theme/catalyst/framework indexes 與 private raw manifest。本文無單一 ticker L2+，**SOX** 只作半導體指數統計語境，不更新 ticker index 或 `Stocks/`；Bytc 減少槓桿是 KOL 個人風控紀錄，不是本專案買賣建議。OCR 狀態標「部分」，p.1-p.4 從標題、正文、結論到免責聲明完整可讀，p.5 為 discussion / 推薦文章 / footer，每頁底部 Substack 浮動列與圖表造成 OCR 雜訊。
+
 - 入庫 `Bytc-20260421-commodity-supercycle-inflation-markets-977210ae`：整理 Bytc Substack 付費文章《大宗商品超級週期、通膨與金融市場的聯動》，建立 `KOL/Bytc/articles/20260421_commodity_supercycle_inflation_markets.md`，並複製使用者提供之 11 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260421_Bytc_commodity_supercycle_inflation_markets_Bytc-20260421-commodity-supercycle-inflation-markets-977210ae.pdf`。本篇為大宗商品 / 通膨 / 股市週期框架長文，重點是 3 月 CPI / PPI 的能源與商品端壓力、核心 CPI / PPI 尚未失控、需求破壞與中國通縮外溢仍壓住終端價格、美林時鐘商品輪動、目前位於銅 / 鋁中段且能源有跡象但農產品尚未展開、1970s / 2008 / 2000 案例比較、商品通膨必須透過 Fed / 信貸收縮才會真正壓垮股市，以及未來 3-6 個月要追 core goods CPI、PPI 加工中間商品、油價與銅價是否同步維持高位、乾旱 / 糧價是否傳導。
 - 更新：同步更新 source/theme/ticker/catalyst/framework indexes 與 private raw manifest。本文未觸及已追蹤個股 L2+，不更新 `Stocks/`；**IGV**、**NVDA**、**MSFT**、**GOOG** 只作 L1 板塊資金流、獲利能力與 2000 年泡沫比較語境，不寫成 Bytc 對單一 ticker 的買賣建議。OCR 狀態標「部分」，p.1-p.10 從標題、正文、結語、免責聲明到 reference 完整可讀，p.11 為 discussion / 推薦文章 / footer；Tesseract 對部分中文與圖表有雜訊，原文宏觀、商品、政策與歷史數字未逐項外部查驗。
 
