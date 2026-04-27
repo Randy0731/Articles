@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `Bytc-20260129-golden-dome-drone-swarm-320b-defense-d1ade217`：整理 Bytc Substack 付費文章《大美麗法案 VII：從金穹到無人機蜂群 3,200 億的國防工業政策》，建立 `KOL/Bytc/articles/20260129_golden_dome_drone_swarm_320b_defense.md`，並複製使用者提供之 6 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260129_Bytc_golden_dome_drone_swarm_320b_defense_Bytc-20260129-golden-dome-drone-swarm-320b-defense-d1ade217.pdf`。本篇為國防工業政策 / Golden Dome / 邊境安全 / 無人機蜂群 / AI 作戰鏈長文，重點是 Bytc 將約 `$3,207億` 國防與邊境直接撥款拆成國防部約 `$1,500億`、DHS / ICE / CBP 約 `$1,707億`，並把資金路徑連到天空盾牌、邊境數位長城、AI 作戰鏈、可消耗無人系統與國防再工業化。
+- 更新：同步更新 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、source/ticker/theme/catalyst/framework/watchlist indexes 與 private raw manifest。**ONDS** 判定為已追蹤個股 L2 demand signal：Bytc 將 **ONDS** 放入 DHS / ICE / CBP 邊境安全、C-UAS、autonomous monitoring 與快速採購國防科技語境，但本文沒有 Ondas official award、DHS / CBP / ICE customer、backlog、revenue 或 deployment；**NOC** / **RKLB** 延續 watchlist，其他 ticker 只進索引。OCR 狀態標「部分」，p.1-p.4 為核心正文，p.5-p.6 為免責聲明 / discussion / recommended posts / footer；本文不是買賣建議。
+
 - 入庫 `Bytc-20260209-space-based-solar-power-sbsp-0ddd76af`：整理 Bytc Substack 文章《當太陽不再下山，太空電網如何重塑文明與我們的投資邏輯》，建立 `KOL/Bytc/articles/20260209_space_based_solar_power_sbsp.md`，並複製使用者提供之 5 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260209_Bytc_space_based_solar_power_sbsp_Bytc-20260209-space-based-solar-power-sbsp-0ddd76af.pdf`。本篇為 Space-Based Solar Power / 太空電網 / 能源主權 / 太空基建框架文，重點是 SBSP 從地面驗證、LEO kW 級、GEO 10MW pilot 到 2040-2050 GW 級併網的四階段路徑，WPT、鈣鈦礦 / GaN、在軌組裝、儲能併網、發射成本 `$500/kg` 紅線，以及日本宇宙戰略基金與美國國防預算太空投資。
 - 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes 與 private raw manifest。**NOC**、**FLNC**、**RDW**、**RKLB** 新增 watchlist；**6503.T** / **5802.T** / **6674.T** 進 ticker index；**EOSE** / **SES** 只是 **FLNC** 對照組，**EOSE** 雖為已追蹤個股但本篇沒有形成新 thesis，因此不更新 `Stocks/EOSE/`。OCR 狀態標「部分」，Substack 公開頁全文可讀；本文不是買賣建議。
 
