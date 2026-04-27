@@ -8,6 +8,13 @@
 
 | Ticker | 日期 | KOL | 來源 | 立場 | 訊號強度 | 價位 / 性質 | 催化劑 | 風險 |
 |---|---|---|---|---|---|---|---|---|
+| **MSFT**, **AMZN**, **META** | 2026-03-09 | Bytc | Substack 文章 / 宏觀數據週報 | 資訊分享 / 科技巨頭配置與 AI capex 代表 | 資訊分享 | 未提供個別目標價；原文稱前幾週曾配置大型科技，並稱 2026 AI capex 約 6500 億美元 vs 2025 約 4100 億美元 | AI capex 持續、雲端巨頭 AI 平台與 agent automation 需求 | 只是大型科技籃子與 capex 語境；不可寫成 Bytc 對單一 ticker 的明確估值或買點 |
+| **TSLA**, **NVDA**, **AVGO** | 2026-03-09 | Bytc | Substack 文章 / 宏觀數據週報 | 資訊分享 / 成長股與 AI 硬體輪動案例 | 資訊分享 | **TSLA** 原文收盤 `$396.73`、跌 2.17%；**NVDA** 收盤 `$177.82`、跌 3.01%；**AVGO** 原文提及 2027 AI chip revenue 可能超過 `$100B`，均非目標價 | Risk-off 盤面下 Tesla / Nvidia 下跌；Broadcom outlook 顯示 AI hardware demand 未消失 | 僅為市場輪動與 AI hardware demand 案例；不可寫成 Bytc 對 **TSLA** / **NVDA** / **AVGO** 的完整 thesis |
+| **GOOG**, **NFLX**, **WMT**, **COST** | 2026-03-09 | Bytc | Substack 文章 / 宏觀數據週報 | 資訊分享 / 危機底部優先觀察籃子 | 資訊分享 | 未提供個別價位或目標價；Bytc 以 2020 年第一波反彈案例說明底部籃子 | 若市場出現明確底部訊號，Bytc 優先觀察傳統零售、科技巨頭與串流 | 底部訊號尚未出現；本文不是當下買進建議，也不是個別公司估值分析 |
+| **CRWD**, **ADBE** | 2026-03-09 | Bytc | Substack 文章 / 宏觀數據週報 | 資訊分享 / 高品質軟體與 AI 整合案例 | 資訊分享 | 未提供價位 | Bytc 認為 AI Agent narrative 不代表所有軟體都會消失，高品質軟體可反彈 | 只是品質軟體例子，未形成獨立公司 thesis；需以後續營收、AI 產品與 margin 驗證 |
+| **MSTR** | 2026-03-09 | Bytc | Substack 文章 / 宏觀數據週報 | 資訊分享 / Bitcoin proxy 與長線資金案例 | 資訊分享 | 原文稱 MSTR 於 2026-02-23 至 2026-03-01 買入 3,015 BTC，花費 `$204.1M`，均價約 `$67,700`，總持倉 720,737 BTC；非股價目標 | Bitcoin spot ETF 週淨流入約 `$568.5M`；傳統資金透過 MSTR proxy 參與 BTC | BTC 價格與 MSTR 槓桿 / proxy discount 波動；本文不是 MSTR 估值或買賣建議 |
+| **CRCL** | 2026-03-09 | Bytc | Substack 文章 / 宏觀數據週報 | 資訊分享 / stablecoin 滲透傳統金融案例 | 資訊分享 | 未提供股價或目標價；stablecoin market cap 原文為 `$313.005B`，7 日 +`$3.126B` | Circle 財報與 stablecoin supply 擴張顯示鏈上美元與傳統金融交會 | 只是 stablecoin infrastructure 語境，不可寫成 Bytc 對 **CRCL** 的單股 thesis |
+| **BOTZ**, **ROBO** | 2026-03-09 | Bytc | Substack 文章 / 宏觀數據週報 | 資訊分享 / robotics ETF 觀察 | 資訊分享 | 未提供價位或目標價 | 2026-03-10 美國商務部 robotics event；政策暖身與機器人主題觀察 | 政策活動不等於 ETF 淨流入或成分股基本面改善；本文不是 ETF 買賣建議 |
 | **XYZ** | 2026-02-28 | Bytc | Substack 文章 / 宏觀數據週報 | 資訊分享 / AI 降本案例 | 資訊分享 | 未提供目標價；原文稱股價週五狂飆 25%，屬事件反應 | AI 提效裁員被資本市場獎勵 | 只是板塊輪動案例，未形成 **XYZ** 公司 thesis；不可寫成 Bytc 明確看多 |
 | **TSLA** | 2026-02-28 | Bytc | Substack 文章 / 宏觀數據週報 | 資訊分享 / 願景與信仰支撐案例 | 資訊分享 | 未提供價位 | 馬斯克稱握好特斯拉股票，20 年後會在月球建廠；Bytc 用來說明藍圖與信仰支撐 | 短期股價仍因獲利回吐波動；本文非特斯拉財務或估值分析 |
 | **COST**, **WMT**, **NFLX** | 2026-02-28 | Bytc | Substack 文章 / 宏觀數據週報 | 資訊分享 / 防禦與價值支點案例 | 資訊分享 | 未提供價位 | Costco、Walmart 因防禦屬性逆勢上漲；Netflix 退出華納兄弟收購案後資本支出不確定性下降 | 只是市場重新尋找價值支點的例子，未形成個別公司 thesis |

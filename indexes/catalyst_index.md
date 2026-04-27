@@ -6,6 +6,10 @@
 
 | 日期 | 事件 | 相關 ticker | KOL / 來源 | 出處 | 重要性 | 狀態 | 結果 / 後續 | 最後檢查 |
 |---|---|---|---|---|---|---|---|---|
+| 2026-03-20（原文估計） | Hormuz / 油氣供給缺口與海上卡貨壓力可能浮現 | 無 | Bytc | `KOL/Bytc/articles/20260309_macro_data_weekly_20260306.md` | 高 | 待確認 | Bytc 估計若 Hormuz 運輸受阻，約 1500 萬桶 / 日可能卡在海上，庫存約 3 週內面臨壓力，油輪保險成本升至約 3000 萬美元。本次未外部確認實際進展；查詢時需另核油價、航運、保險、庫存與地緣新聞。 | 2026-04-27 |
+| 2026-03-10 | 美國商務部 robotics event；Bytc 建議觀察機器人 ETF 主題 | **BOTZ**, **ROBO** | Bytc | `KOL/Bytc/articles/20260309_macro_data_weekly_20260306.md` | 中 | 待確認 | 原文將此視為 robotics policy warm-up；本次未外部查驗活動內容或後續政策。後續追是否有補助、採購、標準、產業鏈政策或 ETF / 成分股基本面影響。 | 2026-04-27 |
+| 未定 | BlackRock HLEND redemption requests / private credit gating 是否擴散 | 無 | Bytc | `KOL/Bytc/articles/20260309_macro_data_weekly_20260306.md` | 中高 | 待追蹤 | Bytc 記錄 HLEND redemption requests reached 9.3% NAV and triggered 5% quarterly tender cap，接續 Blue Owl / MFS 案例，視為私人信貸裂縫升級。後續追 fund gating、redemption queue、forced sale、credit spread 與銀行敞口。 | 2026-04-27 |
+| 未定 | VIX / Put-Call / S&P 6500-6600 支撐是否形成可投資底部訊號 | **MSFT**, **AMZN**, **META**, **GOOG**, **NFLX**, **WMT**, **COST** | Bytc | `KOL/Bytc/articles/20260309_macro_data_weekly_20260306.md` | 中高 | 待追蹤 | Bytc 認為本週不是黑色星期五，但也不是直接逢低買入；若市場跌到只想逃、底部訊號出現，才優先觀察傳統零售、科技巨頭、串流與軍工。後續追 VIX、Put/Call、breadth、credit spread、油價與就業數據。 | 2026-04-27 |
 | 2026-03-06 | 美國 2 月非農就業報告發布，影響降息預期與通膨黏性判斷 | 無 | Bytc | `KOL/Bytc/articles/20260228_macro_data_weekly_20260227.md` | 中高 | 待確認 | Bytc 認為若整體就業數據意外冷卻，市場將確認經濟放緩並可能提前打開降息預期；若數據依舊過熱，市場將擔憂通膨黏性與利率長期高位化。本次未查實際 NFP 結果，查詢時需另行確認。 | 2026-04-27 |
 | 2026-03-02 | 中國取消遠期外匯合約 20% 風險準備金，Bytc 解讀為降低做空人民幣成本以遏制升值 | 無 | Bytc | `KOL/Bytc/articles/20260228_macro_data_weekly_20260227.md` | 中 | 待確認 | Bytc 將此視為中國央行保護出口競爭力的宏觀防守動作；本次未外部確認實施後人民幣與出口數據變化，後續查詢需另行核對。 | 2026-04-27 |
 | 未定 | 私人信貸流動性壓力是否擴散至更多基金贖回、銀行敞口或信用利差 | 無 | Bytc | `KOL/Bytc/articles/20260228_macro_data_weekly_20260227.md` | 中高 | 待追蹤 | Bytc 以 Blue Owl 停止贖回 / 賣出 14 億美元資產、Market Financial Solutions 破產託管與 Barclays 6 億英鎊風險敞口傳聞作為流動性壓力測試案例；後續追 private credit redemption、fund gating、bank exposure、credit spreads。 | 2026-04-27 |
