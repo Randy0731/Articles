@@ -1,12 +1,12 @@
 # SMR 投資儀表板
 
-> 最後更新：2026-04-25（觸發來源：`Stocks/SMR/quarterly/SMR_筆記_2026Q2.md`）
+> 最後更新：2026-04-28（觸發來源：`Stocks/SMR/quarterly/SMR_筆記_2026Q1.md`）
 
 ## 當前立場快照
 
 - **綜合立場**：高風險投機觀望 / 偏多取決於 ENTRA1、TVA、RoPower 與 GS Energy 是否落地。
-- **最新入庫立場**：本次整理者補充把 2026-04-24 最新可得報價約 `$11.96` 套回 Lawrence 2025-11-26 技術圖。由於現價低於 `$18.03` / `$18.05`，原圖的安全邊際 / 支撐帶若按技術面解讀已失守，現在改列為第一修復位 / 壓力帶；`$24.05`、`$34.40`、`$38.32`、`$43.09` 則是逐層更遠的壓力 / 情境投射。大叔最新基本面觀點仍以 2026-02-27 財報長文的 ENTRA1 / TVA 二元估值與 2026-02-12 ORNL AI fuel management 技術補充為準。
-- **依據篇章**：`Stocks/SMR/quarterly/SMR_筆記_2026Q2.md`；`KOL/Lawrence/notes/Lawrence筆記.md`；`KOL/大叔美股筆記/articles/20260227_nuscale_power_smr_2025_q4_uncle.md`；`KOL/大叔美股筆記/notes/大叔美股筆記.md`；`KOL/大叔美股筆記/articles/20251111_smr_nuscale_power_2025_q3_uncle.md`
+- **最新入庫立場**：本次補入 Bytc 2026-03-17 能源三部曲文章，對 **SMR** 的增量是同業比較下的保守校準：NuScale 的 NRC approval 仍有技術價值，但 Bytc 在 UPRISE nuclear growth basket 中更偏向 **BWXT**、**LEU**、**OKLO**，並明確提醒 **SMR** 首個 commercial project 取消、class action 與商業化不確定。這不覆蓋 2026-04-24 Lawrence 技術圖現價重讀，也不覆蓋大叔 2026-02-27 財報長文的 ENTRA1 / TVA 二元估值框架。
+- **依據篇章**：`Stocks/SMR/quarterly/SMR_筆記_2026Q1.md`；`KOL/Bytc/articles/20260317_uprise_spark_utilize_energy_security.md`；`Stocks/SMR/quarterly/SMR_筆記_2026Q2.md`；`KOL/Lawrence/notes/Lawrence筆記.md`；`KOL/大叔美股筆記/articles/20260227_nuscale_power_smr_2025_q4_uncle.md`；`KOL/大叔美股筆記/notes/大叔美股筆記.md`
 
 ## 關鍵價位追蹤
 
@@ -17,6 +17,7 @@
 | 大叔 DCF 樂觀情境 | `$30.00+` | AI 巨頭注資 ENTRA1、微電網訂單爆發 | 2026-02-27 | `KOL/大叔美股筆記/articles/20260227_nuscale_power_smr_2025_q4_uncle.md` |
 | 事件價位 | 文章當下股價約 `$12.64` 至 `$13.48`；ATM 平均出售價約 `$19` | 非目標價 | 2026-02-27 | `KOL/大叔美股筆記/articles/20260227_nuscale_power_smr_2025_q4_uncle.md` |
 | 整理者現價重讀 Lawrence 技術圖 | 最新可得報價約 `$11.96`；先看 `$18.03` / `$18.05` 能否收復，再看 `$24.05`、`$34.40`、`$38.32`、`$43.09` | `$18.03` 至 `$18.05` 原為安全邊際 / 支撐帶，現價重讀後改列第一修復位 / 壓力帶 | 2026-04-24 | `Stocks/SMR/quarterly/SMR_筆記_2026Q2.md` |
+| Bytc UPRISE 同業比較表 | 文章當時股價 `$11.97`；分析師表格目標價 `$19.40`、評級持有 | 分析師表格口徑，不是 Bytc 或本專案目標價 | 2026-03-17 | `KOL/Bytc/articles/20260317_uprise_spark_utilize_energy_security.md`；`Stocks/SMR/quarterly/SMR_筆記_2026Q1.md` |
 | Lawrence 技術圖（原始紀錄） | `$34.40`、`$38.32`、`$43.09` 為上檔壓力 / 技術投射，非基本面目標價 | 原圖將 `$18.03` 至 `$18.05` 標為安全邊際 / 支撐帶；2026-04-24 現價重讀已標記為失守後的修復位 | 2025-11-26 22:15 | `KOL/Lawrence/notes/Lawrence筆記.md`；`Stocks/SMR/quarterly/SMR_筆記_2025Q4.md` |
 | 大叔 2025Q3 技術位 / 歷史估值警訊 | 無目標價；文章估值使用股價 `$28.43`、FY25 P/S 約 147.8x | 支撐 `$27.50`、`$25.00`、`$17.58`；壓力 `$38.99`、`$41.34` | 2025-11-11 | `KOL/大叔美股筆記/articles/20251111_smr_nuscale_power_2025_q3_uncle.md` |
 
@@ -39,6 +40,7 @@
 | TVA 6 GW 部署協議能否從非約束性轉成具法律效力 PPA？ | 2026-02-27 | PPA、廠址環評、融資 term sheet、交易文件與付款節點 | `KOL/大叔美股筆記/articles/20260227_nuscale_power_smr_2025_q4_uncle.md` | 待追蹤 |
 | RoPower 是否能在 FEED 2 後進入正式地質探勘與 licensing？ | 2026-02-27 | RoPower / Fluor / NuScale 官方進度、羅馬尼亞監管文件 | `KOL/大叔美股筆記/articles/20260227_nuscale_power_smr_2025_q4_uncle.md` | 待追蹤 |
 | AI 資料中心 behind-the-meter 敘事能否轉成客戶合約？ | 2026-02-27 | hyperscaler / industrial customer 合約、ENTRA1 客戶公告、PPA | `KOL/大叔美股筆記/articles/20260227_nuscale_power_smr_2025_q4_uncle.md` | 待追蹤 |
+| UPRISE 近端核能增容是否主要流向既有 reactor uprate，而非 first-of-a-kind SMR deployment？ | 2026-03-17 | DOE loan commitments、NRC uprate applications、utility capex、NuScale 是否取得 UPRISE 相關實質專案 | `KOL/Bytc/articles/20260317_uprise_spark_utilize_energy_security.md` | 待追蹤 |
 | GS Energy 潛在 `$110M` 投資是否完成並轉成亞洲部署合作？ | 2025-11-11 | 投資 closing、條款、韓國 / 亞洲專案公告、是否補強現金水位與客戶背書 | `KOL/大叔美股筆記/articles/20251111_smr_nuscale_power_2025_q3_uncle.md` | 待追蹤 |
 | Lawrence 圖上的 `$18.03` / `$18.05` 安全邊際失守後，能否重新收復？ | 2026-04-24 | 日線收盤、成交量、是否重新站回 `$18.03` / `$18.05`，再看 `$24.05` 與 `$34.40` | `Stocks/SMR/quarterly/SMR_筆記_2026Q2.md`；`KOL/Lawrence/notes/Lawrence筆記.md` | 已失守，轉為修復觀察 |
 
@@ -48,6 +50,7 @@
 |---|---|---|---|---|
 | AI fuel management 未能量化降本 | 中 | ORNL 合作停留在研究階段，無法證明燃料效率改善或客戶採用 | 研究成果、燃料成本、PPA 成本模型、gross margin | `KOL/大叔美股筆記/notes/大叔美股筆記.md` |
 | 把已失守的 `$18` 繼續當成有效技術支撐 | 高 | 現價低於 `$18.03` / `$18.05`，但仍按原圖支撐成立解讀 | 最新收盤價、成交量、是否重新站回 `$18` | `Stocks/SMR/quarterly/SMR_筆記_2026Q2.md` |
+| UPRISE 同業比較下 **SMR** 近端受益不如既有核電 fleet | 中高 | UPRISE / DOE 資金主要流向既有核電 uprate、restart 或大型營運商，NuScale 未取得可辨識實質專案 | DOE loan / award、NRC applications、PPA、project financing、company filings | `KOL/Bytc/articles/20260317_uprise_spark_utilize_energy_security.md` |
 | Lawrence 遠端技術投射被誤讀成確定目標價 | 高 | 尚未收復 `$24.05` 或 `$34.40`，卻直接把 `$38.32` / `$43.09` 當成短線必達目標 | 收盤價、成交量、是否有效突破下降趨勢線 | `KOL/Lawrence/notes/Lawrence筆記.md` |
 | Q3 Adj. EBITDA 轉正不可持續 | 高 | Q4 或後續季度因工程服務節點結束、新項目啟動成本或收入空窗重新轉負 | quarterly revenue、Adj. EBITDA、工程服務合約、guidance | `KOL/大叔美股筆記/articles/20251111_smr_nuscale_power_2025_q3_uncle.md` |
 | ENTRA1 夥伴能力與訴訟風險 | 高 | 訴訟顯示 ENTRA1 資格 / 能力不足，或開發與融資進度停滯 | 法院文件、ENTRA1 term sheet、TVA 專案文件、官方公告 | `KOL/大叔美股筆記/articles/20260227_nuscale_power_smr_2025_q4_uncle.md` |
@@ -61,5 +64,5 @@
 | 篇章 | 日期 | 一句話結論 | 權重 |
 |---|---|---|---|
 | `Stocks/SMR/quarterly/SMR_筆記_2026Q2.md` | 2026-04-24 | 最新可得報價約 `$11.96` 已低於 Lawrence 圖上 `$18.03` / `$18.05`，舊支撐改列第一修復位，遠端 `$34` 至 `$43` 只保留為情境投射 | 中 |
+| `KOL/Bytc/articles/20260317_uprise_spark_utilize_energy_security.md` | 2026-03-17 | Bytc 在 UPRISE 核能成長股比較中對 **SMR** 採保守持有口徑，提醒 commercial project cancellation、class action 與商業化不確定 | 中 |
 | `KOL/大叔美股筆記/articles/20260227_nuscale_power_smr_2025_q4_uncle.md` | 2026-02-27 | **SMR** 現金 runway 與 NRC 先發優勢提供 upside，但 ENTRA1 / TVA 是否落地決定二元估值結果 | 高 |
-| `KOL/大叔美股筆記/notes/大叔美股筆記.md` | 2026-02-12 | ORNL / DOE GAIN 合作提供 AI fuel management 技術可信度，若能提高燃料效率，將補強 **SMR** 成本與長約競爭力 | 中 |
