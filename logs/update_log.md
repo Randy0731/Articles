@@ -2,6 +2,10 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-03-23 Substack Note《**ONDS** 正式收購 World View：平流層 ISR 與 Palantir decision layer 拼圖》，source_id 為 `大叔美股筆記-20260323-ondas-worldview-acquisition-8a53efcd`。
+- 更新：追加 KOL 主筆記，補充既有 `Stocks/ONDS/milestones/ONDS_里程碑_20260302_WorldView戰略投資與高空ISR層.md`，同步更新 ONDS index / dashboard、source/ticker/theme/catalyst indexes。
+- 備註：官方確認 definitive agreement to acquire World View、140+ stratospheric flight operations、payloads up to 10,000 kg、current / past customers include NASA / NOAA / U.S. Department of War / U.S. Air Force；大叔「繼承合約」標為 KOL inference，不寫成新訂單、backlog、已認列 revenue、PLTR 新合約或買賣建議。
+
 - 新增：補入大叔美股筆記 2026-03-20 Facebook 短評《**ONDS** Sentrycs / Swisscom：WEF 2026 Davos 空域防護部署》，source_id 為 `大叔美股筆記-20260320-ondas-sentrycs-wef-davos-swisscom-05296c40`。
 - 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260320_Sentrycs_WEF_Davos_Swisscom部署.md`，判定為 **ONDS** L4 高能見度 deployment validation；同步更新 Sentrycs CoRF 母題里程碑。
 - 更新：同步 `KOL/大叔美股筆記/notes/大叔美股筆記.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、source/ticker/theme/catalyst indexes。

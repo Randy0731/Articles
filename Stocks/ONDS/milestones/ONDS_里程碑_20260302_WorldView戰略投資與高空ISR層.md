@@ -2,15 +2,15 @@
 
 - **來源 KOL**：大叔美股筆記
 - **原文主整理**：`KOL/大叔美股筆記/notes/大叔美股筆記.md`
-- **原始來源**：https://www.threads.com/@unclestocknotes/post/DVZJA5RD6is/；https://x.com/Tickerwire/status/2028478351929942111?s=20；https://ir.ondas.com/press-releases/detail/282/ondas-announces-10-million-strategic-investment-in-world；https://substack.com/@unclestocknotes/note/c-226732610；https://substack.com/@unclestocknotes/note/c-226727240；https://unclestocknotes.substack.com/p/palantir-ondas-world-view；https://www.ondas.com/post/palantir-partners-with-ondas-and-world-view-to-advance-next-generation-multi-domain-intelligence-pla
-- **source_id**：大叔美股筆記-20260303-ondas-world-view-isr-investment-45da8453；大叔美股筆記-20260312-ondas-palantir-worldview-operational-intelligence-6978825d；大叔美股筆記-20260312-ondas-palantir-worldview-software-stack-fbd7cfad；大叔美股筆記-20260312-palantir-ondas-worldview-launch-transcript-8280f343
+- **原始來源**：https://www.threads.com/@unclestocknotes/post/DVZJA5RD6is/；https://x.com/Tickerwire/status/2028478351929942111?s=20；https://ir.ondas.com/press-releases/detail/282/ondas-announces-10-million-strategic-investment-in-world；https://substack.com/@unclestocknotes/note/c-226732610；https://substack.com/@unclestocknotes/note/c-226727240；https://unclestocknotes.substack.com/p/palantir-ondas-world-view；https://www.ondas.com/post/palantir-partners-with-ondas-and-world-view-to-advance-next-generation-multi-domain-intelligence-pla；https://substack.com/@unclestocknotes/note/c-232159395；https://www.ondas.com/post/ondas-to-acquire-world-view-building-on-shared-vision-for-multi-domain-interconnected-intelligence
+- **source_id**：大叔美股筆記-20260303-ondas-world-view-isr-investment-45da8453；大叔美股筆記-20260312-ondas-palantir-worldview-operational-intelligence-6978825d；大叔美股筆記-20260312-ondas-palantir-worldview-software-stack-fbd7cfad；大叔美股筆記-20260312-palantir-ondas-worldview-launch-transcript-8280f343；大叔美股筆記-20260323-ondas-worldview-acquisition-8a53efcd
 - **raw 路徑 / URL**：URL（未另存 raw；使用者提供 Threads 與 Ondas 官方新聞稿截圖）
 - **OCR 狀態**：完整
-- **類型**：Threads 社群短評 / Substack Note / Substack 文章 / 官方新聞稿轉述 / 戰略投資 / ISR partnership / Palantir partnership / operational intelligence / Palantir software-stack framing / launch transcript / system-of-systems framing
-- **發文時間**：2026-03-03（Ondas 官方新聞稿為 2026-03-02）
+- **類型**：Threads 社群短評 / Substack Note / Substack 文章 / 官方新聞稿轉述 / 戰略投資 / acquisition agreement / ISR partnership / Palantir partnership / operational intelligence / Palantir software-stack framing / launch transcript / system-of-systems framing
+- **發文時間**：2026-03-03 / 2026-03-12 / 2026-03-23（首篇 Ondas 官方新聞稿為 2026-03-02）
 - **整理日期**：2026-04-27
 - **交會等級**：L4
-- **事件類型**：戰略投資 / 高空 ISR / multi-domain defense platform / AI-enabled operational intelligence
+- **事件類型**：戰略投資 / 收購協議 / 高空 ISR / multi-domain defense platform / AI-enabled operational intelligence
 - **主題 / 母題標籤**：#國防科技 #併購 #DualUse #空地一體 #垂直整合 #AI基建 #執行風險
 
 ### 對 **ONDS** 的影響
@@ -25,6 +25,8 @@
 
 同日 Substack 長文 / 發布會影音逐字稿又將三方合作放進 war economics and system-of-systems frame：World View 是 stratospheric eyes，Palantir 是 data / operational intelligence brain 與 silo breaker，Ondas 是 edge / action / precision deployment layer。這強化 **ONDS** 將 intelligence 轉成 action 的角色，但仍屬 KOL launch framing 與官方 partnership architecture，不是 customer award、order、backlog、revenue 或買賣建議。
 
+2026-03-23 大叔補充 Ondas 正式收購 World View 的官方新聞稿。他把 World View Stratollite 平流層平台、超過 140 次平流層飛行、NASA / NOAA / U.S. Department of War / U.S. Air Force 客戶圖譜，以及 Palantir partnership 串成 sensing -> decision -> response 架構：World View 在高空蒐集資料，Palantir 進行 AI decision / analysis，ONDS 的地面系統與無人機負責 tactical response。整理判斷：這把 3/2 strategic investment 推進到 definitive acquisition agreement；但大叔「繼承合約」屬 KOL inference，官方只明確說 current and past customers / established engagement，不可寫成新 customer award、backlog、已認列 revenue 或 **PLTR** 新合約。
+
 ### 觀點摘要
 
 | 面向 | 內容 |
@@ -33,7 +35,7 @@
 | **關鍵價位 / 金額** | `$10M` 為 Ondas 對 World View 的 strategic investment，不是股價目標或營收 |
 | **技術面** | 未提及 |
 | **基本面** | high-altitude ISR layer + tactical autonomy / C-UAS layer 的平台拼圖補強 |
-| **催化劑 / 風險** | 後續看 integrated offering、joint go-to-market、DoW / DHS / critical infrastructure awards、backlog / revenue conversion；風險是合作框架未商業化、併購整合與毛利品質 |
+| **催化劑 / 風險** | 後續看 acquisition closing、purchase accounting、integrated offering、joint go-to-market、DoW / DHS / critical infrastructure awards、backlog / revenue conversion；風險是合作框架未商業化、併購整合、客戶承接與毛利品質 |
 
 ### 價位與催化劑
 
@@ -44,6 +46,8 @@
 | AI / software layer | Palantir、Ondas、World View 宣布合作發展 AI-enabled multi-domain ISR platform | 2026-03-12 | Ondas 官方新聞稿 / 大叔 Note | 補上 Palantir software / edge decision layer，不等於 PLTR revenue 或 customer award |
 | Palantir product-stack framing | 大叔將 Warp Speed / AI Flight Director / SkyWeaver 分別對應 production logistics、autonomous mission command、ISR data fusion | 2026-03-12 | 大叔 Note / Ondas 官方新聞稿 | KOL interpretation；需官方 product / module disclosure、deployment 或 contract 支撐 |
 | Launch transcript / war economics | 大叔把三方 partnership 解讀為 eyes / brain / action-layer system-of-systems，並把 ONDS 放在 edge / precision / frontline deployment 層 | 2026-03-12 | 大叔 Substack 文章 / Ondas 官方新聞稿 | KOL launch framing；不是 order、revenue、PLTR contract 或買賣建議 |
+| 收購協議 | Ondas entered into a definitive agreement to acquire World View | 2026-03-23 | Ondas 官方新聞稿 / 大叔 Note | 從 `$10M` investment 推進到 acquisition agreement；交易條款、closing、customer contract assignment、backlog / revenue 仍待文件驗證 |
+| World View 客戶圖譜 | World View has completed over 140 stratospheric flight operations, with payloads up to 10,000 kg; current and past customers include NASA, NOAA, U.S. Department of War, and U.S. Air Force | 2026-03-23 | Ondas 官方新聞稿 / 大叔 Note | 支撐 customer map / engagement；不等於 Ondas 新簽訂單或已認列收入 |
 | 客戶圖譜 | DoW、DHS、allied defense / homeland security、critical infrastructure operators | 未定 | Ondas 官方新聞稿 | 潛在客戶範圍，不是已簽約客戶 |
 | 後續追蹤 | World View + OAS integrated offerings 是否轉 PO / backlog / revenue | 未定 | 整理者追蹤 | 看 8-K、PR、USAspending、10-Q segment revenue |
 
@@ -55,6 +59,8 @@
 | Palantir / Karp quote 被誤讀為 PLTR 合約或 ONDS 新訂單 | 高 | 把三方 partnership / quote 寫成 DoW / DHS award、PLTR revenue 或 ONDS backlog | official order、8-K、customer award、PLTR / ONDS revenue disclosure | Ondas 官方新聞稿 / 大叔 Note |
 | Palantir 三模組被誤讀為已採購 / 已部署 | 高 | 把 Warp Speed、AI Flight Director、SkyWeaver 直接寫成已簽 module contract 或已完成 deployment | official product/module disclosure、8-K、customer award、deployment metric、PLTR / ONDS revenue disclosure | 大叔 Note / 整理者判斷 |
 | system-of-systems / execution-layer framing 被誤讀為買賣建議或已簽防務案 | 高 | 把發布會逐字稿、KOL 對 ONDS action layer 的解讀或 war economics framing 寫成操作建議、DoW / DHS award 或已認列 revenue | official award、purchase order、backlog、10-Q revenue、gross margin、KOL 是否明確給 target / 操作 | 大叔 Substack 文章 / 整理者判斷 |
+| World View current / past customers 被誤讀為 Ondas 新訂單或 guaranteed backlog | 高 | 把 NASA / NOAA / U.S. Department of War / U.S. Air Force 客戶圖譜或大叔「繼承合約」寫成已簽新合約、已承接全部 revenue 或已入帳 | definitive agreement、closing 8-K、customer consent / assignment、backlog、10-Q revenue、USAspending | Ondas 官方新聞稿 / 大叔 Note / 整理者判斷 |
+| acquisition agreement 被誤讀為已完成收購或已整合完成 | 中高 | 將 entered into definitive agreement 寫成 closing completed、product fully integrated 或 purchase accounting 已完成 | closing PR / 8-K、purchase price、cash / stock mix、OPEX、gross margin、pro forma financials | Ondas 官方新聞稿 |
 | partnership framework 未轉商業化 | 中高 | 只停留在 evaluation / customer discovery，沒有 deployable product 或 paying customer | joint product update、pilot、field demo、formal contract | Ondas 官方新聞稿 |
 | 高空 ISR 與 OAS tactical autonomy 整合難度高 | 中 | data handling、interoperability、airspace regulation、mission workflow 無法產品化 | interoperability updates、technical demo、operator feedback、gross margin | Ondas 官方新聞稿 |
 | 後續 World View 納入併購版圖後造成整合與成本壓力 | 中 | closing / integration / purchase accounting / OPEX 使 backlog 品質低於預期 | pro forma backlog、OPEX、gross margin、cash conversion | 後續 Mistral / World View 里程碑 |
@@ -76,6 +82,9 @@
 | 大叔 Note 轉貼 Karp quote 並標 `#PLTR #ONDS` | KOL 將此視為 ONDS / PLTR operational intelligence 拼圖，但 **PLTR** 只作 L1 product/vendor mention |
 | 大叔另一則 Note 將 Palantir 角色拆成 Warp Speed、AI Flight Director、SkyWeaver | 支撐 KOL 對 production logistics、autonomous command、ISR fusion 三層的解讀；但此為 product-stack framing，不是官方披露的採購模組 |
 | 大叔 Substack 發布會實況稱三方是在拼 future battlefield eyes / brain / action layer | 支撐 KOL 對 war economics、silo-breaking 與 ONDS execution layer 的解讀；但不是官方 customer award 或 revenue |
+| 2026-03-23 Ondas 官方新聞稿稱 entered into a definitive agreement to acquire World View | 支撐從 strategic investment 走向 acquisition agreement；仍需追 closing、交易條款、purchase accounting 與 revenue contribution |
+| 官方新聞稿稱 World View completed over 140 stratospheric flight operations, with payloads up to 10,000 kg, and current / past customers include NASA, NOAA, U.S. Department of War, U.S. Air Force | 支撐大叔對 World View 客戶圖譜與高空平台成熟度的解讀；但不是 Ondas 新簽訂單或已認列 revenue |
+| 官方新聞稿稱 combined with Palantir partnership, Ondas is building an AI-driven intelligence platform connecting sensing, decision-making and response | 支撐大叔 sensing -> AI decision -> tactical response 架構；但不是 **PLTR** 新合約、revenue 或 module-level procurement |
 
 ### 核心概念
 
@@ -84,6 +93,7 @@
 - **Operational intelligence / edge AI decision layer**：2026-03-12 補充把 Palantir software platform 放進 World View / Ondas partnership，讓高空 ISR + tactical autonomy 之外多了 AI decision / C2 語境；但這是 partnership architecture，不是訂單或收入。
 - **Palantir 三層軟體拼圖**：大叔把 Warp Speed、AI Flight Director、SkyWeaver 分別對應 production / logistics、autonomous mission command、ISR data fusion；本專案先記為 KOL software-stack framing，而非 confirmed module-level contract。
 - **War economics / silo-breaking**：大叔將發布會重點整理為 data、factories、software and integrated systems 的競爭；Palantir 解決 information silo，World View 提供高空 persistence，ONDS 承接 edge / action / precision layer。此概念需用 orders、revenue、deployment and integration milestones 驗證。
+- **Investment-to-acquisition timeline**：3/2 是 `$10M` strategic investment and partnership，3/12 是 Palantir / Ondas / World View AI-enabled ISR partnership，3/23 是 definitive agreement to acquire World View；三者都補強 thesis，但應分別追 closing、customer assignment、backlog、revenue、gross margin。
 - **合作框架先於收入**：本篇的價值在於平台邊界擴張與 customer map，不在於立即營收；真正裁判是後續 PO、backlog、revenue、gross margin 與 cash conversion。
 
 ### 呼應連結
