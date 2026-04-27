@@ -2,6 +2,11 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-03-09 Substack 付費長文《**ONDS** 從妖股到五角大廈正規軍》，source_id 為 `大叔美股筆記-20260309-onds-pentagon-prime-mistral-stock-deal-37def283`。
+- 新增：建立 `KOL/大叔美股筆記/articles/20260309_onds_pentagon_prime_mistral_stock_deal_uncle.md`，將本篇判定為 **ONDS** L4 補充；已複製 PDF raw 至 `KOL/大叔美股筆記/raw/20260309_大叔美股筆記_onds_pentagon_prime_mistral_stock_deal_大叔美股筆記-20260309-onds-pentagon-prime-mistral-stock-deal-37def283.pdf`，OCR 狀態「部分」。
+- 更新：同步更新 `KOL/大叔美股筆記/notes/大叔美股筆記.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260312_Mistral_Bird併購稀釋與10元天花板.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、source/ticker/theme/catalyst indexes 與 private raw manifest。
+- 備註：PDF 為 4 頁 image-only，p.1-p.2 為核心正文。大叔把 World View `$10M` investment、preliminary revenue beat / 當時 `$170M-$180M` 指引、約 `$1.5B` cash 與 Mistral `$175M` all-stock merger 串成 Pentagon-facing defense prime thesis；並以 Reg D、obligations escrow、七期付款與三年 escrow release 解釋全股票收購。官方可確認交易條款與 preliminary guidance 版本，但「利益綁定 / future order conversion」屬 KOL 解讀；本篇不另開重複里程碑，也不是買賣建議。
+
 - 新增：補入大叔美股筆記 2026-03-09 Substack Note《**ONDS** 初步財報與 Mistral：8-K 重要性短評》，source_id 為 `大叔美股筆記-20260309-ondas-prelim-results-mistral-tier1-71a8ac32`。
 - 更新：追加 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，並將本篇判定為 **ONDS** L4 補充來源；同步更新 `Stocks/ONDS/milestones/ONDS_里程碑_20260312_Mistral_Bird併購稀釋與10元天花板.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、source/ticker/theme/catalyst indexes。
 - 備註：大叔稱 3/9 8-K 很重要，理由是 preliminary Q4 / FY2025 revenue beat、當時 2026 `$170M-$180M` target、pro forma cash `>$1.5B` 與 Mistral / Tier 1 defense prime contractor thesis 同時出現；同篇負面提醒 stock consideration / 轉售限制仍可能壓抑後續股價動能。此文與 3/12 Mistral-Bird 長文、3/24 FY2025 final release 高度重疊，因此不另開重複里程碑；後續 official final release 已將 2026 target 上修至 `$375M+`，查詢時需保留版本差異，不得當作最新 guidance 或買賣建議。
