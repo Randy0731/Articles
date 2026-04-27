@@ -2,6 +2,11 @@
 
 ## 2026-04-27
 
+- 新增：補入大叔美股筆記 2026-03-03 Threads 短評《**ONDS** World View `$10M` 戰略投資：高空 ISR 層與分層空域防禦》，source_id 為 `大叔美股筆記-20260303-ondas-world-view-isr-investment-45da8453`。
+- 新增：建立 `Stocks/ONDS/milestones/ONDS_里程碑_20260302_WorldView戰略投資與高空ISR層.md`，將本篇判定為 **ONDS** L4；重點為 World View high-altitude balloon ISR / stratospheric remote sensing 與 Ondas tactical UAS / C-UAS 的 layered ISR thesis。
+- 更新：同步 KOL 主筆記、ONDS index / dashboard、source/ticker/theme/catalyst indexes。
+- 備註：Ondas 2026-03-02 官方新聞稿確認 `$10M` strategic investment 與 partnership agreement，但不是 DoW / DHS customer order、backlog、revenue、formal target 或買賣建議；後續 World View acquisition / Mistral pro forma backlog 另在 Mistral 里程碑追蹤。
+
 - 新增：補入大叔美股筆記 2026-03-01（推估）Facebook 短評《Oppenheimer `$400B` 無人機市場：**ONDS** 作為 lower-skies 首選股》，source_id 為 `大叔美股筆記-20260301-oppenheimer-400b-drone-market-270e8928`。
 - 更新：同步追加 KOL 主筆記與 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，將 **ONDS** 判定為 L2 analyst / TAM signal；同步更新 ONDS index / dashboard、source/ticker/theme/catalyst indexes。
 - 備註：Facebook 截圖與 Stocktwits 截圖核心可讀；Stocktwits 原頁外部讀取受 Cloudflare 限制。`$45B -> $400B` 是 Oppenheimer / Stocktwits 轉述的 global drone market TAM framing，不是 **ONDS** revenue、backlog、order、guidance、formal target 或買賣建議。
