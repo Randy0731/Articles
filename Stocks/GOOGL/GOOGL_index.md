@@ -14,6 +14,7 @@
 
 | 發文日期 | 路徑 | KOL | 主題 | Tags | 交會等級 | 摘要 |
 |---|---|---|---|---|---|---|
+| 2026-01-24 | `KOL/Bytc/articles/20260124_tax_reform_code_to_capacity.md` | Bytc | 大美麗法案 VI、data center excluded from §48D、domestic vs overseas R&D tax treatment | #AI基建 #監管審批 #估值風險 | L2 policy constraint | Bytc 明確說 data center 是服務基礎設施，不是先進製造，因此不能拿 48D；另指出國內 R&D 當年扣除、海外 R&D 仍 15 年攤銷，對 Google 全球研發配置形成稅負摩擦 |
 | 2026-02-21 | `Stocks/GOOGL/milestones/GOOGL_里程碑_20260221_Alphabet資本支出百年債與AI基建護城河.md`；`KOL/大叔美股筆記/articles/20260221_alphabet_2026_capex_century_bond_uncle.md` | 大叔美股筆記 | Alphabet 2026 capex、全球債券、100 年債、能源垂直整合、AI infra ROI | #AI基建 #能源電力 #核能 #增發融資 #ReRating #估值風險 | L4 | **GOOGL** 由 watchlist 升級正式追蹤；核心問題是 Alphabet 是否能把 search cash flow 轉成 AI infrastructure utility moat |
 | 2026-03-17 | `KOL/Bytc/articles/20260317_uprise_spark_utilize_energy_security.md` | Bytc | UTILIZE / Nest / VPP / grid utilization | #能源電力 #AI基建 | 歷史 watchlist L2 | Google 被放入 demand-side dispatch / household data / Nest energy software 線索 |
 | 2026-04-14 | `KOL/Bytc/articles/20260414_google_search_ai_capex_ad_model.md` | Bytc | Google Search、AI Overviews、AI Mode、capex / depreciation / ad auction | #AI基建 #軟體SaaS #估值風險 #競爭風險 | 歷史 watchlist L3 | Search 仍有 high-intent ad moat，但 AI answer / agent action 讓印鈔機變貴 |
@@ -27,6 +28,7 @@
 | Search 印鈔機變貴 | Bytc 認為 AI Search 不一定摧毀 Google，但會重寫成本與 monetization | Bytc 2026-04-14 | paid clicks、AI ad load、conversion attribution |
 | 能源與 power sovereignty | 大叔 / Bytc 都把 Google 放進 AI 電力與調度層 | 大叔 2026-02-21；Bytc 2026-03-17 | Intersect、Kairos、VPP / Nest policy |
 | AI Native capital loop | Google 可透過 Cloud / TPU / Anthropic stake 捕捉 private AI protocol value | Bytc 2026-04-14 Note | Anthropic valuation、Google Cloud AI revenue、equity gains / losses |
+| 稅法下的 data center / R&D 摩擦 | Bytc 認為 data center 無法拿 48D advanced manufacturing credit，國內 R&D 當年扣除與海外 R&D 15 年攤銷會改變大科技研發 location economics | Bytc 2026-01-24 | tax footnotes、effective tax rate、R&D geography、capex mix |
 
 ## 待補 / 待查
 

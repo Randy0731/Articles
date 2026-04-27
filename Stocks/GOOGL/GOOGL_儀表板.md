@@ -1,12 +1,12 @@
 # GOOGL 投資儀表板
 
-> 最後更新：2026-04-28（觸發來源：`大叔美股筆記-20260221-alphabet-2026-capex-century-bond-5b5f35f0`；由 watchlist 升級為正式追蹤；本文不是買賣建議）
+> 最後更新：2026-04-28（觸發來源：`Bytc-20260124-tax-reform-code-to-capacity-c37a2f8a`；補入 data center 不符合 §48D 與 R&D location tax friction 的 L2 policy constraint；本文不是買賣建議）
 
 ## 當前立場快照
 
 - **綜合立場**：**GOOGL** / **GOOG** 目前的追蹤核心是「Search / Services 現金流 + Google Cloud / AI monetization + AI 基建資本成本 moat」。大叔把 2026 capex、百年債與能源垂直整合視為 Alphabet 從輕資產軟體巨頭轉向 AI infrastructure utility 的里程碑。
 - **大叔最新立場**：長線隱含偏多，但短期必須用 capex、depreciation、FCF、Cloud AI revenue、AI Search monetization 與 energy milestones 來驗證。
-- **Bytc 歷史脈絡**：Bytc 先把 **GOOG** / **GOOGL** 放入 UTILIZE / Nest / VPP、AI Native 底層協議資本閉環與 AI Search 印鈔機變貴框架；大叔這篇補上資本結構與能源底層。
+- **Bytc 歷史脈絡**：Bytc 先把 **GOOG** / **GOOGL** 放入 UTILIZE / Nest / VPP、AI Native 底層協議資本閉環與 AI Search 印鈔機變貴框架；大叔這篇補上資本結構與能源底層。2026-01-24 大美麗法案 VI 又補一個政策限制：data center 是服務基礎設施，不是先進製造，不能拿 §48D；海外 R&D 仍需 15 年攤銷，可能影響 Google 全球研發配置。
 - **目前研究狀態**：正式追蹤個股；主里程碑為 2026-02-21 大叔 Alphabet capex / century bond / AI infra article。
 
 ## 關鍵價位 / 數字追蹤
@@ -44,6 +44,8 @@
 | Intersect / Kairos / nuclear power sovereignty 是否落地？ | 電力上線速度會限制 data center 與 AI capacity | GW / GWh capacity、grid interconnection、NRC / state permits |
 | 百年債是否維持資本成本優勢？ | 如果 spread 擴大或 rating 承壓，低成本資本 moat 會弱化 | Bond spread、rating outlook、interest coverage |
 | AI infra ROI 是否達標？ | 大叔引用的 `$650B` incremental AI revenue threshold 是產業級壓力測試 | AI subscription / enterprise spend、Cloud AI revenue、utilization |
+| AI data center capex 是否被市場誤當成 §48D 受益？ | Bytc 明確區分 data center 與 manufacturing；若市場把資料中心 capex 寫成 advanced manufacturing tax-credit beneficiary，會高估稅盾 | capex mix、tax footnotes、effective tax rate、Treasury / IRS guidance |
+| Google R&D location 是否因 §174A 改變？ | 國內 R&D 當年扣除、海外 R&D 15 年攤銷，可能把稅法壓力轉到人才成本與組織效率 | domestic / overseas R&D disclosure、headcount、patent location、cash tax rate |
 
 ## 關鍵風險清單
 
@@ -53,6 +55,8 @@
 | AI monetization 不足 | 高 | AI Overviews / Gemini revenue、Cloud AI revenue、paid clicks | 大叔文章 / Bytc 2026-04-14 |
 | Overbuild / utilization 不足 | 高 | Data center utilization、cloud pricing、capex cuts | 大叔文章 |
 | Search 分發與廣告模型被改寫 | 中高 | Query share、TAC、RPM / CPC / CPA、default search remedies | Bytc 2026-04-14 |
+| Data center 不符合 48D / 稅盾預期過高 | 中 | 48D advanced manufacturing credit 被誤套到 AI data center capex | Bytc 2026-01-24 |
+| 海外 R&D 15 年攤銷造成 tax / talent tradeoff | 中 | R&D location、effective tax rate、SBC / talent cost、margin | Bytc 2026-01-24 |
 | 能源 / 核能專案延遲 | 中 | Intersect assets、grid interconnection、Kairos milestones | 大叔文章 |
 | 監管與 antitrust | 中高 | Court remedies、default search agreements、EU / US enforcement | 既有 watchlist 脈絡 |
 | 供應鏈議價力外流 | 中 | GPU / ASIC pricing、supplier gross margin、custom silicon adoption | 大叔文章 |
@@ -65,6 +69,7 @@
 | Bytc 2026-04-14 Google Search | 高 | 補上 Search cash cow 與 AI answer / agent action 變貴的 business-model risk | `KOL/Bytc/articles/20260414_google_search_ai_capex_ad_model.md` |
 | Bytc 2026-04-14 AI Native capital loop | 中 | 補上 Google / Anthropic / Cloud / TPU 的 public-market proxy 框架 | `KOL/Bytc/notes/bytc筆記.md` |
 | Bytc 2026-03-17 UTILIZE | 中 | 補上 Nest / VPP / grid utilization 與能源調度軟體脈絡 | `KOL/Bytc/articles/20260317_uprise_spark_utilize_energy_security.md` |
+| Bytc 2026-01-24 大美麗法案 VI | 中 | 補上 data center 不符合 §48D 與 domestic / overseas R&D 稅法摩擦，不改變主 thesis，但提高 tax footnote 檢查權重 | `KOL/Bytc/articles/20260124_tax_reform_code_to_capacity.md` |
 
 ## 索引
 
