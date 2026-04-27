@@ -2,6 +2,8 @@
 
 ## 2026-04-27
 
+- 入庫 `大叔美股筆記-20260305-ondas-ai-border-security-20m-order-f038a2de`：補入大叔 2026-03-05 X 短帖，記錄 **ONDS** / Airobotics `$20M` autonomous border security initial PO 的 KOL 原始轉述；同步補強既有 `Stocks/ONDS/milestones/ONDS_里程碑_20251203_政府邊境防護標案與OAS主承包商.md`，並更新 KOL 主筆記、ONDS index/dashboard、source/ticker/theme/catalyst indexes。此為既有 2025-12-03 border-protection L4 里程碑的 order-conversion 補充，不另開重複里程碑；`$20M` 是 initial PO，`>$100M` 是 expected multi-year program value 語境，不是完整 program 全額 PO、已交付、已認列 revenue、已收現或買賣建議。
+
 - 入庫 `Company-20260413-ondas-indo-68m-initial-order-97697b5b`：整理 Ondas 2026-04-13 官方新聞稿，補充既有 INDO Earth Moving `$140M` strategic military engineering program 里程碑。官方確認 INDO received approximately `$68M` initial order，initial deliveries expected Q4 2026；已更新 `Stocks/ONDS/milestones/ONDS_里程碑_20260317_INDOEarthMoving收購與1_4億重型工程車輛標案.md`、`Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md` 與 source/ticker/theme/catalyst indexes。標記為 **ONDS** L4 official follow-up / order conversion；不寫成 `$140M` 全額兌現、已交付、已驗收、已認列 revenue、已收現或買賣建議。
 
 - 補充版 / 去重：使用者補充大叔美股筆記 2026-04-11 Substack Note `https://substack.com/@unclestocknotes/note/c-241635900`。內容與既有 `大叔美股筆記-20260411-onds-authorized-shares-4b-d97d56c6`（《拆解 $ONDS 增發 4 億授權股的背後》）高度重疊，因此併入原 source_id，不另開新筆記；已更新 `KOL/大叔美股筆記/articles/20260411_onds_authorized_shares_4b_uncle.md`、`Stocks/ONDS/milestones/ONDS_里程碑_20260411_授權股本增至12億與併購彈藥.md` 與 `indexes/source_index.md` 的來源 URL，並補上 SEC DEF 14A 直連。
