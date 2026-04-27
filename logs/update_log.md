@@ -2,6 +2,9 @@
 
 ## 2026-04-27
 
+- 入庫 `Bytc-20260328-kopn-2025-q4-defense-microdisplay-f716c18c`：整理 Bytc Substack 文章《KOPN 2025 Q4 財報》，建立 `KOL/Bytc/articles/20260328_kopn_2025_q4_defense_microdisplay.md`，並複製使用者提供之 7 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260328_Bytc_kopn_2025_q4_defense_microdisplay_Bytc-20260328-kopn-2025-q4-defense-microdisplay-f716c18c.pdf`。本篇為 **KOPN** / defense microdisplay / 2025 Q4 財報長文，重點是 Q4 revenue `$8.4M`、YoY -42.5% headline miss，但 Bytc 判斷更像政府停擺 / 採購流程造成的財務錯位，而非 thesis 崩壞；看點包括 `$56M` financing、cash `$37.8M` + restricted cash `$23.0M`、low debt `$2.12M`、year-end backlog `$37M`、2026 guide `$52M-$60M`、未來 8 個月數千萬美元新訂單、FPV headset 60k-100k 套、THEON / Europe、automation savings、microLED / NeuralDisplay / C-UAS optical layer 與 Bytc scenario valuation Bear `$1.25` / Base `$2.30` / Bull `$4.00+`。
+- 更新：同步更新 source/theme/ticker/catalyst/framework/watchlist indexes 與 private raw manifest。**KOPN** 判定為單篇 Bytc L3 候選追蹤，新增 watchlist 但不建立 `Stocks/KOPN/`；**VUZI** / **MVIS** 僅作同業估值比較。公開 Substack 只到 paywall 前，完整內容以使用者 PDF 為主，Kopin official PR / SEC 8-K 用於校準財報數字；OCR 狀態標「部分」，p.1-p.5 文章本體完整可讀，p.6-p.7 為 discussion / recommended posts / footer。本文不是買賣建議。
+
 - 入庫 `Bytc-20260401-oil-bento-inflation-sovereign-debt-63743a18`：整理 Bytc Substack 文章《一滴油的旅行：從油田到便當，最後如何稀釋國債》，建立 `KOL/Bytc/articles/20260401_oil_bento_inflation_sovereign_debt.md`，並複製使用者提供之 11 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260401_Bytc_oil_bento_inflation_sovereign_debt_Bytc-20260401-oil-bento-inflation-sovereign-debt-63743a18.pdf`。本篇為原油成本傳導 / 通膨 / 主權債務稀釋框架長文，重點是油價從 Hormuz / 煉油 / 石化 / 化肥 / 物流 / LPG / 包材一路傳到便當價格，再進入 CPI、長債、現金購買力與政府債務分母。**TLT** 判定為 L2 長債 / duration 風險案例，不建立 `Stocks/`。
 - 更新：同步更新 source/theme/ticker/catalyst/framework indexes 與 private raw manifest。本文新增「一滴油成本傳導框架」與「通膨債務稀釋與定價權資產框架」；不新增 watchlist。發文時間採 `2026-04-01（台北 / PDF 顯示；Substack public metadata 2026-03-31）`；OCR 狀態標「部分」，p.1-p.9 文章本體完整可讀，p.10-p.11 為 discussion / recommended posts / footer，Substack 公開頁正文可讀；本文不是買賣建議。
 
