@@ -2,6 +2,9 @@
 
 ## 2026-04-27
 
+- 入庫 `Bytc-20260414-google-search-ai-capex-ad-model-ace3de4a`：整理 Bytc Substack 文章《搜索引擎還在印鈔，但印鈔機正在變貴》，建立 `KOL/Bytc/articles/20260414_google_search_ai_capex_ad_model.md`，並複製使用者提供之 9 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260414_Bytc_google_search_ai_capex_ad_model_Bytc-20260414-google-search-ai-capex-ad-model-ace3de4a.pdf`。本篇為 Google 搜尋廣告 / AI Search / AI capex 與估值壓力長文，重點是 Google Search 仍具 high-intent ad moat，但 AI Overviews / AI Mode / Gemini / agent action 會把搜尋從低成本連結分發改成高成本答案與任務完成，迫使 ad auction、conversion attribution、capex、depreciation、margin 與 multiple 重新定價。Alphabet 2025 10-K 與 Q4 2025 earnings transcript 用於校準 2025 revenue、Search revenue、capex 與 2026 capex guidance。
+- 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes 與 private raw manifest。**GOOG** / **GOOGL** 為單篇 Bytc L3 候選追蹤，新增 watchlist，但不建立 `Stocks/GOOG/` 或 `Stocks/GOOGL/`；**MSFT** / **META** 記為 L2 次要比較，**AMZN** / **BIDU** / **BABA** 記為 L1 平台 / 垂直搜尋案例。OCR 狀態標「部分」，Substack 網頁正文與 references 完整可讀；本文未提供股價目標、買點或賣點，也不是本專案買賣建議。
+
 - 入庫 `Bytc-20260415-ionq-darpa-harq-quantum-networking-00741280`：整理 Bytc Substack Note《**IONQ** DARPA HARQ 合約：人造鑽石量子記憶體與量子網路總機野心》，追加至 `KOL/Bytc/notes/bytc筆記.md`。本篇為短 Note / 國防 R&D / quantum networking 催化，Bytc 將 IonQ 取得 DARPA HARQ program contract 解讀為 **IONQ** 從自家量子主機延伸到量子網路基礎設施 / 總機角色，核心技術為人造鑽石 quantum memory chips 與 high-speed quantum interconnect。Substack Note 可讀，IonQ 官方公告確認 2026-04-14 獲 HARQ contract，DARPA HARQ 頁面確認 program 目標為結合不同 qubit types 並發展 reliable quantum interconnect components。
 - 更新：同步更新 source/ticker/theme/catalyst/watchlist indexes。**IONQ** 為非已追蹤個股，本文達單篇 L3 候選追蹤但不建立 `Stocks/IONQ/`；本篇未披露合約金額、commercial backlog、收入認列或量子網路商業部署，後續需追 DARPA phase / deliverables、quantum memory / interconnect demo、government follow-on award、commercial customer、10-Q revenue / cash burn。來源為 URL 與使用者截圖，未另存 raw，OCR 狀態不適用；本文不是買賣建議。
 
