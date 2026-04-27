@@ -231,6 +231,38 @@ stock_projects:
       - "#競爭風險"
       - "#供應鏈風險"
 
+  GOOGL:
+    aliases:
+      - "GOOGL"
+      - "GOOG"
+      - "Alphabet"
+      - "Alphabet Inc."
+      - "Google"
+      - "Google Cloud"
+      - "Waymo"
+    root: "Stocks/GOOGL"
+    raw_dir: "Stocks/GOOGL/raw"
+    notes_dir: "Stocks/GOOGL/notes"
+    quarterly_dir: "Stocks/GOOGL/quarterly"
+    milestones_dir: "Stocks/GOOGL/milestones"
+    longform_dir: "Stocks/GOOGL/longform"
+    dashboard: "Stocks/GOOGL/GOOGL_儀表板.md"
+    stock_index: "Stocks/GOOGL/GOOGL_index.md"
+    current_quarter_file_pattern: "GOOGL_筆記_YYYYQN.md"
+    milestone_file_pattern: "GOOGL_里程碑_[文章標題].md"
+    longform_file_pattern: "GOOGL_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    theme_tags:
+      - "#AI基建"
+      - "#能源電力"
+      - "#核能"
+      - "#增發融資"
+      - "#ReRating"
+      - "#估值風險"
+      - "#執行風險"
+      - "#政策風險"
+
 kols:
   Bytc:
     aliases:

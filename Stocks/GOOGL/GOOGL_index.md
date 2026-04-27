@@ -1,0 +1,35 @@
+# GOOGL Index
+
+此檔追蹤 **GOOGL** / **GOOG** 正式個股專案中的筆記、里程碑、儀表板與跨 KOL 觀點變化。原文主整理仍以 `KOL/` 為 source of truth。
+
+## 檔案總覽
+
+| 類型 | 路徑 | 說明 |
+|---|---|---|
+| 儀表板 | `Stocks/GOOGL/GOOGL_儀表板.md` | 當前追蹤摘要、風險、催化劑與持倉判斷依據 |
+| 里程碑 | `Stocks/GOOGL/milestones/GOOGL_里程碑_20260221_Alphabet資本支出百年債與AI基建護城河.md` | 大叔 2026-02-21 Alphabet capex / century bond / AI infra thesis |
+| KOL 主整理 | `KOL/大叔美股筆記/articles/20260221_alphabet_2026_capex_century_bond_uncle.md` | 本次升級來源全文整理 |
+
+## 時間序列
+
+| 發文日期 | 路徑 | KOL | 主題 | Tags | 交會等級 | 摘要 |
+|---|---|---|---|---|---|---|
+| 2026-02-21 | `Stocks/GOOGL/milestones/GOOGL_里程碑_20260221_Alphabet資本支出百年債與AI基建護城河.md`；`KOL/大叔美股筆記/articles/20260221_alphabet_2026_capex_century_bond_uncle.md` | 大叔美股筆記 | Alphabet 2026 capex、全球債券、100 年債、能源垂直整合、AI infra ROI | #AI基建 #能源電力 #核能 #增發融資 #ReRating #估值風險 | L4 | **GOOGL** 由 watchlist 升級正式追蹤；核心問題是 Alphabet 是否能把 search cash flow 轉成 AI infrastructure utility moat |
+| 2026-03-17 | `KOL/Bytc/articles/20260317_uprise_spark_utilize_energy_security.md` | Bytc | UTILIZE / Nest / VPP / grid utilization | #能源電力 #AI基建 | 歷史 watchlist L2 | Google 被放入 demand-side dispatch / household data / Nest energy software 線索 |
+| 2026-04-14 | `KOL/Bytc/articles/20260414_google_search_ai_capex_ad_model.md` | Bytc | Google Search、AI Overviews、AI Mode、capex / depreciation / ad auction | #AI基建 #軟體SaaS #估值風險 #競爭風險 | 歷史 watchlist L3 | Search 仍有 high-intent ad moat，但 AI answer / agent action 讓印鈔機變貴 |
+| 2026-04-14 | `KOL/Bytc/notes/bytc筆記.md` | Bytc | Anthropic / OpenAI cap table 與 AI Native 資本閉環 | #AI基建 #估值風險 #競爭風險 | 歷史 watchlist L2 | Google / Amazon / Microsoft 透過股權、雲端算力與分發渠道捕捉底層協議價值 |
+
+## 目前母題
+
+| 母題 | 當前判斷 | 主要來源 | 後續追蹤 |
+|---|---|---|---|
+| AI 基建資本即護城河 | 大叔認為 capex、data center、GPU / TPU、電力與債務成本共同構成新 moat | 大叔 2026-02-21 | capex、depreciation、FCF、Cloud AI revenue |
+| Search 印鈔機變貴 | Bytc 認為 AI Search 不一定摧毀 Google，但會重寫成本與 monetization | Bytc 2026-04-14 | paid clicks、AI ad load、conversion attribution |
+| 能源與 power sovereignty | 大叔 / Bytc 都把 Google 放進 AI 電力與調度層 | 大叔 2026-02-21；Bytc 2026-03-17 | Intersect、Kairos、VPP / Nest policy |
+| AI Native capital loop | Google 可透過 Cloud / TPU / Anthropic stake 捕捉 private AI protocol value | Bytc 2026-04-14 Note | Anthropic valuation、Google Cloud AI revenue、equity gains / losses |
+
+## 待補 / 待查
+
+- 後續 Alphabet 財報入庫時，建立 `Stocks/GOOGL/quarterly/GOOGL_筆記_YYYYQN.md`。
+- 若出現重大 antitrust remedy、default search agreement 或 AI Search monetization disclosure，更新儀表板與 catalyst index。
+- 若 Intersect / Kairos / nuclear power milestones 有官方進展，判斷是否建立第二個能源里程碑。
