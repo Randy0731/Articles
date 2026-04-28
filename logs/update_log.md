@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260323-analyst-memo-3-ai-rerate-diffusion-226975cd`：整理宋分 / 美股送分題 Substack 文章《宋分分析師備忘錄 #3》被遺忘的 AI 半導體受惠者浮現｜市場可能低估 CSP 的「現金流永動機」｜AI 正在擴散到所有產業的 re-rate 起點，建立 `KOL/宋分/articles/20260323_analyst_memo_3_ai_rerate_diffusion.md`，並複製使用者提供之 7 頁 Substack 截圖 PDF 至 `KOL/宋分/raw/20260323_宋分_analyst_memo_3_ai_rerate_diffusion_宋分-20260323-analyst-memo-3-ai-rerate-diffusion-226975cd.pdf`。Substack preloads JSON 正文完整可讀；PDF 作 raw 備份，未 OCR；使用者提供 2026-03-24 ON Semi 留言補充截圖可人工辨識。
+- 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes、`KOL/宋分/frameworks/宋分框架庫索引.md`、`Stocks/TXN/quarterly/TXN_筆記_2026Q1.md`、`Stocks/TXN/TXN_index.md`、`Stocks/TXN/TXN_儀表板.md` 與 private raw manifest。本文新增「類比晶片 AI 電力雙結構 Re-rate 框架」與「AI 擴散式 Re-rate / 商業模式重定價框架」：**TXN** 為已追蹤個股 L2，補入 TXN 2026Q1；**ADI**、**ON**、**WMT** 判定為候選追蹤，不建立新 `Stocks/` 專案；**MSFT** / **WMG** / **NFLX** / **ROKU** 為 framework cases；**AMZN** / **GOOG** / **GOOGL** / **META** 僅為比較或背景。本文不是買賣建議。
+
 - 入庫 `宋分-20260321-stop-loss-thesis-certainty-position-sizing-0b192998`：整理宋分 / 美股送分題 Substack 文章《你不是不知道停損，是不知道自己什麼時候看錯》與 3 則 Substack Note / 留言補充（`c-231066197`、`c-231427946`、`c-231485999`），建立 `KOL/宋分/articles/20260321_investment_discipline_stop_loss_thesis_certainty.md`，並複製使用者提供之 5 頁 Substack 截圖 PDF 至 `KOL/宋分/raw/20260321_宋分_stop_loss_thesis_certainty_position_宋分-20260321-stop-loss-thesis-certainty-position-sizing-0b192998.pdf`。Substack preloads JSON 正文完整可讀；PDF 作 raw 備份，未 OCR；使用者提供留言截圖可人工辨識。
 - 更新：同步更新 source/ticker/theme/framework/catalyst indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。本文新增「看錯定義 / 條件停損框架」：停損不是跌幅，而是原 thesis 是否被產業方向、公司競爭力或時間節奏推翻；加碼不是因為跌很多，而是因為不確定性下降。留言補充延伸 decision journal / scenario thinking / position sizing、「敘事 -> 證據 -> 數字」與反彈三階段資金輪動。**TSM** 375、**LITE** / **MU** 僅為讀者留言與框架範例，更新 ticker index 為 L1，不更新 watchlist / `Stocks/`；本文不是買賣建議。
 
