@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260419-investment-discipline-13-profit-taking-rhythm-0bcb825e`：整理宋分 / 美股送分題 Substack 電子報《拆解機構獲利了結的節奏；為什麼你總是賣太早，或賣在最低？》，並將推廣 Note `宋分-20260419-investment-discipline-13-profit-taking-promo-e3dd24bd` 作為同組來源，建立 `KOL/宋分/articles/20260419_investment_discipline_13_profit_taking_rhythm.md`。Substack 電子報 HTML / JSON-LD 與推廣 Note JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「獲利了結 / 三段式賣出框架」：機構不是一次賣完，也不是猜最高點，而是依定價是否反映預期、資金是否轉向、結構是否破壞分批降低部位；散戶簡化版是漲一段先賣 10%-20%、動能轉弱再減碼、結構破壞才大幅降低部位。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260418-investment-discipline-12-rebound-rhythm-position-sizing-174d6111`：整理宋分 / 美股送分題 Substack 電子報《當市場突然漲回來，你最容易犯的三個錯》，並將推廣 Note `宋分-20260418-investment-discipline-12-rebound-rhythm-promo-a51109fd`、beejaijai 讀者提問 `beejaijai-20260418-market-rebound-igv-mu-question-0754f311` 與宋分回覆 `宋分-20260418-short-covering-liquidity-rebound-three-scenarios-9e7ff749` 作為同組來源，建立 `KOL/宋分/articles/20260418_investment_discipline_12_rebound_rhythm_position_sizing.md`。Substack 電子報 HTML / JSON-LD、推廣 Note、讀者提問與 KOL 回覆 JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/ticker/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「節奏修復 / 三段式部位框架」：錯過第一段反彈後不是用懊悔追回，而是用試單、確認、趨勢延續重建部位節奏；4/18 回覆補強「資金 + 預期先行，不等於基本面確認」，後續分成震盪向上、假突破回測與宏觀反轉三種劇本。**IGV**, **SNDK**, **MU**, **QQQ**, **VOO** 僅為讀者提問與大盤節奏脈絡，更新 ticker index 為 L1，不更新 watchlist 或 `Stocks/`；本文不是買賣建議。
 

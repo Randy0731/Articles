@@ -6,6 +6,8 @@
 
 | 主題 tag | 日期 | KOL / 來源 | 標題 | 核心觀點 | 相關 ticker | 框架 / 催化劑 | 筆記檔 |
 |---|---|---|---|---|---|---|---|
+| #投資與投機 | 2026-04-19 | 宋分 / 美股送分題 | 投資紀律 #13：機構獲利了結不是猜高點，而是分段賣出 | 宋分把賣出從「什麼時候賣最好」改成「用什麼節奏把行情賺完」：先看預期是否 price in，再看資金是否轉向，最後看結構是否破壞；用分批賣出避免賣太早或賣在回檔最低 | 無具名 ticker | 獲利了結 / 三段式賣出框架 | `KOL/宋分/articles/20260419_investment_discipline_13_profit_taking_rhythm.md` |
+| #金融流動性 | 2026-04-19 | 宋分 / 美股送分題 | 讓贏家繼續跑、慢慢淘汰輸家 | 宋分提醒，散戶常賣掉最強、留下最弱，導致組合動能變差；機構則對強勢股分批減碼但不全出清，對弱勢股更快處理，使組合越來越強 | 無具名 ticker | leader fatigue、rotation、portfolio strength、第一層獲利了結訊號 | `KOL/宋分/articles/20260419_investment_discipline_13_profit_taking_rhythm.md` |
 | #投資與投機 | 2026-04-18 | 宋分 / 美股送分題 | 投資紀律 #12：市場突然漲回來時的節奏修復 | 宋分提醒，錯過第一段反彈後最危險的是用懊悔追回行情；正確問題不是追回來，而是用小部位、確認、趨勢延續三段重建節奏，避免理想價格、買不夠與賣飛三種情緒錯誤 | 無具名單股 thesis；**IGV**, **SNDK**, **MU**, **QQQ**, **VOO** 為讀者問題脈絡 | 節奏修復 / 三段式部位框架；風險預算 / 降低動作框架補強 | `KOL/宋分/articles/20260418_investment_discipline_12_rebound_rhythm_position_sizing.md` |
 | #金融流動性 | 2026-04-18 | 宋分 / 美股送分題 | 這波反彈是資金 + 預期先行，不是基本面重新加速 | 宋分回覆讀者時把縮量大反彈與反著看的杯柄理解為 short covering、流動性回補與風險溢價下降；市場先 price 停火，但還沒 price 供應鏈恢復，因此後續仍要靠財報與基本面確認 | **IGV**, **SNDK**, **MU**, **QQQ**, **VOO** 皆為讀者提問脈絡 / L1 | 短期消息效應 / 基本面重新評價分流框架補強；市場風險三指標 / 反彈確認框架補強 | `KOL/宋分/articles/20260418_investment_discipline_12_rebound_rhythm_position_sizing.md` |
 | #宏觀利率 | 2026-04-18 | 宋分 / 美股送分題 | 反彈後的三種劇本：震盪向上、假突破回測、宏觀反轉 | 宋分把後續路徑拆成三種：油價穩、戰爭不惡化、財報不爆雷則可能震盪向上；若只是 short covering 且基本面沒跟上，可能假突破回測；若油價與通膨再起，Fed 無法轉向則重新 de-rate | 無具名單股 thesis | 油價通膨 / 需求破壞雙階段框架補強；Fed pivot / de-rate scenario | `KOL/宋分/articles/20260418_investment_discipline_12_rebound_rhythm_position_sizing.md` |
