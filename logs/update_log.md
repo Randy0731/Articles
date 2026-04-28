@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260309-analyst-memo-1-csp-fcf-software-ai-capex-deflation-7e151ab8`：整理宋分 / 美股送分題 Substack Note《宋分分析師備忘錄 #1》與免費電子報《CSP FCF焦點轉向｜軟體股信心｜AI CAPEX見頂辯論｜AI通縮》，建立 `KOL/宋分/articles/20260309_analyst_memo_1_csp_fcf_software_ai_capex_deflation.md`。Substack Note preloads 與免費電子報 HTML / preloads 正文全文可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文建立「市場提問轉向 / Buyside 備忘錄框架」：市場方向常因 buyside 開始問新問題而改變，本篇四問為 CSP CAPEX 何時見頂 / FCF 何時觸底、軟體股 AI moat 與利空測底、AI CAPEX 見頂論 vs 供應鏈鎖單、AI 通縮與資產泡沫。**NVDA** 判定 L2+ framework / watchlist update，Morgan Stanley 轉述口徑包含明年 `18x` PE、記憶體預付 / 鎖單到 2028、盈利預期 +38% 與 GTC / COMPUTEX / 2027 數字催化；**CRWD** / **WDAY** / **CRM** / **INTU** 僅為軟體股信心例子，CSP / hyperscalers 不映射成具名 ticker。不建立 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260307-investment-discipline-5-pricing-stage-entry-framework-c59f8d2d`：整理宋分 / 美股送分題 Substack Note《投資紀律 #5｜分析師流程》與免費電子報《散戶要如何像機構一樣買在起漲點？》，建立 `KOL/宋分/articles/20260307_investment_discipline_5_pricing_stage_entry_framework.md`。Substack Note preloads 與免費電子報 HTML / preloads 正文全文可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/ticker/theme/framework/watchlist indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文補強「定價階段 / 視野鎖定紀律框架」：資訊擴散有機構研究、sellside 上修、媒體社群、ETF 被動資金四段；市場定價有 Multiple Expansion、Earnings Catch-up、Multiple Compression 三段。**NVDA** 判定 L2 framework application，2023-2024 是 AI infrastructure 敘事改寫的 Multiple Expansion，現在可視為 Earnings Catch-up / 第二階段；**MSFT** / **AMZN** / **NFLX** 僅作歷史第二階段例子，核能 / 電網 / 光通只作 AI 外溢產業例子。不更新 catalyst 或 `Stocks/`；本文不是買賣建議。
 
