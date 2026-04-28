@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260305-avgo-bear-case-probability-discount-convergence-2ad5a854`：整理宋分 / 美股送分題 Substack Note《評價溫度計｜AVGO》法說後最壞情境機率與折價收斂框架，建立 `KOL/宋分/articles/20260305_avgo_bear_case_probability_discount_convergence.md`。Substack JSON-LD 正文全文可讀，來源為 URL，未另存 raw，OCR 狀態不適用；Broadcom Q1 FY2026 official release 與 earnings call transcript 用於校準 AI revenue、68% EBITDA / guidance、2027 AI chip revenue `$100B+` line of sight、2026-2028 capacity / supply chain 與 VMware VCF 口徑。
+- 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。**AVGO** 判定為宋分 L3 候選追蹤：本文重點不是 PE multiple 改變，而是 bear case probability 下降、實現機率上升、折現率 / 風險折扣下降，使評價溫度計在同一 PE 下變「更便宜」。新增「最壞情境機率 / 折價收斂框架」，並補強「評價溫度計框架」；**NVDA** / **META** / **GOOG** / **GOOGL** 只作對照或客戶語境，不建立 `Stocks/AVGO/`，本文不是買賣建議。
+
 - 入庫 `宋分-20260304-rate-cut-expectation-pe-compression-b83acf4c`：整理宋分 / 美股送分題 Substack Note《市場解碼 #8｜分析師流程》降息預期下降、折現率與 PE 壓縮框架，建立 `KOL/宋分/articles/20260304_market_decoding_8_rate_cut_expectation_pe_compression.md`。Substack JSON-LD 正文全文可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文補強「PE 倍數 r-g / 折現率重估框架」，並新增「利率敏感 / PE 壓縮辨識框架」：降息預期下降或油價 / 通膨擔憂升高時，市場可能不是重估 EPS，而是提高要求報酬率 `r`，使 `r - g` 擴大並砍 PE；長久期資產、高負債 / 類債券資產、金融股與小型股的利率敏感來源不同。文中無具名 ticker，因此不更新 ticker index、watchlist、catalyst 或 `Stocks/`；本文不是買賣建議。
 
