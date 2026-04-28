@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `大叔美股筆記-20260427-orcl-be-project-jupiter-bloom-fuel-cell-942d9ab6`：整理大叔美股筆記 Substack Note《**ORCL** / **BE** Project Jupiter：2.45GW Bloom 燃料電池與 AI 資料中心離網電力》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。大叔轉貼 Oracle / BorderPlex / Bloom Energy official PR：Project Jupiter 位於 New Mexico Dona Ana County 的 Oracle AI data center campus 將採用最高 2.45GW Bloom fuel cell installed capacity，取代先前規劃的 gas turbines / diesel generators，並整合為 single microgrid campus。
+- 更新：同步更新 source/ticker/theme/catalyst/watchlist indexes。**BE** 判定為單篇大叔 L3 候選追蹤，新增 watchlist 但不建立 `Stocks/BE/`；**ORCL** 判定 L2，結合 2026-02-20 Cantor 13F positioning observation 更新 watchlist，但不建立 `Stocks/ORCL/`。明確標註官方未披露 contract value、revenue recognition、commissioning date、Bloom margin / cash conversion 或 Oracle Cloud revenue impact；2.45GW 是 installed capacity，不是 backlog、已認列 revenue、cash collection 或買賣建議。來源為 URL，未另存 raw，OCR 狀態不適用。
+
 - 規則更新：補強「新升級正式追蹤 ticker 的歷史回查」流程，更新 `PROJECT_RULES.md`、`docs/STOCK_PROFILES.md`、`docs/INGEST_WORKFLOW.md`。新規定：ticker 從 `ticker_index` / watchlist 升級為 `Stocks/<Ticker>/` 後，必須搜尋既有 `indexes/`、`KOL/`、`Research/` 與 `Stocks/`，逐筆重新判斷 L0-L4；歷史 L1 只確認 / 補入 `ticker_index.md`，歷史 L2+ 才補入個股季度檔、longform 或 milestones，並在 update log 記錄回查範圍與刻意不補入 `Stocks/` 的 L1 例子。此規則用於避免新個股專案漏掉升級前已入庫的重要觀點，同時防止把清單提及倒寫成個股 thesis。
 
 - 入庫 `大叔美股筆記-20260427-ondas-mistral-thor-army-contract-46df69af`：整理大叔美股筆記 Substack Note《**ONDS** Mistral THOR：美國陸軍 `$20.0M` Group 2 UAS 合約》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，新增 `Stocks/ONDS/milestones/ONDS_里程碑_20260427_Mistral_THOR美國陸軍2000萬美元合約.md`。大叔轉貼 Mistral official PR：Mistral 獲 U.S. Army `$20,039,666` firm-fixed-price contract for THOR Group 2 UAS systems and payloads，contract number `W58RGZ-26-G-0026`，estimated completion 2027-03-17。判定為 **ONDS** L4，因為這是 Mistral closing 後具名 Army award follow-up，補強 defense prime / contract vehicle thesis。
