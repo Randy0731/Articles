@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 補充入庫 `宋分-20260414-information-asymmetry-formal-catalyst-positioning-ebb19533`，併回既有 `宋分-20260414-analyst-system-2-income-statement-operating-leverage-rerate-429faebd`：整理宋分 / 美股送分題 2026-04-14 Substack 留言補充 `c-243356518`，更新 `KOL/宋分/articles/20260414_analyst_system_2_income_statement_operating_leverage_rerate.md`。Substack JSON-LD 正文完整可讀，來源為 URL，OCR 狀態不適用；另將使用者提供之 9 頁 Substack 截圖 PDF 複製至 `KOL/宋分/raw/20260414_宋分_analyst_system_2_operating_leverage_宋分-20260414-analyst-system-2-income-statement-operating-leverage-rerate-429faebd.pdf` 作本機 raw 備份，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`，新增「資訊不對稱 / 正式催化劑前佈局框架」：產業資訊不對稱可能讓利多前已有第一線人士佈局，但無正式財報日 / 投資者日的股價異動也可能只是謠言；機構通常偏好大型正式事件，因為能用產業資訊推估並寫成報告。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `大叔美股筆記-20260428-melius-mu-sndk-memory-rerate-09b1527b`：整理大叔美股筆記 2026-04-28 Substack Note `c-250285914`，併入 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。Substack JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/ticker/theme/catalyst/watchlist indexes。大叔轉述 Melius Research 對 **MU** 首次覆蓋 / analyst target、對 **SNDK** 給出 analyst target：**MU** `700`、**SNDK** `1350`（原文未標幣別 / 單位），並把 AI memory、HBM 與 NAND / AI data demand 連到記憶體產業 re-rating。**MU** 因既有宋分記憶體 PB / HBM 雙結構框架，更新為跨 KOL / sell-side L2 watchlist 補強；**SNDK** 新增 L2 候選觀察；不建立 `Stocks/`。`700` / `1350` 不是大叔自身目標價或本專案建議，本文不是買賣建議。
 
