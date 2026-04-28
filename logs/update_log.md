@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260319-growth-to-rate-pricing-pe-compression-87b76bcd`：整理宋分 / 美股送分題 Substack Note「公司明明還在成長，為什麼股價就是不動？」短補充，建立 `KOL/宋分/articles/20260319_growth_to_rate_pricing_pe_compression.md`。Substack preloads JSON 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用；attachment 為已入庫之 2026-03-04 市場解碼 #8。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文補強「利率敏感 / PE 壓縮辨識框架」：`股價 = EPS × PE`，即使 EPS 上升，只要市場因降息預期下修而降低願意支付的 PE，股價仍可能不動；此時市場是從「成長定價」轉向「利率定價」。文中無具名 ticker，不更新 ticker / watchlist / catalyst / `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260318-market-decoding-12-rerate-early-signals-35358ea2`：整理宋分 / 美股送分題 Substack Note《市場解碼 #12｜分析師流程》什麼是 re-rate？在 re-rate 前佈局是最難的，但也是報酬最大的時候，建立 `KOL/宋分/articles/20260318_market_decoding_12_rerate_early_signals.md`。Substack preloads JSON 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/ticker/theme/framework/catalyst indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「Re-rate 早期訊號 / 上漲來源分流框架」：re-rate 是市場改變評價標準，不是單純股價上漲；要先分辨股價漲的是估值變、獲利變還是景氣變，再看大公司提前卡位、產業瓶頸、股價先於財報、賣方改敘事 / 估值方法等早期訊號。**NVDA** 為 re-rate 案例，**AMZN** 為成長股上漲案例，**TSM** 為設廠 / 先進封裝瓶頸語境，**COST** 只出現在連結前一篇電子報案例清單；不建立 `Stocks/` 或新增 watchlist，本文不是買賣建議。
 
