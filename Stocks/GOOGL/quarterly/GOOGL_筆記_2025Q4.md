@@ -4,6 +4,48 @@
 
 ---
 
+## KP / FOMOSoc：Waymo 高速公路與 Berkshire 買入 Alphabet，補強非 Search 選擇權與價值股框架
+
+- **source_id**：`KP_FOMOSoc-20251115-kp-thinking-note-16-meta-waymo-coreweave-amd-softbank-nvo-google-e4ce0077`
+- **來源**：KP / FOMOSoc Substack 週報
+- **原文**：https://www.fomosoc.com/p/nvdaaimeta-kp16
+- **發文時間**：2025-11-15 02:56 UTC（台北 10:56）
+- **整理日期**：2026-04-29
+- **交會等級**：L3（已追蹤個股歷史補強）
+- **主題 tags**：#產品節點 #AI基建 #消費成長 #ReRating #競爭風險 #估值風險
+
+### 主旨
+
+KP 在第 16 期從兩個方向補強 Alphabet thesis：一是 Waymo 全無人 Robotaxi 擴展至高速公路，讓自動駕駛從限定市區 demo 走向更有效率的商業服務；二是 Berkshire Hathaway 新建倉 Alphabet，將 Google Search、YouTube、Google Cloud 重新理解為具有壟斷現金流與基礎設施屬性的現代公用事業。
+
+### 個股觀點
+
+| 面向 | KP 觀點 | 對 **GOOGL** 的資料庫含義 |
+|---|---|---|
+| Waymo highway | Waymo 在三藩市、洛杉磯、鳳凰城拓展高速公路路段，使 Robotaxi 能縮短機場通勤等高價值路線時間 | 補強 Alphabet 非 Search / Cloud 的長期 real-world AI optionality，Waymo 從科研項目更靠近可估值業務 |
+| 漸進主義路線 | Waymo 以 LiDAR / radar / camera redundancy、Level 4 bounded-area rollout、監管合作取得高速公路突破 | 與 Tesla 純視覺路線分流；對 **GOOGL** 是較高確定性的商業化路徑，但成本和擴張速度需驗證 |
+| Robotaxi valuation | KP 認為華爾街開始用數百億甚至上千億美元估值看 Waymo，因它的價值從故事變成財報 | 後續若 Alphabet 披露 Waymo rides、revenue、unit economics 或外部融資，需提高 dashboard 權重 |
+| Berkshire buys Alphabet | Berkshire 第三季度新建 Alphabet 約 `$4.3B` 倉位、成為第 10 大持倉 | 補強「科技公用事業 / 現代價值股」框架，不等於買賣建議或估值保證 |
+| Apple reduction context | Berkshire 同季繼續減持 Apple，KP 視為從過度集中贏家提取利潤，轉向另一個符合價值標準的科技平台 | 對 Alphabet 是 ownership-base / value-investor recognition signal；需追 13F position change 和主業現金流 |
+
+### 延伸追蹤
+
+| 事件 | 追蹤重點 |
+|---|---|
+| Waymo rollout | highway safety incidents、service area expansion、rides / revenue disclosure、cost per ride、regulatory approvals |
+| Robotaxi competition | Tesla FSD / Robotaxi rollout、純視覺安全驗證、fleet data advantage、unit economics |
+| Berkshire position | 後續 13F 是否加碼 / 減碼 Alphabet、是否繼續降低 Apple concentration、接班投資人配置風格 |
+| Alphabet value-stock framing | Search cash flow durability、YouTube / Cloud growth、AI capex / depreciation、antitrust / default search remedy |
+
+### 風險與限制
+
+- KP 的判斷是 Waymo 漸進主義路線被重大驗證，不是說 Tesla FSD 路線已失敗。
+- Waymo 的長期價值仍需用 rides、revenue、unit economics、保險 / 安全事故、城市擴張速度與監管許可驗證。
+- Berkshire 買入 Alphabet 是重要 ownership / framework signal，但倉位仍需後續 13F 觀察，不能寫成估值便宜或未來報酬保證。
+- 本文不是買賣建議。
+
+---
+
 ## KP / FOMOSoc：Ironwood TPU 與 Gemini / Siri，補強 Google AI infrastructure 兩條路
 
 - **source_id**：`KP_FOMOSoc-20251108-kp-thinking-note-15-google-tpu-siri-glp1-copper-meta-e18a7b9`

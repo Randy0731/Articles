@@ -15,6 +15,69 @@
 - **相關 ticker / 產業**：
 ```
 
+## 高風險研發外包 / 科學家出走框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第16期_MetaWaymoCoreWeave_AMD與Google.md`
+- **一句話定義**：大公司若無法承擔十年基礎研究耐心，可能讓頂尖研究者外部創業，待方向被市場驗證後再高價買回。
+- **適用情境**：AI lab reorg、star researcher departure、frontier model competition、internal basic research vs commercialization conflict。
+- **觀察指標**：star researcher exits、internal reporting line、commercial urgency、startup formation、acquisition premium、model / product catch-up、founder return。
+- **也出現於**：可與 KP「AI 外包買時間 / 模型即服務框架」和「FOMO 命運共同體 / AI 算力捆綁框架」交叉比對。
+- **相關 ticker / 產業**：**META**, **GOOG**, **GOOGL**；Scale AI / Character.AI 未上市；AI research、frontier AI labs。
+
+## 自動駕駛雙路線 / 漸進主義 vs 純視覺豪賭框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第16期_MetaWaymoCoreWeave_AMD與Google.md`
+- **一句話定義**：感測器冗餘的 L4 漸進路線可先取得監管與商業效率，純視覺路線則押注低成本和 fleet scale 的終局顛覆。
+- **適用情境**：Waymo / Tesla Robotaxi comparison、autonomous driving commercialization、sensor stack vs pure vision、regulatory rollout。
+- **觀察指標**：highway permit、miles driven、safety record、regulatory approval、cost per vehicle、FSD take rate、Robotaxi city rollout、ride efficiency。
+- **也出現於**：延伸 KP「Physical AI 信仰估值 / 戰時授權框架」。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **TSLA**；autonomous driving、robotaxi、mobility。
+
+## Neocloud 關鍵路徑控制 / 交付確定性框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第16期_MetaWaymoCoreWeave_AMD與Google.md`
+- **一句話定義**：AI 雲端基建不只比 GPU procurement，也比誰控制資料中心、電力、冷卻與交付時間表。
+- **適用情境**：neocloud capacity buildout、CoreWeave / Nebius comparison、third-party data center developer delays、AI infrastructure debt financing。
+- **觀察指標**：data center commissioning、third-party partner delay、debt cost、GPU idle time、customer SLA、self-build vs lease mix、supplier contract penalty。
+- **也出現於**：延伸 KP「AI 基建送水人 / 確定性交付框架」、「Neocloud 產能外包 / 算力確定性框架」與「AI 基建實體資產 / 電力門票框架」。
+- **相關 ticker / 產業**：**CRWV**, **CORZ**, **APLD**, **NBIS**, **NVDA**；Crusoe 未上市；neocloud、AI data center。
+
+## AI 半導體執行地雷 / TAM 與 How 分流框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第16期_MetaWaymoCoreWeave_AMD與Google.md`
+- **一句話定義**：大 TAM 只能提供想像，真正重估要看晶片交付、電力部署、生態遷移與多客戶驗證。
+- **適用情境**：AMD analyst day、AI accelerator market sizing、OpenAI 6GW GPU deal、CUDA vs ROCm competition。
+- **觀察指標**：MI450 schedule、OpenAI 6GW infrastructure、ROCm adoption、CUDA migration、customer diversification、gross margin、EPS revision。
+- **也出現於**：延伸 KP「AMD 雙線敘事 / 估值動能博弈框架」與「推理時代 / 專用晶片帝國框架」。
+- **相關 ticker / 產業**：**AMD**, **NVDA**, **ORCL**；OpenAI 未上市；AI accelerators、semiconductors。
+
+## 賣鏟人 vs 金礦 / VC 再配置框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第16期_MetaWaymoCoreWeave_AMD與Google.md`
+- **一句話定義**：成熟 AI 基建龍頭提供較確定 exposure，高風險資本則可能賣掉賣鏟人去押更非對稱的平台控制權。
+- **適用情境**：SoftBank selling Nvidia to fund OpenAI、AI ecosystem control、late-stage private AI platform investment、venture-style capital allocation。
+- **觀察指標**：market cap already priced、private platform valuation、funding need、ecosystem control、supplier loop、ownership influence、Stargate / data center funding。
+- **也出現於**：可與 KP「FOMO 命運共同體 / AI 算力捆綁框架」和「AI 中央銀行 / 生態融資框架」交叉比對。
+- **相關 ticker / 產業**：**9984.T** / **SFTBY**, **NVDA**；OpenAI 未上市；AI infrastructure financing、venture capital。
+
+## 控股基金會效率治理 / 挑戰者心態重置框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第16期_MetaWaymoCoreWeave_AMD與Google.md`
+- **一句話定義**：當市場地位被挑戰，大股東可能犧牲董事會獨立性換取改革速度與執行力，但需監控一言堂風險。
+- **適用情境**：foundation-controlled company board reset、turnaround under competitive pressure、pharma commercial execution reset。
+- **觀察指標**：voting control、board turnover、former CEO return、market-share trend、strategic acquisition、minority shareholder dissent、governance independence。
+- **也出現於**：可與 KP「管理層誠信 / 製造增長拆彈框架」和「成長故事信任危機 / 估值折價框架」交叉比對。
+- **相關 ticker / 產業**：**NVO**, **LLY**；GLP-1、pharma governance。
+
+## 科技公用事業 / 價值投資能力圈演化框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第16期_MetaWaymoCoreWeave_AMD與Google.md`
+- **一句話定義**：當科技平台的現金流、入口與基礎設施屬性足夠穩定，它可能從高科技成長股被重新理解為價值股。
+- **適用情境**：Berkshire buying Alphabet、legacy value investors adopting mega-cap tech、portfolio rebalancing from Apple to Alphabet。
+- **觀察指標**：search cash flow、YouTube / Cloud scale、moat durability、cash flow predictability、portfolio rebalancing、successor capital allocation、antitrust risk。
+- **也出現於**：可與大叔 Alphabet AI infrastructure utility thesis、Bytc Google Search 印鈔機變貴框架交叉比對。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **BRK.A**, **BRK.B**, **AAPL**；digital infrastructure、value investing。
+
 ## 下跌體檢 / 組合健康三問框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第15期_GoogleTPU_Siri_GLP1與AI眼鏡.md`
