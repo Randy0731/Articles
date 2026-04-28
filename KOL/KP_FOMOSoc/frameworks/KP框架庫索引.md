@@ -15,6 +15,33 @@
 - **相關 ticker / 產業**：
 ```
 
+## AI 供應商融資 / 真需求過濾框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第09期_AI泡沫NVDA_Cisco_Powell與阿里Capex.md`
+- **一句話定義**：上游 AI 基建商投資下游客戶不必然是泡沫，但若需求不是由真實付費與經營現金流支撐，而是靠供應商融資循環堆出營收，就會接近 Cisco 式泡沫。
+- **適用情境**：Nvidia / OpenAI、AI vendor financing、GPU capacity deals、AI startup funding、circular AI capex。
+- **觀察指標**：OpenAI paid users / API revenue、operating cash flow、GPU / cloud bills、Oracle lease commitments、Nvidia equity / financing terms、customer revenue quality、AI startup revenue / business model、bad debt / impairment。
+- **也出現於**：本篇為 KP 框架庫首筆；可與 Bytc / 宋分 AI capex ROI 與 Token demand 框架交叉比對。
+- **相關 ticker / 產業**：**NVDA**, **CSCO**, **ORCL**, **MSFT**；OpenAI 未上市；AI infrastructure、GPU、cloud leasing、foundation model financing。
+
+## 高估值政策信號 / 風險體檢框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第09期_AI泡沫NVDA_Cisco_Powell與阿里Capex.md`
+- **一句話定義**：央行或政策制定者指出估值過高時，通常是系統性風險提示，不是精準賣出訊號；投資者要把它轉成風險預算與部位紀律檢查。
+- **適用情境**：Powell valuation warning、Fed speak、Greenspan irrational exuberance 類比、牛市後段高估值市場。
+- **觀察指標**：valuation multiples、momentum、market narrative、fund flows、market psychology、portfolio concentration、drawdown tolerance、cash / short-duration bond allocation、Fed cut expectations、rates / bond reaction。
+- **也出現於**：本篇為 KP 框架庫首筆；可與宋分「風險預算 / 降低動作框架」交叉比對。
+- **相關 ticker / 產業**：全市場、Fed policy、equity risk premium、投資紀律。
+
+## AI Capex 軍費化 / 自有現金流軍備競賽框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第09期_AI泡沫NVDA_Cisco_Powell與阿里Capex.md`
+- **一句話定義**：AI 時代的高 capex 若有需求、現金流與產品落地支撐，市場可能將其從費用壓力重估為戰略軍費與未來護城河。
+- **適用情境**：Alibaba AI capex、hyperscaler AI infrastructure、model / data center arms race、capex ROI debate。
+- **觀察指標**：AI capex / revenue、cloud revenue growth、AI-driven revenue growth、data center expansion、model releases、GPU partnerships、operating cash flow、FCF、buybacks、debt / dilution reliance、utilization。
+- **也出現於**：本篇為 KP 框架庫首筆；可與 KP「AI 基建資本開支回報 / 2026 轉折框架」交叉比對。
+- **相關 ticker / 產業**：**BABA**, **NVDA**, **MSFT**, **AMZN**, **GOOG**, **GOOGL**；AI data center、cloud infrastructure、foundation models。
+
 ## OCI 終極樣品屋 / 主權雲信用框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第08期_OracleTikTok與NvidiaIntel_Nscale.md`
