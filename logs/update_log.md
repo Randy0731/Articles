@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `大叔美股筆記-20260423-howard-marks-wharton-investing-philosophy-50b83754`：整理大叔美股筆記 Substack Note《Howard Marks 談價值投資、市場週期與投資哲學》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。本篇為 Howard Marks 在 Wharton School Investor Series 訪談的投資哲學摘要，大叔整理重點包括市場樂觀偏見 / 認知失調、S&P 500 約 `22x` P/E vs 歷史平均 `16x-17x` 的估值警覺、不要精準抄底、買入理由應是足夠便宜、價值 / 成長不是二分法、賣出等於重新問自己是否仍願意買入，以及信貸 / 債券偏向少犯錯、創投 / 股票偏向抓贏家。
+- 更新：同步更新 source/ticker/theme/framework indexes。**AMZN** 只作長期複利機器與太早獲利了結的 L1 案例，不建立或更新 `Stocks/AMZN/`；本篇新增「Howard Marks 價格優先與 Un-buy 框架」，用於後續查詢大叔是否把該框架套用到單股、估值或倉位紀律。來源為 URL，未另存 raw，OCR 狀態不適用；本文不是買賣建議。
+
 - 入庫 `大叔美股筆記-20260423-ibm-2026-q1-5a400e31`：整理大叔美股筆記 Substack 付費文章《#IBM 2026 年第一季財報分析》，建立 `KOL/大叔美股筆記/articles/20260423_ibm_2026_q1_uncle.md`，並複製使用者提供之 10 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20260423_大叔美股筆記_ibm_2026_q1_大叔美股筆記-20260423-ibm-2026-q1-5a400e31.pdf`。本篇為 **IBM** 2026Q1 財報 / 混合雲 / 企業級 AI 長文，重點是大叔將 Q1 revenue `159.2 億美元`、adj. EPS `$1.91`、gross margin `57.7%`、FCF `22.2 億美元`、Software revenue `70.5 億美元`、Infrastructure revenue `33 億美元` 與 generative AI book `45 億美元` 解讀為 IBM 從 old tech / 低毛利 IT services 轉向高毛利軟體、混合雲與 enterprise AI paid-stage 的收割訊號。
 - 更新：依新追蹤 ticker 回查規則將 **IBM** 升級為正式 `Stocks/IBM/` 專案，新增 `Stocks/IBM/quarterly/IBM_筆記_2026Q2.md`、`Stocks/IBM/IBM_儀表板.md`、`Stocks/IBM/IBM_index.md`，同步更新 `kol_config.yaml`、source/ticker/theme/catalyst/framework indexes 與 private raw manifest。**IBM** 判定為大叔單篇 L3：隱含偏多 / 防禦 + 成長交集，但 consulting 疲弱、HashiCorp / M&A 整合、AI 競爭、強美元與債務再融資仍是高優先風險。歷史回查確認 2026-03-17 Bytc GTC ecosystem / watsonx.data、2026-04-02 Bytc quantum basket、2026-04-18 Bytc earnings calendar 均為 **IBM** L1 背景或行事曆提及，已在 `Stocks/IBM/IBM_index.md` 記錄但不補入 quarterly。OCR 狀態標「部分」，p.1-p.7 為核心正文與大叔備忘錄，p.8 為免責聲明 / discussion，p.9 為推薦文章，p.10 近空白；公開頁只顯示標題、日期與 paywall，完整內容以使用者 PDF 為主；本文不是買賣建議。
 
