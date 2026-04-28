@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260207-forward-pe-market-decoding-c6a2a228`：整理宋分 / 美股送分題 Substack Note《市場解碼 #1：Forward PE 到底在看什麼》，建立 `KOL/宋分/articles/20260207_forward_pe_market_decoding.md`。Substack HTML / JSON-LD 正文可讀，來源為 URL，未另存 raw，OCR 狀態不適用。本文無具名 ticker，僅使用假設性資料中心 / AI 投資公司案例，不更新 ticker index、watchlist 或 `Stocks/`。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。新增「Forward PE 悲觀錯價框架」，並補強既有評價溫度計：Forward PE 的重點不是數字本身，而是判斷便宜原因來自衰退還是擴大投資、需求是否消失、市場是否過度不相信未來。本文是框架教學，不是買賣建議。
+
 - 入庫 `宋分-20260206-amzn-capex-cycle3-valuation-thermometer-a097e225`：整理宋分 / 美股送分題 Substack Note《AMZN CAPEX Cycle 3：宋分把 AWS 建置期視為下一輪溫度計左側》，建立 `KOL/宋分/articles/20260206_amzn_capex_cycle3_valuation_thermometer.md`。Substack Note 正文可讀，3 張附件圖可由網頁打開並人工視讀，包含 AMZN 評價溫度計、Cycle 1-3 表格與月 K 圖；Amazon official Q4 2025 results 用於校準 2026 capex 約 `$200B`、TTM FCF `$11.2B` 與 AWS Q4 sales `$35.6B` / YoY `+24%`。來源為 URL，未另存 raw，OCR 狀態標「部分」。
 - 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。**AMZN** 判定為宋分單篇 L3 候選追蹤：forward PE 約 `21x`、盤前約 `$206.18` / `-7.41%` 為事件估值背景，核心是財報後 CAPEX 恐慌、AWS backlog YoY 從 `22%` 到 `38%`、Cycle 1 / 2 / 3 建置期類比與評價溫度計左側；新增「CAPEX 建置週期 / AWS backlog 先行框架」。因 `Stocks/AMZN/` 尚未建立，先新增 watchlist，不自動建立正式個股專案；所有「便宜」「不會再錯過」語境均為 KOL 個人框架，不是本專案買賣建議。
 
