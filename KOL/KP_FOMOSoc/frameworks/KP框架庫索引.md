@@ -15,6 +15,69 @@
 - **相關 ticker / 產業**：
 ```
 
+## 防務大基建 / 產能即主權框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第26期_Davos_Defense_TeslaDojo_Siri_BlueOrigin_Berkshire_MSFT_INTC.md`
+- **一句話定義**：地緣壓力使防務支出從預算承諾轉向工業動員，真正瓶頸在原料、化工、工人、供應鏈與交期。
+- **適用情境**：NATO rearmament、Europe defense capacity、munitions shortage、SAFE loan、defense industrial base。
+- **觀察指標**：defense budget、actual industrial output、munition unit cost、lead time、R&D ratio、critical material availability、labor shortage、factory expansion。
+- **也出現於**：可與大叔 / Bytc 無人機、deftech、核能 / 國防供應鏈文章交叉比對。
+- **相關 ticker / 產業**：原文未具名單一 ticker；defense industrial base、munitions、critical materials、European defense contractors。
+
+## 推論晶片訓練化 / AI 架構大一統框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第26期_Davos_Defense_TeslaDojo_Siri_BlueOrigin_Berkshire_MSFT_INTC.md`
+- **一句話定義**：若 edge inference chip 可透過 cluster 化承擔訓練，企業可把 training / inference 兩套晶片 roadmap 收斂成單一路徑，降低研發與供應鏈摩擦。
+- **適用情境**：Tesla AI5 / AI6 / Dojo 3、robotics compute、FSD training / inference、space AI compute。
+- **觀察指標**：chip cadence、cluster benchmark、training efficiency、FSD data throughput、edge deployment、radiation-hard AI7 roadmap、capex efficiency。
+- **也出現於**：延伸 KP「AI 自研晶片 / 垂直整合陷阱框架」與「Physical AI 信仰估值 / 戰時授權框架」。
+- **相關 ticker / 產業**：**TSLA**；SpaceX 未上市；edge AI chips、robotics、autonomous driving。
+
+## 借腦買時間 / 系統權限護城河框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第26期_Davos_Defense_TeslaDojo_Siri_BlueOrigin_Berkshire_MSFT_INTC.md`
+- **一句話定義**：平台落後 frontier model 時，可外包模型買時間，但真正護城河要轉向系統權限、私有資料、跨 App action 與隱私可信度。
+- **適用情境**：Apple Siri + Google Gemini、AI assistant relaunch、platform model licensing。
+- **觀察指標**：licensing fee、Siri adoption、on-screen awareness、cross-app actions、private cloud usage、device upgrade cycle、privacy complaints、in-house model roadmap。
+- **也出現於**：延伸 KP「AI 外包買時間 / 模型即服務框架」、「AI 入口控制權 / Browser Distribution Moat 框架」。
+- **相關 ticker / 產業**：**AAPL**, **GOOG**, **GOOGL**；OpenAI 未上市；AI assistants、mobile OS。
+
+## 太空 Middle-Mile / 發射節奏驗證框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第26期_Davos_Defense_TeslaDojo_Siri_BlueOrigin_Berkshire_MSFT_INTC.md`
+- **一句話定義**：AI data-center network demand 可能創造衛星 middle-mile 場景，但可行性不只看衛星規格，而看可重複發射、部署節奏與監管整合。
+- **適用情境**：Blue Origin TeraWave、New Glenn、AST SpaceMobile、Amazon Leo / Kuiper、direct-to-cell。
+- **觀察指標**：launch cadence、booster turnaround、payload capacity、satellite count、laser inter-satellite links、SCS approvals、MNO test service、capex / funding runway。
+- **也出現於**：延伸 KP「AI 能源獨立 / 渦輪 + BESS 節律器框架」與大叔 / Bytc direct-to-cell / 太空基建筆記。
+- **相關 ticker / 產業**：**AMZN**, **ASTS**；Blue Origin、SpaceX / Starlink 未上市；space infrastructure、satellite communications。
+
+## 繼任者第一刀 / 遺產資產審計框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第26期_Davos_Defense_TeslaDojo_Siri_BlueOrigin_Berkshire_MSFT_INTC.md`
+- **一句話定義**：傳奇創辦人或資本配置者交棒後，新 CEO 的第一個 portfolio action 常用來宣示資本效率、清理 legacy mistakes 與重塑文化。
+- **適用情境**：Berkshire / Greg Abel、legacy holdings、conglomerate succession、portfolio cleanup。
+- **觀察指標**：registered share sale、actual disposal、impairment history、cash deployment、buyback / dividend policy、large acquisition、relative performance、management commentary。
+- **也出現於**：延伸 KP「創辦人溢價交棒 / 現金部署壓力框架」。
+- **相關 ticker / 產業**：**BRK.A**, **BRK.B**, **KHC**；conglomerates、consumer staples legacy brands。
+
+## Tokens / Dollar / Watt / AI 社會許可框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第26期_Davos_Defense_TeslaDojo_Siri_BlueOrigin_Berkshire_MSFT_INTC.md`
+- **一句話定義**：AI 競爭會從模型 benchmark 轉向每美金和每瓦電力能產生多少有效 token，以及 AI 是否能證明自己值得消耗稀缺能源。
+- **適用情境**：Microsoft Azure AI、data-center energy economics、AI diffusion into real economy、enterprise private weights。
+- **觀察指標**：tokens per dollar、tokens per watt、energy cost、AI revenue / productivity ROI、public-sector use cases、enterprise fine-tuning、private model weights、social-license backlash。
+- **也出現於**：延伸 KP「AI 電力成本隔離 / Ratepayer Backlash 框架」、「社區許可買路財 / Data Center Approval Speed 框架」與「AI 基建資本開支回報 / 2026 轉折框架」。
+- **相關 ticker / 產業**：**MSFT**, **AMZN**, **GOOG**, **GOOGL**, **META**；cloud AI、data centers、enterprise AI。
+
+## Hand-to-Mouth 製造 / 產能真空框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第26期_Davos_Defense_TeslaDojo_Siri_BlueOrigin_Berkshire_MSFT_INTC.md`
+- **一句話定義**：製造商在需求突然升溫時耗盡庫存，只能現做現賣；若新製程仍在爬坡，短期營收、毛利與客戶信任會同時承壓。
+- **適用情境**：Intel 18A ramp、semiconductor manufacturing、CPU shortage、foundry external customer validation。
+- **觀察指標**：inventory days、backlog、yield、gross margin、Q1 / Q2 guide、delayed-order recapture、capex guidance、external foundry customer、PC vs data center allocation。
+- **也出現於**：延伸 KP「18A 止血 / 外部客戶驗證框架」、「困境反轉 ICU / 外部強心針框架」與 Bytc / 大叔 **INTC** CPU 復權筆記。
+- **相關 ticker / 產業**：**INTC**, **AMD**, **NVDA**, **AAPL**, **TSM**；CPU、foundry、semiconductor equipment。
+
 ## AI Capex 資本外交 / 主權資金 moat 框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第25期_Meta_ClaudeCowork_Netflix_Energy_LLY_Nvidia.md`
