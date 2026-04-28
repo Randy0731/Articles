@@ -6,6 +6,9 @@
 
 | 主題 tag | 日期 | KOL / 來源 | 標題 | 核心觀點 | 相關 ticker | 框架 / 催化劑 | 筆記檔 |
 |---|---|---|---|---|---|---|---|
+| #ReRating | 2026-02-19 | 宋分 / 美股送分題 | 市場解碼 #3：PEG 成長錯估與信任不足 | 宋分把 PEG 定位成市場對成長持續性的信任訊號；主升段常不是基本面第一次變好，而是市場從懷疑轉成相信多年成長 | 無具名 ticker | PEG 成長錯估 / 信任不足框架；PE re-rating；growth duration | `KOL/宋分/articles/20260219_peg_market_decoding_growth_mispricing.md`；`indexes/framework_index.md` |
+| #估值風險 | 2026-02-19 | 宋分 / 美股送分題 | PEG < 1 不一定便宜：景氣循環高峰可能是陷阱 | 宋分提醒低 PEG 可能只是市場不相信成長持續，特別是原物料、航運、記憶體在景氣最好一年 EPS 暴增時，低 PEG 不等於投資機會 | 無具名 ticker；原物料 / 航運 / 記憶體僅反例 | cyclical peak vs sustainable growth；valuation trap；PEG misuse | `KOL/宋分/articles/20260219_peg_market_decoding_growth_mispricing.md` |
+| #投資與投機 | 2026-02-19 | 宋分 / 美股送分題 | DCF -> PEG -> Forward PE：目標價是市場理解方式的假設 | 宋分把 buyside 流程寫成：DCF 確認價值存在，PEG 確認市場是否錯估，Forward PE 推估市場終於看懂後願意給的倍數；目標價不是 EPS 自動算出，而是對未來市場看法的預測 | 無具名 ticker | DCF 安全檢查 / PE 交易語言框架補充；target multiple；market expectation revision | `KOL/宋分/articles/20260219_peg_market_decoding_growth_mispricing.md`；`indexes/framework_index.md` |
 | #投資與投機 | 2026-02-15 | 宋分 / 美股送分題 | 投資紀律 #2：不要從看盤、K 線與新聞開始研究 | 宋分提醒散戶常先看股價與 K 線，再用新聞和題材找理由買股；這種順序可能偶爾抓到會漲的股票，但難以讓報酬長期累積 | 無具名 ticker；軟體股僅概括情境 | 分析師流程 / 研究順序偏誤；確認偏誤；研究流程 | `KOL/宋分/articles/20260215_investment_discipline_2_research_order.md`；`indexes/framework_index.md` |
 | #估值風險 | 2026-02-15 | 宋分 / 美股送分題 | 軟體股短彈不等於 AI 取代風險解除 | 宋分用某幾檔軟體股一兩天反彈作例子，提醒投資人不要先被價格吸引，再反向尋找風險解除的理由；沒有具名 ticker，因此只記為研究流程風險 | 軟體股 / 無具名 ticker | price action confirmation bias；AI substitution risk 需基本面驗證 | `KOL/宋分/articles/20260215_investment_discipline_2_research_order.md` |
 | #AI基建 | 2026-02-13 | 宋分 / 美股送分題 | AI 商業化從訓練算力轉向推理 SLA | 宋分認為企業真正付費的是每天被呼叫的推理服務；AI 要進入客服、Copilot、電商、醫療或自動駕駛，關鍵是回應時間穩定可預測，而不只是模型更強或 GPU 更快 | **NVDA** | 推理經濟性 / 企業 SLA 基礎設施框架；Groq LPU；latency predictability | `KOL/宋分/articles/20260213_ai_inference_economics_nvda_groq_lpu.md`；`indexes/framework_index.md` |
