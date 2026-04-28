@@ -262,6 +262,21 @@ OCR 狀態判定：
 
 若只是 L1 提及，只更新 `indexes/ticker_index.md`，不寫入 `Stocks/<Ticker>/`。
 
+## 6.6 新升級個股的歷史回查
+
+若本次入庫讓某 ticker 從 `ticker_index` / watchlist 升級為正式 `Stocks/<Ticker>/` 專案，完成新文章入庫後，立刻做一次歷史回查。
+
+回查步驟：
+
+1. 用 ticker、公司名、常見別名搜尋 `indexes/`、`KOL/`、`Research/` 與既有 `Stocks/`。
+2. 逐筆重新判斷該 ticker 在歷史資料中的 L0-L4 等級。
+3. 歷史 L1 只確認 / 補入 `indexes/ticker_index.md`，不搬進 `Stocks/<Ticker>/`。
+4. 歷史 L2 以上依原文發文日期 / 事件日期補入對應季度檔、longform 或 milestones。
+5. 更新 `<Ticker>_index.md`、必要的儀表板欄位與 catalyst index。
+6. 在 `logs/update_log.md` 記錄回查範圍、補入筆數、未補入 `Stocks/` 的 L1 原因。
+
+若回查量太大，先補與既有 thesis / 催化劑最相關的 L2+，並在 update log 標記「歷史回查未完 / 待續」。不要因為時間壓力把 L1 寫成個股筆記。
+
 ## 7. 品質檢查
 
 交付前檢查：

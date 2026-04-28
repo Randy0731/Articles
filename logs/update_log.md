@@ -2,6 +2,8 @@
 
 ## 2026-04-28
 
+- 規則更新：補強「新升級正式追蹤 ticker 的歷史回查」流程，更新 `PROJECT_RULES.md`、`docs/STOCK_PROFILES.md`、`docs/INGEST_WORKFLOW.md`。新規定：ticker 從 `ticker_index` / watchlist 升級為 `Stocks/<Ticker>/` 後，必須搜尋既有 `indexes/`、`KOL/`、`Research/` 與 `Stocks/`，逐筆重新判斷 L0-L4；歷史 L1 只確認 / 補入 `ticker_index.md`，歷史 L2+ 才補入個股季度檔、longform 或 milestones，並在 update log 記錄回查範圍與刻意不補入 `Stocks/` 的 L1 例子。此規則用於避免新個股專案漏掉升級前已入庫的重要觀點，同時防止把清單提及倒寫成個股 thesis。
+
 - 入庫 `Bytc-20260124-tax-reform-code-to-capacity-c37a2f8a`：整理 Bytc Substack 付費文章《大美麗法案 VI：稅改如何把資本從「代碼」推回「產能」》，建立 `KOL/Bytc/articles/20260124_tax_reform_code_to_capacity.md`，並複製使用者提供之 7 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260124_Bytc_tax_reform_code_to_capacity_Bytc-20260124-tax-reform-code-to-capacity-c37a2f8a.pdf`。本篇為稅制政策 / 半導體製造 / 工廠折舊 / 太空基建 / 國內 R&D 長文，重點是 Bytc 將 48D 35% investment credit、qualified production property 100% depreciation、spaceport tax-exempt private activity bonds、NASA 約 `$99.95億` 額外資金與 §174A domestic R&D expensing，串成把資本從 software / code / data center 推回 physical capacity 的工業達爾文主義框架。
 - 更新：同步更新 `Stocks/INTC/quarterly/INTC_筆記_2026Q1.md`、`Stocks/INTC/INTC_index.md`、`Stocks/INTC/INTC_儀表板.md`、`Stocks/GOOGL/GOOGL_index.md`、`Stocks/GOOGL/GOOGL_儀表板.md`、source/ticker/theme/catalyst/framework indexes 與 private raw manifest。**INTC** 判定為已追蹤個股 L2 capex cost-compression signal，不寫成新訂單、外部 foundry 客戶、backlog、revenue 或 EPS guidance；**GOOG** / **GOOGL** 只補 data center 不符合 48D 與 R&D location tax friction 的 L2 policy constraint；**GFS**、**MU**、**AMAT**、**LRCX**、**ROK**、**EMR**、**CAT**、**LUNR**、**LMT**、**CDNS**、**SNPS**、**MSFT**、**TSLA** 只進索引。OCR 狀態標「部分」，p.1-p.4 為核心正文，p.5 為閱讀指南 / 免責聲明 / discussion，p.6-p.7 為推薦文章 / footer；本文不是買賣建議。
 

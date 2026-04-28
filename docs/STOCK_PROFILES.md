@@ -233,6 +233,32 @@ Stocks/<Ticker>/
 - `indexes/watchlist_index.md`（若原本在 watchlist，標記已升級）
 - `logs/update_log.md`
 
+### 升級後歷史回查
+
+ticker 一旦升級為正式 `Stocks/<Ticker>/` 專案，必須回頭檢查升級前已入庫資料，補齊該股時間線。這是升級動作的一部分，不是選做。
+
+回查範圍至少包括：
+
+- `indexes/ticker_index.md`、`indexes/source_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`、`indexes/watchlist_index.md`
+- `KOL/`、`Research/`、既有 `Stocks/` 內文
+- ticker、公司名、常見別名與 `kol_config.yaml` aliases
+
+回查判斷：
+
+| 歷史交會等級 | 動作 |
+|---|---|
+| L0 | 不處理 |
+| L1 | 確認 / 補入 `indexes/ticker_index.md`，不寫 `Stocks/<Ticker>/`，不更新儀表板 |
+| L2 | 依發文季度補入 `Stocks/<Ticker>/quarterly/` 或 `notes/`，更新 `<Ticker>_index.md`，必要時增量更新儀表板 |
+| L3 | 補入較完整個股筆記或季度檔，更新 index / dashboard |
+| L4 | 補入 `milestones/`，更新 index / dashboard 的 thesis、風險與持倉依據 |
+
+注意：
+
+- 已升級不代表歷史所有提及都要搬進 `Stocks/<Ticker>/`；L1 仍只留在 ticker index。
+- 不可把舊文的 L1 清單提及，因為 ticker 現在正式追蹤，就倒寫成 L2。
+- 回查結果要寫進 `logs/update_log.md`，包含補入哪些 L2+、哪些歷史 L1 刻意只留索引。
+
 ### 不確定時
 
 如果 ticker 看起來值得觀察，但升級理由不夠強，先進 `indexes/watchlist_index.md`。不要硬建完整個股專案。
