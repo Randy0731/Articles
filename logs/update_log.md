@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260426-investment-discipline-14-price-in-earnings-flow-313efbef`，並將推廣 Note `宋分-20260426-investment-discipline-14-price-in-promo-3d98634d` 作為同組來源：整理宋分 / 美股送分題 Substack 電子報《財報後先跌再漲到底是不是利多出盡？要怎麼知道 price in 了沒有？近期資金行情散戶最容易犯的錯》，建立 `KOL/宋分/articles/20260426_investment_discipline_14_price_in_earnings_flow.md`。Substack 電子報 HTML / preloads 與推廣 Note JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/theme/framework/catalyst indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「財報後 Price-in / 預期驗證定價框架」與「資金行情 / 流動性主導風險框架」：財報後先跌再漲或利多不漲，不應用一天價格判斷長期結構，而要看預期 -> 驗證 -> 定價、財報前股價 / PE / estimates 是否已 price 樂觀情境，以及市場是否從基本面驗證切到資金主導。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`。本文不是買賣建議。
+
 - 入庫 `宋分-20260424-industry-stock-lens-5-txn-stage1-ai-rerate-0d830770`，並將 2026-04-25 留言補充 `宋分-20260425-stage1-rerate-position-narrative-supplement-901c3064` 作為同組來源：整理宋分 / 美股送分題 Substack Note《產業與個股透鏡 #5｜技術與商業模式》TXN 一天大漲 +19%，是財報利多反應？還是 re-rate 開始？建立 `KOL/宋分/articles/20260424_industry_stock_lens_5_txn_stage1_ai_rerate.md`。兩則 Substack JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用；使用者同批提供的 `https://openbookandeasypoint.substack.com/p/725` 已於 2026-03-07 以 source_id `宋分-20260307-investment-discipline-5-pricing-stage-entry-framework-c59f8d2d` 入庫，這次只作框架參照不重複建檔。
 - 更新：同步更新 `Stocks/TXN/quarterly/TXN_筆記_2026Q2.md`、`Stocks/TXN/TXN_儀表板.md`、`Stocks/TXN/TXN_index.md`、source/ticker/theme/framework/catalyst indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文把 **TXN** 從 3/24 的「FCF 修復尚非 AI re-rate」推進到「第一階段預期 re-rate 已開始」，但仍要求 AI revenue share、EPS / revenue revision、FCF 可預測性與 PE floor 支撐第二階段 verification re-rate。**TXN** 為 L3 已追蹤個股；**NVDA**、**MSFT** 僅為 4/25 留言中的 L1 歷史框架案例，不建立新單股 thesis。本文不是買賣建議。
 
