@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260328-cta-passive-selling-institutional-positioning-3bf17894`：整理宋分 / 美股送分題 Substack 文章《CTA/被動基金賣壓要到什麼時候？內部人一直賣是不是有鬼？機構看到止跌後竟然不是先加碼手上虧最多的？》，並補入 5 則同主題 Note（`c-234532297`、`c-235075922`、`c-235080237`、`c-235324198`、`c-235479075`）與使用者提供 2026-03-28 留言截圖，建立 `KOL/宋分/articles/20260328_cta_passive_selling_institutional_positioning.md`。主文與補充 Note 的 Substack preloads JSON 完整可讀，使用者提供 11 頁 Substack 截圖 PDF 已複製至 `KOL/宋分/raw/20260328_宋分_cta_passive_selling_institutional_positioning_宋分-20260328-cta-passive-selling-institutional-positioning-3bf17894.pdf` 作 raw 備份，未 OCR。
+- 更新：同步更新 source/theme/framework/catalyst indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。本文新增「結構性賣壓 / 訊號對應部位框架」：下跌未必是未知壞消息，而可能是 CTA、ETF / 被動資金、再平衡、風控、保險資金換債券與回購黑窗期造成的被迫賣；機構用不再破底、強勢股撐住、市場分化、趨勢確認把部位從 10%-20%、30%-50%、60%-80% 推到 80%-100%。補充 Note 補強強勢股辨識、資金結構轉弱、輪動 vs 主線延伸與故事到數字驗證。文中無具名 ticker，不更新 ticker / watchlist / `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260327-investment-discipline-8-relative-low-risk-zone-b6e07e01`：整理宋分 / 美股送分題 Substack 電子報《現在該出手抄底了嗎？到底怎麼看「相對低點」？你在看股價，但機構在判斷出手與停手的指標》、同日 Note `c-233974604`，並補入使用者提供 2026-04-01 留言截圖，建立 `KOL/宋分/articles/20260327_investment_discipline_8_relative_low_risk_zone.md`。Substack 電子報 HTML、Note preloads JSON 與留言補充截圖完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用 / 截圖完整。
 - 更新：同步更新 source/ticker/theme/framework/catalyst indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「相對低點 / 安全區間風險控制框架」：相對低點不是最低點，而是風險開始下降、賣壓接近耗盡、市場開始分化的區間；留言補充說明價格反映的是市場對未來的共識版本，不是未來本身。**ORCL** 與記憶體只是讀者 / 留言中的 L1 框架例子，不更新 watchlist / `Stocks/`；本文不是買賣建議。
 
