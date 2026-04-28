@@ -15,6 +15,87 @@
 - **相關 ticker / 產業**：
 ```
 
+## 價格影子 / 生意實體框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第28期_AMZN_Google_AMD_NVO_MSTR_NvidiaOpenAI.md`
+- **一句話定義**：短期價格像企業價值的影子，會被情緒與資金拉長或壓短；真正要研究的是生意本體、競爭力、管理層與資本配置。
+- **適用情境**：market drawdown、FOMO rally、earnings reaction、high-volatility growth stocks、thesis review。
+- **觀察指標**：價格反應 vs 基本面變化、revenue / margin / backlog、management capital allocation、competitive position、supply chain、thesis break signal。
+- **也出現於**：可與宋分「反向定價 / 尾聲區間框架」、「財報後 Price-in / 預期驗證定價框架」和 KP「財報驗證 / 敘事承諾框架」交叉比對。
+- **相關 ticker / 產業**：全市場。
+
+## 商品趨勢 / 礦業股槓桿分流框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第28期_AMZN_Google_AMD_NVO_MSTR_NvidiaOpenAI.md`
+- **一句話定義**：買商品本身是買價格趨勢，買礦業股則是買營運、資產與財務槓桿，同時承擔成本、治理與地緣政治的放大風險。
+- **適用情境**：commodity supercycle、gold / copper / lithium / rare-earth miners、mining equity vs commodity ETF allocation。
+- **觀察指標**：commodity spot price、AISC、reserve revaluation、fuel / labor cost、hedging contracts、debt maturity、strike / environmental events、tax / nationalization risk。
+- **也出現於**：延伸 KP「關鍵礦產 / 供應鏈武器化框架」、「政策地板撤退 / 稀土成本自立框架」與大叔 / Bytc 銅、稀土、鋰相關筆記。
+- **相關 ticker / 產業**：大宗商品、礦業股、critical minerals；本文未具名單一礦企。
+
+## 戰略性脫鉤 / 供應商融資重定價框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第28期_AMZN_Google_AMD_NVO_MSTR_NvidiaOpenAI.md`
+- **一句話定義**：當核心客戶尋找替代供應商或自研路線，上游供應商會重新評估深度綁定承諾，從基建融資轉向股權 exposure、條件式投資或更保守合約。
+- **適用情境**：Nvidia / OpenAI、AMD alternative supply、Broadcom custom ASIC、supplier financing、AI lab multi-sourcing。
+- **觀察指標**：binding vs non-binding commitment、equity investment terms、GPU / ASIC deployment、inference cost per token、supplier concentration、warrants、customer OCF / revenue quality。
+- **也出現於**：延伸 KP「FOMO 命運共同體 / AI 算力捆綁框架」、「AI 中央銀行 / 生態融資框架」與「AI 生態脫鉤 / 軟體補硬體框架」。
+- **相關 ticker / 產業**：**NVDA**, **AMD**, **AVGO**；OpenAI、Cerebras、Groq 未上市或非本專案 ticker。
+
+## 太空 AI 金融工程 / 垂直整合框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第28期_AMZN_Google_AMD_NVO_MSTR_NvidiaOpenAI.md`
+- **一句話定義**：太空 AI data center 願景可能同時是長期工程路線與短中期募資敘事，需把垂直整合協同、物理可行性與金融工程分開驗證。
+- **適用情境**：SpaceX / xAI、orbital data centers、Starlink / launch infrastructure、Tesla physical AI adjacency、AI capex funding。
+- **觀察指標**：xAI cash burn、SpaceX IPO documents、Starship launch cost per kg、radiator design、orbital servicing、satellite count、Tesla data / energy / Optimus integration、fundraising terms。
+- **也出現於**：延伸 KP「推論晶片訓練化 / AI 架構大一統框架」、「太空 Middle-Mile / 發射節奏驗證框架」與「後稀缺使命 / Physical AI 重定義框架」。
+- **相關 ticker / 產業**：**TSLA**；SpaceX、xAI、X 未上市。
+
+## AI Search 擴張 / 商業意圖再商品化框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第28期_AMZN_Google_AMD_NVO_MSTR_NvidiaOpenAI.md`
+- **一句話定義**：AI 不只回答問題，也能拉長互動、擴大語音 / 圖片 / 長尾 query，並把過去難以變現的模糊意圖重新包裝成廣告與交易機會。
+- **適用情境**：Google AI Mode、AI Overviews、AI ads matching、agentic commerce、search-to-transaction conversion。
+- **觀察指標**：Search revenue growth、AI Mode query volume、query length、voice / image share、ad ROI、Direct Offers / UCP rollout、capex / depreciation、paid clicks / conversion attribution。
+- **也出現於**：延伸 KP「AI 入口控制權 / Browser Distribution Moat 框架」、「Agentic Commerce / AI 入口抽佣框架」與 Bytc 2026-04 Google Search 筆記。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **AMZN**；digital ads、AI search、commerce platform。
+
+## CPU-GPU 雙引擎 / 估值重塑框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第28期_AMZN_Google_AMD_NVO_MSTR_NvidiaOpenAI.md`
+- **一句話定義**：AI server 供應商的價值不只來自 GPU upside；CPU 可成為高毛利、穩定成長與 GPU 投資的防守底座，市場需分辨 valuation reset 與 thesis break。
+- **適用情境**：AMD EPYC + Instinct、Intel Xeon / DCAI、AI inference server architecture、CPU attach rate。
+- **觀察指標**：server CPU revenue、EPYC / Xeon share、CPU order momentum、GPU shipment、HBM / CoWoS allocation、gross margin、EPS revision、CPU:GPU ratio。
+- **也出現於**：延伸 KP「開放第二選擇 / AI 機櫃標準化框架」、「Hand-to-Mouth 製造 / 產能真空框架」與 Bytc / 大叔 CPU 復權筆記。
+- **相關 ticker / 產業**：**AMD**, **INTC**, **TSM**, **NVDA**；server CPU、AI accelerators、advanced packaging。
+
+## AWS 建設模式 / backlog 收據框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第28期_AMZN_Google_AMD_NVO_MSTR_NvidiaOpenAI.md`
+- **一句話定義**：高 capex 若有 capacity constraint、RPO / backlog、AI services revenue 與自研晶片變現作支撐，可被視為建設期投資，而不是單純資本黑洞。
+- **適用情境**：AWS AI data centers、hyperscaler capex、Trainium / Graviton、cloud backlog conversion。
+- **觀察指標**：AWS growth、operating margin、Bedrock spend、custom silicon revenue、RPO / backlog growth、GW capacity added、FCF, depreciation、utilization。
+- **也出現於**：延伸 KP「雲端三國 / AI Capex 入場券框架」、「AI data center 費率政治 / 物理摩擦成本框架」與宋分 AMZN capital cycle / ROIC x Organic Growth 框架。
+- **相關 ticker / 產業**：**AMZN**；AWS、cloud AI、custom silicon、data centers。
+
+## GLP-1 定價權失守 / 複方游擊框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第28期_AMZN_Google_AMD_NVO_MSTR_NvidiaOpenAI.md`
+- **一句話定義**：GLP-1 龍頭若同時遭遇政策砍價、療效差距、產能不足與低價複方藥游擊戰，pricing moat 會被重估，反擊必須靠新劑型與完美執行。
+- **適用情境**：Novo Nordisk Wegovy / Ozempic、Lilly Tirzepatide、Hims compounded GLP-1、TrumpRx / drug-price negotiation。
+- **觀察指標**：net price、sales guide、oral Wegovy approval / capacity、Tirzepatide sales、HIMS user count / GLP-1 revenue、FDA enforcement、patent / compounding rules。
+- **也出現於**：延伸 KP「口服 GLP-1 價格滲透 / API 產能約束框架」、「藥價投降 / 市場准入換利潤框架」與「GLP-1 搶親 / Pipeline 反壟斷框架」。
+- **相關 ticker / 產業**：**NVO**, **LLY**, **HIMS**；obesity / GLP-1。
+
+## Bitcoin treasury 可轉債防火牆 / maturity wall 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第28期_AMZN_Google_AMD_NVO_MSTR_NvidiaOpenAI.md`
+- **一句話定義**：Bitcoin treasury 公司的短期清算風險取決於抵押結構、利息與現金流，不是 BTC 成本價；真正壓力在大額可轉債到期與再融資窗口。
+- **適用情境**：MicroStrategy / Strategy、Bitcoin treasury companies、convertible debt financing、mNAV compression。
+- **觀察指標**：secured vs unsecured debt、coupon、interest coverage、convert maturity schedule、conversion price、BTC average cost、mNAV、debt / equity issuance cost、cash balance。
+- **也出現於**：延伸 KP「Bitcoin Treasury mNAV / 死亡螺旋框架」與「Crypto Treasury NAV / 優質代理人折價框架」。
+- **相關 ticker / 產業**：**MSTR**, **BTC**；Bitcoin treasury、convertible debt。
+
 ## 財報驗證 / 敘事承諾框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`
