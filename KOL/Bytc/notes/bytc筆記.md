@@ -8,6 +8,7 @@
 
 | 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
 |---|---|---|---|---|---|---|
+| 2026-04-28 07:34 UTC（台北 15:34） | 2026-04-28 | 半導體指數估值修復後的倉位風控：不急加倉、先降槓桿 | Bytc-20260428-sox-valuation-risk-reduce-leverage-3aaa6218 | 無（SOX Index） | #半導體設備, #估值風險, #投資與投機 | 新入庫；短 Note；SOX 指數 / 板塊語境，不更新 Stocks |
 | 2026-04-24 | 2026-04-26 | **SES** AI 財報：營收驚喜、轉型陣痛與 SiB 商業化 | Bytc-20260424-ses-ai-q1-sib-commercialization-430b7c49 | **SES** | #財報, #儲能, #AI基建, #產品節點, #管理層發言 | 新入庫；單篇 L3 候選追蹤，不建立 Stocks 專案 |
 | 2026-04-21 22:18 | 2026-04-27 | **ASTS** FCC 248 顆衛星授權：監管門檻與 Verizon 預付款條件 | Bytc-20260421-asts-fcc-248-satellite-grant-6ed4d3f0 | **ASTS** | #監管審批, #產品節點, #訂單合約, #執行風險 | 新入庫；單篇 L3 候選追蹤，不建立 Stocks 專案 |
 | 2026-04-15（台北；Substack metadata 2026-04-14 17:43） | 2026-04-27 | **IONQ** DARPA HARQ 合約：人造鑽石量子記憶體與量子網路總機野心 | Bytc-20260415-ionq-darpa-harq-quantum-networking-00741280 | **IONQ** | #國防科技, #AI基建, #產品節點, #訂單合約, #執行風險 | 新入庫；單篇 L3 候選追蹤，不建立 Stocks 專案 |
@@ -244,5 +245,56 @@ Bytc 的核心判斷是：AI Native 時代的底層協議不論最後由 OpenAI 
 ### 整理者延伸
 
 這篇 Note 強化同日 Bytc 長文對 **GOOG** / **GOOGL** 的 AI exposure 追蹤：上一篇聚焦 Search / AI capex / ad model，這篇則補上 Anthropic cap table 與 AI Native protocol optionality。**AMZN** 與 **MSFT** 記為多巨頭 L2 主題觀點，但本篇仍不是單一個股完整 thesis，不新增 `Stocks/` 專案，也不提供買賣建議。
+
+---
+
+## 半導體指數估值修復後的倉位風控：不急加倉、先降槓桿
+
+- **來源**：[Bytc Substack Note](https://substack.com/@btyc/note/c-250338060)
+- **類型**：Substack Note / 半導體指數估值 / 倉位風控
+- **發文時間**：2026-04-28 07:34 UTC（台北 15:34；Substack JSON-LD）
+- **整理日期**：2026-04-28
+- **source_id**：Bytc-20260428-sox-valuation-risk-reduce-leverage-3aaa6218
+- **raw 路徑 / URL**：https://substack.com/@btyc/note/c-250338060（未另存 raw）；附件圖：https://substack-post-media.s3.amazonaws.com/public/images/df23131f-17c2-46e2-82f1-13895947c0fa_800x411.png
+- **OCR 狀態**：不適用
+- **相關 ticker**：無（SOX Index / 半導體板塊語境）
+- **主題 tags**：#半導體設備, #估值風險, #投資與投機
+
+### 主旨
+
+Bytc 這則短 Note 是 2026-04-16 大盤新高 / 半導體連陽後的節奏更新。他認為半導體指數已從三月底、四月初的便宜區間顯著修復，附圖 SOX Index Best P/E Ratio 當下約 `23.49x`，但距 2025 年 10 月與 2024 年中估值高點仍有一段距離。
+
+因此這不是看空半導體，而是倉位風控：漲多的部位先減倉、降槓桿，現階段不急著加倉。本專案只記錄 Bytc 的個人風控語境，不轉成買賣建議。
+
+### 核心概念
+
+- **估值從便宜區修復**：Bytc 明確說半導體估值已不像三月底、四月初那麼便宜，代表低估值窗口已被一段反彈消化。
+- **尚未進入極端高點**：附圖顯示 SOX Index Best P/E Ratio 約 `23.49x`，仍低於 2025 年 10 月與 2024 年中附近高峰；這讓他沒有直接轉為看空。
+- **部位動作優先於方向預測**：重點是「優先減倉降槓桿」與「不急著加倉」，延續 2026-04-16 文章中反彈後先降槓桿、等待整理確認的風控框架。
+
+### 關鍵金句
+
+> Bytc（2026-04-28, Substack Note）：「優先減倉降槓桿」
+
+> Bytc（2026-04-28, Substack Note）：「不會急著加倉」
+
+### 關鍵證據
+
+| 證據 | 出處 | 解讀 |
+|---|---|---|
+| Bytc 說半導體指數已漲很多，估值已不如三月底 / 四月初便宜 | Substack Note 正文 | 低估值反彈段已經走過一段，短線不適合用便宜作為主要加倉理由 |
+| 附圖為 SOX Index Best P/E Ratio，2026-04-27 附近約 `23.49x` | Substack Note 附件圖 | 估值修復到中高區，但仍未達 2025 年 10 月與 2024 年中高峰 |
+| Bytc 表示漲多部位會先減倉降槓桿，現階段不急加倉 | Substack Note 正文 | 屬 KOL 自身倉位風控，不是對單一股票的目標價或買賣建議 |
+
+### 延伸追蹤
+
+| 日期 | 事件 | 相關 ticker | 影響方向 | 追蹤重點 | 出處 |
+|---|---|---|---|---|---|
+| 2026Q2 | 半導體估值修復後是否由財報與 EPS revision 接棒 | SOX Index / 半導體板塊 | 正面若 earnings revisions 追上估值；負面若估值先行後缺乏基本面確認 | SOX Best P/E Ratio、AI capex、半導體財報、EPS revision、breadth、NVDA / 半導體設備與記憶體族群反應 | Bytc Substack Note；整理者延伸 |
+| 未定 | 反彈後降槓桿是否等待右側確認 | 全市場 / 半導體板塊 | 未定 | VIX、CTA / vol control exposure、hedge fund net leverage、retail flow、半導體板塊是否整理後再創高 | Bytc 2026-04-16 文章；本則 Note |
+
+### 整理者延伸
+
+這則 Note 應與 `KOL/Bytc/articles/20260416_market_new_high_data_check.md` 一起看：4/16 的重點是 CTA / vol control 軋空後，中線仍偏多但短線超買；4/28 這則則補上半導體估值已修復、不急追加的倉位紀律。**SOX** 是指數 / 板塊語境，沒有單一股票 L2 以上觀點，因此不更新 ticker index、不建立 `Stocks/`，也不提供買賣建議。
 
 ---
