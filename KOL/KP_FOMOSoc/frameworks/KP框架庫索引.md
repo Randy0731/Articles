@@ -15,6 +15,87 @@
 - **相關 ticker / 產業**：
 ```
 
+## 研究 / 執行分離框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第29期_GoogleOCS_HBM4_AMAT_OpenAI_MSFT_ASTS.md`
+- **一句話定義**：研究可以外包，但 conviction、部位、風險承受度與最終決策不能外包。
+- **適用情境**：KOL 深度文、單股 thesis、watchlist 建立、使用者查詢買賣含義、投資流程紀律。
+- **觀察指標**：source thesis、風險條件、驗證節點、部位限制、時間維度、個人現金流 / 睡眠品質。
+- **也出現於**：可與本專案「不提供買賣建議」規則和宋分 investment discipline 類文章交叉比對。
+- **相關 ticker / 產業**：全市場。
+
+## 百年債 / AI 基建公用事業框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第29期_GoogleOCS_HBM4_AMAT_OpenAI_MSFT_ASTS.md`
+- **一句話定義**：科技巨頭用超長天期、低稀釋資本支撐 AI capex，並把自身定位成數位公用事業 / 長期信用資產。
+- **適用情境**：hyperscaler capex、century bond、AI data center financing、credit spread、capital structure re-rating。
+- **觀察指標**：bond spread、rating、order book / oversubscription、capex guidance、depreciation、FCF、AI revenue / Cloud revenue、energy procurement。
+- **也出現於**：呼應大叔 2026-02-21 Alphabet capex / century bond L4 里程碑。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **MSFT**, **AMZN**；AI hyperscalers。
+
+## AI 脫媒 / 分銷成本壓縮框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第29期_GoogleOCS_HBM4_AMAT_OpenAI_MSFT_ASTS.md`
+- **一句話定義**：AI agent 先壓縮高佣金、高人力、高資訊不對稱的中介環節，但責任背書與信任關係會延緩完全替代。
+- **適用情境**：insurance broker、wealth management、freight brokerage、CRE brokerage、AI agent workflow automation。
+- **觀察指標**：AUM fee compression、commission take rate、AI attach rate、customer churn、regulatory liability、human advisor productivity、operating margin。
+- **也出現於**：可與 KP「桌面 Agent / SaaS Seat-to-Workflow 框架」與「AI 有罪推定 / SaaS 再加速框架」交叉比對。
+- **相關 ticker / 產業**：**AON**, **WTW**, **LPLA**, **RJF**, **SCHW**, **CHRW**, **RXO**, **CBRE**, **JLL**；金融 / 物流 / 地產服務。
+
+## OCS 光學神經系統 / HBM 分層框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第29期_GoogleOCS_HBM4_AMAT_OpenAI_MSFT_ASTS.md`
+- **一句話定義**：AI data center 的競爭力來自晶片、HBM 與光互聯分工；OCS 可升級晶片互聯 / 推理記憶體池，但不等於訓練端捨棄 HBM。
+- **適用情境**：Google TPU / Ironwood / TPU v8、OCS、800G / 1.6T optics、HBM vs DRAM pool、inference memory architecture。
+- **觀察指標**：OCS deployment、MEMS mirror supply、optical module shipments、power per switch、latency、HBM qualification、TPU utilization、Cloud AI revenue。
+- **也出現於**：可與大叔 / Bytc CPO、OCI / XPO / Open CPX、Nvidia optical interconnect 框架交叉比對。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **LITE**, **MU**, **005930.KS**, **000660.KS**；optical interconnect / HBM。
+
+## HBM 尖端引領 vs DRAM 務實跟隨框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第29期_GoogleOCS_HBM4_AMAT_OpenAI_MSFT_ASTS.md`
+- **一句話定義**：HBM 技術領先者取得頂級客戶定義權，DRAM 供需週期受益者則靠總供給短缺變現。
+- **適用情境**：HBM4 qualification、Samsung vs SK Hynix、Micron HBM / DRAM cycle、AI memory shortage。
+- **觀察指標**：HBM4 speed / yield、Nvidia / Google qualification、HBM capacity sold out、DDR5 pricing、gross margin、mid-year customer validation、capex discipline。
+- **也出現於**：呼應 KP 第21期「HBM 價量鎖定 / 記憶體週期鈍化框架」與宋分 memory cycle / PB framework。
+- **相關 ticker / 產業**：**MU**, **005930.KS**, **000660.KS**, **NVDA**, **AVGO**, **GOOG**, **GOOGL**；HBM / DRAM。
+
+## 無塵室瓶頸 / 前段技術後段化框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第29期_GoogleOCS_HBM4_AMAT_OpenAI_MSFT_ASTS.md`
+- **一句話定義**：AI 晶片需求被 cleanroom、FEOL 與先進封裝工序複雜度限制，設備商受益於物理建設趕工。
+- **適用情境**：AMAT earnings、TSMC capex、2nm / A16、CoWoS / HBM equipment、new fab readiness。
+- **觀察指標**：cleanroom availability、equipment backlog、FEOL capex mix、new fab ramp、process step count、HBM / CoWoS equipment demand、gross margin。
+- **也出現於**：可與 KP「AI 半導體瓶頸轉移 / 先進封裝定價權框架」交叉比對。
+- **相關 ticker / 產業**：**AMAT**, **TSM**, **ASML**, **LRCX**, **INTC**, **005930.KS**；半導體設備 / foundry。
+
+## 推理異構化 / 架構奇兵框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第29期_GoogleOCS_HBM4_AMAT_OpenAI_MSFT_ASTS.md`
+- **一句話定義**：AI 訓練與推理分化後，非傳統架構可在低延遲、高頻互動推理場景取得局部定價權。
+- **適用情境**：OpenAI multi-sourcing、Cerebras WSE、Broadcom ASIC、AMD GPU、Nvidia inference moat。
+- **觀察指標**：inference latency、cost per token、deployment MW、customer equity tie-up、ASIC milestones、GPU / ASIC allocation、Nvidia inference revenue / margin。
+- **也出現於**：呼應 KP 第28期「戰略性脫鉤 / 供應商融資重定價框架」與宋分推理經濟性。
+- **相關 ticker / 產業**：**NVDA**, **AMD**, **AVGO**；Cerebras 未上市。
+
+## AI 自給自足 / 混合生態 margin deadlock 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第29期_GoogleOCS_HBM4_AMAT_OpenAI_MSFT_ASTS.md`
+- **一句話定義**：平台公司同時追求模型 / 晶片自研與開放生態，但 fixed-price AI software 可能被 variable compute cost 壓縮 margin。
+- **適用情境**：Microsoft Copilot / Azure AI、OpenAI dependency、Maia / Cobalt、AI Foundry、BYOM、hyperscaler AI pricing。
+- **觀察指標**：Copilot seats / usage、gross margin、OpenAI revenue share、Azure AI revenue、GPU allocation、Maia adoption、capex / depreciation、usage-based pricing。
+- **也出現於**：可與 KP「算力配給 / LTV 最適化框架」與大叔 / 宋分 CSP token economics 交叉比對。
+- **相關 ticker / 產業**：**MSFT**, **GOOG**, **GOOGL**, **AMZN**, **NVDA**；AI software / hyperscaler。
+
+## 可轉債換血 / cap table 清理框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第29期_GoogleOCS_HBM4_AMAT_OpenAI_MSFT_ASTS.md`
+- **一句話定義**：高燒錢公司可用新可轉債延長跑道並清理舊債 / cap table，但短期賣壓、溢價回購與未來轉股 / 到期風險需分開看。
+- **適用情境**：ASTS、space infrastructure、pre-revenue growth company、convertible refinancing、registered direct offering。
+- **觀察指標**：coupon、maturity、conversion price、repurchase premium、net dilution、cash runway、commercial rollout、revenue vs opex、shareholder selling pressure。
+- **也出現於**：可與 KP 第28期「Bitcoin treasury 可轉債防火牆 / maturity wall 框架」交叉比對。
+- **相關 ticker / 產業**：**ASTS**；space / satellite infrastructure。
+
 ## 價格影子 / 生意實體框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第28期_AMZN_Google_AMD_NVO_MSTR_NvidiaOpenAI.md`

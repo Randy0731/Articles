@@ -6,9 +6,71 @@
 
 | 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
 |---|---|---|---|---|---|---|
+| 2026-02-14 02:30 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：百年債、Apollo OCS 與 AI 基建公用事業化 | KP_FOMOSoc-20260214-kp-thinking-note-29-alphabet-century-bond-ai-disruption-google-ocs-hbm4-amat-openai-cerebras-msft-asts-cc671a80 | **GOOG**, **GOOGL**, **LITE**, **MU**, **005930.KS**, **000660.KS** | #AI基建 #雲端基建 #Memory #金融流動性 #增發融資 #ReRating #執行風險 | L3；Alphabet century bond / AI capex financing / Google Apollo OCS / TPU v8 HBM rumor calibration |
 | 2026-02-07 02:45 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：AI 沒有殺死搜尋，而是擴張搜尋與商業意圖 | KP_FOMOSoc-20260207-kp-thinking-note-28-amazon-google-amd-nvo-mstr-nvidia-openai-spacex-xai-fe4e3d99 | **GOOG**, **GOOGL**, **AMZN** | #AI基建 #軟體SaaS #財報 #ReRating #競爭風險 #估值風險 | L3；AI Search expansion / ads intent quality / Direct Offers / UCP / capex justification |
 
 ---
+
+## KP / FOMOSoc 對 **GOOGL** 的觀點摘要：百年債、Apollo OCS 與 AI 基建公用事業化
+
+- **來源 KOL**：KP / FOMOSoc
+- **原文主整理**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第29期_GoogleOCS_HBM4_AMAT_OpenAI_MSFT_ASTS.md`
+- **原始來源**：https://www.fomosoc.com/p/hbm4openainvdahbm-kp29
+- **source_id**：KP_FOMOSoc-20260214-kp-thinking-note-29-alphabet-century-bond-ai-disruption-google-ocs-hbm4-amat-openai-cerebras-msft-asts-cc671a80
+- **raw 路徑 / URL**：URL（未另存 raw；Jina Reader Markdown）
+- **OCR 狀態**：不適用
+- **類型**：Substack 公開週報 / Alphabet debt financing / Google Apollo OCS / TPU / HBM
+- **發文時間**：2026-02-14 02:30 UTC（台北 10:30）
+- **整理日期**：2026-04-29
+- **交會等級**：L3
+- **事件類型**：Alphabet century bond / AI capex financing / optical circuit switching / HBM architecture calibration
+- **主題 / 母題標籤**：#AI基建 #雲端基建 #Memory #金融流動性 #增發融資 #ReRating #執行風險
+
+### 對 **GOOGL** 的影響
+
+KP 將 Alphabet 約 200 億美元多幣種債券、尤其是英鎊百年債，解讀為 Google 把自己定位成「數位公用事業」的資本市場訊號。英國 DB pension / insurance 對超長天期資產有負債匹配需求，50 年期 Gilts 提供定價 anchor，Solvency II 又讓 AA 級長債具資本效率。這讓 Alphabet 能用低於股權的成本替 2026 年 1750-1850 億美元級 AI capex 借到時間。
+
+另一條是 Google Apollo OCS。KP 認為 AI factory 的瓶頸不只在 TPU，而在數萬顆 TPU 如何低功耗、低延遲協同。傳統 switch 需要 O-E-O 轉換，KP 口徑功耗約 3000W；Apollo OCS 用 MEMS 微鏡開全光通道，功耗約 100W，並可透過更換兩端光模組從 800G 升到 1.6T。這補強 **GOOGL** 在 TPU / Cloud AI infrastructure 的 full-stack 差異化。
+
+KP 同時校準「TPU v8 用光取代 HBM」的傳聞：training 端仍需要 HBM 的 10-20ns latency 與高頻寬密度，外部 optical DRAM pool 即使理想情境也可能 300ns+，不適合完全替代 HBM。Samsung HBM4 通過 Google TPU v8 驗證，反而是 Google 仍沿用 HBM 的反證。整理者判定：本篇與第28期 AI Search、以及大叔 2026-02-21 capex / century bond 里程碑互相補強；一邊是收入端 Search cash flow，一邊是資本結構與光互聯效率。
+
+### 觀點摘要
+
+| 面向 | 內容 |
+|---|---|
+| **立場** | 偏正面 L3；Alphabet 的資本成本、Search 現金流、TPU / OCS full-stack 共同支撐 AI infrastructure utility thesis |
+| **資本結構訊號** | 百年債代表市場願意把 Alphabet 視為長期高信用資產，而不只是高增長科技股 |
+| **基建訊號** | Apollo OCS 讓 Google TPU cluster 的互聯 / 功耗 / 延遲有差異化，光互聯是 AI data center 神經系統 |
+| **技術校準** | OCS 不等於 training 端捨棄 HBM；更可能是記憶體分層與 inference memory pooling |
+| **主要風險** | AI capex / depreciation 吃掉 FCF、OCS 成本 / adoption 不透明、TPU 圍牆花園、HBM 供應與光學供應鏈集中 |
+
+### 價位與催化劑
+
+| 類型 | 內容 | 日期 / 數字 | 來源 | 備註 |
+|---|---|---|---|---|
+| Debt financing | Alphabet 多幣種債券約 200 億美元，含英鎊百年債 | 2026-02 | KP 文章口徑 | 與大叔 2026-02-21 L4 里程碑呼應 |
+| Capex guide | 2026 capex 約 1750-1850 億美元 | 2026 | KP 文章口徑 | 需追折舊 / FCF / revenue absorption |
+| Bond demand | 百年英鎊債訂單近 100 億英鎊，KP 稱約 10 倍超額認購 | 2026-02 | KP 文章口徑 | 信用市場對 Alphabet 長期現金流信任票 |
+| OCS power | 傳統 switch 約 3000W；OCS 約 100W | 2026 | KP 文章 / TrendForce 口徑 | 需用供應鏈和 Google disclosure 後續校準 |
+| Optics demand | Google 可能吃下 600 萬顆以上 800G / 1.6T 光模組 | 2026 | KP 文章 / TrendForce 口徑 | 對 Lumentum / 中際旭創 / 新易盛為 read-through |
+| HBM latency | HBM 約 10-20ns；optical memory pool 可能 300ns+ | 技術對照 | KP 文章口徑 | 支撐 training 不會完全捨棄 HBM 的判斷 |
+
+### 風險表
+
+| 風險 | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|
+| 百年債變成資本壓力 | 高 | AI revenue / Search / Cloud 無法吸收 capex、depreciation 與利息 | FCF、depreciation、interest expense、bond spread、rating | KP 文章 / 整理者判斷 |
+| OCS 效率難轉 revenue | 中高 | 光互聯降低功耗但未帶動 Cloud AI revenue 或 TPU external adoption | TPU utilization、Cloud AI revenue、AI gross margin、OCS deployment | KP 文章 |
+| TPU / OCS 圍牆花園 | 中高 | 技術優勢只存在 Google 內部，無法吸引外部 workload | external TPU customers、developer tooling、pricing、PyTorch / TorchTPU adoption | 整理者判斷 |
+| HBM 供應 / memory hierarchy 風險 | 中 | Samsung / SK Hynix / MU HBM qualification 或供應價格影響 TPU roadmap | HBM4 qualification、HBM pricing、TPU launch timing | KP 文章 |
+
+### 呼應連結
+
+| 既有篇章 | 關係 |
+|---|---|
+| `Stocks/GOOGL/milestones/GOOGL_里程碑_20260221_Alphabet資本支出百年債與AI基建護城河.md` | 大叔一週後把 Alphabet capex / century bond 升級為正式追蹤里程碑；KP 第29期提供同主題早期 L3 脈絡 |
+| 本檔 KP 2026-02-07 AI Search expansion | 第28期補 Search 現金流與交易閉環，第29期補資本結構與光互聯基建 |
+| `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` 的 Ironwood / TorchTPU / Intersect Power | 第29期把 TPU / Cloud AI infrastructure 再延伸到 Apollo OCS 與 HBM memory hierarchy |
 
 ## KP / FOMOSoc 對 **GOOGL** 的觀點摘要：AI 沒有殺死搜尋，而是擴張搜尋與商業意圖
 
