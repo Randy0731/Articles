@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260304-rate-cut-expectation-pe-compression-b83acf4c`：整理宋分 / 美股送分題 Substack Note《市場解碼 #8｜分析師流程》降息預期下降、折現率與 PE 壓縮框架，建立 `KOL/宋分/articles/20260304_market_decoding_8_rate_cut_expectation_pe_compression.md`。Substack JSON-LD 正文全文可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文補強「PE 倍數 r-g / 折現率重估框架」，並新增「利率敏感 / PE 壓縮辨識框架」：降息預期下降或油價 / 通膨擔憂升高時，市場可能不是重估 EPS，而是提高要求報酬率 `r`，使 `r - g` 擴大並砍 PE；長久期資產、高負債 / 類債券資產、金融股與小型股的利率敏感來源不同。文中無具名 ticker，因此不更新 ticker index、watchlist、catalyst 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260302-pe-r-g-discount-rate-multiple-rerating-ad9c7e32`：整理宋分 / 美股送分題 Substack Note《市場解碼 #7｜分析師流程》PE / `r-g` / 半導體 vs SaaS 倍數框架，建立 `KOL/宋分/articles/20260302_market_decoding_7_pe_r_g_discount_rate_rerating.md`。Substack JSON-LD 正文全文可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「PE 倍數 r-g / 折現率重估框架」：PE 不是倍數本身，而是市場對未來現金流風險的利率報價；半導體與 SaaS 的倍數差異來自資本強度、現金流可預測性、長期成長率 `g` 與資本成本 / 折現率 `r` 的差。文中無具名 ticker，因此不更新 ticker index、watchlist、catalyst 或 `Stocks/`；本文不是買賣建議。
 
