@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260413-analyst-memo-6-efficiency-security-ai-software-margin-turn-117f1149`：整理宋分 / 美股送分題 Substack 電子報《宋分分析師備忘錄 #6》市場正在切換一個更大的東西｜從效率到安全｜AI 最後可能不是硬體賺錢｜財報季真正要看的不是 EPS，並將推廣 Note `宋分-20260413-analyst-memo-6-promo-efficiency-security-ai-software-84914982` 與產業分流補充 `宋分-20260413-analyst-memo-6-sector-map-supplement-177d3828` 作為同組來源，建立 `KOL/宋分/articles/20260413_analyst_memo_6_efficiency_security_ai_software_margin_turn.md`。Substack 電子報 HTML / JSON-LD、推廣 Note 與補充 Note JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/ticker/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「效率世界 -> 安全世界 / 風險溢價驗證框架」、「AI 基建價值捕捉 / 軟體應用層框架」、「財報季利潤率轉折 / 最壞已過框架」，並補強「單一變數過度定價 / 第二敘事框架」：市場從 lowest cost / fastest growth 轉向 resilience / anti-fragile，AI 革命最後最大利潤可能不在重資本基建，財報季不只看 EPS beat 而要看 margin 是否見底。**ASML**、**TSM** 僅為 L1 財報季觀察點，不更新 watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260411-market-decoding-16-ccc-cash-conversion-cycle-rerate-c98119c4`：整理宋分 / 美股送分題 Substack Note《市場解碼 #16》為什麼有些公司永遠不缺錢？因為它們在用「別人的錢」賺錢（CCC），並將同日 DPO 補充 `宋分-20260411-ccc-dpo-bargaining-power-supplement-9549287d` 作為同組來源，建立 `KOL/宋分/articles/20260411_market_decoding_16_ccc_cash_conversion_cycle_rerate.md`。兩則 Substack JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「CCC / 現金轉換週期 Re-rate 框架」，並補強「現金流品質 / FCF Re-rate 框架」與「資本黑洞 / 複利成長分流框架」：CCC = DSI + DSO - DPO，衡量公司做生意需要墊多久自有資金；短 CCC / 負 CCC 代表客戶或供應商在替公司供血，CCC 改善可能先於 EPS / FCF 反映並推動機構 re-rate；若 CCC 惡化，即使營收和 EPS 成長，也可能代表成長更吃資金。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
 
