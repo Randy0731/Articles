@@ -6,6 +6,9 @@
 
 | 主題 tag | 日期 | KOL / 來源 | 標題 | 核心觀點 | 相關 ticker | 框架 / 催化劑 | 筆記檔 |
 |---|---|---|---|---|---|---|---|
+| #AI基建 | 2026-02-13 | 宋分 / 美股送分題 | AI 商業化從訓練算力轉向推理 SLA | 宋分認為企業真正付費的是每天被呼叫的推理服務；AI 要進入客服、Copilot、電商、醫療或自動駕駛，關鍵是回應時間穩定可預測，而不只是模型更強或 GPU 更快 | **NVDA** | 推理經濟性 / 企業 SLA 基礎設施框架；Groq LPU；latency predictability | `KOL/宋分/articles/20260213_ai_inference_economics_nvda_groq_lpu.md`；`indexes/framework_index.md` |
+| #ReRating | 2026-02-13 | 宋分 / 美股送分題 | **NVDA** 從 GPU 供應商到 AI 基礎設施平台 | 宋分將 **NVDA** 的角色從訓練 GPU 供應商擴展為控制 CUDA、TensorRT、networking、系統整合與軟體堆疊的 AI 基礎設施平台，認為這可能影響未來估值方式 | **NVDA** | NVDA 平台化 re-rating；推理經濟性；AI infrastructure platform | `KOL/宋分/articles/20260213_ai_inference_economics_nvda_groq_lpu.md`；`indexes/watchlist_index.md` |
+| #產品節點 | 2026-02-13 | 宋分 / 美股送分題 | Groq LPU 與 latency predictability：推理市場獨立化訊號 | 宋分用 Groq 的 LPU 說明推理服務與訓練算力需求不同：企業場景需要固定回應時間與 SLA，而 LPU 犧牲通用性換取可預測延遲，顯示推理市場正在形成獨立賽道 | **NVDA** / Groq | LPU / GPU 分工；SRAM、compiler stack、固定資料路徑、enterprise inference | `KOL/宋分/articles/20260213_ai_inference_economics_nvda_groq_lpu.md`；`indexes/catalyst_index.md` |
 | #投資與投機 | 2026-02-11 | 宋分 / 美股送分題 | 投資紀律 #1：散戶等 K 線，機構等事件 | 宋分把散戶常見的價格追認流程，對比分析師先看公司、再看價格的流程；投資重點是知道自己在等哪個現實世界事件，而不是等股價反彈給安全感 | **NVDA** 僅外部案例連結 | 分析師流程 / 事件等待框架；新產品、訂單回升、產能開出、成本下降 | `KOL/宋分/articles/20260211_investment_discipline_analyst_process.md`；`indexes/framework_index.md` |
 | #ReRating | 2026-02-11 | 宋分 / 美股送分題 | 盤整期耐心優勢：公司變好但市場未發現 | 宋分認為盤整是沒有回饋的時間，但若公司正在變好而市場尚未發現，真正報酬常來自這段無聊等待期；這補強同日共識變化框架 | **NVDA** 僅外部案例連結 | 盤整期耐心優勢；共識形成前報酬；event-driven waiting | `KOL/宋分/articles/20260211_investment_discipline_analyst_process.md` |
 | #估值風險 | 2026-02-11 | 宋分 / 美股送分題 | PE / DCF 的用途是對抗情緒，不是預測股價 | 本篇提醒估值模型不能預測股價；真正用途是在大跌時檢查 EPS / cash flow 假設是否仍成立，避免用便宜感合理化 thesis 已破壞的下跌 | 全市場 / 成長型科技股 | 估值模型情緒校準；EPS model；Forward PE / DCF assumption check | `KOL/宋分/articles/20260211_investment_discipline_analyst_process.md` |
