@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260307-investment-discipline-5-pricing-stage-entry-framework-c59f8d2d`：整理宋分 / 美股送分題 Substack Note《投資紀律 #5｜分析師流程》與免費電子報《散戶要如何像機構一樣買在起漲點？》，建立 `KOL/宋分/articles/20260307_investment_discipline_5_pricing_stage_entry_framework.md`。Substack Note preloads 與免費電子報 HTML / preloads 正文全文可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/ticker/theme/framework/watchlist indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文補強「定價階段 / 視野鎖定紀律框架」：資訊擴散有機構研究、sellside 上修、媒體社群、ETF 被動資金四段；市場定價有 Multiple Expansion、Earnings Catch-up、Multiple Compression 三段。**NVDA** 判定 L2 framework application，2023-2024 是 AI infrastructure 敘事改寫的 Multiple Expansion，現在可視為 Earnings Catch-up / 第二階段；**MSFT** / **AMZN** / **NFLX** 僅作歷史第二階段例子，核能 / 電網 / 光通只作 AI 外溢產業例子。不更新 catalyst 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260305-avgo-bear-case-probability-discount-convergence-2ad5a854`：整理宋分 / 美股送分題 Substack Note《評價溫度計｜AVGO》法說後最壞情境機率與折價收斂框架，建立 `KOL/宋分/articles/20260305_avgo_bear_case_probability_discount_convergence.md`。Substack JSON-LD 正文全文可讀，來源為 URL，未另存 raw，OCR 狀態不適用；Broadcom Q1 FY2026 official release 與 earnings call transcript 用於校準 AI revenue、68% EBITDA / guidance、2027 AI chip revenue `$100B+` line of sight、2026-2028 capacity / supply chain 與 VMware VCF 口徑。
 - 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。**AVGO** 判定為宋分 L3 候選追蹤：本文重點不是 PE multiple 改變，而是 bear case probability 下降、實現機率上升、折現率 / 風險折扣下降，使評價溫度計在同一 PE 下變「更便宜」。新增「最壞情境機率 / 折價收斂框架」，並補強「評價溫度計框架」；**NVDA** / **META** / **GOOG** / **GOOGL** 只作對照或客戶語境，不建立 `Stocks/AVGO/`，本文不是買賣建議。
 
