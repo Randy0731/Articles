@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260310-market-decoding-9-rebound-risk-repricing-indicators-4c3e5065`：整理宋分 / 美股送分題 Substack Note《市場解碼 #9｜分析師視角》與使用者提供之留言補充截圖，建立 `KOL/宋分/articles/20260310_market_decoding_9_rebound_risk_repricing_indicators.md`。Substack JSON-LD 正文完整可讀，來源為 URL；留言截圖文字可完整人工辨識，截圖顯示 Mar 21，年份依原文推估為 2026；未另存 raw。
+- 更新：同步更新 source/theme/framework/catalyst indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文建立「市場風險三指標 / 反彈確認框架」：判斷反彈是否升級為風險重新定價，不看單日漲跌，而看信用利差是否擴大、VIX3M-VIX / VIX term structure 是否正常化、10Y / 利率預期是否定價衰退，再用市場分化、長期資金回流與 market breadth 確認。留言補充校準信用利差 bps 區間：200-300 常溫、300-500 壓力期、500-1000+ 危機期；重點是趨勢與速度，不是固定數字。文中無具名 ticker，因此不更新 ticker / watchlist / `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260309-analyst-memo-1-csp-fcf-software-ai-capex-deflation-7e151ab8`：整理宋分 / 美股送分題 Substack Note《宋分分析師備忘錄 #1》與免費電子報《CSP FCF焦點轉向｜軟體股信心｜AI CAPEX見頂辯論｜AI通縮》，建立 `KOL/宋分/articles/20260309_analyst_memo_1_csp_fcf_software_ai_capex_deflation.md`。Substack Note preloads 與免費電子報 HTML / preloads 正文全文可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文建立「市場提問轉向 / Buyside 備忘錄框架」：市場方向常因 buyside 開始問新問題而改變，本篇四問為 CSP CAPEX 何時見頂 / FCF 何時觸底、軟體股 AI moat 與利空測底、AI CAPEX 見頂論 vs 供應鏈鎖單、AI 通縮與資產泡沫。**NVDA** 判定 L2+ framework / watchlist update，Morgan Stanley 轉述口徑包含明年 `18x` PE、記憶體預付 / 鎖單到 2028、盈利預期 +38% 與 GTC / COMPUTEX / 2027 數字催化；**CRWD** / **WDAY** / **CRM** / **INTU** 僅為軟體股信心例子，CSP / hyperscalers 不映射成具名 ticker。不建立 `Stocks/`；本文不是買賣建議。
 
