@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260320-pricing-cycle-restart-msft-amzn-cost-9dd0938f`：整理宋分 / 美股送分題 Substack Note《產業與個股透鏡 #3｜技術與商業模式》作為 2026-03-17 市場解碼深度文的補充版。Substack preloads JSON 正文完整可讀，attachment / 連結長文 `p-191125298` 已於 `宋分-20260317-market-decoding-11-ai-semiconductor-rerate-112df345` 入庫，因此不另開重複長文，而是補入既有 `KOL/宋分/articles/20260317_market_decoding_11_ai_semiconductor_infrastructure_rerate.md`。
+- 更新：同步更新 source/ticker/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文補強「定價階段 / 視野鎖定紀律框架」與「產業級 Re-rate 五條件 / AI 半導體六指標框架」：能穿越牛熊的公司不是沒有 cycle，而是市場相信需求具結構性，讓公司可反覆走過新敘事、估值擴張、基本面驗證與再次定價；**MSFT** / **AMZN** / **COST** 為 framework case，AI 半導體問題則從「是否只是下一個 cycle」推進到「AI infrastructure 到底會有多大」。不新增 `Stocks/`、watchlist 或 catalyst；本文不是買賣建議。
+
 - 入庫 `宋分-20260319-growth-to-rate-pricing-pe-compression-87b76bcd`：整理宋分 / 美股送分題 Substack Note「公司明明還在成長，為什麼股價就是不動？」短補充，建立 `KOL/宋分/articles/20260319_growth_to_rate_pricing_pe_compression.md`。Substack preloads JSON 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用；attachment 為已入庫之 2026-03-04 市場解碼 #8。
 - 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文補強「利率敏感 / PE 壓縮辨識框架」：`股價 = EPS × PE`，即使 EPS 上升，只要市場因降息預期下修而降低願意支付的 PE，股價仍可能不動；此時市場是從「成長定價」轉向「利率定價」。文中無具名 ticker，不更新 ticker / watchlist / catalyst / `Stocks/`；本文不是買賣建議。
 

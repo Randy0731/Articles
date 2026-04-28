@@ -2,13 +2,13 @@
 
 - **KOL**：宋分 / 美股送分題
 - **來源**：Substack Note + 免費電子報
-- **類型**：Substack Note / 市場解碼深度 / AI 半導體 re-rating / HBM 雙結構 / 基礎設施化框架
-- **發文時間**：電子報 2026-03-17 05:30 UTC（台北 13:30；Substack preloads JSON）；Note 2026-03-17 09:56 UTC（台北 17:56；Substack preloads JSON）
+- **類型**：Substack Note / 市場解碼深度 / AI 半導體 re-rating / HBM 雙結構 / 基礎設施化框架 / 3/20 補充 Note
+- **發文時間**：電子報 2026-03-17 05:30 UTC（台北 13:30；Substack preloads JSON）；Note 2026-03-17 09:56 UTC（台北 17:56；Substack preloads JSON）；補充 Note 2026-03-20 03:59 UTC（台北 11:59；Substack preloads JSON）
 - **整理日期**：2026-04-28
-- **原始檔案 / URL**：https://substack.com/@openbookandeasypoint/note/c-229030021；https://openbookandeasypoint.substack.com/p/ai
+- **原始檔案 / URL**：https://substack.com/@openbookandeasypoint/note/c-229030021；https://openbookandeasypoint.substack.com/p/ai；補充 Note https://substack.com/@openbookandeasypoint/note/c-230471647
 - **source_id**：宋分-20260317-market-decoding-11-ai-semiconductor-rerate-112df345
 - **raw 路徑 / URL**：URL（未另存 raw）
-- **OCR 狀態**：不適用（Substack Note preloads 與免費電子報 HTML / preloads 正文完整可讀）
+- **OCR 狀態**：不適用（Substack Note preloads、免費電子報 HTML / preloads 與 2026-03-20 補充 Note 正文完整可讀）
 - **相關 ticker**：**MU** 為既有記憶體 / HBM 框架 proxy，本文未直接具名 **MU**；**MSFT**、**AMZN**、**COST** 為「可反覆重啟第一階段」的歷史 / 現況案例；**TSM** 為半導體從 cycle 轉 structural infrastructure 的歷史類比；**AAPL** 為台積電大型結構性客戶語境；**NVDA**、**ASML** 為「公司變成產業基礎設施」例子
 - **主題 tags**：#AI基建, #Memory, #ReRating, #半導體設備, #估值風險
 
@@ -78,6 +78,14 @@
 
 整理者判斷：這段補強 2026-03-07 的定價三階段。對典型週期股，第三階段是 multiple compression；但若 AI 半導體被市場重新定義為 infrastructure，新的需求敘事可能讓它反覆回到第一階段與第二階段，而不是線性走向週期結束。
 
+## 2026-03-20 補充 Note：不斷重啟新的定價
+
+2026-03-20 的《產業與個股透鏡 #3｜技術與商業模式》是同一篇 3/17 市場解碼深度文的補充推廣 Note，source_id 記為 `宋分-20260320-pricing-cycle-restart-msft-amzn-cost-9dd0938f`，並以本篇作 duplicate_of，不另開重複長文。
+
+這篇補充把原本的基礎設施敘事循環講得更直觀：能穿越牛熊的公司不是沒有 cycle，而是每次市場用新框架看它時，會重新進入「新敘事 -> 估值擴張 -> 基本面驗證 -> 再一個新敘事 -> 再定價」的路徑。**MSFT** 的 PC / cloud / AI infrastructure、**AMZN** 的電商現金流 / AWS / AI infrastructure、**COST** 的會員現金流，都被用來說明「結構性需求」如何讓市場不只用傳統週期高低來定價。
+
+對 AI 半導體的補充語句是：如果 AI infrastructure 真的是長期結構，市場問題就可能從「這是不是下一個 semiconductor cycle」轉為「AI infrastructure 到底會有多大」。這句話補強本文既有結論：AI 半導體仍在第一階段，GPU、記憶體與 CAPEX 已強，但後續能否穿越牛熊，要看基礎設施需求、收入可預測性與 AI revenue mix 能否被基本面驗證。
+
 ## 機構 re-rate 產業的五條件
 
 | 條件 | 宋分定義 | 追蹤意義 |
@@ -133,5 +141,11 @@
 這篇應接在 2026-03-12 記憶體 PB / cycle、2026-03-16 HBM 雙結構，以及 2026-03-07 定價階段框架後面讀。它把單一產業問題往上抽象成「市場如何從 cycle 問題轉向 infrastructure duration 問題」。
 
 查詢 **MU** 或 memory 時，本篇可作 3/12 與 3/16 的延伸：HBM / AI storage 是否能成為更技術主導、更長約、更綁定 GPU / 封裝的子市場，但不能寫成 **MU** 目標價或買賣建議。查詢 **MSFT** / **AMZN** / **COST** / **TSM** 時，本篇主要是框架案例，不是完整單股模型。查詢 AI 半導體時，這篇的核心價值是六個追蹤指標：AI CAPEX、semiconductor intensity、cluster scale、hardware refresh cycle、ecosystem lock-in、AI infrastructure revenue mix。
+
+## 修訂紀錄
+
+| 日期 | 類型 | 說明 |
+|---|---|---|
+| 2026-04-28 | 補充版 | 新增 2026-03-20 Substack Note `c-230471647` 作為同主題補充來源；該 Note 連到已入庫電子報 `p-191125298`，因此不重複建立長文，只補上 source row 與「不斷重啟新的定價」語言。 |
 
 ---
