@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260223-nvda-earnings-preview-ai-duration-visibility-d6cf0c58`：整理宋分 / 美股送分題 Substack Note《市場解碼 #4｜分析師視角》**NVDA** 財報 Preview，建立 `KOL/宋分/articles/20260223_nvda_earnings_preview_ai_duration_visibility.md`，並複製使用者提供之 Substack 截圖 PDF 至 `KOL/宋分/raw/20260223_宋分_nvda_earnings_preview_ai_duration_visibility_宋分-20260223-nvda-earnings-preview-ai-duration-visibility-d6cf0c58.pdf`。Substack preloads JSON 正文可讀，PDF 為 image-only raw 備份，OCR 狀態標「部分」。
+- 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。本文延續 2026-02-19 PEG 框架，將 **NVDA** PEG 0.37 寫成市場對 2027 以後 growth duration 信任不足的訊號；關鍵檢查是訂單能見度能否從 2026 延到 2027H1、毛利率 / 營益率是否在 ASIC / **AMD** 競爭下維持、GTC 是否提出推理架構與新晶片方向。**NVDA** 判定 L3 候選追蹤，不建立 `Stocks/NVDA/`；**AMD** / ASIC 僅為競爭風險語境，不新增 AMD thesis。本文不是買賣建議。
+
 - 入庫 `宋分-20260221-investment-discipline-3-certainty-repricing-ad32a16d`：整理宋分 / 美股送分題 Substack Note《投資紀律 #3｜分析師流程》與附加免費電子報《為什麼股票抱著都不會漲，賣掉就大噴？》，建立 `KOL/宋分/articles/20260221_investment_discipline_3_certainty_repricing.md`。Substack preloads JSON 正文可讀，只有 URL，未另存 raw，OCR 狀態標「不適用」。
 - 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「確定性提升 / 市場信任建立框架」：股價加速常不是因為公司第一次變好，而是市場看到公司連續證明、產業一起證明或 risk regime 改變後，從懷疑轉為比較相信。文中沒有具名 ticker 或單股觀點，因此不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
 
