@@ -15,6 +15,51 @@
 - **相關 ticker / 產業**：
 ```
 
+## OCI 終極樣品屋 / 主權雲信用框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第08期_OracleTikTok與NvidiaIntel_Nscale.md`
+- **一句話定義**：高敏感、高流量應用若被雲端供應商深度整合，可同時展示雲端能力、資料隔離、政府信任與 AI 數據資產。
+- **適用情境**：Oracle / TikTok、sovereign cloud、government cloud、regulated data residency、雲端服務商進入敏感產業。
+- **觀察指標**：OCI revenue / RPO、TikTok transaction terms、government / defense customers、data-residency certification、privacy / security audit、AI data usage rights。
+- **也出現於**：本篇為 KP 框架庫首筆；可與 Oracle Project Jupiter / AI data center power-procurement watchlist 脈絡交叉比對。
+- **相關 ticker / 產業**：**ORCL**；cloud infrastructure、sovereign cloud、資料國安、AI data。
+
+## 季報壓力測試 / 透明度篩選框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第08期_OracleTikTok與NvidiaIntel_Nscale.md`
+- **一句話定義**：季報壓力會造成短期主義，但也是公開市場降低資訊不對稱、驗證管理層與篩選空想敘事的制度工具。
+- **適用情境**：上市公司治理、財報制度變革、管理層長期主義、替代數據與散戶資訊差。
+- **觀察指標**：reporting cadence、guidance quality、R&D / capex behavior、earnings volatility、information asymmetry、management credibility。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：公開市場制度、corporate governance、財報透明度。
+
+## IPO 價格發現 / 投資投機邊界框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第08期_OracleTikTok與NvidiaIntel_Nscale.md`
+- **一句話定義**：IPO 發行價是銷售價格，上市初期需透過交易、財報與鎖定期賣壓完成價格發現；未完成前更接近投機。
+- **適用情境**：新股、熱門 IPO、AI / fintech / software listing、上市後頭幾季的交易與估值判斷。
+- **觀察指標**：first-day return、float、lock-up expiry、first two earnings reports、revenue / margin / FCF、insider selling、sell-side estimate revisions。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**CRCL**, **CRWV**, **FIG**, **STUB**；IPO、fintech、AI infrastructure、software。
+
+## NVLink 圍牆花園 / CPU-GPU 平台化框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第08期_OracleTikTok與NvidiaIntel_Nscale.md`
+- **一句話定義**：AI 系統競爭從單顆 GPU 延伸到 CPU、互連、SoC 與軟體平台，誰控制高速互連與系統標準，誰更容易建立圍牆花園。
+- **適用情境**：Nvidia / Intel partnership、AI server architecture、CPU-GPU attach ratio、PC AI SoC、AMD APU competition。
+- **觀察指標**：NVLink adoption、custom x86 CPU wins、AI server architecture、CPU-GPU latency / bandwidth、PC SoC design wins、DCAI revenue、AMD / ARM competitive response。
+- **也出現於**：本篇為 KP 框架庫首筆；可與 KP「AI 推論 CPU / GPU 利用率框架」及 INTC 儀表板 CPU 復權 thesis 交叉比對。
+- **相關 ticker / 產業**：**NVDA**, **INTC**, **AMD**, **TSM**；AI server、x86 CPU、GPU interconnect、PC SoC、foundry。
+
+## 主權 AI 輸出 / 本地 Neocloud 冠軍框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第08期_OracleTikTok與NvidiaIntel_Nscale.md`
+- **一句話定義**：美國 AI 技術堆疊外溢到盟友時，會尋找本地基礎設施公司承接資料主權、GPU 部署、電力與政治可信度。
+- **適用情境**：Nscale、CoreWeave、Nebius、主權 AI、歐洲 / 中東 AI data center、AI infrastructure diplomacy。
+- **觀察指標**：anchor customer contracts、sovereign AI policy、local data residency、GPU allocation、power availability、private credit / equity financing、utilization、revenue recognition。
+- **也出現於**：本篇為 KP 框架庫首筆；可與 KP「Neocloud 產能外包 / 算力確定性框架」交叉比對。
+- **相關 ticker / 產業**：**MSFT**, **NVDA**；Nscale 未上市；Neocloud、sovereign AI、AI data center。
+
 ## AI 作業系統 / SaaS 啞鈴化框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第07期_SaaS啞鈴NeoCloud與ASML_Mistral.md`
