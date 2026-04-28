@@ -24,6 +24,24 @@
 - **也出現於**：本篇為 KP 框架庫首筆。
 - **相關 ticker / 產業**：**AMZN**, **MSFT**, **GOOG**, **GOOGL**；雲端、AI 基建、資料中心。
 
+## AI 推論 CPU / GPU 利用率框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第02期_AMD_CPU與GPU.md`
+- **一句話定義**：在 AI 推論系統中，GPU 是昂貴跑道，但 CPU 像塔台，負責請求排序、tokenization、batching 與調度；CPU 太慢會讓 GPU 閒置，拖累 latency 與 ROI。
+- **適用情境**：AI inference、enterprise AI deployment、CPU:GPU attach ratio、GPU utilization、server architecture、AI data center TCO。
+- **觀察指標**：inference latency、GPU utilization、batching efficiency、CPU frequency / cores、CPU:GPU ratio、EPYC / Xeon adoption、data center TCO、AI inference revenue。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**AMD**, **NVDA**, **INTC**；AI 推論、server CPU、GPU utilization、資料中心。
+
+## AMD 雙線敘事 / 估值動能博弈框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第02期_AMD_CPU與GPU.md`
+- **一句話定義**：AMD 的估值同時取決於 EPYC CPU 的穩定份額 / 現金流底座，以及 Instinct GPU 的高 beta AI upside；若只看 GPU 追趕，會低估 CPU 根基，也可能高估 AI 溢價。
+- **適用情境**：AMD、CPU + GPU 混合 data center businesses、AI semiconductor challengers。
+- **觀察指標**：EPYC market share、data center segment revenue mix、Instinct revenue、gross margin、2026 / 2027 EPS revision、forward P/E、MI roadmap、hyperscaler customer wins、NVDA / INTC relative performance。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**AMD**, **INTC**, **NVDA**；server CPU、AI GPU、semiconductor challenger valuation。
+
 ## 成長故事信任危機 / 估值折價框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第01期_AI賭局與諾和諾德.md`

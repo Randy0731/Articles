@@ -1,6 +1,6 @@
 # INTC 投資儀表板
 
-> 最後更新：2026-04-28（觸發來源：`Stocks/INTC/quarterly/INTC_筆記_2026Q1.md`；補入 Bytc 2026-01-24 大美麗法案 VI 的 48D 35% 投資抵免 / 工廠產能重估訊號；此為 L2 稅制政策補強，非目標價或買賣建議）
+> 最後更新：2026-04-29（觸發來源：`Stocks/INTC/quarterly/INTC_筆記_2025Q3.md`；補入 KP / FOMOSoc 2025-08-09 思考筆記第2期的 EPYC 打破 Xeon 壟斷歷史風險；此為 L2 競爭風險補強，非目標價或買賣建議）
 
 ## 當前立場快照
 
@@ -10,7 +10,8 @@
 - **上一筆 Bytc 補強訊號**：Bytc 2026-04-05 宏觀週報將 Intel 以 142 億美元買回 Fab 34 49% 股權解讀為 IDM 2.0 收網期與全球算力基建沒有停止；這補強 foundry / 製造控制權 thesis，但仍需用外部客戶、utilization、毛利與 FCF 驗證。
 - **本次補入的歷史稅制訊號**：Bytc 2026-01-24 大美麗法案 VI 將 §48D 35% advanced manufacturing investment credit 與 qualified production property 100% depreciation，解讀為把資本從 code / software 推回 chip fabs / factory capacity 的稅法槓桿。對 **INTC** 是本土製造 capex cost compression / 產能 moat 重估線索，但不代表新訂單、外部 foundry 客戶、backlog、revenue 或 EPS 已驗證。
 - **本次補入的歷史 positioning 訊號**：2026-02-20（推估）大叔在 Cantor Fitzgerald 2025Q4 13F 表中點名 **INTC** / **ORCL** 平均成本很高、帶 FOMO 語氣；SEC 交叉核對 **INTC** common shares `2,555,851`、value `94,310,902`，另有 put row。表格 `$26.80` 是第三方平均成本估算，不是 SEC cost basis，也不等於 **INTC** 基本面 thesis 已驗證。
-- **依據篇章**：`KOL/Bytc/articles/20260124_tax_reform_code_to_capacity.md`；`KOL/Bytc/articles/20260425_macro_data_weekly_20260423.md`；`KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md`；`KOL/大叔美股筆記/notes/大叔美股筆記.md`；`KOL/Bytc/articles/20260405_macro_data_weekly_20260404.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q2.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q1.md`
+- **本次補入的 KP 歷史風險訊號**：KP 2025-08-09 在 AMD 思考筆記中稱 EPYC 2025Q2 x86 server CPU share 約 `50%`、2024 年約 `30%`，意味 Intel Xeon 長期壟斷被打破。這是後續 **INTC** CPU 復權 thesis 的歷史負面基準，不改寫 2026 最新正面補強。
+- **依據篇章**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第02期_AMD_CPU與GPU.md`；`Stocks/INTC/quarterly/INTC_筆記_2025Q3.md`；`KOL/Bytc/articles/20260124_tax_reform_code_to_capacity.md`；`KOL/Bytc/articles/20260425_macro_data_weekly_20260423.md`；`KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md`；`KOL/大叔美股筆記/notes/大叔美股筆記.md`；`KOL/Bytc/articles/20260405_macro_data_weekly_20260404.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q2.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q1.md`
 
 ## 關鍵價位追蹤
 
@@ -46,6 +47,7 @@
 | Intel Foundry 是否有足夠外部客戶，而非只靠內部轉單？ | 2026-04-24 | 外部客戶比例、18A design win、EMIB / Foveros 訂單、cycle time | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md` | 待追蹤 |
 | Fab 34 重新取得控制權是否能改善 foundry 執行，而非只增加資本壓力？ | 2026-04-27 | Fab 34 utilization、外部 foundry customer wins、capex、FCF、cash balance、gross margin | `KOL/Bytc/articles/20260405_macro_data_weekly_20260404.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q2.md` | 待追蹤 |
 | Intel 美國先進製造資產能否符合 48D 35% ITC 與工廠 100% depreciation eligibility？ | 2026-04-28 | construction start / safe harbor、placed in service、qualified use、tax footnotes、cash tax rate、capex guidance | `KOL/Bytc/articles/20260124_tax_reform_code_to_capacity.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q1.md` | 待追蹤 |
+| KP 2025Q2 口徑中 EPYC 取得約 50% x86 server CPU share 後，Intel 是否真的扭轉 server share loss？ | 2025-08-09（補入日 2026-04-29） | Xeon / EPYC market share、DCAI revenue、server CPU backlog、perf/watt、customer wins | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第02期_AMD_CPU與GPU.md`；`Stocks/INTC/quarterly/INTC_筆記_2025Q3.md` | 歷史 L2 / 待後續財報驗證 |
 | Diamond / Coral Rapids 是否能壓制 AMD EPYC 的效能功耗比？ | 2026-04-24 | benchmark、TCO、資料中心市占、客戶採用 | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md` | 待追蹤 |
 | AI PC 換機潮是否能讓 CCG 重新加速？ | 2026-04-24 | Windows 11 更新、Core Ultra / NPU 滲透、商用 PC 換機、CCG 成長率 | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md` | 待追蹤 |
 | Cantor Fitzgerald 2025Q4 **INTC** 高成本倉位是否延續？ | 2026-04-27 | 2026Q1 13F、common vs put rows、後續加碼 / 減碼、是否仍持有 | `Stocks/INTC/quarterly/INTC_筆記_2026Q1.md` | 待追蹤 |
@@ -57,6 +59,7 @@
 | 外部 foundry 客戶不足 | 高 | Foundry 成長主要來自內部需求，外部大客戶未落地 | 外部客戶比例、18A design win、先進封裝訂單 | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md` |
 | CPU shortage / CPU 配比 narrative 未轉成 DCAI revenue | 高 | 市場討論 CPU 復權，但 **INTC** DCAI revenue、Xeon backlog 或 gross margin 沒有跟上 | DCAI revenue、server CPU backlog、gross margin、EPS、customer demand | `KOL/Bytc/articles/20260425_macro_data_weekly_20260423.md` |
 | Intel 產品仍落後 AMD / ARM | 高 | Bytc 也承認 Intel 產品現階段不如 AMD / ARM；若 roadmap 改善不足，re-rating 失效 | benchmark、perf/watt、customer wins、market share、launch cadence | `KOL/Bytc/articles/20260425_macro_data_weekly_20260423.md` |
+| EPYC share loss 成為結構性問題 | 高 | AMD 在 hyperscalers / data center 持續擴大 share，Intel 無法用 roadmap / pricing / perf-per-watt 拉回 | server CPU share、Xeon / EPYC benchmark、DCAI revenue、gross margin | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第02期_AMD_CPU與GPU.md`；`Stocks/INTC/quarterly/INTC_筆記_2025Q3.md` |
 | 18A 良率與量產延遲 | 高 | 18A 良率瓶頸、cycle time 拉長、客戶轉單 | 良率、roadmap、客戶公告、capex 效率 | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md` |
 | AMD EPYC / Zen 6 競爭 | 高 | Granite / Diamond / Coral Rapids 未能在 perf/watt 或 TCO 取得優勢 | benchmark、資料中心市占、TCO | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md` |
 | Fab 34 溢價回購後的資本壓力 | 中高 | 控制權提升未帶來外部客戶、utilization 或毛利率改善，反而壓縮現金與 FCF | Fab 34 utilization、capex、cash balance、FCF、Foundry gross margin | `KOL/Bytc/articles/20260405_macro_data_weekly_20260404.md` |

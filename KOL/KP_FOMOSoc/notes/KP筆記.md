@@ -8,6 +8,7 @@
 
 | 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
 |---|---|---|---|---|---|---|
+| 2025-08-09 03:30 UTC | 2026-04-29 | 當市場只看GPU，AMD憑什麼值這個價? - KP思考筆記(第2期) | KP_FOMOSoc-20250809-kp-thinking-note-2-amd-cpu-gpu-39fb459a | **AMD**, **NVDA**, **INTC**, **AMZN**, **MSFT**, **GOOG**, **GOOGL** | #AI基建 #財報 #ReRating #估值風險 #競爭風險 | 週報獨立成文：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第02期_AMD_CPU與GPU.md`；AMD 為 L3 watchlist，INTC 為歷史 L2 競爭風險 |
 | 2025-08-03 04:05 UTC | 2026-04-29 | 一場3000億美元的AI賭局，與諾和諾德的投資看法 - KP思考筆記(第2期) | KP_FOMOSoc-20250803-kp-thinking-note-1-ai-capex-nvo-719608a9 | **AMZN**, **MSFT**, **GOOG**, **GOOGL**, **NVO** | #AI基建 #財報 #ReRating #生技醫療 #估值風險 | 週報獨立成文：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第01期_AI賭局與諾和諾德.md`；正文自稱第一期，原標題寫第2期 |
 
 ---
