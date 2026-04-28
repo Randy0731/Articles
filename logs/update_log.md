@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 補充入庫 `宋分-20260416-market-decoding-17-good-loss-bad-loss-operating-leverage-bb2725cf` 與 `宋分-20260416-pre-commercial-long-term-option-success-probability-5a559dc4`：整理宋分 / 美股送分題 2026-04-16 兩則 Substack Note，作為 `宋分-20260414-analyst-system-2-income-statement-operating-leverage-rerate-429faebd` 的補充來源，更新 `KOL/宋分/articles/20260414_analyst_system_2_income_statement_operating_leverage_rerate.md`。兩則 Substack JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。`c-244250577` 補強「好虧損 vs 壞虧損」與 EPS 不是轉折點、營業利益才是關鍵；`c-244260921` 新增「未商業化公司 / 長期選擇權成功機率框架」，以成功機率 `p` x TAM x 利潤率 x 折現描述尚未商業化公司估值，追蹤技術、現金 runway 與外部背書。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260414-analyst-system-2-income-statement-operating-leverage-rerate-429faebd`：整理宋分 / 美股送分題 Substack 電子報《宋分 | 分析師底層系統 #2》營業槓桿才是股價起漲的真正引擎，並將推廣 Note `宋分-20260414-analyst-system-2-operating-leverage-promo-93f619b2` 作為同組來源，建立 `KOL/宋分/articles/20260414_analyst_system_2_income_statement_operating_leverage_rerate.md`。Substack API / JSON-LD 與推廣 Note JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「損益表價值放大 / 營業槓桿 Re-rate 框架」，並補強「健康投資 vs 惡化分流框架」：分析師不只看 revenue growth / EPS beat，而是看 revenue -> gross profit -> Opex -> operating income -> EPS 過程中價值是否被放大；若高品質營收、毛利邊際改善、健康費用與 operating leverage 一起出現，才更接近 re-rate 起點。Aurora Systems 為假設案例；Nvidia 僅為供應商舉例，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
 
