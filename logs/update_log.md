@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260327-investment-discipline-8-relative-low-risk-zone-b6e07e01`：整理宋分 / 美股送分題 Substack 電子報《現在該出手抄底了嗎？到底怎麼看「相對低點」？你在看股價，但機構在判斷出手與停手的指標》、同日 Note `c-233974604`，並補入使用者提供 2026-04-01 留言截圖，建立 `KOL/宋分/articles/20260327_investment_discipline_8_relative_low_risk_zone.md`。Substack 電子報 HTML、Note preloads JSON 與留言補充截圖完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用 / 截圖完整。
+- 更新：同步更新 source/ticker/theme/framework/catalyst indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「相對低點 / 安全區間風險控制框架」：相對低點不是最低點，而是風險開始下降、賣壓接近耗盡、市場開始分化的區間；留言補充說明價格反映的是市場對未來的共識版本，不是未來本身。**ORCL** 與記憶體只是讀者 / 留言中的 L1 框架例子，不更新 watchlist / `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260326-market-decoding-13-cash-flow-quality-c5ce9f5a`：整理宋分 / 美股送分題 Substack Note《市場解碼 #13｜分析師流程》為什麼有些公司「看起來很會賺」，股價卻不漲？因為市場在看「現金流」，不是 EPS，並補入使用者提供 2026-03-26 留言截圖，建立 `KOL/宋分/articles/20260326_market_decoding_13_cash_flow_quality.md`。Substack Note 正文完整可讀，留言補充截圖完整可人工辨識，來源為 URL，未另存 raw，OCR 狀態不適用 / 截圖完整。
 - 更新：同步更新 source/ticker/theme/framework/catalyst indexes、`KOL/宋分/frameworks/宋分框架庫索引.md`、`Stocks/TXN/quarterly/TXN_筆記_2026Q1.md`、`Stocks/TXN/TXN_index.md` 與 `Stocks/TXN/TXN_儀表板.md`。本文新增「現金流品質 / FCF Re-rate 框架」：EPS 好不代表值得 re-rate，市場看 OCF / FCF 是否穩定、可預測、能穿越週期；留言補充拆出 `OCF - SBC - maintenance capex` 與 `OCF - SBC - total CAPEX` 兩種 FCF 口徑。**TXN** 為已追蹤個股 L2，本文補強 3/24 FCF 修復尚非 AI re-rate 的判斷；CSP / hyperscalers 與半導體、IC 設計、製造、EV、太陽能等為產業類別語境，不映射成具名 ticker。本文不是買賣建議。
 
