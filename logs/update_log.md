@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `大叔美股筆記-20260115-us-space-strategy-rklb-pl-asts-rdw-part2-3258354b`：整理大叔美股筆記 Substack 付費文章《解析美國太空戰略架構之重塑(下半集)》，建立 `KOL/大叔美股筆記/articles/20260115_us_space_strategy_rklb_pl_asts_rdw_part2_uncle.md`，並複製使用者提供之 8 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20260115_大叔美股筆記_us_space_strategy_rklb_pl_asts_rdw_part2_大叔美股筆記-20260115-us-space-strategy-rklb-pl-asts-rdw-part2-3258354b.pdf`。公開頁只顯示 metadata 與付費牆，完整內容以 PDF 視讀為主；p.1-p.6 為核心正文、財務 / 營運表與結論，p.6-p.7 為 disclaimer / references，p.7-p.8 為 discussion / recommended posts。大叔把 **RKLB**、**PL**、**ASTS**、**RDW** 拆成國防太空四層分工：Prime / Eyes / Nerves / Nuts & Bolts，並用 Q3 2025 毛利、backlog、RPO、liquidity、EAC 與產品節點檢查 commercial-first defense space 是否有財務韌性。
+- 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes 與 private raw manifest。四檔均維持候選追蹤，不建立 `Stocks/` 專案；**PL** 最近日期更新為 2026-01-15，**RKLB**、**RDW**、**ASTS** 補入下半集脈絡但 recent date 仍以既有較晚資料為準。新增「國防太空四層分工框架」；`ASTS 2026 Q1 5 launches / Block 2 ASIC` 與既有 `RKLB Neutron 2026 Q1` 因整理日已過且本次未外部核對結果，均標記「待確認」。本文不是買賣建議。
+
 - 入庫 `大叔美股筆記-20260111-us-space-strategy-rklb-pl-asts-rdw-18378ad7`：整理大叔美股筆記 Substack 付費文章《解析美國太空戰略架構之重塑(上半集)》，建立 `KOL/大叔美股筆記/articles/20260111_us_space_strategy_rklb_pl_asts_rdw_uncle.md`，並複製使用者提供之 8 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20260111_大叔美股筆記_us_space_strategy_rklb_pl_asts_rdw_大叔美股筆記-20260111-us-space-strategy-rklb-pl-asts-rdw-18378ad7.pdf`。公開頁只顯示標題、metadata 與 preview，完整內容以 PDF 視讀為主；p.1-p.5 為核心正文與財務 / 戰略圖表，p.6 為免責聲明 / references，p.7-p.8 為 discussion / recommended posts。大叔將 **RKLB**、**PL**、**ASTS**、**RDW** 從「太空新創四小龍」重新定位為美國國防太空架構中的可交付產能，核心是 DoW / SDA / Golden Dome 把 commercial space vendor 推進國防主幹道。
 - 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes 與 private raw manifest。四檔均判定為候選追蹤，不建立 `Stocks/` 專案；**RKLB**、**RDW**、**ASTS** 更新既有 watchlist，**PL** 新增 watchlist。`Neutron 2026 Q1` 係原文時點預期，整理日已過，標記為「待確認」而不推測結果；文章內 Q3 2025 財務數字以大叔 / PDF 口徑記錄，未逐項外部校準。本文不是買賣建議。
 
