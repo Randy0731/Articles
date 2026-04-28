@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260326-market-decoding-13-cash-flow-quality-c5ce9f5a`：整理宋分 / 美股送分題 Substack Note《市場解碼 #13｜分析師流程》為什麼有些公司「看起來很會賺」，股價卻不漲？因為市場在看「現金流」，不是 EPS，並補入使用者提供 2026-03-26 留言截圖，建立 `KOL/宋分/articles/20260326_market_decoding_13_cash_flow_quality.md`。Substack Note 正文完整可讀，留言補充截圖完整可人工辨識，來源為 URL，未另存 raw，OCR 狀態不適用 / 截圖完整。
+- 更新：同步更新 source/ticker/theme/framework/catalyst indexes、`KOL/宋分/frameworks/宋分框架庫索引.md`、`Stocks/TXN/quarterly/TXN_筆記_2026Q1.md`、`Stocks/TXN/TXN_index.md` 與 `Stocks/TXN/TXN_儀表板.md`。本文新增「現金流品質 / FCF Re-rate 框架」：EPS 好不代表值得 re-rate，市場看 OCF / FCF 是否穩定、可預測、能穿越週期；留言補充拆出 `OCF - SBC - maintenance capex` 與 `OCF - SBC - total CAPEX` 兩種 FCF 口徑。**TXN** 為已追蹤個股 L2，本文補強 3/24 FCF 修復尚非 AI re-rate 的判斷；CSP / hyperscalers 與半導體、IC 設計、製造、EV、太陽能等為產業類別語境，不映射成具名 ticker。本文不是買賣建議。
+
 - 入庫 `宋分-20260324-analog-ic-ai-structural-rerate-32e8539e`：整理宋分 / 美股送分題 Substack 電子報《市場解碼深度》類比晶片：是景氣循環的末端，還是下一個被「結構性重估」的 AI 隱形地標？並將 2026-03-24 推廣 Note `c-232399422` 與 2026-03-28 留言補充 `c-234581134` 作為同組來源，建立 `KOL/宋分/articles/20260324_analog_ic_ai_structural_rerate.md`。Substack 電子報 HTML、兩則 Note preloads JSON 與使用者提供 3 張留言截圖完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes、`KOL/宋分/frameworks/宋分框架庫索引.md`、`Stocks/TXN/quarterly/TXN_筆記_2026Q1.md`、`Stocks/TXN/TXN_index.md` 與 `Stocks/TXN/TXN_儀表板.md`。本文新增「Re-rating 階梯 / Cycle Digestion 分辨框架」，並補強「類比晶片 AI 電力雙結構 Re-rate 框架」：**TXN** 為已追蹤個股 L2，宋分明確拆成 FCF 修復尚非 AI re-rate；**ADI** 更新 watchlist，重點為 AI / robotics / edge AI 第二階段驗證；**NVDA**、**META**、**NFLX**、**DPZ**、**SHW**、**MSFT**、**COST**、**ASML** 僅為 framework cases。本文不是買賣建議。
 
