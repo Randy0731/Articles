@@ -2,6 +2,9 @@
 
 ## 2026-04-29
 
+- 入庫 `KP_FOMOSoc-20250928-kp-thinking-note-special-nvidia-ai-factory-a353d3e5`：整理 KP / FOMOSoc Substack 公開特別篇《黃仁勳的AI作戰藍圖：為何Nvidia增長不會停？為何對手免費也贏不了？ - KP思考筆記(特別篇)》，建立 `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記特別篇_NvidiaAI作戰藍圖.md`。Substack API post id `174677825` / canonical URL `https://www.fomosoc.com/p/ainvidia-kp` 的 `body_html` 完整可讀，`audience=everyone`，正文有黃仁勳 BG2 Podcast 訪談引言、六個主題、結論與 KP 署名，未偵測截斷；API `wordcount` 低於實際解析長度，故以 HTML 轉文字後逐段檢查。
+- 更新：同步更新 `KOL/KP_FOMOSoc/notes/KP筆記.md`、`KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`、source/ticker/theme/framework/catalyst indexes。本文新增「加速計算更新 / 存量基建替換框架」、「AI 三重 Scaling Laws / 推理思考成本框架」、「AI Factory 系統級 TCO / Tokens per Watt 護城河框架」與「主權 AI / 全球智慧發電廠框架」；**NVDA** 判定 L3 watchlist 歷史補強，不建立 `Stocks/NVDA/`；**MSFT**, **GOOG**, **GOOGL**, **META**, **AMZN** 只作 hyperscaler、客戶、競爭或 AI workload 脈絡。本文不是買賣建議。
+
 - 入庫 `KP_FOMOSoc-20250927-kp-thinking-note-9-ai-bubble-nvda-cisco-powell-baba-f34a2416`：整理 KP / FOMOSoc Substack 公開週報《AI是泡沬嗎？NVDA是下一個Cisco？連Powell都說股市太貴？ - KP思考筆記(第9期)》，建立 `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第09期_AI泡沫NVDA_Cisco_Powell與阿里Capex.md`。Substack API post id `174515628` / canonical URL `https://www.fomosoc.com/p/ainvdaciscopowell-kp9` 的 `body_html` 完整可讀，`audience=everyone`，正文有 Nvidia vs Cisco、Powell 高估值警告、Alibaba AI capex 三個主題與投票 / KP 署名，未偵測截斷；API `wordcount` 明顯偏低，故以 HTML 轉文字後逐段檢查。
 - 更新：同步更新 `KOL/KP_FOMOSoc/notes/KP筆記.md`、`KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`、source/ticker/theme/framework/catalyst/watchlist indexes。本文新增「AI 供應商融資 / 真需求過濾框架」、「高估值政策信號 / 風險體檢框架」與「AI Capex 軍費化 / 自有現金流軍備競賽框架」；**BABA** 判定 KP 單篇 L3 watchlist，不建立 `Stocks/BABA/`；**NVDA** 為 OpenAI demand / cost-black-hole 與 AI 軍火商脈絡，**ORCL** / **MSFT** 為 OpenAI 雲端租金與資本輸血背景，**CSCO** 只作歷史 vendor-financing 對照。本文不是買賣建議。
 

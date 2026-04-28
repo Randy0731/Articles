@@ -15,6 +15,42 @@
 - **相關 ticker / 產業**：
 ```
 
+## 加速計算更新 / 存量基建替換框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記特別篇_NvidiaAI作戰藍圖.md`
+- **一句話定義**：若通用計算進入尾聲，全球既有資料中心更新週期會從 CPU-centric 架構轉向 accelerated computing，形成一次性且長尾的 AI infrastructure replacement cycle。
+- **適用情境**：Nvidia data center demand、hyperscaler capex、enterprise AI infrastructure refresh、CPU to GPU / accelerator migration。
+- **觀察指標**：data center capex、accelerated compute mix、GPU / networking attach、AI server shipments、cloud AI revenue、utilization、power capacity、depreciation vs revenue conversion。
+- **也出現於**：可與 KP「AI 基建資本開支回報 / 2026 轉折框架」及宋分 CSP / AI semiconductor re-rate 框架交叉比對。
+- **相關 ticker / 產業**：**NVDA**, **MSFT**, **GOOG**, **GOOGL**, **META**, **AMZN**；AI data center、accelerated computing、hyperscaler infrastructure。
+
+## AI 三重 Scaling Laws / 推理思考成本框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記特別篇_NvidiaAI作戰藍圖.md`
+- **一句話定義**：AI demand 不只來自 pre-training，還來自 post-training 與 inference 從一次性回答變成多步思考，使單次 query compute 與使用頻率同步放大。
+- **適用情境**：AI inference demand、agentic AI、reasoning models、foundation model compute spend、CSP token economics。
+- **觀察指標**：inference tokens、reasoning-token usage、average compute per query、active users、API calls、post-training spend、tool-use workload、latency / cost per task。
+- **也出現於**：可與 KP「AI 供應商融資 / 真需求過濾框架」及宋分「CSP Token 定價權 / 收費機制 Re-rate 框架」交叉比對。
+- **相關 ticker / 產業**：**NVDA**, **MSFT**, **GOOG**, **GOOGL**, **AMZN**；AI inference、reasoning models、agentic AI、token economics。
+
+## AI Factory 系統級 TCO / Tokens per Watt 護城河框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記特別篇_NvidiaAI作戰藍圖.md`
+- **一句話定義**：AI infrastructure 的競爭不在單顆晶片價格，而在整座 AI factory 在有限電力與土地下能產生多少高價值 token 與 revenue。
+- **適用情境**：Nvidia vs ASIC / TPU / Trainium competition、hyperscaler make-or-buy、AI data center power bottleneck、GPU cluster procurement。
+- **觀察指標**：tokens per watt、system-level performance、NVLink / networking bandwidth、cluster utilization、power allocation、data center revenue per MW、TCO、software ecosystem switching cost。
+- **也出現於**：可與 KP「先進製程 TCO / 算力堆數量失效框架」及「NVLink 圍牆花園 / CPU-GPU 平台化框架」交叉比對。
+- **相關 ticker / 產業**：**NVDA**, **MSFT**, **GOOG**, **GOOGL**, **AMZN**；AI factory、GPU cluster、networking、hyperscaler ASIC。
+
+## 主權 AI / 全球智慧發電廠框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記特別篇_NvidiaAI作戰藍圖.md`
+- **一句話定義**：AI 被視為國家級基礎設施後，各國會為資料主權、文化語言、產業政策與經濟自主建立本地 AI factory，形成 Nvidia 與基建供應鏈的全球政策需求。
+- **適用情境**：sovereign AI、Middle East / Europe / Asia AI infrastructure deals、export controls、Nvidia China policy、national AI clouds。
+- **觀察指標**：sovereign AI announcements、government AI infrastructure budgets、local data residency rules、GPU export licenses、Nvidia country deals、Huawei / domestic accelerator share、US-China policy changes。
+- **也出現於**：可與 KP「主權 AI 輸出 / 本地 Neocloud 冠軍框架」交叉比對。
+- **相關 ticker / 產業**：**NVDA**；Huawei 未上市；sovereign AI、AI diplomacy、export controls、national AI infrastructure。
+
 ## AI 供應商融資 / 真需求過濾框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第09期_AI泡沫NVDA_Cisco_Powell與阿里Capex.md`
