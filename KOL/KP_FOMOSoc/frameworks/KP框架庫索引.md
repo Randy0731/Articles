@@ -752,3 +752,66 @@
 - **觀察指標**：AI referral traffic、brand mention share、traditional SEO rank、Semrush enterprise adoption、Adobe marketing suite attach、Google / AI answer changes、GEO tooling demand、Creative Cloud churn。
 - **也出現於**：本篇為 KP 框架庫首筆；可與 AI 入口控制權 / Browser Distribution Moat 框架交叉比對。
 - **相關 ticker / 產業**：**ADBE**, **SEMR**, **GOOG**, **GOOGL**, **FIG**；creative software、marketing SaaS、SEO / GEO、AI search。
+
+## GPU / ASIC 非零和替代框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第18期_GPU_TPU_NVO_Dell_HOOD_ZS.md`
+- **一句話定義**：專用晶片可在特定 workload 替代 GPU，但投資判斷要同時看替代比例、TAM 擴張速度與平台生態控制權。
+- **適用情境**：Google TPU / Nvidia GPU competition、hyperscaler custom silicon、inference workload allocation、AI factory platform competition。
+- **觀察指標**：inference share、cost per token、TPU / GPU utilization、AI factory backlog、CUDA / software ecosystem、CoWoS capacity、power availability。
+- **也出現於**：可與「推理時代 / 專用晶片帝國框架」、「AI 算力分工 / 訓練推理雙雲框架」和「主權 AI 分層主權 / 地緣建築師框架」交叉比對。
+- **相關 ticker / 產業**：**NVDA**, **GOOG**, **GOOGL**, **TSM**, **MSFT**, **META**；AI semiconductor、hyperscaler custom silicon、AI data center。
+
+## 製藥 0/1 臨床開關框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第18期_GPU_TPU_NVO_Dell_HOOD_ZS.md`
+- **一句話定義**：製藥公司的 pipeline value 常由臨床結果二元切換，市值表面回到原點時，內部風險地圖可能已完全改變。
+- **適用情境**：Novo Nordisk Semaglutide Alzheimer trial、Amycretin obesity pipeline、clinical-stage pharma valuation、GLP-1 pipeline optionality。
+- **觀察指標**：primary endpoint、biomarker vs clinical benefit、phase transition、pipeline probability、market size、competitive standard of care、regulatory path。
+- **也出現於**：可與「成長故事信任危機 / 估值折價框架」和「GLP-1 搶親 / Pipeline 反壟斷框架」交叉比對。
+- **相關 ticker / 產業**：**NVO**, **LLY**；GLP-1、obesity、Alzheimer、pharma clinical trials。
+
+## AI server 估值保護傘 / PC 成本暴露框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第18期_GPU_TPU_NVO_Dell_HOOD_ZS.md`
+- **一句話定義**：同樣承受記憶體成本上升，有 AI server 成長敘事的硬體商可能獲估值保護，純 PC 暴露則更容易被 margin squeeze 定價。
+- **適用情境**：Dell vs HPQ、AI server and PC hardware split、memory supercycle、enterprise hardware valuation。
+- **觀察指標**：DRAM / NAND / HBM pricing、AI server backlog、PC revenue mix、inventory hedge、gross margin、pass-through pricing、HPE server read-through。
+- **也出現於**：可與「AI 伺服器價值鏈定價權 / 記憶體週期框架」和 Dell「AI 基建送水人 / 確定性交付框架」交叉比對。
+- **相關 ticker / 產業**：**DELL**, **HPQ**, **HPE**, **MU**, **005930.KS**, **000660.KS**；PC hardware、AI server、Memory。
+
+## 穿越週期 kitchen-sink 指引框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第18期_GPU_TPU_NVO_Dell_HOOD_ZS.md`
+- **一句話定義**：週期公司可能把壞消息集中放進低指引以設定底部，市場是否買單取決於資產負債表、庫存、同業週期與未來技術 optionality。
+- **適用情境**：Deere agriculture equipment downturn、tariff-cost guide reset、cyclical industrial recovery、investor day expectation reset。
+- **觀察指標**：guidance reset、inventory reduction、used equipment pricing、cycle trough、tariff cost、segment divergence、recurring revenue target、investor day。
+- **也出現於**：可與「傳統企業 DNA 覺醒 / 利潤確定性框架」和消費 / 工業週期類框架交叉比對。
+- **相關 ticker / 產業**：**DE**；農機、construction equipment、precision agriculture、週期工業。
+
+## 投機娛樂化 / 受監管數位賭場框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第18期_GPU_TPU_NVO_Dell_HOOD_ZS.md`
+- **一句話定義**：金融平台若同時控制用戶流量、交易所與清算，可能把投資行為娛樂化並取得更高 economics，但監管與 reputational risk 同步放大。
+- **適用情境**：Robinhood prediction markets、MIAXdx / LedgerX acquisition、Kalshi referral flow、sports contracts / gambling regulation、retail trading gamification。
+- **觀察指標**：prediction market volume、per-contract revenue、exchange ownership、liquidity provider depth、state gambling rules、CFTC oversight、customer quality、options / crypto mix。
+- **也出現於**：可與金融流動性、投資與投機、platform economics 類框架交叉比對。
+- **相關 ticker / 產業**：**HOOD**, **CME**, **COIN**, **DKNG**, **SCHW**, **CZR**；brokerage、prediction markets、sports betting、market structure。
+
+## 高估值 SaaS 預期重設框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第18期_GPU_TPU_NVO_Dell_HOOD_ZS.md`
+- **一句話定義**：高成長軟體公司即使 beat earnings，只要 billings、指引或整合回報低於高預期，估值就會從 hypergrowth 轉回 quality growth。
+- **適用情境**：Zscaler billings slowdown、cybersecurity budget deceleration、AI security second growth curve、Red Canary integration、SASE competition。
+- **觀察指標**：billings growth、RPO、revenue guidance、acquired revenue contribution、ARR growth、competitive bundling、gross margin、P/S multiple。
+- **也出現於**：可與「資安可觀測性融合 / AI IT 平台框架」與 SaaS 成長降速類框架交叉比對。
+- **相關 ticker / 產業**：**ZS**, **PANW**, **CRWD**；cybersecurity、SASE、zero trust、AI security、SaaS valuation。
+
+## AI 生態脫鉤 / 軟體補硬體框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第18期_GPU_TPU_NVO_Dell_HOOD_ZS.md`
+- **一句話定義**：出口管制與本土替代會推動 AI stack 分裂，落後晶片可用電力、cluster scale 與演算法優化部分彌補單晶片差距。
+- **適用情境**：ByteDance de-Nvidia order、China domestic AI chips、Huawei Ascend / Baidu Kunlun / Cambricon ecosystem、export-control bifurcation。
+- **觀察指標**：export policy、domestic chip deployment、power cost、cluster size、software efficiency、CUDA compatibility、data center buildout、supply-chain sovereignty。
+- **也出現於**：可與「主權 AI 分層主權 / 地緣建築師框架」和「關鍵礦產 / 供應鏈武器化框架」交叉比對。
+- **相關 ticker / 產業**：**NVDA**, **BIDU**, **BABA**, **TCEHY**, **688256.SS**, **TSM**；AI semiconductor、China AI stack、export controls、地緣科技。

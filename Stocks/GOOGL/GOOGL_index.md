@@ -7,7 +7,7 @@
 | 類型 | 路徑 | 說明 |
 |---|---|---|
 | 儀表板 | `Stocks/GOOGL/GOOGL_儀表板.md` | 當前追蹤摘要、風險、催化劑與持倉判斷依據 |
-| 季度筆記 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md`；`Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` | KP / FOMOSoc 2025Q3 Google Cloud margin inflection 歷史 L2；KP 2025-08-23 Chrome / antitrust / AI browser distribution 歷史 L3；KP 2025-09-06 Safari Search economics / Ad Tech monopoly 歷史 L3；KP 2025Q4 Quantum / TPU / Cloud AI 歷史 L2-L3；KP 2025-11-08 Ironwood TPU / Gemini-Siri AIaaS 歷史 L3；KP 2025-11-15 Waymo highway / Berkshire buys Alphabet 歷史 L3 |
+| 季度筆記 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md`；`Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` | KP / FOMOSoc 2025Q3 Google Cloud margin inflection 歷史 L2；KP 2025-08-23 Chrome / antitrust / AI browser distribution 歷史 L3；KP 2025-09-06 Safari Search economics / Ad Tech monopoly 歷史 L3；KP 2025Q4 Quantum / TPU / Cloud AI 歷史 L2-L3；KP 2025-11-08 Ironwood TPU / Gemini-Siri AIaaS 歷史 L3；KP 2025-11-15 Waymo highway / Berkshire buys Alphabet 歷史 L3；KP 2025-11-29 GPU vs TPU 非零和競爭歷史 L2+ |
 | 里程碑 | `Stocks/GOOGL/milestones/GOOGL_里程碑_20260221_Alphabet資本支出百年債與AI基建護城河.md` | 大叔 2026-02-21 Alphabet capex / century bond / AI infra thesis |
 | KOL 主整理 | `KOL/大叔美股筆記/articles/20260221_alphabet_2026_capex_century_bond_uncle.md` | 本次升級來源全文整理 |
 
@@ -15,6 +15,7 @@
 
 | 發文日期 | 路徑 | KOL | 主題 | Tags | 交會等級 | 摘要 |
 |---|---|---|---|---|---|---|
+| 2025-11-29 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第18期_GPU_TPU_NVO_Dell_HOOD_ZS.md` | KP / FOMOSoc | GPU vs TPU 非零和競爭 / Google TPU workload split | #AI基建 #雲端基建 #競爭風險 #ReRating | 歷史 L2+ | KP 認為 TPU / ASIC 可在特定 inference workload 替代 GPU，對 Google 自家與 Google Cloud 場景有成本效率；但若 AI TAM 快速擴張，這不是 Nvidia thesis break，而是 AI 算力市場走向 workload 分工。對 **GOOGL** 補強 TPU / Cloud AI 差異化，但需追 revenue、utilization、cost per token 與外部 adoption |
 | 2025-11-15 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第16期_MetaWaymoCoreWeave_AMD與Google.md` | KP / FOMOSoc | Waymo highway Robotaxi / Berkshire buys Alphabet | #產品節點 #AI基建 #消費成長 #ReRating #競爭風險 | 歷史 L3 | KP 將 Waymo 全無人 Robotaxi 擴展至三藩市、洛杉磯、鳳凰城高速公路路段，視為漸進主義自動駕駛商業化的重要驗證；同篇 Berkshire 新建 Alphabet 約 `$4.3B` 倉位，補強 Alphabet 作為現代公用事業 / 價值股的框架 |
 | 2025-11-08 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第15期_GoogleTPU_Siri_GLP1與AI眼鏡.md` | KP / FOMOSoc | Google Ironwood TPU / Apple Siri + Gemini / AI-as-a-Service | #AI基建 #雲端基建 #軟體SaaS #ReRating #競爭風險 | 歷史 L3 | KP 將 Ironwood 單晶片 `4.6 PetaFLOPS`、`9,216` chip Pod / `42.5 ExaFLOPS`、Anthropic `100萬顆` TPU 訂單與 Apple 約 `$1B` 年費採用 Gemini 作 Siri brain，解讀為 Google 在 inference infrastructure 與 AIaaS distribution 的雙線補強 |
 | 2025-11-01 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第14期_Meta債券雲端戰爭與主權AI.md` | KP / FOMOSoc | Google Cloud Q3 growth / operating profit / backlog / Meta and Anthropic AI compute | #雲端基建 #AI基建 #財報 #ReRating #競爭風險 | 歷史 L2 | KP 將 Google Cloud +34%、operating profit 約 `$2.8B`、backlog 約 `$155B`、Meta 約 `$10B` AI compute 與 Anthropic TPU 部署，解讀為 Google Cloud 從追趕者轉成高利潤 AI 雲端挑戰者 |
@@ -39,6 +40,7 @@
 | 能源與 power sovereignty | 大叔 / Bytc 都把 Google 放進 AI 電力與調度層 | 大叔 2026-02-21；Bytc 2026-03-17 | Intersect、Kairos、VPP / Nest policy |
 | AI Native capital loop | Google 可透過 Cloud / TPU / Anthropic stake 捕捉 private AI protocol value | Bytc 2026-04-14 Note | Anthropic valuation、Google Cloud AI revenue、equity gains / losses |
 | TPU / Gemini AI-as-a-Service | KP 認為 Google 正用 Ironwood TPU 攻 inference cost / scale，用 Gemini 授權打入 Apple device distribution | KP 2025-11-08 | TPU allocation、cost per token、Gemini licensing revenue、Siri launch、external AIaaS deals |
+| TPU / GPU 非零和 workload split | KP 認為 TPU 對特定 inference workload 具替代力，但 AI TAM 擴張下更像分工而非 Nvidia thesis break | KP 2025-11-29 | Google Cloud AI revenue、TPU utilization、cost per token、external TPU adoption、CUDA / GPU demand resilience、CoWoS / power bottlenecks |
 | Waymo / real-world AI optionality | KP 認為 Waymo 高速公路突破讓 Robotaxi 從故事更靠近財報，證明 Alphabet 在搜尋與雲端之外仍有高價值 AI 選擇權 | KP 2025-11-15 | Waymo rides / revenue、highway safety record、city expansion、regulatory approvals、cost per ride |
 | 科技公用事業 / 價值股重估 | KP 用 Berkshire 買入 Alphabet 說明 Google Search、YouTube、Cloud 已可被價值投資框架理解為現代公用事業與壟斷現金流 | KP 2025-11-15 | Berkshire 13F position、Search cash flow、YouTube / Cloud durability、AI capex / depreciation、antitrust risk |
 | 稅法下的 data center / R&D 摩擦 | Bytc 認為 data center 無法拿 48D advanced manufacturing credit，國內 R&D 當年扣除與海外 R&D 15 年攤銷會改變大科技研發 location economics | Bytc 2026-01-24 | tax footnotes、effective tax rate、R&D geography、capex mix |
@@ -48,5 +50,5 @@
 - 後續 Alphabet 財報入庫時，建立或追加對應年度季度檔；目前已有 `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md` 作歷史 L2。
 - 若出現重大 antitrust remedy、Chrome divestiture / conduct remedy、default search agreement 或 AI Search monetization disclosure，更新儀表板與 catalyst index。
 - 若 Intersect / Kairos / nuclear power milestones 有官方進展，判斷是否建立第二個能源里程碑。
-- 追 Ironwood / Anthropic TPU / Gemini-Siri deal 後續：TPU 是否轉成 Cloud AI revenue、Gemini licensing 是否擴大成 AIaaS line item、Apple enhanced Siri 是否如期推出且沒有傷害 privacy / antitrust narrative。
+- 追 Ironwood / Anthropic TPU / Gemini-Siri deal 與第 18 期 GPU / TPU 非零和競爭後續：TPU 是否轉成 Cloud AI revenue、Gemini licensing 是否擴大成 AIaaS line item、Apple enhanced Siri 是否如期推出且沒有傷害 privacy / antitrust narrative；另追 TPU / GPU workload split、cost per token、external TPU adoption、CoWoS / power bottleneck 是否改變 Google Cloud AI economics。
 - 追 Waymo highway rollout 後續：高速公路服務是否擴大到更多城市 / 機場路線、是否披露 rides / revenue / unit economics，以及安全事故或監管限制是否改變 Robotaxi optionality。

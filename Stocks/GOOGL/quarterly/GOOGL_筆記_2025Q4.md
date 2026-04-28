@@ -4,6 +4,48 @@
 
 ---
 
+## KP / FOMOSoc：GPU vs TPU 非零和競爭，補強 Google TPU 但不外推成 Nvidia thesis break
+
+- **source_id**：`KP_FOMOSoc-20251129-kp-thinking-note-18-gpu-tpu-novo-dell-deere-hood-zscaler-bytedance-a772be14`
+- **來源**：KP / FOMOSoc Substack 週報
+- **原文**：https://www.fomosoc.com/p/gpu-tpu-kp17
+- **發文時間**：2025-11-29 02:45 UTC（台北 10:45）
+- **整理日期**：2026-04-29
+- **交會等級**：L2+（已追蹤個股歷史補強）
+- **主題 tags**：#AI基建 #雲端基建 #競爭風險 #ReRating #供應鏈風險
+
+### 主旨
+
+KP 在第 18 期校準 Google TPU / Nvidia GPU 爭論：TPU / ASIC 可在特定 inference workload 替代 GPU，尤其對 Google 自家或 Google Cloud 圍牆花園內的 workload 有成本效率；但若 AI TAM 持續指數級擴張，ASIC 成功未必等於 Nvidia thesis break，而是讓算力市場走向 workload 分工。對 **GOOGL**，這補強 TPU / Cloud AI 的差異化，但也要求後續用 revenue、utilization、cost per token 與外部 adoption 驗證。
+
+### 個股觀點
+
+| 面向 | KP 觀點 | 對 **GOOGL** 的資料庫含義 |
+|---|---|---|
+| 局部替代 | GPU 與 ASIC / TPU 技術架構不同，但商業應用上可在特定場景互相替代 | Google TPU 對 inference / internal workload 有真實競爭力；不可寫成「TPU 完全不影響 GPU」 |
+| TAM 擴張 | 若算力市場固定，Google ASIC 會傷 Nvidia；若 TAM 快速擴大，ASIC 可能只拿走部分邊際利潤 | GOOGL thesis 要追 AI workload 總量與 TPU share，而不是只看 GPU vs TPU 二分法 |
+| Nvidia anchor | KP 記錄 Nvidia 2025-2026 confirmed bookings 約 `$500B`，約 `$150B` 已交付、約 `$350B` backlog 至 2026 年底 | 對 GOOGL 是競爭邊界提醒：TPU 補強 Google Cloud，但不能外推成 Nvidia AI factory 生態已被瓦解 |
+| Google TPU role | KP 承認 Google 自研 ASIC 在自家推論工作有成本效益和吸引力 | 與第 15 期 Ironwood TPU / 第 13 期 Anthropic TPU 脈絡串接，補強 Google TPU commercial validation |
+| Physical bottleneck | KP 認為 Nvidia 真風險更偏 TSMC CoWoS 與全球電力基建，而非單純需求不足 | 對 GOOGL 的 AI infra 也同樣適用：Cloud AI 成長要看電力、data center、capex 和 depreciation |
+
+### 延伸追蹤
+
+| 事件 | 追蹤重點 |
+|---|---|
+| Google Cloud / TPU 財報線索 | TPU revenue visibility、Cloud AI revenue、Anthropic workload split、cost per token、gross margin、external customer adoption |
+| Nvidia / TPU 競爭 | CUDA lock-in、GPU demand resilience、Nvidia AI factory backlog、Google Cloud 圍牆花園是否限制 TPU adoption |
+| AI physical bottlenecks | CoWoS / advanced packaging、data center delivery、power availability、capex / depreciation、Cloud operating margin |
+| Workload split | training vs inference、latency、cost、developer framework support、JAX / TensorFlow / CUDA ecosystem |
+
+### 風險與限制
+
+- KP 的判斷是 TPU / ASIC 具局部替代性，但不是 Google TPU 已全面取代 Nvidia GPU。
+- 對 **GOOGL** 是歷史 L2+ 補強，不改變目前 dashboard 以 2026 capex / Search / Cloud AI monetization 為主的最新追蹤重心。
+- Google TPU 若主要留在 Google Cloud 圍牆花園，commercial adoption 與 revenue conversion 仍需驗證。
+- 本文不是買賣建議。
+
+---
+
 ## KP / FOMOSoc：Waymo 高速公路與 Berkshire 買入 Alphabet，補強非 Search 選擇權與價值股框架
 
 - **source_id**：`KP_FOMOSoc-20251115-kp-thinking-note-16-meta-waymo-coreweave-amd-softbank-nvo-google-e4ce0077`
