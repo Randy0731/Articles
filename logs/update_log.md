@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260211-investment-discipline-analyst-process-16636bb7`：整理宋分 / 美股送分題 Substack Note《投資紀律 #1｜分析師流程》，建立 `KOL/宋分/articles/20260211_investment_discipline_analyst_process.md`。Substack preloads JSON 正文可讀，只有 URL，未另存 raw，OCR 狀態標「不適用」。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。新增「分析師流程 / 事件等待框架」：先看公司與未來事件，再看價格；若公司 thesis 沒變，跌價可能代表預期報酬上升。本文提到 **NVDA** 的方格子長文僅作外部案例連結，且宋分明說不是告訴讀者它會漲，因此不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260211-consensus-expectation-gap-market-pricing-2e0cca02`：整理宋分 / 美股送分題 Substack 文章《為什麼你明明看對公司，卻還是賺不到錢？》，建立 `KOL/宋分/articles/20260211_consensus_expectation_gap_market_pricing.md`，並複製使用者提供之 3 頁 Substack 截圖 PDF 至 `KOL/宋分/raw/20260211_宋分_consensus_expectation_gap_market_pricing_宋分-20260211-consensus-expectation-gap-market-pricing-2e0cca02.pdf`。Substack preloads JSON 正文可讀，PDF 作 raw 備份，OCR 狀態標「部分」。
 - 更新：同步更新 source/theme/framework indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。本文判定為純框架文，不更新 ticker index、watchlist 或 `Stocks/`；**NVDA** 僅出現在方格子前文標題引用，不能寫成本篇宋分對 **NVDA** 的新觀點。新增「共識變化 / 預期差定價框架」：市場形成報酬的關鍵不是公司當下好壞，而是市場共識何時改變；本文不是買賣建議。
 

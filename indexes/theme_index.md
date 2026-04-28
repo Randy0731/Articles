@@ -6,6 +6,9 @@
 
 | 主題 tag | 日期 | KOL / 來源 | 標題 | 核心觀點 | 相關 ticker | 框架 / 催化劑 | 筆記檔 |
 |---|---|---|---|---|---|---|---|
+| #投資與投機 | 2026-02-11 | 宋分 / 美股送分題 | 投資紀律 #1：散戶等 K 線，機構等事件 | 宋分把散戶常見的價格追認流程，對比分析師先看公司、再看價格的流程；投資重點是知道自己在等哪個現實世界事件，而不是等股價反彈給安全感 | **NVDA** 僅外部案例連結 | 分析師流程 / 事件等待框架；新產品、訂單回升、產能開出、成本下降 | `KOL/宋分/articles/20260211_investment_discipline_analyst_process.md`；`indexes/framework_index.md` |
+| #ReRating | 2026-02-11 | 宋分 / 美股送分題 | 盤整期耐心優勢：公司變好但市場未發現 | 宋分認為盤整是沒有回饋的時間，但若公司正在變好而市場尚未發現，真正報酬常來自這段無聊等待期；這補強同日共識變化框架 | **NVDA** 僅外部案例連結 | 盤整期耐心優勢；共識形成前報酬；event-driven waiting | `KOL/宋分/articles/20260211_investment_discipline_analyst_process.md` |
+| #估值風險 | 2026-02-11 | 宋分 / 美股送分題 | PE / DCF 的用途是對抗情緒，不是預測股價 | 本篇提醒估值模型不能預測股價；真正用途是在大跌時檢查 EPS / cash flow 假設是否仍成立，避免用便宜感合理化 thesis 已破壞的下跌 | 全市場 / 成長型科技股 | 估值模型情緒校準；EPS model；Forward PE / DCF assumption check | `KOL/宋分/articles/20260211_investment_discipline_analyst_process.md` |
 | #ReRating | 2026-02-11 | 宋分 / 美股送分題 | 看對公司卻賺不到：市場定價的是共識變化 | 宋分認為報酬來自共識形成之前；投資難點不是找到好公司，而是判斷市場何時開始定價投資人已經知道的事情 | 全市場 / 成長型科技股 | 共識變化 / 預期差定價框架；投資流程錯位；盤整期共識形成 / 崩解 | `KOL/宋分/articles/20260211_consensus_expectation_gap_market_pricing.md`；`indexes/framework_index.md` |
 | #投資與投機 | 2026-02-11 | 宋分 / 美股送分題 | 散戶等確認，機構等預期差 | 本篇將一般投資人「等財報、等討論、等股價確認」的流程，對比機構提前判斷市場看法何時改變；當投資人覺得安全時，價格常已完成重估 | 全市場 / 成長型科技股 | 投資流程錯位框架；共識形成前報酬；確認 vs 預期差 | `KOL/宋分/articles/20260211_consensus_expectation_gap_market_pricing.md` |
 | #估值風險 | 2026-02-11 | 宋分 / 美股送分題 | 好公司不等於好報酬：已定價與共識擁擠風險 | 宋分提醒公司變好、新聞最好時，股價反而可能不動或見頂，因為市場交易的是預期變化；若共識已形成，後手買入可能只是在接已定價的安全感 | 全市場 / 成長型科技股 | crowded consensus、no new buyer reason、盤整期判斷 | `KOL/宋分/articles/20260211_consensus_expectation_gap_market_pricing.md` |
