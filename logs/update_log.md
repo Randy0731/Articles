@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260320-risk-repricing-three-indicators-ece00826`：整理宋分 / 美股送分題 Substack Note「市場開始跌的時候，我會做一件事：把之前那三個指標，再檢查一次」，建立 `KOL/宋分/articles/20260320_risk_repricing_three_indicators_credit_vix_10y.md`，並複製使用者提供之 4 頁 Substack 截圖 PDF 至 `KOL/宋分/raw/20260320_宋分_risk_repricing_three_indicators_宋分-20260320-risk-repricing-three-indicators-ece00826.pdf`。Substack preloads JSON 正文完整可讀；PDF 作 raw 備份，未 OCR。
+- 更新：同步更新 source/theme/framework/catalyst indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。本文補強「市場風險三指標 / 反彈確認框架」：信用利差從 `2.68` 擴到 `3.27`、VIX 約等於 VIX3M、10Y 回到約 `4.39%` 時，宋分判斷市場不是底部訊號也不是崩盤訊號，而是風險正在重新定價；慢慢擴大偏 re-pricing，快速擴大偏 stress event。文中無具名 ticker，不更新 ticker / watchlist / `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260320-pricing-cycle-restart-msft-amzn-cost-9dd0938f`：整理宋分 / 美股送分題 Substack Note《產業與個股透鏡 #3｜技術與商業模式》作為 2026-03-17 市場解碼深度文的補充版。Substack preloads JSON 正文完整可讀，attachment / 連結長文 `p-191125298` 已於 `宋分-20260317-market-decoding-11-ai-semiconductor-rerate-112df345` 入庫，因此不另開重複長文，而是補入既有 `KOL/宋分/articles/20260317_market_decoding_11_ai_semiconductor_infrastructure_rerate.md`。
 - 更新：同步更新 source/ticker/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文補強「定價階段 / 視野鎖定紀律框架」與「產業級 Re-rate 五條件 / AI 半導體六指標框架」：能穿越牛熊的公司不是沒有 cycle，而是市場相信需求具結構性，讓公司可反覆走過新敘事、估值擴張、基本面驗證與再次定價；**MSFT** / **AMZN** / **COST** 為 framework case，AI 半導體問題則從「是否只是下一個 cycle」推進到「AI infrastructure 到底會有多大」。不新增 `Stocks/`、watchlist 或 catalyst；本文不是買賣建議。
 
