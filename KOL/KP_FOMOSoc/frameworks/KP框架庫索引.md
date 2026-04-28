@@ -15,6 +15,51 @@
 - **相關 ticker / 產業**：
 ```
 
+## AI 作業系統 / SaaS 啞鈴化框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第07期_SaaS啞鈴NeoCloud與ASML_Mistral.md`
+- **一句話定義**：當 AI agent 成為用戶的預設操作介面，軟體市場會向通用 AGI 平台與垂直 AI app 兩端集中，中間功能型 SaaS moat 被壓縮。
+- **適用情境**：企業軟體、AI agents、CRM / workflow tools、vertical AI apps、SaaS multiple 壓力測試。
+- **觀察指標**：AI agent adoption、SaaS churn / NRR、workflow integration、AI feature attach rate、vertical AI revenue、usage frequency、gross margin、RPO / bookings。
+- **也出現於**：本篇為 KP 框架庫首筆；可與 Bytc「GUI 缺陷補丁與 Software was eaten by AI 框架」及「SaaS 中間層壓縮框架」交叉比對。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**；OpenAI 未上市；企業軟體、軟體 SaaS、AI agents、vertical AI。
+
+## 情感護城河 / 社群信任框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第07期_SaaS啞鈴NeoCloud與ASML_Mistral.md`
+- **一句話定義**：功能被 AI 商品化後，品牌故事、社群歸屬、信任關係與身份認同會從 marketing 變成產品 moat。
+- **適用情境**：creator-led businesses、投資社群、consumer subscription、AI 工具、education / coaching / expert networks。
+- **觀察指標**：paid conversion、community retention、engagement depth、renewal rate、user-generated content、referral、pricing power、trust / authority signals。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：軟體 SaaS、creator economy、subscription media、consumer AI、education / coaching。
+
+## Neocloud 產能外包 / 算力確定性框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第07期_SaaS啞鈴NeoCloud與ASML_Mistral.md`
+- **一句話定義**：當 hyperscaler 自建速度被電力、空間與 GPU 供應限制，外部 AI-native cloud 可用專用 capacity 與較快部署承接 overflow demand。
+- **適用情境**：Microsoft / Nebius、CoreWeave、AI data center capacity contracts、GPU cloud financing、hyperscaler backlog。
+- **觀察指標**：contracted capacity、delivery schedule、power availability、GPU allocation、Blackwell / H100 access、financing cost、utilization、customer concentration、revenue recognition。
+- **也出現於**：本篇為 KP 框架庫首筆；可與 Bytc「Nvidia-compatible 生態系框架」中的 Nebius / CoreWeave financing 脈絡交叉比對。
+- **相關 ticker / 產業**：**MSFT**, **NBIS**, **NVDA**；Neocloud、AI data center、GPU cloud、hyperscaler AI capacity。
+
+## AI 基建融資槓桿 / Convertible Capacity Flywheel
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第07期_SaaS啞鈴NeoCloud與ASML_Mistral.md`
+- **一句話定義**：AI infrastructure 公司可用大型長約降低融資成本，將可轉債與股權資金轉成資料中心 / GPU capacity，再用 capacity 履約支撐下一輪擴張。
+- **適用情境**：Neocloud、GPU cloud、AI data center project finance、convertible issuance after anchor customer contract。
+- **觀察指標**：convertible coupon、conversion premium、equity raise、capex deployment、data center buildout、debt maturity、cash interest burden、customer concentration。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**NBIS**, **MSFT**；AI infrastructure financing、convertible notes、GPU cloud。
+
+## 工業 AI 私有模型 / 主權軟硬體結盟框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第07期_SaaS啞鈴NeoCloud與ASML_Mistral.md`
+- **一句話定義**：高機密工業龍頭需要私有 AI 模型與長期策略夥伴，才能在不外洩核心資料的前提下把 AI 變成流程、良率與維護 moat。
+- **適用情境**：ASML / Mistral、半導體設備、製造業 AI、computational lithography、industrial AI private deployment。
+- **觀察指標**：defect reduction、tool downtime、predictive maintenance、process optimization、private model deployment、IP protection、board seat / equity stake、customer adoption。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**ASML**, **NVDA**, **TSM**, **INTC**；半導體設備、工業 AI、私有模型、歐洲科技主權。
+
 ## Ad Tech 垂直整合 / 平台稅壟斷框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第06期_Google反壟斷與晶片TCO.md`
