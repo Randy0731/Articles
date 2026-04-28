@@ -4,6 +4,48 @@
 
 ---
 
+## KP / FOMOSoc：Disney 對 Gemini 揮大棒，AI IP 授權成本進入模型競爭
+
+- **source_id**：`KP_FOMOSoc-20251213-kp-thinking-note-20-disney-openai-ibm-confluent-gev-softbank-meta-lulu-rivian-5eaae5de`
+- **來源**：KP / FOMOSoc Substack 週報
+- **原文**：https://www.fomosoc.com/p/aizuckerburg-kp20
+- **發文時間**：2025-12-13 02:45 UTC（台北 10:45）
+- **整理日期**：2026-04-29
+- **交會等級**：L2（已追蹤個股歷史補強）
+- **主題 tags**：#AI基建 #軟體SaaS #監管審批 #政策風險 #競爭風險 #估值風險
+
+### 主旨
+
+KP 在第 20 期用 Disney / OpenAI / Sora 交易反看 **GOOG** / **GOOGL** 的 Gemini 風險：Disney 一邊把 IP 授權給 OpenAI，一邊向 Google 發出停止侵權函，指控 Gemini 使用 Disney IP。KP 認為這代表 AI video / creative model 競爭不只看模型能力，也要看合法資料、授權成本、IP guardrails 與 brand-safety 合規。對 **GOOGL**，此篇補上 Gemini / image-video model 的資料授權與法律風險，不改變當前以 Search / Cloud / capex / energy 為主的最新 thesis。
+
+### 個股觀點
+
+| 面向 | KP 觀點 | 對 **GOOGL** 的資料庫含義 |
+|---|---|---|
+| Private IP data | KP 認為公共網路高品質資料被大量使用後，Disney 這類合法、獨家、不可複製 IP 會成為下一階段 AI video 的燃料 | Gemini / Veo / image-video model 競爭需要納入 licensed data economics，不只看 benchmark |
+| Disney legal pressure | Disney 對 Google / Gemini 發出停止侵權函，同日與 OpenAI 合作，是一套「胡蘿蔔與大棒」 | 對 **GOOGL** 是 AI IP / copyright litigation risk；需追 Google response、settlement、license deals 或 legal filings |
+| OpenAI comparison | OpenAI 願付授權費並設置 actor likeness / character behavior guardrails，成為 Disney 認可的合作方 | 若 licensed IP 成為行業標準，Google 也可能面臨更高資料授權成本與 guardrail cost |
+| AI video economics | KP 認為 paid licensing 會把生成式影片變成巨頭遊戲，壓縮未授權小型模型或 open-source 供應商空間 | Google 有資本能力承受合規成本，但也要看 Gemini / YouTube / Cloud AI monetization 是否足以覆蓋成本 |
+| Attention context | Kids attention 更多在 YouTube / Roblox / TikTok，Disney 希望用 official IP UGC 拉回年輕用戶 | YouTube 是 attention battlefield 的一端；此段對 Google 有平台競爭 context，但核心仍是 Gemini IP risk |
+
+### 延伸追蹤
+
+| 事件 | 追蹤重點 |
+|---|---|
+| Disney / Google IP dispute | 是否有 formal lawsuit、settlement、license agreement、Gemini guardrail update、training data disclosure |
+| Google AI video products | Gemini / Veo / YouTube creation tools 的 IP policy、licensed content partnerships、creator / rights-holder tools |
+| AI data licensing market | media IP licensing cost、OpenAI / Disney terms、other studios / publishers deals、model provider compliance cost |
+| Search / YouTube impact | AI answer / AI video tools 是否改變 YouTube content economics、rights-holder negotiations、ad monetization |
+
+### 風險與限制
+
+- KP 記錄的是 Disney 對 Google / Gemini 的指控與策略解讀，不等同法院已認定 **GOOGL** liability。
+- 對 **GOOGL** 是歷史 L2 補強，不單獨改變 2026 最新 Alphabet capex / Search / Google Cloud / energy 主 thesis。
+- 若 licensed data 成為 AI video 行業標準，Google 有資本能力參與，但 Gemini / YouTube / Cloud AI 的 monetization 必須覆蓋更高合規與授權成本。
+- 本文不是買賣建議。
+
+---
+
 ## KP / FOMOSoc：Google Cloud 與 AWS 多雲互連，補強跨平台治理但也挑戰傳統 lock-in
 
 - **source_id**：`KP_FOMOSoc-20251206-kp-thinking-note-19-aws-google-mstr-robotics-nvidia-synopsys-intel-netflix-alab-crdo-2e8b672a`

@@ -15,6 +15,69 @@
 - **相關 ticker / 產業**：
 ```
 
+## 私有 IP 數據 / AI 合規成本框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第20期_Disney_IBM_GEV_SoftBank_Meta_LULU_RIVN.md`
+- **一句話定義**：當 public internet data 被榨乾後，合法、獨家、可授權的 IP / media data 會成為 frontier AI video / creative model 的關鍵燃料，也會把競爭推向付費授權與合規成本。
+- **適用情境**：Disney / OpenAI licensing、Google Gemini copyright dispute、Sora / AI video、media IP owners、AI model data sourcing。
+- **觀察指標**：licensing terms、IP lawsuits、cease-and-desist letters、model guardrails、actor likeness restrictions、AI video adoption、licensed data spend、small model provider legal exposure。
+- **也出現於**：可與 KP「Agentic Commerce / AI 入口抽佣框架」、「GEO 品牌可見度 / 後 SEO 入口框架」及 Bytc「AI Search 印鈔機變貴框架」交叉比對。
+- **相關 ticker / 產業**：**DIS**, **GOOG**, **GOOGL**, **RBLX**；OpenAI / Midjourney 未上市；media IP、AI video、copyright。
+
+## 混合雲神經系統 / 即時數據動脈框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第20期_Disney_IBM_GEV_SoftBank_Meta_LULU_RIVN.md`
+- **一句話定義**：Enterprise AI 若要從分析歷史變成參與當下決策，必須有跨雲、跨系統、低延遲的 event streaming / real-time data layer。
+- **適用情境**：IBM / Confluent、Apache Kafka commercialization、hybrid cloud、watsonx、OpenShift、enterprise AI deployment。
+- **觀察指標**：Kafka adoption、Confluent paid customers、ARR / revenue growth、OpenShift attach、consulting-led cross-sell、real-time fraud / personalization use cases、integration cost、EPS dilution。
+- **也出現於**：可與 KP「多雲互操作 / 跨平台治理框架」和大叔 IBM enterprise AI / hybrid cloud thesis 交叉比對。
+- **相關 ticker / 產業**：**IBM**, **CFLT**, **AMZN**, **MSFT**, **GOOG**, **GOOGL**；enterprise AI、hybrid cloud、data streaming。
+
+## AI 電力產能售罄 / 工業定價權框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第20期_Disney_IBM_GEV_SoftBank_Meta_LULU_RIVN.md`
+- **一句話定義**：當 AI 電力需求超過設備交付能力，掌握售罄產能與長約服務的工業供應商會從接單者轉成規則制定者。
+- **適用情境**：GE Vernova turbines、AI data center power、gas power / grid equipment、service annuity、supply-chain national champion。
+- **觀察指標**：capacity booked years、remaining capacity、price realization、orders in GW、service agreement duration、EBITDA margin、FCF target、rare-earth / government supply-chain support。
+- **也出現於**：延伸 KP「AI 基建實體資產 / 電力門票框架」與 Bytc「能源三部曲供給-輸電-調度框架」。
+- **相關 ticker / 產業**：**GEV**；AI data center power、gas turbines、grid equipment、energy security。
+
+## AI 垂直整合帝國 / 電力控制權框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第20期_Disney_IBM_GEV_SoftBank_Meta_LULU_RIVN.md`
+- **一句話定義**：AI 產業控制權可從模型與晶片延伸到 data center、power reserve、grid interconnection 與 high-density cooling，垂直整合者以資本換取端到端掌控。
+- **適用情境**：SoftBank / Switch、OpenAI / Stargate、ARM / Ampere、AI data center acquisitions、power bottleneck。
+- **觀察指標**：power reserve in GW、leased capacity、rack density、deal valuation、asset sales、debt financing、LTV、grid interconnection、customer / model workload allocation。
+- **也出現於**：延伸 KP「賣鏟人 vs 金礦 / VC 再配置框架」與「AI 中央銀行 / 生態融資框架」。
+- **相關 ticker / 產業**：**9984.T** / **SFTBY**, **ARM**, **NVDA**, **TMUS**, **ORCL**；OpenAI / Switch / Ampere 未上市；AI infrastructure financing、data centers、power。
+
+## 開源商品化反噬 / 閉源變現轉向框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第20期_Disney_IBM_GEV_SoftBank_Meta_LULU_RIVN.md`
+- **一句話定義**：開源模型若成功 commoditize 對手卻也讓競爭者低成本複製自身能力，平台公司可能轉向閉源模型，把差異化鎖回資料、分發與變現機器。
+- **適用情境**：Meta Llama / Avocado、open vs closed AI models、AI ads automation、Chinese open-source model competition、frontier lab org reset。
+- **觀察指標**：model benchmark、researcher exits、closed-source roadmap、ads ROAS、AI creative tools、capex / depreciation、Reality Labs budget、data usage、model licensing / API revenue。
+- **也出現於**：可與 KP「高風險研發外包 / 科學家出走框架」、「AI 內容新奇感陷阱 / 工具 vs Feed 框架」及宋分「META AI 廣告飛輪 / 模型自主框架」交叉比對。
+- **相關 ticker / 產業**：**META**, **BABA**, **NVDA**；DeepSeek / Scale AI 未上市；frontier AI、digital advertising。
+
+## 品牌靈魂 vs 帝國擴張 / 創辦人道德否決框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第20期_Disney_IBM_GEV_SoftBank_Meta_LULU_RIVN.md`
+- **一句話定義**：Cult brand 擴張若稀釋身份認同，創辦人即使沒有正式控制權，也可能用品牌敘事與股東輿論形成治理壓力。
+- **適用情境**：Lululemon CEO change、founder activism、consumer brand turnaround、premium athletic apparel、brand heat recovery。
+- **觀察指標**：founder ownership、board rights、proxy threats、brand sentiment、same-store sales、product innovation、gross margin、competition、buybacks、guidance revision。
+- **也出現於**：可與 KP「通路修復 / 品牌自我修正框架」、「預期管理 / 51 分止血框架」及宋分 consumer / brand re-rate 框架交叉比對。
+- **相關 ticker / 產業**：**LULU**；Alo Yoga / Vuori 未上市；consumer discretionary、athleisure、brand governance。
+
+## 車廠去 Nvidia 化 / 軟硬垂直整合框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第20期_Disney_IBM_GEV_SoftBank_Meta_LULU_RIVN.md`
+- **一句話定義**：車廠若把 autonomy 視為軟體服務收入來源，就會傾向自研 AI chip / software stack 以掌握成本、速度、路線圖與資料閉環。
+- **適用情境**：Rivian RAP1、Tesla FSD、NIO / XPeng chips、Nvidia Drive、software-defined vehicle、autonomy subscription。
+- **觀察指標**：custom chip performance、ADAS coverage miles、subscription price / take rate、cash burn、L4 milestones、supplier cost、gross margin、safety data、financing runway。
+- **也出現於**：延伸 KP「自動駕駛雙路線 / 漸進主義 vs 純視覺豪賭框架」與「Physical AI 信仰估值 / 戰時授權框架」。
+- **相關 ticker / 產業**：**RIVN**, **NVDA**, **TSLA**, **NIO**, **XPEV**；EVs、autonomy、edge AI chips、software-defined vehicles。
+
 ## 高風險研發外包 / 科學家出走框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第16期_MetaWaymoCoreWeave_AMD與Google.md`

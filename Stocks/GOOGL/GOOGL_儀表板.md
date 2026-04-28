@@ -1,6 +1,6 @@
 # GOOGL 投資儀表板
 
-> 最後更新：2026-04-29（補入 KP / FOMOSoc 2025-12-06 歷史 L2+：Google Cloud / AWS 多雲互連；不改變當前最新立場）
+> 最後更新：2026-04-29（補入 KP / FOMOSoc 2025-12-13 歷史 L2：Disney / Gemini AI IP 授權成本；不改變當前最新立場）
 
 ## 當前立場快照
 
@@ -15,6 +15,7 @@
 - **本次補入的 KP 2025-11-15 Waymo / Berkshire 補強**：KP 將 Waymo 高速公路 Robotaxi 視為漸進主義自動駕駛路線的重要商業化驗證，讓 Alphabet 在 Search / Cloud 外多一條 real-world AI optionality；同篇 Berkshire 新建 Alphabet 約 `$4.3B` 倉位，補強 Google 被價值投資框架重估為現代公用事業 / 壟斷現金流的可能性。
 - **本次補入的 KP 2025-11-29 GPU / TPU 校準**：KP 認為 TPU / ASIC 可在特定 inference workload 替代 GPU，對 Google 自家與 Google Cloud 場景是正面補強；但若 AI TAM 持續擴張，這不是 Nvidia thesis break，而是 AI workload 分工。對 GOOGL 的資料庫含義是：TPU thesis 更完整，但仍需用 Cloud AI revenue、utilization、cost per token、external adoption 與 data center / power bottleneck 驗證。
 - **本次補入的 KP 2025-12-06 多雲治理補強**：KP 將 Google Cloud 與 AWS private multicloud interconnect / open spec 解讀為雲端競爭從 lock-in 轉向跨平台治理。對 **GOOGL** 是 Google Cloud 以開放互通標準切入 enterprise architecture 的機會，但仍需驗證 adoption、networking revenue、AI workload placement 與 Azure Arc response。
+- **本次補入的 KP 2025-12-13 AI IP 風險**：KP 將 Disney 對 OpenAI 授權、同日對 Google / Gemini 發停止侵權函，解讀為 AI video / creative model 競爭進入 licensed data / guardrails / compliance cost 階段。對 **GOOGL** 是 Gemini / Veo / YouTube AI creation 的 IP 授權與 copyright risk 補強；此段是歷史 L2 風險，不改變最新 Search / Cloud / capex 主 thesis。
 - **目前研究狀態**：正式追蹤個股；主里程碑為 2026-02-21 大叔 Alphabet capex / century bond / AI infra article。
 
 ## 關鍵價位 / 數字追蹤
@@ -40,6 +41,7 @@
 | KP Berkshire Alphabet anchor | Berkshire 第三季度新建 Alphabet 持股約 `$4.3B`，成為第 10 大持倉，同季繼續減持 Apple | KP / FOMOSoc 2025-11-15 | 歷史 L3：補強 Alphabet 被價值投資框架理解為科技公用事業 / 現代壟斷現金流，但不是估值保證 |
 | KP GPU / TPU workload split anchor | TPU / ASIC 可在特定 inference workload 替代 GPU；Nvidia 2025-2026 confirmed bookings 約 `$500B`，約 `$150B` 已交付、約 `$350B` backlog 至 2026 年底 | KP / FOMOSoc 2025-11-29 | 歷史 L2+：補強 Google TPU 具局部替代力，但校準為非零和 workload split，不外推成 Nvidia thesis break |
 | KP Google Cloud / AWS multicloud anchor | AWS + Google Cloud 推出 private multicloud interconnect / open interoperability spec；KP 認為 enterprise multi-cloud 已成常態，競爭轉向跨平台治理 | KP / FOMOSoc 2025-12-06 | 歷史 L2+：補強 Google Cloud enterprise relevance，但需追 adoption、networking monetization、Azure Arc response 與 AI workload placement |
+| KP Disney / Gemini IP anchor | Disney 與 OpenAI 合作同日向 Google / Gemini 發停止侵權函，KP 認為這是在為 AI video 設定 licensed data 與合規成本 | KP / FOMOSoc 2025-12-13 | 歷史 L2：補上 Gemini / Veo / AI creative model 的 copyright / data licensing risk，需追 legal response、settlement、license deals 與 guardrails |
 
 ## 近 30 天催化劑
 
@@ -58,6 +60,7 @@
 | 2025-11-15 | KP 思考筆記第16期：Waymo 高速公路與 Berkshire 買入 Alphabet | 已整理 / 歷史 L3 | 補上 Waymo 高速公路商業化與 Berkshire 新建 Alphabet 倉位；前者提高 real-world AI optionality，後者補強 Alphabet 作為科技公用事業 / 價值股的 ownership signal | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
 | 2025-11-29 | KP 思考筆記第18期：GPU vs TPU 非零和競爭 | 已整理 / 歷史 L2+ | 補上 TPU / ASIC 對特定 inference workload 的替代力，以及 Nvidia AI factory backlog / CoWoS / power bottleneck 的競爭邊界；對 GOOGL 是 TPU / Cloud AI 差異化補強，但不外推成 Nvidia thesis break | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
 | 2025-12-06 | KP 思考筆記第19期：Google Cloud / AWS 多雲互連 | 已整理 / 歷史 L2+ | 補上 Google Cloud 以 open multicloud interconnect 切入 enterprise architecture 的路線；對 GOOGL 是 Cloud governance / AI workload placement 補強，但也需監控多雲互通削弱單一雲 lock-in | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
+| 2025-12-13 | KP 思考筆記第20期：Disney / Gemini AI IP 授權成本 | 已整理 / 歷史 L2 | 補上 Disney 對 Google / Gemini 的停止侵權函與 AI video licensed data cost；對 GOOGL 是 Gemini / Veo / YouTube AI creation 的 copyright / compliance risk，而不是法院已認定 liability | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
 | 2025-09-22（KP 原文下一節點） | Google Ad Tech remedy / penalty hearing | 原文時點已過 / 待後續外部校準 | KP 稱 DOJ 嚴厲版本要求出售 Google Ad Manager；整理日未外部核對結果，後續需查 court docket / filings | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第06期_Google反壟斷與晶片TCO.md` |
 | 2026-02 | Alphabet 約 `$320 億美元` 全球債券與 100 年英鎊債 | 已發生 / 需追後續成本 | 大叔視為 AI 基建資本結構重塑，不只是補流動性 | `Stocks/GOOGL/milestones/GOOGL_里程碑_20260221_Alphabet資本支出百年債與AI基建護城河.md` |
 | 2026-02-21 | 大叔發布 Alphabet capex / century bond 長文 | 已整理 / 升級觸發 | **GOOGL** 由 watchlist 升級為正式追蹤 | `KOL/大叔美股筆記/articles/20260221_alphabet_2026_capex_century_bond_uncle.md` |
@@ -84,6 +87,7 @@
 | Gemini / Siri deal 是否能成為 AI-as-a-Service 樣板？ | Apple 授權 Gemini 是重要 distribution win，但條款、收入認列和 Apple 後續自研都會影響持續性 | Siri 2026 launch、Gemini licensing revenue、Apple private cloud、in-house model progress、privacy / antitrust response |
 | TPU / GPU workload split 是否能轉成 Google Cloud AI revenue？ | KP 2025-11-29 認為 TPU 對特定 inference workload 有替代力，但真正投資含義要看 Google 能否把技術效率轉成外部客戶、revenue 與 margin | TPU utilization、Cloud AI revenue、cost per token、external TPU adoption、Anthropic workload、CUDA / GPU demand resilience、CoWoS / power bottlenecks |
 | Google Cloud / AWS 多雲互連是否能轉成 enterprise revenue？ | KP 2025-12-06 認為雲端競爭轉向跨平台治理，但 open interconnect 需變成 workload / networking / governance revenue 才能補強 thesis | multicloud interconnect adoption、regulated-industry use cases、networking revenue、AI workload placement、egress economics、Azure Arc response |
+| Disney / Gemini IP 授權風險是否轉成實際合規成本？ | KP 2025-12-13 認為 Disney 對 OpenAI 授權、對 Google / Gemini 揮法律大棒，是 AI video / creative model 行業的 licensed data cost signal | Disney / Google legal response、settlement / license terms、Gemini / Veo guardrails、YouTube AI creation tools policy、rights-holder partnerships、AI video monetization |
 | Waymo 高速公路是否能轉成可量化業務？ | KP 2025-11-15 認為高速公路使 Robotaxi 具備效率，但 Alphabet 仍需證明 rides、revenue、unit economics 與安全紀錄 | Waymo rides、service area、airport / highway routes、safety incidents、insurance cost、regulatory approvals |
 | Berkshire ownership signal 是否擴散成 value-investor re-rating？ | KP 2025-11-15 把 Berkshire 買 Alphabet 視為能力圈演化，但單一 13F 倉位不能保證估值重評 | Berkshire 13F follow-up、institutional holder mix、Search cash flow、YouTube / Cloud durability、AI capex / antitrust risk |
 
@@ -108,6 +112,7 @@
 | TPU deal 無法轉成可見 Cloud revenue | 中高 | Anthropic workload split 不明、TPU utilization / pricing 不透明、inference margin 被成本吃掉 | KP 2025-10-25 |
 | Google Cloud margin / backlog 轉換不及預期 | 中高 | Cloud backlog 無法轉收入，或 AI compute 大單低毛利、capex / depreciation 壓住 operating profit；追 Google Cloud revenue、operating profit、RPO / backlog conversion、TPU utilization | KP 2025-11-01 |
 | 多雲互通只降低轉換摩擦、未形成 Google Cloud revenue | 中高 | 客戶使用 Google / AWS interconnect 但 workload / governance / networking revenue 留在 AWS 或 Microsoft control plane，Google Cloud 只承擔互通成本 | KP 2025-12-06 |
+| Gemini / AI video IP 授權與 copyright litigation | 中高 | Disney 或其他 rights-holders 對 Gemini / Veo / YouTube AI creation 提出訴訟、要求高額授權，或迫使 Google 改變 training / output guardrails | KP 2025-12-13 |
 | Ironwood / TPU 圍牆花園限制 | 中高 | TPU 只在 Google Cloud 內有效，developer / customer 遷移成本高，無法撼動 CUDA / Nvidia open ecosystem | KP 2025-11-08 |
 | Gemini-Siri 依賴與監管敘事風險 | 中 | Apple 可能把 Gemini 視為過渡方案，或 privacy / antitrust 敘事讓合作受壓 | KP 2025-11-08 |
 | Waymo 擴張成本與安全 / 監管風險 | 中 | 高速公路事故、城市許可放慢、成本結構過高或無法把 rides 轉成 profitable unit economics | KP 2025-11-15 |
@@ -130,6 +135,7 @@
 | KP 2025-11-08 Ironwood / Gemini-Siri | 中高 | 補上 Google inference TPU 與 AI-as-a-Service distribution 的歷史 L3；把 TPU moat 和 Gemini monetization 從內部產品推向外部客戶 / 外部平台 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
 | KP 2025-11-15 Waymo / Berkshire | 中 | 補上 Alphabet 在 Waymo real-world AI optionality 與 value-investor ownership signal 的歷史 L3；重要但仍需用 rides / revenue、Search cash flow、AI capex 和 antitrust risk 驗證 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
 | KP 2025-12-06 Google Cloud / AWS 多雲互連 | 中 | 補上 Google Cloud 以 open multicloud interconnect 切入 enterprise governance 的歷史 L2+；需用 adoption、Cloud AI revenue、networking monetization 與 Azure Arc response 驗證 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
+| KP 2025-12-13 Disney / Gemini AI IP | 中 | 補上 Gemini / Veo / AI creative model 的 licensed data / copyright risk；屬風險地圖補強，不覆蓋 Search / Cloud / capex / energy 主 thesis | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
 
 ## 索引
 
