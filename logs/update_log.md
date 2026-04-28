@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `大叔美股筆記-20260427-poet-celestial-marvell-po-cancellation-9d0c8abe`：整理大叔美股筆記 Substack Note《**POET** Celestial / Marvell 訂單取消：保密義務與接刀風險警示》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。大叔轉貼 POET official purchase order update：Marvell Semiconductor 在 2026-04-23 向 POET 發出書面取消通知，取消 POET 從 Celestial AI 收到的所有 purchase orders，包括 2023-04-25 首次披露的 initial production units；official PR 稱 Marvell 指出的理由是 POET 披露 PO / shipping information，牴觸 confidentiality obligations。
+- 更新：同步更新 source/ticker/theme/catalyst/watchlist indexes。**POET** 判定為 L3 負面候選追蹤，更新既有 watchlist 但不建立 `Stocks/POET/`。大叔明確將事件視為名聲、法務合規與可能連鎖反應，並提醒不要接刀；整理中標註 CFO 財訪、訴訟連鎖反應屬 KOL 判斷 / 待驗證，官方目前只證實 cancellation 與 confidentiality allegation。來源為 URL，未另存 raw，OCR 狀態不適用；本文不是買賣建議。
+
 - 入庫 `大叔美股筆記-20260427-orcl-be-project-jupiter-bloom-fuel-cell-942d9ab6`：整理大叔美股筆記 Substack Note《**ORCL** / **BE** Project Jupiter：2.45GW Bloom 燃料電池與 AI 資料中心離網電力》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。大叔轉貼 Oracle / BorderPlex / Bloom Energy official PR：Project Jupiter 位於 New Mexico Dona Ana County 的 Oracle AI data center campus 將採用最高 2.45GW Bloom fuel cell installed capacity，取代先前規劃的 gas turbines / diesel generators，並整合為 single microgrid campus。
 - 更新：同步更新 source/ticker/theme/catalyst/watchlist indexes。**BE** 判定為單篇大叔 L3 候選追蹤，新增 watchlist 但不建立 `Stocks/BE/`；**ORCL** 判定 L2，結合 2026-02-20 Cantor 13F positioning observation 更新 watchlist，但不建立 `Stocks/ORCL/`。明確標註官方未披露 contract value、revenue recognition、commissioning date、Bloom margin / cash conversion 或 Oracle Cloud revenue impact；2.45GW 是 installed capacity，不是 backlog、已認列 revenue、cash collection 或買賣建議。來源為 URL，未另存 raw，OCR 狀態不適用。
 
