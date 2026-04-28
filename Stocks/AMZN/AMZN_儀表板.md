@@ -1,15 +1,16 @@
 # AMZN 投資儀表板
 
-> 最後更新：2026-04-29（補入 KP / FOMOSoc 2025-12-20 歷史 L2：AI data center 電費政治；不改變當前最新立場）
+> 最後更新：2026-04-29（補入 KP / FOMOSoc 2026-01-31 歷史 L3：Fresh / Go 關閉、Whole Foods 聚焦與 JWO 授權；不改變當前最新立場）
 
 ## 當前立場快照
 
 - **綜合立場**：正式追蹤；宋分對 **AMZN** 的框架偏正面，核心是市場可能再次把 Amazon 的資本投入誤判為短期 EPS / FCF 壓力，而不是下一輪現金流引擎。
 - **KOL 最新立場**：宋分 2026-04-22 將 Amazon re-rate 的底層拆成 ROIC x Organic Growth；4/25 AMZN 主文留言補充指出 Amazon Leo / Globalstar 重點在 coverage + control，像是 AWS 從 compute + storage 延伸到 connectivity；資產化研發則需追是否轉成 revenue / FCF，而不是只改善 EPS。
+- **本次補入的 KP 2026-01-31 實體零售資本紀律**：KP 將 Amazon 關閉 Fresh / Go 解讀為承認自營科技超市 unit economics 不成立，但不是放棄所有 physical retail optionality；Amazon 轉向 Whole Foods 品牌 / 客群資產與 Just Walk Out 在 stadiums、hospitals、airports 等高 friction 場景的 B2B licensing。這補強 ROIC / capital allocation discipline，不是 AWS、Amazon Leo 或 advertising 的直接驗證。
 - **本次補入的 KP 2025-12-20 電力政治脈絡**：KP 將參議員調查 Amazon / Google / Microsoft data center 電費轉嫁，解讀為 AI infrastructure 的「誰付電網升級成本」問題升溫。對 AWS 不是停建訊號，而是 Project Rainier / Trainium / AI data center buildout 需加入 utility rate case、special power contracts、居民電費反彈、州級監管與 construction-speed 摩擦成本。
 - **本次補入的 KP 2025Q4 脈絡**：KP 2025-10-25 將 AWS outage 解讀為 IAM / DNS 層級故障，市場冷靜反映 AWS 高轉換成本與基礎設施地位；同篇 Anthropic / Google TPU 不是 AWS thesis 崩壞，而是 training / inference 的多雲分工。KP 2025-11-01 再補 AWS Q3 revenue +`20.2%`、annualized revenue 約 `$132B`、operating profit 約 `$10.2B` 與 Project Rainier / Trainium，將其解讀為 AWS 沒有在 AI 雲端競賽中掉隊。KP 2025-12-06 進一步把 AWS + Google Cloud private multicloud interconnect / open spec 解讀為雲端戰爭從 lock-in 轉向跨平台治理；對 AWS 同時是 resilience / networking 產品化機會，也是傳統 switching-cost moat 被弱化的風險。
 - **KP 歷史補充**：KP 2025-08-03 早期週報已把 AWS 放進 AI 基建軍備競賽，將 AWS margin 下滑解讀成守住龍頭地位的策略性犧牲；此為歷史 L2 脈絡，不覆蓋宋分 2026 年最新 thesis。
-- **依據篇章**：`KOL/宋分/articles/20260422_market_decoding_19_roic_organic_growth_amzn.md`；`KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md`；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q2.md`
+- **依據篇章**：`KOL/宋分/articles/20260422_market_decoding_19_roic_organic_growth_amzn.md`；`KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md`；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q2.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md`
 
 ## 關鍵價位追蹤
 
@@ -43,6 +44,7 @@
 | 資產化研發是否真的轉成未來現金流？ | 2026-04-22 | capitalized R&D ratio、amortization life、R&D to revenue、FCF conversion | 4/21 AMZN 留言 `c-247287496` | 待追蹤 |
 | Advertising + Prime + 3P services 能否持續覆蓋 retail / logistics 成本？ | 2026-04-21 | Ads revenue growth、subscription revenue、3P services、shipping / fulfillment cost | 4/21 AMZN | 待追蹤 |
 | ROIC 是否在 organic growth 仍在時開始轉折，而不是只因縮投資短暫改善？ | 2026-04-21 / 2026-04-22 | ROIC、NOPAT、invested capital、organic revenue growth、CAPEX、reinvestment runway | 4/21 AMZN；4/22 #19 | 待追蹤 |
+| Fresh / Go 關閉後，Whole Foods 與 JWO 授權是否能改善 physical retail ROIC？ | 2026-01-31（補入日 2026-04-29） | Whole Foods comps、Prime grocery frequency、JWO deployment count、licensing revenue、store closure charges、physical stores operating margin | KP 思考筆記第27期；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` | 歷史 L3 / 待後續財報驗證 |
 | CAPEX 是攻擊型投資，還是維持既有業務 / 補成本洞？ | 2026-04-21 | CAPEX purpose、depreciation、FCF、revenue visibility、segment margins | 4/21 AMZN；3/26 現金流品質框架 | 待追蹤 |
 | AWS margin sacrifice 是短期防衛投資，還是雲端競爭力被壓縮？ | 2025-08-03（補入） | AWS operating margin、pricing、market share、Azure / Google Cloud growth gap、AI capex ROI | KP 思考筆記第1期 | 歷史 L2 / 待後續財報驗證 |
 | AWS outage 是可控單點故障，還是雲端集中風險開始改變客戶架構？ | 2025-10-25（補入） | outage scope、SLA credits、enterprise churn、multi-region adoption、resilience revenue、critical infrastructure regulation | KP 思考筆記第13期；`Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 歷史 L2 / 待追蹤 |
@@ -62,6 +64,7 @@
 | Connectivity thesis 誤讀 | 中 | 把衛星成敗簡化為取代 4G / 5G 的速度競賽，而不是 coverage + control | last-mile coverage、IoT / industrial demand、emergency use cases、partner commitments | 4/21 AMZN 留言 |
 | 高毛利層不足 | 中高 | advertising / Prime / 3P services 成長放慢，shipping / fulfillment cost 持續上升 | ads revenue, subscription revenue, 3P services, shipping cost | 4/21 AMZN |
 | ROIC 斜率誤判 | 中高 | ROIC 回升只來自砍 CAPEX / 費用，而不是新現金流引擎開始提高資本效率 | ROIC trend, organic growth, reinvestment runway, FCF quality | 4/22 #19；4/21 AMZN |
+| 實體零售 unit economics / JWO 商業化風險 | 中高 | Fresh / Go 關店後，Whole Foods growth、Prime grocery frequency 或 JWO B2B licensing 未能補上 physical retail capital efficiency | Whole Foods comps、JWO customers、licensing revenue、store closure charges、physical stores margin | KP 2026-01-31；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` |
 | 估值模型誤判 | 中 | 市場或投資人把所有低 EPS 都解讀成未來護城河，忽略真實成本惡化 | segment margins, OCF / FCF, ROIC trend, cost productivity | 4/21 AMZN；4/22 #19；整理者判斷 |
 | AWS 防衛戰成本失控 | 中 | 為守市占持續犧牲 margin，但 growth / backlog / AI revenue 沒有對應補回 | AWS growth、operating margin、RPO / backlog、pricing、cloud share | KP 2025-08-03 |
 | AWS outage / cloud concentration | 中高 | outage 頻率升高、SLA credits 擴大、客戶轉向多雲或監管將 hyperscaler 視為 critical infrastructure | outage reports、churn、multi-region spend、regulatory rules、AWS margin | KP 2025-10-25 |
@@ -77,6 +80,7 @@
 | `KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md` 留言補充 | 2026-04-22 / 2026-04-25 | 宋分補充資產化研發要追是否轉成 revenue / FCF，並將 Amazon Leo / Globalstar 定位為 coverage + control 的最後一段連線層 | 高 |
 | `KOL/宋分/articles/20260422_market_decoding_19_roic_organic_growth_amzn.md` | 2026-04-22 | 宋分把 **AMZN** re-rate 底層抽象成 ROIC x Organic Growth，並用 PDD 留言補充說明 ROIC 改善斜率比 ROIC 絕對值更重要 | 高 |
 | `KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md` | 2026-04-21 | 宋分將 **AMZN** 從 AWS CAPEX Cycle 3 擴展為資本週期 / ROIC x Organic Growth 框架，並把 Globalstar / Amazon Leo 放入第三輪基礎設施假設 | 高 |
+| `Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` | 2026-01-31 | KP 補上 Fresh / Go 關閉與 JWO 授權：Amazon 願意砍低 ROIC 自營科技超市，保留 Whole Foods 與可授權 checkout automation，是 physical retail 層面的資本配置紀律 | 中 |
 | `Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 2025-11-01 | KP 補上 AWS Q3 再加速與 Project Rainier / Trainium：AWS 仍在 AI 雲端牌桌上，但需用 workload / margin / capex ROI 驗證 | 中 |
 | `Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 2025-10-25 | KP 補上 AWS outage / Anthropic workload split 的歷史 L2：AWS moat 仍強，但雲端韌性與 AI workload 分工需持續驗證 | 中 |
 | `Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 2025-12-06 | KP 補上 AWS + Google Cloud 多雲互連：雲端競爭從 lock-in 轉向跨平台治理，AWS 需同時驗證 resilience 變現與 switching-cost moat 變化 | 中 |

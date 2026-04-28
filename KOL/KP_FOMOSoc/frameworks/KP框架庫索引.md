@@ -15,6 +15,114 @@
 - **相關 ticker / 產業**：
 ```
 
+## 財報驗證 / 敘事承諾框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`
+- **一句話定義**：財報季的核心不是預測股價反應，而是驗證管理層承諾、guidance 底氣與資本配置是否仍支撐原 thesis。
+- **適用情境**：earnings season、growth stock rerating、turnaround validation、capex-heavy AI companies。
+- **觀察指標**：上季承諾 vs 本季結果、guidance rationale、earnings call 回答品質、capex / R&D / buyback、margin / FCF、thesis break signal。
+- **也出現於**：可與 KP 既有「會計恐慌驗證 / DSO 與存貨結構框架」、「困境反轉 ICU / 外部強心針框架」和宋分財報 / re-rate 框架交叉比對。
+- **相關 ticker / 產業**：全市場；本文示例包含 **META**, **TSLA**, **MSFT**, **AMZN**, **AAPL**, **INTC**, **UNH**。
+
+## 政治婚姻 / 非核心代工驗證框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`
+- **一句話定義**：先進晶片客戶可能把非核心 die / packaging 分給地緣政治需要的第二供應商，以低風險換取政策保險與產能彈性。
+- **適用情境**：Nvidia / Intel Feynman、multi-foundry strategy、advanced packaging second source、foundry turnaround validation。
+- **觀察指標**：compute die allocation、I/O die / packaging share、yield、delivery timing、customer commitment duration、geopolitical incentives、margin。
+- **也出現於**：延伸 KP「18A 止血 / 外部客戶驗證框架」、「Hand-to-Mouth 製造 / 產能真空框架」與「NVLink 圍牆花園 / CPU-GPU 平台化框架」。
+- **相關 ticker / 產業**：**INTC**, **NVDA**, **TSM**；advanced packaging、foundry、AI accelerators。
+
+## 醫保套利終結 / 政策水龍頭框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`
+- **一句話定義**：若醫保業務高度依賴政府補貼、編碼規則與 risk adjustment，政策調整會直接改寫收入池與 margin。
+- **適用情境**：Medicare Advantage、HCC coding、payer / provider vertical integration、managed care margin reset。
+- **觀察指標**：MA rate update、HCC model change、MLR、membership growth / loss、benefit cuts、Optum provider network、AI cost saving。
+- **也出現於**：可與 KP「藥價投降 / 市場准入換利潤框架」和 GLP-1 政策 / payer 相關筆記交叉比對。
+- **相關 ticker / 產業**：**UNH**；managed care、Medicare Advantage、health insurance。
+
+## 科技零售單位經濟 / 賣水人轉向框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`
+- **一句話定義**：自營科技零售若不能讓消費者支付溢價，平台應把技術轉向高摩擦場景授權，保留高毛利軟體 / infrastructure economics。
+- **適用情境**：Amazon Go / Fresh、Just Walk Out B2B、retail technology licensing、physical-store experiments。
+- **觀察指標**：store closure、same-store sales、lease cost、gross margin、JWO licensing wins、venue adoption、Whole Foods expansion、Prime attach。
+- **也出現於**：延伸 KP「零售飛輪再加速 / K 型消費防禦框架」、「市場真空 / 身份重定義框架」與宋分 **AMZN** capital cycle / ROIC framework。
+- **相關 ticker / 產業**：**AMZN**；grocery retail、retail technology、B2B licensing。
+
+## 虧損峰值 / AI 硬體入口框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`
+- **一句話定義**：長期燒錢硬體部門若能把敘事從低頻沉浸式硬體轉向高頻 AI 入口，虧損峰值承諾才有可驗證路徑。
+- **適用情境**：Meta Reality Labs、Ray-Ban Meta、wearable AI、AR glasses、AI assistant hardware。
+- **觀察指標**：unit sales、production capacity、engagement、Reality Labs loss、AI assistant usage、hardware gross margin、privacy incidents、next-gen AR cost-down。
+- **也出現於**：延伸 KP「AI 眼鏡 / 物理世界入口框架」、「AI 內容新奇感陷阱 / 工具 vs Feed 框架」與「開源商品化反噬 / 閉源變現轉向框架」。
+- **相關 ticker / 產業**：**META**, **EL.PA**/**ESLOY**；wearables、AR / VR、consumer AI hardware。
+
+## 後稀缺使命 / Physical AI 重定義框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`
+- **一句話定義**：當原本主業增長放緩，企業可能用更宏大的 physical AI / robotics / energy mission 重新定義估值，但必須用工程里程碑驗證。
+- **適用情境**：Tesla Optimus / Cybercab / xAI integration、robotics capex、energy abundance narrative。
+- **觀察指標**：vehicle delivery、auto margin、Optimus deployment、robotaxi miles、capex funding、xAI integration、energy storage growth、shareholder patience。
+- **也出現於**：延伸 KP「推論晶片訓練化 / AI 架構大一統框架」、「AI 自研晶片 / 垂直整合陷阱框架」與「Physical AI 信仰估值 / 戰時授權框架」。
+- **相關 ticker / 產業**：**TSLA**, **1211.HK**/**BYDDY**；physical AI、robotics、EV、energy storage。
+
+## 算力配給 / LTV 最適化框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`
+- **一句話定義**：當 AI compute 供不應求，雲端平台會從最大化外部 revenue 轉向把稀缺 GPU 配給給最高 LTV / 最強生態鎖定的內部或策略客戶。
+- **適用情境**：Microsoft Azure capacity constraint、Copilot priority、OpenAI / Anthropic cloud commitments、hyperscaler GPU allocation。
+- **觀察指標**：cloud growth guide、capex、RPO concentration、GPU allocation、Copilot revenue、AI app ARPU、external customer rejection、data-center buildout。
+- **也出現於**：延伸 KP「Tokens / Dollar / Watt / AI 社會許可框架」、「社區許可買路財 / Data Center Approval Speed 框架」與「雲端三國 / AI Capex 入場券框架」。
+- **相關 ticker / 產業**：**MSFT**；Azure, OpenAI, Anthropic, cloud AI, enterprise AI apps。
+
+## AI 有罪推定 / SaaS 再加速框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`
+- **一句話定義**：在 AI 可能顛覆 workflow layer 的環境中，高估值 SaaS 必須證明 AI 帶來再加速或護城河加深，否則 beat earnings 也可能被重估。
+- **適用情境**：SAP, ServiceNow, enterprise SaaS, AI workflow disruption, billings / backlog slowdown。
+- **觀察指標**：cloud backlog、subscription growth guide、AI product revenue、attach rate、retention、billings、valuation multiple、competitive displacement。
+- **也出現於**：延伸 KP「高估值 SaaS 預期重設框架」、「桌面 Agent / SaaS Seat-to-Workflow 框架」與「AI Agent 資產感知 / 數據主權併購框架」。
+- **相關 ticker / 產業**：**SAP**, **NOW**；enterprise SaaS、workflow automation、AI agents。
+
+## 政策地板撤退 / 稀土成本自立框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`
+- **一句話定義**：政府可用一次性 price floor 建立戰略樣板，但若不再複製保底模式，企業需回到成本曲線、技術與下游承購驗證。
+- **適用情境**：MP Materials、rare earths、critical minerals、tariff + equity policy、non-China supply chain。
+- **觀察指標**：price floor enforceability、NdPr price、offtake terms、tariffs、permitting speed、capex、magnet capacity、China price competition。
+- **也出現於**：延伸 KP「關鍵礦產 / 供應鏈武器化框架」與「國家安全萬能鑰匙 / 資本國籍風險框架」。
+- **相關 ticker / 產業**：**MP**；rare earths、critical minerals、defense supply chain。
+
+## HBM 技術規格 vs 量產可信度框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`
+- **一句話定義**：HBM 競爭不只看最高速度 / 製程節點，短期更看良率、穩定出貨、封裝瓶頸與客戶信任。
+- **適用情境**：SK Hynix vs Samsung HBM4、memory supercycle、AI accelerator supply chain。
+- **觀察指標**：yield、Gbps spec、wafer capacity、Nvidia / AMD qualification、thermal reliability、delivery consistency、HBM price、customer allocation。
+- **也出現於**：延伸 KP「HBM 價量鎖定 / 記憶體週期鈍化框架」與「AI 伺服器價值鏈定價權 / 記憶體週期框架」。
+- **相關 ticker / 產業**：**000660.KS**, **005930.KS**, **NVDA**, **AMD**；HBM、DRAM、advanced packaging。
+
+## 終端 AI 變現 / 低 Capex 整合者框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`
+- **一句話定義**：設備平台可選擇不參與 hyperscaler 式 AI capex 軍備競賽，而是用垂直晶片效率、第三方模型與終端分發權變現 AI。
+- **適用情境**：Apple Intelligence、Gemini licensing、on-device / private cloud AI、device upgrade cycle。
+- **觀察指標**：device sales mix、memory cost、gross margin、capex、third-party model fee、Siri adoption、privacy architecture、cross-app actions、AI services revenue。
+- **也出現於**：延伸 KP「借腦買時間 / 系統權限護城河框架」、「AI 外包買時間 / 模型即服務框架」與「AI 入口控制權 / Browser Distribution Moat 框架」。
+- **相關 ticker / 產業**：**AAPL**, **GOOG**, **GOOGL**；mobile AI、consumer devices、AI assistants。
+
+## 縮表換降息 / Fed Put 退場框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`
+- **一句話定義**：央行若用縮表重建反通膨信譽，再用政策利率降息，可能同時滿足政治降息需求與市場紀律，但也會降低救市可預測性。
+- **適用情境**：Kevin Warsh Fed chair nomination、balance-sheet policy、Fed independence、Trump monetary policy。
+- **觀察指標**：confirmation、QT pace、policy rate path、inflation expectations、long-end yields、Fed communication、equity drawdown response、Treasury liquidity。
+- **也出現於**：可與 KP「高估值政策信號 / 風險體檢框架」和宏觀流動性 / Fed put 相關筆記交叉比對。
+- **相關 ticker / 產業**：宏觀利率、美元流動性、美股估值、長債市場。
+
 ## 防務大基建 / 產能即主權框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第26期_Davos_Defense_TeslaDojo_Siri_BlueOrigin_Berkshire_MSFT_INTC.md`

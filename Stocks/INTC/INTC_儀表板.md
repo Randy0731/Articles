@@ -1,6 +1,6 @@
 # INTC 投資儀表板
 
-> 最後更新：2026-04-29（觸發來源：`Stocks/INTC/quarterly/INTC_筆記_2026Q1.md`；補入 KP / FOMOSoc 2026-01-24 思考筆記第26期的 hand-to-mouth inventory / 18A 商業陣痛 L3；不改變 2026-04 最新正面驗證仍需財報確認的立場）
+> 最後更新：2026-04-29（觸發來源：`Stocks/INTC/quarterly/INTC_筆記_2026Q1.md`；補入 KP / FOMOSoc 2026-01-31 思考筆記第27期的 Nvidia Feynman I/O die / advanced packaging L3；不改變 2026-04 最新正面驗證仍需財報確認的立場）
 
 ## 當前立場快照
 
@@ -17,7 +17,8 @@
 - **本次補入的 KP 2025-12-06 NEX 反轉訊號**：KP 將 Intel 取消 NEX spinoff 解讀為外部資金改善後的戰略反轉：近 `$6B` annual revenue 的 network / edge business 可與 Xeon、AI server、Nvidia partnership 打包成 system solution；但這同時提高「第三戰線」風險，因 Intel 已經要在 Foundry、CPU 與 networking / edge 多線執行。
 - **本次補入的 KP 2026-01-10 Panther Lake 止血訊號**：KP 將 Panther Lake 準時上市、200+ OEM designs 與 18A 自家產品量產，視為 Intel 路線圖信用修復；但他明確提醒這還沒有證明 18A 做得便宜、良率 / 毛利可支撐、Apple / Qualcomm / Broadcom 類外部 foundry 客戶落地，或 data center 已從守勢轉向復權。
 - **本次補入的 KP 2026-01-24 財報現實校準訊號**：KP 將 Intel 財報後暴跌解讀為 demand boom 與 manufacturing bottleneck 的同時存在：hyperscaler CPU demand 讓庫存耗盡、Q1 進入產能真空，18A 雖已出貨但仍在良率 / 成本 / gross margin 的商業陣痛期。正面是 CPU 在 inference 時代被重新發現，且 capex guide 從下降改成持平或略降可能暗示 H2 external foundry customer；風險是 Q2 delayed orders 未回流、18A 毛利不佳、AMD 趁 PC allocation 空窗拿 share。
-- **依據篇章**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第26期_Davos_Defense_TeslaDojo_Siri_BlueOrigin_Berkshire_MSFT_INTC.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第24期_CES_NvidiaRubin_Intel_Vertiv_AMD_xAI.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第08期_OracleTikTok與NvidiaIntel_Nscale.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第04期_AI泡沫Chrome入口與Intel國家隊.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第02期_AMD_CPU與GPU.md`；`Stocks/INTC/quarterly/INTC_筆記_2025Q3.md`；`KOL/Bytc/articles/20260124_tax_reform_code_to_capacity.md`；`KOL/Bytc/articles/20260425_macro_data_weekly_20260423.md`；`KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md`；`KOL/大叔美股筆記/notes/大叔美股筆記.md`；`KOL/Bytc/articles/20260405_macro_data_weekly_20260404.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q2.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q1.md`
+- **本次補入的 KP 2026-01-31 Nvidia Feynman 試單訊號**：KP 將 Nvidia Feynman / Intel 合作解讀為「非核心但真實」的 foundry 信任測試：compute die 仍由 TSMC A16 承接，Intel 取得 I/O die 與約四分之一 advanced packaging allocation。這比單純政治投資更接近商業驗證，但仍不是核心製造勝利；真正關卡在 2028 準時交付、14A / packaging 良率、cycle time、follow-on orders 與 Foundry gross margin。
+- **依據篇章**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第26期_Davos_Defense_TeslaDojo_Siri_BlueOrigin_Berkshire_MSFT_INTC.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第24期_CES_NvidiaRubin_Intel_Vertiv_AMD_xAI.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第08期_OracleTikTok與NvidiaIntel_Nscale.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第04期_AI泡沫Chrome入口與Intel國家隊.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第02期_AMD_CPU與GPU.md`；`Stocks/INTC/quarterly/INTC_筆記_2025Q3.md`；`KOL/Bytc/articles/20260124_tax_reform_code_to_capacity.md`；`KOL/Bytc/articles/20260425_macro_data_weekly_20260423.md`；`KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md`；`KOL/大叔美股筆記/notes/大叔美股筆記.md`；`KOL/Bytc/articles/20260405_macro_data_weekly_20260404.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q2.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q1.md`
 
 ## 關鍵價位追蹤
 
@@ -51,6 +52,8 @@
 | DCAI 的 Agentic AI CPU 復權能否轉成持續成長？ | 2026-04-24 | Xeon 出貨、企業 AI 推論、AMX / AI accelerator 採用、DCAI revenue、server CPU backlog | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md`；`KOL/大叔美股筆記/notes/大叔美股筆記.md` | 待追蹤 |
 | CPU:GPU 配比從 1:8 走向 1:4 / 1:1 是否出現在真實伺服器採購？ | 2026-04-25 | hyperscaler server architecture、CPU attach rate、Xeon / EPYC backlog、AI inference deployment | `KOL/Bytc/articles/20260425_macro_data_weekly_20260423.md` | 待追蹤 |
 | Intel Foundry 是否有足夠外部客戶，而非只靠內部轉單？ | 2026-04-24 | 外部客戶比例、18A design win、EMIB / Foveros 訂單、cycle time | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md` | 待追蹤 |
+| Nvidia Feynman I/O die / packaging 試單是否能轉成真正 foundry customer validation？ | 2026-01-31（補入日 2026-04-29） | 14A timeline、I/O die yield、advanced packaging cycle time、follow-on orders、Foundry gross margin、external foundry revenue | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q1.md` | L3 / 待 2028 roadmap 與財報驗證 |
+| Nvidia 核心 compute die 仍留在 TSMC，是否表示 Intel Foundry 尚未取得核心製造信任？ | 2026-01-31（補入日 2026-04-29） | Feynman compute die allocation、A16 / 14A split、Nvidia manufacturing commentary、wafer order disclosure | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q1.md` | L3 / 待供應鏈驗證 |
 | Fab 34 重新取得控制權是否能改善 foundry 執行，而非只增加資本壓力？ | 2026-04-27 | Fab 34 utilization、外部 foundry customer wins、capex、FCF、cash balance、gross margin | `KOL/Bytc/articles/20260405_macro_data_weekly_20260404.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q2.md` | 待追蹤 |
 | Intel 美國先進製造資產能否符合 48D 35% ITC 與工廠 100% depreciation eligibility？ | 2026-04-28 | construction start / safe harbor、placed in service、qualified use、tax footnotes、cash tax rate、capex guidance | `KOL/Bytc/articles/20260124_tax_reform_code_to_capacity.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q1.md` | 待追蹤 |
 | KP 第26期所說 Q1 產能真空後，Q2 是否能讓 delayed orders 回流？ | 2026-01-24（補入日 2026-04-29） | Q2 revenue guide、DCAI revenue、server CPU backlog、inventory days、gross margin、customer commentary | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第26期_Davos_Defense_TeslaDojo_Siri_BlueOrigin_Berkshire_MSFT_INTC.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q1.md` | L3 / 待後續財報驗證 |
@@ -71,6 +74,7 @@
 | 風險 | 追蹤強度 | 觸發條件 | 觀察指標 | 出處篇章 |
 |---|---|---|---|---|
 | 外部 foundry 客戶不足 | 高 | Foundry 成長主要來自內部需求，外部大客戶未落地 | 外部客戶比例、18A design win、先進封裝訂單 | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md` |
+| 非核心試單被誤讀為 foundry 全面勝利 | 高 | 市場把 Nvidia Feynman I/O die / packaging allocation 寫成核心 compute die 轉單或完整 foundry thesis 已驗證 | Nvidia manufacturing allocation、A16 / 14A split、wafer order、Foundry revenue、packaging gross margin | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第27期_IntelNvidia_UNH_Amazon_Meta_Tesla_MSFT_HBM_AppleFed.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q1.md` |
 | CPU shortage / CPU 配比 narrative 未轉成 DCAI revenue | 高 | 市場討論 CPU 復權，但 **INTC** DCAI revenue、Xeon backlog 或 gross margin 沒有跟上 | DCAI revenue、server CPU backlog、gross margin、EPS、customer demand | `KOL/Bytc/articles/20260425_macro_data_weekly_20260423.md` |
 | Intel 產品仍落後 AMD / ARM | 高 | Bytc 也承認 Intel 產品現階段不如 AMD / ARM；若 roadmap 改善不足，re-rating 失效 | benchmark、perf/watt、customer wins、market share、launch cadence | `KOL/Bytc/articles/20260425_macro_data_weekly_20260423.md` |
 | EPYC share loss 成為結構性問題 | 高 | AMD 在 hyperscalers / data center 持續擴大 share，Intel 無法用 roadmap / pricing / perf-per-watt 拉回 | server CPU share、Xeon / EPYC benchmark、DCAI revenue、gross margin | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第02期_AMD_CPU與GPU.md`；`Stocks/INTC/quarterly/INTC_筆記_2025Q3.md` |
@@ -97,6 +101,7 @@
 | `KOL/大叔美股筆記/notes/大叔美股筆記.md` | 2026-04-24 | 大叔轉貼 CPU shortage / CPU supercycle 論點，明確說 Agentic AI 讓 CPU thesis 活過來，補強 **INTC** DCAI / CPU 復權框架；未新增價位或操作 | 中 |
 | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md` | 2026-04-24 | **INTC** Q1 beat 被大叔解讀為執行紀律、DCAI CPU 復權與 Foundry 重估的第一個財務驗證，但估值已提前反映 2027 成長性，不能追價 | 高 |
 | `KOL/Bytc/articles/20260405_macro_data_weekly_20260404.md` | 2026-04-05 | Bytc 將 Fab 34 49% 股權回購解讀為 IDM 2.0 收網與全球算力基建沒有停止，是製造控制權 thesis 補強；未提供目標價 | 中 |
+| `Stocks/INTC/quarterly/INTC_筆記_2026Q1.md` | 2026-01-31 | KP 補上 Nvidia Feynman / Intel 14A I/O die 與 advanced packaging 試單：這是 2028 foundry credibility test，但 compute die 仍在 TSMC，不能寫成核心製造勝利已驗證 | 中高 |
 | `Stocks/INTC/quarterly/INTC_筆記_2026Q1.md` | 2026-01-10 | KP 補上 Panther Lake / 18A 止血：準時上市與 200+ OEM designs 修復路線圖 credibility，但外部客戶、良率、毛利與 data center 復權仍待驗證 | 中 |
 | `Stocks/INTC/quarterly/INTC_筆記_2026Q1.md` | 2026-01-24 | KP 補上財報後現實校準：Intel CPU demand 強但庫存耗盡、18A 良率和 gross margin 仍在商業陣痛，Q1 是產能真空，Q2 delayed orders 是否回流是關鍵 | 中高 |
 | `Stocks/INTC/quarterly/INTC_筆記_2025Q4.md` | 2025-12-06 | KP 補上 NEX retention：Intel 從斷臂求生轉向 system integration optionality，但第三戰線與資本配置紀律風險同步上升 | 中 |
