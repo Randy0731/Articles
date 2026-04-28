@@ -1,6 +1,6 @@
 # AMZN 投資儀表板
 
-> 最後更新：2026-04-29（補入 KP / FOMOSoc 2026-02-28 歷史 L3：OpenAI Frontier、AWS 第三方分銷與 Bedrock Stateful Runtime；不改變當前最新立場）
+> 最後更新：2026-04-29（補入 KP / FOMOSoc 2026-03-21 歷史 L3：OpenAI stateful runtime、AWS Trainium 與 Microsoft 合約邊界；不改變當前最新立場）
 
 ## 當前立場快照
 
@@ -9,6 +9,7 @@
 - **本次補入的 KP 2026-02-07 AWS 建設模式訊號**：KP 認為市場財報後只看 2026 capex 可能達 2000 億美元與 FCF 壓力，忽略 AWS growth 再加速至約 24%、Bedrock customer spend q/q +60%、Trainium + Graviton annualized revenue 超過 100 億美元，以及 2440 億美元 backlog / +40% 這張「訂單收據」。這補強宋分後續 AMZN capital cycle thesis：關鍵不是花多少，而是 backlog、AI services 與 custom silicon 是否轉成 revenue / margin / FCF。
 - **本次補入的 KP 2026-02-21 OpenAI 融資補強**：KP 將 OpenAI new funding >`$100B`、valuation >`$850B` 解讀為 AI 公用事業預融資；Amazon intent up to `$50B` 讓 AWS 取得 OpenAI 多雲 / 基建聯盟入場券。這補強 AWS 高 capex 需求端，但必須用 AWS contract terms、margin、OpenAI revenue quality 和 circular-financing risk 驗證。
 - **本次補入的 KP 2026-02-28 OpenAI / AWS runtime 補強**：KP 認為 Amazon 對 OpenAI 的真正收穫可能是 Frontier 第三方雲分銷權，以及 Bedrock Stateful Runtime 把 IAM / S3 / agent memory / long-running workflow / Trainium 串成 enterprise AI 作業系統層。這把第30期 funding thesis 推到 distribution / platform control，但仍需追 contract terms、AWS margin、Trainium utilization、Bedrock revenue 與 circular financing risk。
+- **本次補入的 KP 2026-03-21 OpenAI / AWS 合約邊界補強**：KP 將 Microsoft / OpenAI / Amazon 爭端拆成 stateless API exclusivity 與 stateful agent runtime 的定義戰。對 **AMZN**，重點是 AWS 能否用 `$50B` commitment、2GW power 與 Trainium 承接 OpenAI Frontier stateful workload，讓第31期 enterprise AI OS thesis 變得更具體；風險則是 Microsoft toll / Azure priority、AWS margin quality 與 OpenAI revenue / OCF。
 - **本次補入的 KP 2026-01-31 實體零售資本紀律**：KP 將 Amazon 關閉 Fresh / Go 解讀為承認自營科技超市 unit economics 不成立，但不是放棄所有 physical retail optionality；Amazon 轉向 Whole Foods 品牌 / 客群資產與 Just Walk Out 在 stadiums、hospitals、airports 等高 friction 場景的 B2B licensing。這補強 ROIC / capital allocation discipline，不是 AWS、Amazon Leo 或 advertising 的直接驗證。
 - **本次補入的 KP 2025-12-20 電力政治脈絡**：KP 將參議員調查 Amazon / Google / Microsoft data center 電費轉嫁，解讀為 AI infrastructure 的「誰付電網升級成本」問題升溫。對 AWS 不是停建訊號，而是 Project Rainier / Trainium / AI data center buildout 需加入 utility rate case、special power contracts、居民電費反彈、州級監管與 construction-speed 摩擦成本。
 - **本次補入的 KP 2025Q4 脈絡**：KP 2025-10-25 將 AWS outage 解讀為 IAM / DNS 層級故障，市場冷靜反映 AWS 高轉換成本與基礎設施地位；同篇 Anthropic / Google TPU 不是 AWS thesis 崩壞，而是 training / inference 的多雲分工。KP 2025-11-01 再補 AWS Q3 revenue +`20.2%`、annualized revenue 約 `$132B`、operating profit 約 `$10.2B` 與 Project Rainier / Trainium，將其解讀為 AWS 沒有在 AI 雲端競賽中掉隊。KP 2025-12-06 進一步把 AWS + Google Cloud private multicloud interconnect / open spec 解讀為雲端戰爭從 lock-in 轉向跨平台治理；對 AWS 同時是 resilience / networking 產品化機會，也是傳統 switching-cost moat 被弱化的風險。
@@ -27,6 +28,7 @@
 | KP 2026-02-07 AWS 建設模式 | 無股價 / 目標價；AWS growth 約 `24%`、annualized revenue 約 `$142B`、Trainium + Graviton annualized revenue >`$10B`、backlog 約 `$244B` | KP 用於說明 capex 背後有 demand receipt，不是買賣點 | 2026-02-07 | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第28期_AMZN_Google_AMD_NVO_MSTR_NvidiaOpenAI.md`；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` |
 | KP 2026-02-21 OpenAI / AWS strategic infrastructure | 無股價 / 目標價；OpenAI funding >`$100B`、valuation >`$850B`、Amazon intent up to `$50B` | KP 用於說明 AWS 取得 frontier AI workload / multi-cloud 入場券，不是買賣點 | 2026-02-21 | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第30期_MetaNvidia_GoogleGeothermal_PANW_WMT_OpenAITariffs.md`；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` |
 | KP 2026-02-28 OpenAI / AWS Stateful Runtime | 無股價 / 目標價；OpenAI future AWS spend KP 口徑 `$138B` over 8 years、2GW Trainium、Amazon investment `$50B`、OpenAI 2030 compute spend `$600B` | KP 用於說明 AWS 從 capacity provider 推向 enterprise AI OS layer，不是買賣點 | 2026-02-28 | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第31期_AMDMeta_IBM_GoogleTPU_Salesforce_HBF_Nvidia_Netflix_AWS.md`；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` |
+| KP 2026-03-21 OpenAI / AWS 合約邊界 | 無股價 / 目標價；Amazon commitment KP 口徑 `$50B`、2GW power / Trainium，Microsoft 對 OpenAI 算力支持 KP 口徑 `$250B` | KP 用於說明 AWS 承接 OpenAI stateful runtime 的機會與 Microsoft exclusivity risk，不是買賣點 | 2026-03-21 | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第34期_Grok_MU_MSFT_OpenAI_AMZN_OCI_NVDA_OpenClaw.md`；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` |
 
 ## 近 30 天催化劑時程表
 
@@ -42,6 +44,7 @@
 | 2026-02-07 | KP 思考筆記第28期補上 AWS 再加速與 backlog 收據 | KP 將 AWS Q4 growth 約 24%、Bedrock spend q/q +60%、Trainium + Graviton >100 億美元 annualized revenue、2440 億美元 backlog / +40% 解讀為 Amazon 回到建設模式；對 AMZN 是 capex / FCF 恐慌的歷史 L3 校準 | `Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` |
 | 2026-02-21 | KP 思考筆記第30期補上 OpenAI 千億融資與 AWS 入場券 | KP 將 OpenAI >1000 億美元融資與 Amazon up to 500 億美元 intent 解讀為 AWS 取得 frontier AI / multi-cloud 基建席位；對 AMZN 是 L2-L3 需求端補強，但需追 OpenAI revenue quality、AWS margin 與 circular-financing risk | `Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` |
 | 2026-02-28 | KP 思考筆記第31期補上 OpenAI Frontier 與 AWS Stateful Runtime | KP 將 AWS / OpenAI 關係升級為 Frontier 第三方雲分銷與 Bedrock stateful enterprise agent runtime；對 AMZN 是 L3 platform-control 補強，但需追合約品質、Trainium utilization 與 Bedrock revenue | `Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` |
+| 2026-03-21 | KP 思考筆記第34期補上 OpenAI / AWS stateful runtime 與 Microsoft 合約邊界 | KP 將 Microsoft stateless API exclusivity 與 OpenAI / AWS stateful agent runtime 的差異視為 AI 雲端合約重定義；對 AMZN 是 L3 AWS enterprise AI OS thesis 延伸，但需追 Microsoft toll / Azure priority、Trainium utilization 與 AWS margin | `Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` |
 
 ## 未結問題（Open Questions）
 
@@ -51,6 +54,7 @@
 | KP 所稱 2440 億美元 backlog「收據」是否能支撐 2000 億美元 capex？ | 2026-02-07（補入日 2026-04-29） | AWS RPO / backlog conversion、Bedrock spend、Trainium / Graviton revenue、GW capacity utilization、FCF、depreciation | KP 思考筆記第28期；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` | 歷史 L3 / 待後續財報驗證 |
 | OpenAI / AWS strategic infrastructure intent 是否會轉成高品質 revenue？ | 2026-02-21（補入日 2026-04-29） | AWS contract terms、OpenAI cloud spend、AWS operating margin、OpenAI revenue / OCF、capex / depreciation、supplier equity terms | KP 思考筆記第30期；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` | 歷史 L2-L3 / 待後續驗證 |
 | AWS 能否用 Frontier distribution / Bedrock Stateful Runtime 建立 enterprise AI 作業系統層？ | 2026-02-28（補入日 2026-04-29） | Frontier adoption、Bedrock Stateful Runtime revenue、IAM / S3 attach、Trainium utilization、enterprise retention、OpenAI revenue / OCF | KP 思考筆記第31期；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` | 歷史 L3 / 待後續驗證 |
+| OpenAI / AWS 的 stateful runtime 是否能避開 Microsoft stateless API exclusivity，並保留足夠 AWS economics？ | 2026-03-21（補入日 2026-04-29） | Microsoft / OpenAI settlement、AWS / OpenAI workload terms、Trainium utilization、Azure priority rights、AWS operating margin、OpenAI revenue / OCF | KP 思考筆記第34期；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` | 歷史 L3 / 待後續驗證 |
 | Globalstar / Amazon Leo 是否會成為下一層連網現金流，而不是遠期 CAPEX？ | 2026-04-21 | Transaction close、D2D rollout、Apple / MNO / enterprise / government demand、pricing | 4/21 AMZN；Amazon official PR | 待追蹤 |
 | Amazon Leo / Globalstar 是否形成 coverage + control 的最後一段連線層？ | 2026-04-25 | D2D rollout、IoT / industrial endpoints、emergency use cases、Apple / MNO partnerships、connectivity pricing | 4/21 AMZN 留言 `c-248962594` | 待追蹤 |
 | 資產化研發是否真的轉成未來現金流？ | 2026-04-22 | capitalized R&D ratio、amortization life、R&D to revenue、FCF conversion | 4/21 AMZN 留言 `c-247287496` | 待追蹤 |
@@ -75,6 +79,8 @@
 | AWS 建設模式變資本黑洞 | 高 | Bedrock / Trainium / backlog 無法轉成 revenue / margin，2000 億美元 capex 只留下折舊、能源成本與 FCF 壓力 | AWS growth、Bedrock spend、custom silicon revenue、RPO / backlog conversion、capex、depreciation、FCF | KP 2026-02-07；整理者判斷 |
 | OpenAI / AWS commitment quality risk | 中高 | Amazon 為取得 OpenAI workload 承擔低毛利 capacity、counterparty risk 或高估值 / circular-financing exposure，而 OpenAI revenue / OCF 未跟上 | AWS contract terms、AWS margin、OpenAI revenue / OCF、capex、depreciation、supplier equity terms | KP 2026-02-21；整理者判斷 |
 | Bedrock Stateful Runtime adoption risk | 中高 | AWS 無法把 OpenAI Frontier / stateful agents 轉成高黏性 enterprise workflow，或被 Microsoft Copilot / Azure AI / Google Vertex AI 搶走作業系統層 | Bedrock customers、Stateful Runtime usage、IAM / S3 attach、Trainium utilization、enterprise retention、AWS AI revenue | KP 2026-02-28；整理者判斷 |
+| Microsoft exclusivity / toll risk | 高 | Microsoft 成功主張 OpenAI stateful agent 仍受 Azure exclusive scope 約束，或讓 AWS / OpenAI 支付過路費 / 讓渡功能優先權 | settlement terms、Azure priority rights、AWS workload scope、OpenAI product hosting terms、AWS margin | KP 2026-03-21；整理者判斷 |
+| Trainium utilization risk | 中高 | OpenAI 把 Trainium 當作議價或備援，而非核心 workload，導致 2GW power / custom silicon capacity 利用率不足 | Trainium deployment、OpenAI workload split、cost per token、AWS AI revenue、depreciation | KP 2026-03-21；整理者判斷 |
 | Globalstar / D2D 執行風險 | 高 | 交易延後、監管或 HIBLEO-4 milestones 未達成、D2D 商業化不及預期 | transaction close, approvals, D2D rollout, Apple / MNO partners | Amazon official PR；4/21 AMZN |
 | Connectivity thesis 誤讀 | 中 | 把衛星成敗簡化為取代 4G / 5G 的速度競賽，而不是 coverage + control | last-mile coverage、IoT / industrial demand、emergency use cases、partner commitments | 4/21 AMZN 留言 |
 | 高毛利層不足 | 中高 | advertising / Prime / 3P services 成長放慢，shipping / fulfillment cost 持續上升 | ads revenue, subscription revenue, 3P services, shipping cost | 4/21 AMZN |
@@ -98,6 +104,7 @@
 | `Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` | 2026-02-07 | KP 補上 AWS 再加速與 backlog 收據：Amazon 的高 capex 若由 Bedrock、custom silicon、capacity constraint 與 2440 億美元 backlog 支撐，就更像建設模式而非純資本黑洞 | 中高 |
 | `Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` | 2026-02-21 | KP 補上 OpenAI 千億融資與 Amazon up to 500 億美元 intent：AWS 取得 frontier AI / multi-cloud infrastructure 入場券，但要用合約品質、margin 與 OpenAI revenue quality 驗證 | 中高 |
 | `Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` | 2026-02-28 | KP 補上 OpenAI Frontier 分銷與 Bedrock Stateful Runtime：AWS 若把 agent memory、identity、S3 / IAM 與 Trainium 綁成 enterprise AI OS layer，高 capex 可能轉成更高黏性的 platform revenue | 中高 |
+| `Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` | 2026-03-21 | KP 補上 OpenAI / AWS stateful runtime 與 Microsoft 合約邊界：AWS 有機會承接 Frontier agent workload，但需用 legal settlement、Trainium utilization、AWS margin 與 OpenAI revenue quality 驗證 | 中高 |
 | `Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` | 2026-01-31 | KP 補上 Fresh / Go 關閉與 JWO 授權：Amazon 願意砍低 ROIC 自營科技超市，保留 Whole Foods 與可授權 checkout automation，是 physical retail 層面的資本配置紀律 | 中 |
 | `Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 2025-11-01 | KP 補上 AWS Q3 再加速與 Project Rainier / Trainium：AWS 仍在 AI 雲端牌桌上，但需用 workload / margin / capex ROI 驗證 | 中 |
 | `Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 2025-10-25 | KP 補上 AWS outage / Anthropic workload split 的歷史 L2：AWS moat 仍強，但雲端韌性與 AI workload 分工需持續驗證 | 中 |

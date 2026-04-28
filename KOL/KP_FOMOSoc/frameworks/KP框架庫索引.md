@@ -15,6 +15,69 @@
 - **相關 ticker / 產業**：
 ```
 
+## 投資圖書館 / 認知複利框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第34期_Grok_MU_MSFT_OpenAI_AMZN_OCI_NVDA_OpenClaw.md`
+- **一句話定義**：研究內容若能被索引、複用與週期性更新，就從單次資訊消費變成可累積的認知複利與投資作業系統。
+- **適用情境**：KOL research library、長青深度文、週報追蹤、個人投資筆記庫、framework reuse。
+- **觀察指標**：source completeness、thesis update cadence、framework reuse、cross-link quality、index coverage、open questions、follow-up catalyst tracking。
+- **也出現於**：呼應第29期研究 / 執行分離框架與第28期價格影子 / 生意實體框架。
+- **相關 ticker / 產業**：全市場；研究流程 / 筆記庫 / 投資作業系統。
+
+## 數位學徒制 / 專精模型框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第34期_Grok_MU_MSFT_OpenAI_AMZN_OCI_NVDA_OpenClaw.md`
+- **一句話定義**：AI 專精化不只是餵資料，而是把高價值專家的判斷流程、錯誤修正與實務語境訓練成可複製的數位學徒。
+- **適用情境**：xAI / Grok financial training、domain-specific AI、expert workflow distillation、AI analyst tooling。
+- **觀察指標**：domain expert hiring、workflow completion quality、reasoning trace quality、compliance controls、enterprise adoption、model error rate、customer willingness to pay。
+- **也出現於**：可與第32期 Token 節流閥 / AI 軟體治理框架、第31期數位勞動力稅 / AWU 框架交叉比對。
+- **相關 ticker / 產業**：xAI 未上市；financial AI / enterprise AI tooling。
+
+## SCA / 記憶體結構化成長框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第34期_Grok_MU_MSFT_OpenAI_AMZN_OCI_NVDA_OpenClaw.md`
+- **一句話定義**：記憶體公司若以長約、價格 / 量能鎖定與供給紀律服務 AI 客戶，市場可能把它從高 beta cycle stock 重估為 AI capacity gatekeeper。
+- **適用情境**：Micron SCA、HBM / DDR5 / LP DRAM、AI server memory、DRAM / NAND cycle reset。
+- **觀察指標**：SCA duration / terms、gross margin、customer fill rate、capex / bit supply、HBM / DDR5 pricing、customer inventory、cancellation / renegotiation risk。
+- **也出現於**：延伸第21期 HBM 價量鎖定 / 記憶體週期鈍化框架、第29期 HBM 尖端引領 vs DRAM 務實跟隨框架與第31期 HBF 記憶體新樓層框架。
+- **相關 ticker / 產業**：**MU**, **000660.KS**, **005930.KS**, **NVDA**；memory / AI server supply chain。
+
+## Stateless API 合約邊界 / 算力主權框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第34期_Grok_MU_MSFT_OpenAI_AMZN_OCI_NVDA_OpenClaw.md`
+- **一句話定義**：雲端 AI 合約競爭會從誰託管模型 API，延伸到 stateful agent runtime、記憶、工作流與底層算力主權的定義之爭。
+- **適用情境**：Microsoft / OpenAI / Amazon、Frontier distribution、Bedrock Stateful Runtime、enterprise AI cloud contracts。
+- **觀察指標**：contract language、settlement terms、runtime architecture、Trainium utilization、Azure priority rights、AWS margin、OpenAI revenue / OCF、enterprise retention。
+- **也出現於**：延伸第31期 Stateful Runtime / 企業 AI 作業系統框架、第30期 AI 公用事業預融資框架與第29期 Microsoft AI 自給自足 / 混合生態 margin deadlock 框架。
+- **相關 ticker / 產業**：**AMZN**, **MSFT**, **NVDA**；cloud infrastructure / enterprise AI runtime。
+
+## OCI 光互連標準化 / 矽晶中心框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第34期_Grok_MU_MSFT_OpenAI_AMZN_OCI_NVDA_OpenClaw.md`
+- **一句話定義**：光通訊標準若由 hyperscaler 與 silicon vendors 主導，價值鏈可能從傳統光模組採購轉向 silicon-centric interconnect architecture 與共同規格。
+- **適用情境**：OCI / XPO / Open CPX、AI data center interconnect、co-packaged optics、optical suppliers。
+- **觀察指標**：OCI spec adoption、power reduction、GEN1 / 1.6T / 3.2T roadmap、supplier qualification、laser attach、CPO timing、component margin、vertical integration。
+- **也出現於**：呼應第29期 OCS 光學神經系統 / HBM 分層框架、第32期銅線過渡期 / 跨介質可靠性平台框架與第19期 AI interconnect 敘事輪動 / 光子替代框架。
+- **相關 ticker / 產業**：**AMD**, **AVGO**, **META**, **MSFT**, **NVDA**, **COHR**, **LITE**；optical interconnect / CPO / AI networking。
+
+## Full-stack ownership / 公司晶片組織框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第34期_Grok_MU_MSFT_OpenAI_AMZN_OCI_NVDA_OpenClaw.md`
+- **一句話定義**：AI hardware 領先者的護城河可來自把 data center 視為單一 compute unit，並用組織、bring-up、軟體連續性與產品節奏管理整個 stack。
+- **適用情境**：Nvidia Rubin / Vera / Feynman、AI factory system design、company-chip org、platform release cadence。
+- **觀察指標**：roadmap cadence、bring-up speed、software compatibility、CUDA continuity、direct-report / organization design、system performance、customer migration friction。
+- **也出現於**：延伸第24期系統級協同設計 / AI Factory 機櫃平台框架、第31期完美財報消化期框架與特別篇 Nvidia AI Factory 系統級 TCO 框架。
+- **相關 ticker / 產業**：**NVDA**；AI factory / accelerator platforms / system design。
+
+## OpenClaw / Agent OS 安全收編框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第34期_Grok_MU_MSFT_OpenAI_AMZN_OCI_NVDA_OpenClaw.md`
+- **一句話定義**：Enterprise agents 要走進生產環境，平台需提供 sandbox、guardrails、privacy routing、auditing 與 dedicated compute，把不確定 agent 行為收編成可治理的作業系統層。
+- **適用情境**：OpenClaw / NemoClaw、enterprise agent OS、agent safety and governance、private AI deployment。
+- **觀察指標**：enterprise adoption、sandbox isolation、guardrail incidents、privacy routing、audit logs、dedicated compute attach、workflow completion、foundation governance。
+- **也出現於**：呼應第33期 AI 員工治理 / Work IQ lock-in 框架、第32期 Token 節流閥 / AI 軟體治理框架與第31期 Stateful Runtime / 企業 AI 作業系統框架。
+- **相關 ticker / 產業**：**NVDA**, **MSFT**, **GOOG**, **GOOGL**；enterprise agents / agent OS / AI safety。
+
 ## AI Agent 身分 / 通訊層框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第33期_MetaMoltbook_MSFT_E7_ORCL_Wiz_Nebius_Fertilizer_AMAT_JPM.md`
