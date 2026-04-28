@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `大叔美股筆記-20260428-melius-mu-sndk-memory-rerate-09b1527b`：整理大叔美股筆記 2026-04-28 Substack Note `c-250285914`，併入 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。Substack JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/ticker/theme/catalyst/watchlist indexes。大叔轉述 Melius Research 對 **MU** 首次覆蓋 / analyst target、對 **SNDK** 給出 analyst target：**MU** `700`、**SNDK** `1350`（原文未標幣別 / 單位），並把 AI memory、HBM 與 NAND / AI data demand 連到記憶體產業 re-rating。**MU** 因既有宋分記憶體 PB / HBM 雙結構框架，更新為跨 KOL / sell-side L2 watchlist 補強；**SNDK** 新增 L2 候選觀察；不建立 `Stocks/`。`700` / `1350` 不是大叔自身目標價或本專案建議，本文不是買賣建議。
+
 - 補充入庫 `宋分-20260419-mid-entry-two-and-half-selling-method-3889d79b`，併回既有 `宋分-20260419-investment-discipline-13-profit-taking-rhythm-0bcb825e`：整理宋分 / 美股送分題 2026-04-19 Substack 留言補充 `c-245861193`，更新 `KOL/宋分/articles/20260419_investment_discipline_13_profit_taking_rhythm.md`。Substack JSON-LD 正文完整可讀，來源為 URL，OCR 狀態不適用；另將使用者提供之 6 頁網頁截圖 PDF 複製至 `KOL/宋分/raw/20260419_宋分_profit_taking_rhythm_宋分-20260419-investment-discipline-13-profit-taking-rhythm-0bcb825e.pdf` 作本機 raw 備份，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
 - 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`，補強「獲利了結 / 三段式賣出框架」：三段式不必複製機構成本與時間點，個人賣出節奏應從自己的進場點開始；若中段才進場，可用「兩段半賣出法」先在已有利潤後小幅賣 10%-20%，再依動能轉弱與結構破壞分段降部位。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`。本文不是買賣建議。
 
