@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260205-avgo-valuation-thermometer-d7fe5606`：整理宋分 / 美股送分題 Substack Note + Threads 前文《AVGO 估值溫度計：剛要踏入便宜的開始》，建立 `KOL/宋分/articles/20260205_avgo_valuation_thermometer.md`，並複製使用者提供之 2 頁 Threads 截圖 PDF 至 `KOL/宋分/raw/20260205_宋分_avgo_valuation_thermometer_宋分-20260205-avgo-valuation-thermometer-d7fe5606.pdf`。Substack Note 正文可讀；Threads PDF 為 image-only，p.1 為 2026-01-21 核心前文、內嵌 2025-12-15 舊文與留言，p.2 為留言尾端，人工視讀足以支撐整理。
+- 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。**AVGO** 判定為宋分單篇 L3 候選追蹤：FY2027 forward PE 由 `24x` -> `21x`、最新一季未回購、去年約 `$153` 回購、內部人均價約 `$352` 賣股、2027 ASIC 客戶數可能從 3 家增至 9 家、先前 `$60B-$90B` ASIC SAM 顯著偏低與 `$73B` 訂單作為後續檢查。因 `Stocks/AVGO/` 尚未建立且本次是補入舊文，先新增 watchlist，不自動建立正式個股專案；所有「便宜」「黃金坑」語境均為 KOL 個人框架，不是本專案買賣建議。
+
 - 入庫 `宋分-20260205-amd-valuation-thermometer-6dd1d930`：整理宋分 / 美股送分題 Substack Note + Threads 延伸文《AMD 估值溫度計：重挫後進入長線佈局區間》，建立 `KOL/宋分/articles/20260205_amd_valuation_thermometer.md`，並複製使用者提供之 2 頁 Threads 截圖 PDF 至 `KOL/宋分/raw/20260205_宋分_amd_valuation_thermometer_宋分-20260205-amd-valuation-thermometer-6dd1d930.pdf`。Substack Note 正文可讀，Threads PDF 為 image-only；p.1 為核心主貼、延伸貼與留言，p.2 僅留言尾端，OCR / 視讀足以支撐整理。
 - 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。**AMD** 判定為宋分單篇 L3 候選追蹤：forward PE 由今年 `34x` -> `30x`、明年 `22x` -> `19x`，公司再上一季回購價 `$154` 作估值錨，MI450 下半年出貨、Q3 轉折與 Q4 加速作後續檢查。因 `Stocks/AMD/` 尚未建立且本次是補入舊文，先更新 watchlist，不自動建立正式個股專案；所有「長線佈局區間」與「送分題」語境均為 KOL 個人框架，不是本專案買賣建議。
 
