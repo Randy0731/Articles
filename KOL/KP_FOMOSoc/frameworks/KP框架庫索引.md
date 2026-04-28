@@ -15,6 +15,78 @@
 - **相關 ticker / 產業**：
 ```
 
+## 人形機器人 CAPEX / 群體學習商業化框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第24期_CES_NvidiaRubin_Intel_Vertiv_AMD_xAI.md`
+- **一句話定義**：人形機器人從 demo 走向工業部署時，關鍵不只是單機能力，而是 ROI、human-in-loop、聯邦學習、供應鏈與量產承諾是否同時成立。
+- **適用情境**：CES robotics、industrial humanoids、warehouse automation、factory deployment、Unitree / AgiBot / Boston Dynamics。
+- **觀察指標**：robot ASP、3-5 年 ROI、uptime、human-to-robot ratio、federated learning events、OTA update、factory deployment、unit production、safety certification。
+- **也出現於**：可與 KP「機器人產業政策 / 製造業悖論框架」、「AI 眼鏡 / 物理世界入口框架」與大叔 / Bytc physical AI 相關筆記交叉比對。
+- **相關 ticker / 產業**：**005380.KS**, **GOOG**, **GOOGL**；Boston Dynamics / Unitree / AgiBot 未上市；industrial robotics、physical AI。
+
+## 18A 止血 / 外部客戶驗證框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第24期_CES_NvidiaRubin_Intel_Vertiv_AMD_xAI.md`
+- **一句話定義**：自家產品準時量產可證明製程止血，但 foundry thesis 必須等外部客戶、良率、毛利與 data center revenue 驗證。
+- **適用情境**：Intel Panther Lake、18A、14A roadmap、turnaround semiconductor manufacturing。
+- **觀察指標**：launch timing、OEM design count、yield、gross margin、external foundry customers、DCAI revenue、server CPU share、Foundry losses。
+- **也出現於**：延伸 KP「困境反轉 ICU / 外部強心針框架」、「資產分拆反轉 / 系統整合保留框架」與 Bytc / 大叔 **INTC** CPU 復權筆記。
+- **相關 ticker / 產業**：**INTC**, **MSFT**, **AAPL**, **QCOM**, **AVGO**；foundry、AI PC、server CPU。
+
+## 系統級協同設計 / AI Factory 機櫃平台框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第24期_CES_NvidiaRubin_Intel_Vertiv_AMD_xAI.md`
+- **一句話定義**：AI hardware 競爭從單顆晶片規格轉向 CPU / GPU / DPU / networking / memory / cooling / software 的機櫃級協同設計。
+- **適用情境**：Nvidia Vera Rubin、AMD Helios、AI rack systems、NVLink / UALink、DPU / SuperNIC。
+- **觀察指標**：GPU utilization、interconnect bandwidth、DPU attach、rack-level performance、tokens per watt、HBM bandwidth、network topology、software stack。
+- **也出現於**：可與 KP「AI Factory 系統級 TCO / Tokens per Watt 護城河框架」、「AI 工廠調度層 / 開源外城河框架」和大叔 AI Factory / CPO 框架交叉比對。
+- **相關 ticker / 產業**：**NVDA**, **AMD**, **ARM**, **INTC**, **MRVL**, **ALAB**, **VRT**；AI racks、DPU、interconnect、liquid cooling。
+
+## 工業 AI 作業系統 / 自主數位雙生框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第24期_CES_NvidiaRubin_Intel_Vertiv_AMD_xAI.md`
+- **一句話定義**：工業 AI 的價值在於把設計、模擬、工廠營運與 edge control 串成遵守物理定律、低延遲、可持續優化的系統。
+- **適用情境**：Siemens Xcelerator、Nvidia Omniverse、PhysicsNeMo、industrial digital twins、factory optimization。
+- **觀察指標**：simulation speedup、digital twin adoption、customer ROI、capex reduction、factory uptime、edge AI deployment、subscription / services revenue、Omniverse usage。
+- **也出現於**：可與 KP「混合雲神經系統 / 即時數據動脈框架」、「AI 作業系統 / Agentic Workflow 平台框架」和宋分工業 / edge AI 框架交叉比對。
+- **相關 ticker / 產業**：**SIE.DE**/**SIEGY**, **NVDA**；industrial software、digital twins、physical AI。
+
+## 自動駕駛 Android / 可解釋 VLA 平台框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第24期_CES_NvidiaRubin_Intel_Vertiv_AMD_xAI.md`
+- **一句話定義**：自動駕駛平台供應商可用 VLA、可解釋推理、模擬資料與車載 stack，替 OEM 提供類 Android 的標準化 autonomous layer。
+- **適用情境**：Nvidia Alpamayo、Drive AGX Thor、OEM L4 autonomy、Tesla vs Waymo vs platform model。
+- **觀察指標**：OEM adoption、road miles、simulation-to-real gap、energy consumption、latency、regulatory acceptance、insurance explainability、robotaxi deployment。
+- **也出現於**：延伸 KP「自動駕駛雙路線 / 漸進主義 vs 純視覺豪賭框架」與「車廠去 Nvidia 化 / 軟硬垂直整合框架」。
+- **相關 ticker / 產業**：**NVDA**, **TSLA**, **GOOG**, **GOOGL**, **TM**, **GM**, **UBER**, **AUR**, **LCID**, **1211.HK**/**BYDDY**, **2317.TW**/**HNHPF**；autonomous driving、robotaxi、OEM platforms。
+
+## 溫水液冷 / Chiller-to-DLC 預算轉移框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第24期_CES_NvidiaRubin_Intel_Vertiv_AMD_xAI.md`
+- **一句話定義**：AI rack 不一定需要更冷的水，而需要更直接、更高容錯、更共同設計的熱通道；預算從 chiller 轉向 DLC 系統。
+- **適用情境**：Nvidia Rubin 45C warm water、Vertiv liquid cooling、CDU / manifold / dry cooler、data center thermal chain。
+- **觀察指標**：DLC attach rate、CDU orders、manifold / cold plate revenue、chiller backup usage、rack power density、liquid-cooling gross margin、field reliability、co-design wins。
+- **也出現於**：可與大叔「1MW+ 機櫃液冷基礎設施框架」與 KP「AI 基建實體資產 / 電力門票框架」交叉比對。
+- **相關 ticker / 產業**：**VRT**, **NVDA**；AI data center thermal management、liquid cooling、power infrastructure。
+
+## 開放第二選擇 / AI 機櫃標準化框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第24期_CES_NvidiaRubin_Intel_Vertiv_AMD_xAI.md`
+- **一句話定義**：挑戰者不必立刻擊敗 Nvidia，只要在 inference / cost-sensitive workload 成為足夠好的第二選擇，就能改變客戶議價與供應鏈風險。
+- **適用情境**：AMD Helios、UALink / UALoE、Oracle / Azure AI inference infrastructure、open accelerator ecosystem。
+- **觀察指標**：inference deployments、UALink switch readiness、latency、TCO、ROCm adoption、cloud customer diversification、gross margin、supply availability。
+- **也出現於**：可與 KP「AI 半導體執行地雷 / TAM 與 How 分流框架」、「PyTorch-TPU 橋接 / CUDA 定價權侵蝕框架」和宋分 **AMD** 估值溫度計交叉比對。
+- **相關 ticker / 產業**：**AMD**, **NVDA**, **MRVL**, **ALAB**, **ORCL**, **MSFT**；AI accelerators、inference racks、open interconnect。
+
+## AI 能源獨立 / 渦輪 + BESS 節律器框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第24期_CES_NvidiaRubin_Intel_Vertiv_AMD_xAI.md`
+- **一句話定義**：AI data center 若繞過電網自建發電，BESS 與控制軟體會從備援配件變成保護渦輪、平滑 GPU 負載與提高可用性的核心層。
+- **適用情境**：xAI gas turbines、Tesla Megapack、Google Oberon、behind-the-meter AI power、turbine backlog。
+- **觀察指標**：GW turbine procurement、delivery date、GWh BESS deployment、load fluctuation、frequency response、VSM software、diesel backup substitution、grid services revenue、power cost。
+- **也出現於**：可與 KP「AI 能源熟地 / Behind-the-Meter 時間套利框架」、「AI 電力產能售罄 / 工業定價權框架」與大叔 Alphabet energy sovereignty thesis 交叉比對。
+- **相關 ticker / 產業**：**TSLA**, **GEV**, **GOOG**, **GOOGL**, **034020.KS**；BESS、gas turbines、behind-the-meter power、AI data centers。
+
 ## AI Agent 執行層 / 厚 Wrapper 框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第23期_Meta_Manus_SamsClub_Silver_Nike_BRK.md`
