@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260406-analyst-memo-5-capital-black-hole-growth-quality-9835cc06`：整理宋分 / 美股送分題 Substack 電子報《宋分分析師備忘錄 #5》市場正在丟掉「撐不起複利的成長」｜CSP 被當資本黑洞檢驗｜油價最後可能逼FED轉向｜流動性錯殺才是真機會，並將推廣 Note `c-238885846` 與 2026-04-07 healthcare / 藥股留言補充 `c-239395645` 作為同組來源，建立 `KOL/宋分/articles/20260406_analyst_memo_5_capital_black_hole_growth_quality.md`。Substack 電子報 HTML / JSON-LD、推廣 Note 與留言補充 JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「資本黑洞 / 複利成長分流框架」、「油價通膨 / 需求破壞雙階段框架」與「系統性風險 / 流動性壓力測試框架」：市場不是否定所有成長，而是檢驗投入資本是否換到需求鎖定、現金流穩定與供給紀律；油價前段定價通膨與鷹派利率，後段可能轉為需求破壞與 Fed 轉向；好資產下跌可能是流動性被迫賣出，不一定是基本面壞掉。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260404-investment-discipline-10-strong-stock-relative-strength-03908f4e`：整理宋分 / 美股送分題 Substack 電子報《投資紀律 #10｜分析師流程》強勢股不是漲出來的，是在下跌中被發現的，機構怎麼在下跌中找強勢股？並將推廣 Note `c-237995999` 作為同組補充來源，建立 `KOL/宋分/articles/20260404_investment_discipline_10_strong_stock_relative_strength.md`。Substack 電子報 HTML / JSON-LD 與推廣 Note JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「強勢股抗跌 / 主動資金承接框架」並補強「結構性賣壓 / 訊號對應部位框架」：強勢股不是漲得最多，而是在該跌時跌不下去；機構會刻意看最醜的盤、建立抗跌名單，再等反彈確認誰先創高 / 放量 / 領漲。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
 
