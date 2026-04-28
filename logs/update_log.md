@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260302-pe-r-g-discount-rate-multiple-rerating-ad9c7e32`：整理宋分 / 美股送分題 Substack Note《市場解碼 #7｜分析師流程》PE / `r-g` / 半導體 vs SaaS 倍數框架，建立 `KOL/宋分/articles/20260302_market_decoding_7_pe_r_g_discount_rate_rerating.md`。Substack JSON-LD 正文全文可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「PE 倍數 r-g / 折現率重估框架」：PE 不是倍數本身，而是市場對未來現金流風險的利率報價；半導體與 SaaS 的倍數差異來自資本強度、現金流可預測性、長期成長率 `g` 與資本成本 / 折現率 `r` 的差。文中無具名 ticker，因此不更新 ticker index、watchlist、catalyst 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260228-investment-discipline-4-pricing-stage-discipline-1d3c5430`：整理宋分 / 美股送分題 Substack Note《投資紀律 #4｜分析師流程》與免費電子報《市場不是沒漲，是沒漲你持有的股票》，建立 `KOL/宋分/articles/20260228_investment_discipline_4_pricing_stage_discipline.md`。Substack Note 與電子報全文可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「定價階段 / 視野鎖定紀律框架」：市場定價有預期形成期、預期驗證期與估值消化期；報酬來自新增確定性被重新定價，而不是公司已知的強。**NVDA** 只作 2027 visibility / 財報後定價階段的 L2 framework application，宋分 read-through 為財報沒失誤但缺少更高 2027 visibility / 新東西；此判斷未用 official earnings transcript 校準，不建立 `Stocks/NVDA/`。讀者留言中的 **AMZN** / **MSFT** 不記為 KOL 觀點；本文不是買賣建議。
 
