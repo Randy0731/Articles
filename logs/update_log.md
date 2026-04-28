@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `Bytc-20260428-kevin-warsh-rate-cut-qt-fed-framework-3c3c5a88`：整理 Bytc Substack 付費文章《Kevin Warsh 為何要讓降息與縮表同時發生》，建立 `KOL/Bytc/articles/20260428_kevin_warsh_rate_cut_qt_fed_framework.md`，並複製使用者提供之 10 頁 Substack 截圖 PDF 至 `KOL/Bytc/raw/20260428_Bytc_kevin_warsh_rate_cut_qt_fed_framework_Bytc-20260428-kevin-warsh-rate-cut-qt-fed-framework-3c3c5a88.pdf`。PDF 為 image-only；p.1-p.8 為核心正文，p.9 為留言 / 推薦文章，p.10 空白，內容完整可整理；公開 Substack HTML 只提供付費牆前段與 metadata，故正文以 PDF 為主。
+- 更新：同步更新 source/ticker/theme/framework/catalyst indexes。本文新增「Warsh 降息 + 縮表 / 短端放水長端收水框架」：以短端降息活化企業 / 政府短融，同時續縮表 / MBS 約束抽走金融資產過剩流動性；核心風險是 ON RRP 緩衝耗盡、bank reserves / SOFR / repo 壓力、Fed independence premium、美元信用與 AI 生產力時滯。**MSFT**, **AMZN**, **GOOG**, **META** 僅作 AI capex aggregate L1 背景，不形成單股 thesis，不更新 `Stocks/`。整理日用官方 / 外部來源校準 2026-04-21 Warsh hearing、Powell chair term 2026-05-15 與 Federal Reserve Act Section 2A；本文不是買賣建議。
+
 - 入庫 `Bytc-20260428-sox-valuation-risk-reduce-leverage-3aaa6218`：整理 Bytc 2026-04-28 Substack Note `c-250338060`，併入 `KOL/Bytc/notes/bytc筆記.md`。Substack JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用；附件圖為 SOX Index Best P/E Ratio 2022-04-26 至 2026-04-27，圖上當下約 `23.49x`。
 - 更新：同步更新 source/theme/framework indexes。Bytc 認為半導體指數已漲多、估值不再像 3 月底 / 4 月初便宜，但距 2025 年 10 月與 2024 年中估值高點仍有距離；他的動作語境是漲多部位優先減倉降槓桿、現階段不急加倉。**SOX** 僅為指數 / 板塊語境，無單一 ticker 觀點，不更新 ticker index、不建立 `Stocks/`；本文不是買賣建議。
 
