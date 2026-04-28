@@ -391,6 +391,37 @@ stock_projects:
       - "#競爭風險"
       - "#供應鏈風險"
 
+  AMKR:
+    aliases:
+      - "AMKR"
+      - "Amkor"
+      - "Amkor Technology"
+      - "Amkor Technology, Inc."
+      - "艾克爾"
+    root: "Stocks/AMKR"
+    raw_dir: "Stocks/AMKR/raw"
+    notes_dir: "Stocks/AMKR/notes"
+    quarterly_dir: "Stocks/AMKR/quarterly"
+    milestones_dir: "Stocks/AMKR/milestones"
+    longform_dir: "Stocks/AMKR/longform"
+    dashboard: "Stocks/AMKR/AMKR_儀表板.md"
+    stock_index: "Stocks/AMKR/AMKR_index.md"
+    current_quarter_file_pattern: "AMKR_筆記_YYYYQN.md"
+    milestone_file_pattern: "AMKR_里程碑_[文章標題].md"
+    longform_file_pattern: "AMKR_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    theme_tags:
+      - "#財報"
+      - "#AI基建"
+      - "#先進封裝"
+      - "#產品節點"
+      - "#ReRating"
+      - "#估值風險"
+      - "#執行風險"
+      - "#政策風險"
+      - "#供應鏈風險"
+
   RDW:
     aliases:
       - "RDW"

@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `大叔美股筆記-20260428-amkor-technology-amkr-q1-2026-52ccb8c3`：整理大叔美股筆記 Substack 付費文章《Amkor Technology **AMKR** 2026 Q1 財報分析》，建立 `KOL/大叔美股筆記/articles/20260428_amkor_technology_amkr_q1_2026_uncle.md`，並複製使用者提供之 10 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20260428_大叔美股筆記_amkor_technology_amkr_q1_2026_大叔美股筆記-20260428-amkor-technology-amkr-q1-2026-52ccb8c3.pdf`。PDF 為 image-only；p.1-p.7 為核心正文，p.8 起為連結、免責聲明、留言區與推薦文章，內容完整可整理；Amkor official results / deck 用於校準 Q1 net sales `$1.685B`、EPS `$0.33`、GM `14.2%`、Q2 guide `$1.75B-$1.85B`、2026 capex `$2.5B-$3.0B`。
+- 更新：將 **AMKR** 判定為 L3 主題個股並建立正式 `Stocks/AMKR/` 專案，新增 `Stocks/AMKR/quarterly/AMKR_筆記_2026Q2.md`、`Stocks/AMKR/AMKR_儀表板.md`、`Stocks/AMKR/AMKR_index.md`，同步更新 `kol_config.yaml`、source/ticker/theme/framework/catalyst indexes 與 `KOL/大叔美股筆記/notes/大叔美股筆記.md` 文章索引。本文新增「先進封裝新晶圓代工 / OSAT 估值重構框架」：2.5D / 3D、Chiplet、SiP、HDFO 可能讓 OSAT 從後段加工變成 AI infrastructure bottleneck；但 `$2.5B-$3.0B` capex、折舊、idle capacity、top-ten customers `68%` 與 Peoria / CHIPS Act 執行風險都需要後續驗證。本文不是買賣建議。
+
 - 補充入庫 `宋分-20260414-information-asymmetry-formal-catalyst-positioning-ebb19533`，併回既有 `宋分-20260414-analyst-system-2-income-statement-operating-leverage-rerate-429faebd`：整理宋分 / 美股送分題 2026-04-14 Substack 留言補充 `c-243356518`，更新 `KOL/宋分/articles/20260414_analyst_system_2_income_statement_operating_leverage_rerate.md`。Substack JSON-LD 正文完整可讀，來源為 URL，OCR 狀態不適用；另將使用者提供之 9 頁 Substack 截圖 PDF 複製至 `KOL/宋分/raw/20260414_宋分_analyst_system_2_operating_leverage_宋分-20260414-analyst-system-2-income-statement-operating-leverage-rerate-429faebd.pdf` 作本機 raw 備份，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
 - 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`，新增「資訊不對稱 / 正式催化劑前佈局框架」：產業資訊不對稱可能讓利多前已有第一線人士佈局，但無正式財報日 / 投資者日的股價異動也可能只是謠言；機構通常偏好大型正式事件，因為能用產業資訊推估並寫成報告。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
 

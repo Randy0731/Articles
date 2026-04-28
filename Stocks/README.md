@@ -7,3 +7,12 @@
 - **ONDS**
 - **EOSE**
 - **SMR**
+- **INTC**
+- **TXN**
+- **IBM**
+- **GOOGL**
+- **AMZN**
+- **LRCX**
+- **VRT**
+- **AMKR**
+- **RDW**
