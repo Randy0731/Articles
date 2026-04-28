@@ -6,6 +6,9 @@
 
 | 主題 tag | 日期 | KOL / 來源 | 標題 | 核心觀點 | 相關 ticker | 框架 / 催化劑 | 筆記檔 |
 |---|---|---|---|---|---|---|---|
+| #ReRating | 2026-02-09 | 宋分 / 美股送分題 | 市場解碼 #2：Buyside 估值流程、DCF 與 Forward PE | 宋分把傳統 buyside 估值流程拆成三段：基本面先推 EPS / cash flow，DCF 檢查 intrinsic value，最後用 Forward PE 判斷市場是否低估 | 全市場 / 成長型科技股 | DCF 安全檢查 / PE 交易語言框架；EPS model；implied fair PE | `KOL/宋分/articles/20260209_dcf_buyside_valuation_process.md`；`indexes/framework_index.md` |
+| #估值風險 | 2026-02-09 | 宋分 / 美股送分題 | DCF 不是答案產生器，而是安全檢查 | 本篇提醒 DCF 的關鍵風險在於輸入：如果 EPS model、折現率、長期現金流或 terminal assumptions 過度樂觀，DCF 會給出精確但失真的合理價值 | 全市場 / 成長型科技股 | EPS model 來源、discount rate、intrinsic value sensitivity、terminal value | `KOL/宋分/articles/20260209_dcf_buyside_valuation_process.md` |
+| #投資與投機 | 2026-02-09 | 宋分 / 美股送分題 | PE 是交易語言，DCF 是價值驗證語言 | 宋分將基金經理判斷低點的流程寫成：如果基本面推導沒壞，但市場用低 PE 給悲觀情境定價，就可能是 re-rating 的左側；但這必須建立在 EPS model 沒破壞 | 全市場 / 成長型科技股 | Forward PE 悲觀錯價框架補充；market expectation revision | `KOL/宋分/articles/20260209_dcf_buyside_valuation_process.md`；`KOL/宋分/articles/20260207_forward_pe_market_decoding.md` |
 | #ReRating | 2026-02-07 | 宋分 / 美股送分題 | 市場解碼 #1：Forward PE 到底在看什麼 | 宋分把 Forward PE 寫成市場預期差工具：用明年或更遠 EPS 看現在股價，判斷市場是否因今年 EPS 下修與悲觀新聞過度不相信未來 | 全市場 / 成長型科技股 | Forward PE 悲觀錯價框架；評價溫度計底層補充 | `KOL/宋分/articles/20260207_forward_pe_market_decoding.md`；`indexes/framework_index.md` |
 | #估值風險 | 2026-02-07 | 宋分 / 美股送分題 | 便宜原因分流：衰退造成還是擴大投資造成 | 本篇核心風險分流是：Forward PE 便宜不一定是機會；若來自需求衰退是風險，若來自擴產、AI 投資或資料中心建置壓低今年 EPS，才可能是錯價 | 全市場 / 成長型科技股 | 衰退 vs 擴大投資分流；EPS revision reason；需求驗證 | `KOL/宋分/articles/20260207_forward_pe_market_decoding.md` |
 | #投資與投機 | 2026-02-07 | 宋分 / 美股送分題 | 最悲觀時刻不是自動買點，而是框架檢查點 | 宋分認為很多大行情起點在市場最不相信未來的時候，但整理時需把「最悲觀」視為檢查市場定價與未來需求的框架，不可直接寫成操作建議 | 全市場 / 成長型科技股 | 悲觀情緒、機構提前反應、未來 EPS 回升潛力 | `KOL/宋分/articles/20260207_forward_pe_market_decoding.md` |

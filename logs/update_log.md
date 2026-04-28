@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260209-dcf-buyside-valuation-process-32a33181`：整理宋分 / 美股送分題 Substack Note《市場解碼 #2：Buyside 估值流程、DCF 與 Forward PE》，建立 `KOL/宋分/articles/20260209_dcf_buyside_valuation_process.md`。Substack HTML / JSON-LD 正文可讀，來源為 URL，未另存 raw，OCR 狀態不適用。本文無具名 ticker，台積電僅作折現率高低例子，不更新 ticker index、watchlist 或 `Stocks/`。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。新增「DCF 安全檢查 / PE 交易語言框架」，並補強「Forward PE 悲觀錯價框架」：傳統 buyside 先用產業、公司、財報推導 EPS / cash flow，再用 DCF 檢查 intrinsic value，最後轉回 Forward PE 判斷市場是否用悲觀情境定價。本文是框架教學，不是買賣建議。
+
 - 入庫 `宋分-20260207-forward-pe-market-decoding-c6a2a228`：整理宋分 / 美股送分題 Substack Note《市場解碼 #1：Forward PE 到底在看什麼》，建立 `KOL/宋分/articles/20260207_forward_pe_market_decoding.md`。Substack HTML / JSON-LD 正文可讀，來源為 URL，未另存 raw，OCR 狀態不適用。本文無具名 ticker，僅使用假設性資料中心 / AI 投資公司案例，不更新 ticker index、watchlist 或 `Stocks/`。
 - 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。新增「Forward PE 悲觀錯價框架」，並補強既有評價溫度計：Forward PE 的重點不是數字本身，而是判斷便宜原因來自衰退還是擴大投資、需求是否消失、市場是否過度不相信未來。本文是框架教學，不是買賣建議。
 
