@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260331-analyst-system-1-10k-10q-research-framework-f3b20534`：整理宋分 / 美股送分題 Substack 電子報《宋分 | 分析師底層系統 #1》我用 30分鐘掃一家公司，你卻花 3 小時還看不出重點。分析師研究的第一步：直接看公司在說什麼（掃10-K / 10-Q架構教學），並將推廣 Note `c-235909178` 作為同組補充來源，建立 `KOL/宋分/articles/20260331_analyst_system_1_10k_10q_research_framework.md`。Substack 電子報 HTML / JSON-LD 與推廣 Note JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「10-K / 10-Q 三表矛盾掃描框架」、「公司自述變化掃描框架」與「健康投資 vs 惡化分流框架」：分析師初讀 10-K / 10-Q 不是從單一 revenue / EPS 數字開始，而是看 Business / Segment、MD&A、Risk Factors 與三張財務表之間是否一致；若營收成長但 AR / inventory 上升、CFO 下滑，可能是品質惡化與 de-rate 風險；若新業務占比提升、毛利較高、CFO 穩定且公司持續投資，可能是健康投資與 re-rate 早期路徑。文中無具名 ticker，Aurora Systems 為假設案例，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260330-analyst-memo-4-reverse-pricing-ai-deflation-81737b0f`：整理宋分 / 美股送分題 Substack 電子報《宋分分析師備忘錄 #4》修正的尾聲訊號開始浮現｜市場開始「反向定價」｜AI 通縮時代的真正贏家，並將推廣 Note `c-235335789` 與留言補充 `c-235345006` 作為同組來源，建立 `KOL/宋分/articles/20260330_analyst_memo_4_reverse_pricing_ai_deflation.md`。Substack 電子報 HTML / JSON-LD、推廣 Note 與留言補充 JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「反向定價 / 尾聲區間框架」、「市場傳導速度差框架」與「AI 通縮 / 稀缺資產再定價框架」：修正可能在底部形成左側的尾聲區間，但尚未確認落底；市場開始問如果油價、利率與經濟沒有更壞，哪些錯殺資產先反應；油價衝擊在期貨、股權與實體市場反應速度不同；AI 通縮可能使不可複製資產、算力 / 智慧與真實體驗重新取得溢價。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
 
