@@ -15,6 +15,78 @@
 - **相關 ticker / 產業**：
 ```
 
+## AI Agent 身分 / 通訊層框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第33期_MetaMoltbook_MSFT_E7_ORCL_Wiz_Nebius_Fertilizer_AMAT_JPM.md`
+- **一句話定義**：AI agent 若要成為可協作的網路參與者，平台價值會從內容流量轉向身分驗證、記憶、A2A protocol 與安全治理。
+- **適用情境**：Meta / Moltbook、agent social graph、AI-to-AI collaboration、consumer AI social infrastructure。
+- **觀察指標**：agent identity、A2A protocol、persistent memory、team integration、security incidents、AI social graph usage、ads / commerce workflow attach。
+- **也出現於**：呼應第23期 Manus AI Agent 執行層 / 厚 Wrapper 框架與第20期 Meta Avocado 的閉源變現轉向。
+- **相關 ticker / 產業**：**META**；AI agent / social graph / consumer AI。
+
+## AI 員工治理 / Work IQ lock-in 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第33期_MetaMoltbook_MSFT_E7_ORCL_Wiz_Nebius_Fertilizer_AMAT_JPM.md`
+- **一句話定義**：企業 AI 價值不只在助手，而在把 agent 當新員工管理，透過身分、權限、合規、企業記憶與模型調度形成 lock-in。
+- **適用情境**：Microsoft E7、enterprise AI agents、Copilot / Agent 365、AI workforce governance。
+- **觀察指標**：E7 adoption、Agent 365 seats / usage、Work IQ usage、Entra attach、Copilot margin、model routing、compliance incidents、Azure AI revenue。
+- **也出現於**：延伸第32期 Token 節流閥 / AI 軟體治理框架與第31期 Stateful Runtime / 企業 AI 作業系統框架。
+- **相關 ticker / 產業**：**MSFT**；enterprise SaaS / cloud AI / identity governance。
+
+## BYOG / 客戶資助型雲端擴張框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第33期_MetaMoltbook_MSFT_E7_ORCL_Wiz_Nebius_Fertilizer_AMAT_JPM.md`
+- **一句話定義**：雲端供應商可用客戶自帶 GPU、預付款與長約 RPO 降低前期資金壓力，但經濟性要看硬體標準化、毛利與轉收入速度。
+- **適用情境**：Oracle OCI AI data centers、customer-funded cloud capacity、RPO-heavy AI infra contracts。
+- **觀察指標**：RPO conversion、FCF、customer prepayments、GPU ownership、gross margin、opex complexity、idle capacity、supply delay、credit spread。
+- **也出現於**：呼應第21期 Oracle / Blue Owl AI 基建表外融資 / 金主風險框架與第30期 AI 公用事業預融資框架。
+- **相關 ticker / 產業**：**ORCL**；cloud infrastructure / AI data center financing。
+
+## CNAPP 補課 / 雲端安全門票框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第33期_MetaMoltbook_MSFT_E7_ORCL_Wiz_Nebius_Fertilizer_AMAT_JPM.md`
+- **一句話定義**：Hyperscaler 若要爭 enterprise cloud trust，必須從事後事件回應補到事前 CNAPP / multicloud visibility；安全能力成為雲端門票。
+- **適用情境**：Google / Wiz、cloud security M&A、AWS / Azure / GCP competition、CNAPP vendors。
+- **觀察指標**：deal close、brand independence、multicloud support、retention、CNAPP adoption、security revenue、customer churn、competing vendor wins。
+- **也出現於**：呼應第32期 AI 攻擊面擴張 / 資安數據護城河框架與第30期 AI 原生資安平台化框架。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **AMZN**, **MSFT**, **PANW**, **CRWD**, **ZS**；cloud security / CNAPP。
+
+## AI 基建循環經濟 / 供應商背書框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第33期_MetaMoltbook_MSFT_E7_ORCL_Wiz_Nebius_Fertilizer_AMAT_JPM.md`
+- **一句話定義**：上游供應商可投資下游客戶，把資金、供應優先權與共同設計綁成需求飛輪；但仍需驗證 delivery、utilization 與非循環收入品質。
+- **適用情境**：Nvidia / Nebius、neocloud financing、AI factory buildout、supplier-customer equity loops。
+- **觀察指標**：supplier investment、GPU allocation、MW online、backlog conversion、EBITDA margin、FCF、customer concentration、valuation、alternative architecture adoption。
+- **也出現於**：延伸第31期 TPU 外部化 / Neocloud 影子戰爭框架與第30期 AI 公用事業預融資框架。
+- **相關 ticker / 產業**：**NBIS**, **NVDA**, **AMD**；neocloud / AI infrastructure。
+
+## 化肥物理瓶頸 / 糧食危機滯後框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第33期_MetaMoltbook_MSFT_E7_ORCL_Wiz_Nebius_Fertilizer_AMAT_JPM.md`
+- **一句話定義**：商品風險不只看金融價格；化肥若因海運與產能冷啟動錯過播種窗口，真正壓力會滯後到收成與食品價格。
+- **適用情境**：Hormuz closure、fertilizer shipping、food inflation、agriculture supply chain stress。
+- **觀察指標**：urea / ammonia exports、shipping throughput、plant shutdown / restart time、planting window、inventory、crop yield、food CPI、policy response。
+- **也出現於**：可與第32期光進銅進 / 電氣化銅需求框架、第30期銅擴張稅框架交叉比對，都是物理瓶頸比金融價格更慢但更硬的案例。
+- **相關 ticker / 產業**：fertilizer / agriculture；原文未具名北美化肥 ticker，因此不映射特定公司。
+
+## Lab-to-Fab / 半導體設備共同設計框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第33期_MetaMoltbook_MSFT_E7_ORCL_Wiz_Nebius_Fertilizer_AMAT_JPM.md`
+- **一句話定義**：設備商若把客戶工程師嵌入研發平台，可從賣工具升級為製程共同設計者、技術情報節點與 industry rule-maker。
+- **適用情境**：Applied Materials EPIC、memory makers、advanced packaging / HBM process co-optimization。
+- **觀察指標**：partner projects、customer engineer participation、commercialization time、tool adoption、orders / backlog、service revenue、process step complexity。
+- **也出現於**：延伸第29期無塵室瓶頸 / 前段技術後段化框架。
+- **相關 ticker / 產業**：**AMAT**, **MU**, **000660.KS**, **005930.KS**；semiconductor equipment / memory。
+
+## Back leverage 去槓桿 / 抵押品折價框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第33期_MetaMoltbook_MSFT_E7_ORCL_Wiz_Nebius_Fertilizer_AMAT_JPM.md`
+- **一句話定義**：私人信貸壓力可能先從銀行調降抵押品估值與 back leverage 收縮開始，造成慢火去槓桿，而非立即形成 2008 式證券化傳染。
+- **適用情境**：private credit funds、BDC / interval funds、bank financing lines、collateral markdowns。
+- **觀察指標**：NAV marks、haircuts、margin calls、redemptions / gates、maturity wall、spreads、bank exposure、distressed dry powder。
+- **也出現於**：延伸第32期私募信貸限贖 / 流動性心理戰框架與第30期半流動性私募信貸錯配框架。
+- **相關 ticker / 產業**：**JPM**, **BX**, **KKR**；banks / private credit / asset managers。
+
 ## 反脆弱組合 / 多護城河框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第32期_Copper_CRDO_BRK_CRWD_PrivateCredit_MSFT_NVDA_TTD.md`
