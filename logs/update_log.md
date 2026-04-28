@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 補充入庫 `宋分-20260419-mid-entry-two-and-half-selling-method-3889d79b`，併回既有 `宋分-20260419-investment-discipline-13-profit-taking-rhythm-0bcb825e`：整理宋分 / 美股送分題 2026-04-19 Substack 留言補充 `c-245861193`，更新 `KOL/宋分/articles/20260419_investment_discipline_13_profit_taking_rhythm.md`。Substack JSON-LD 正文完整可讀，來源為 URL，OCR 狀態不適用；另將使用者提供之 6 頁網頁截圖 PDF 複製至 `KOL/宋分/raw/20260419_宋分_profit_taking_rhythm_宋分-20260419-investment-discipline-13-profit-taking-rhythm-0bcb825e.pdf` 作本機 raw 備份，本機原始路徑只記錄於 `private/raw_manifest.local.yaml`。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`，補強「獲利了結 / 三段式賣出框架」：三段式不必複製機構成本與時間點，個人賣出節奏應從自己的進場點開始；若中段才進場，可用「兩段半賣出法」先在已有利潤後小幅賣 10%-20%，再依動能轉弱與結構破壞分段降部位。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`。本文不是買賣建議。
+
 - 入庫 `宋分-20260427-analyst-memo-8-early-bull-real-investment-cycle-692634df`，並將推廣 Note `宋分-20260427-analyst-memo-8-early-bull-promo-e6d2dde3` 作為同組來源：整理宋分 / 美股送分題 Substack 電子報《宋分分析師備忘錄 #8》市場創新高，卻是初期牛市的典型結構｜當市場邊漲邊懷疑，通常才剛開始，建立 `KOL/宋分/articles/20260427_analyst_memo_8_early_bull_real_investment_cycle.md`。Substack 電子報 HTML / preloads 與推廣 Note JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「初期牛市 / 實體投資週期框架」與「核心資產回流 / 擁擠交易分流框架」：市場創新高但仍被懷疑時，若民間部門接棒、實體 CAPEX / hiring / M&A / buybacks 與營業槓桿改善，可能是新週期早段；資金從 crowded AI beneficiaries 回到核心算力資產，**NVDA** 判定 L2 watchlist / ticker index 更新，不建立 `Stocks/NVDA/`。本文不是買賣建議。
 
