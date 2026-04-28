@@ -2,6 +2,15 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260402-market-decoding-14-inventory-cash-flow-7749d896`：整理宋分 / 美股送分題 Substack Note《市場解碼 #14｜分析師流程》為什麼現金流會突然崩？答案通常藏在「庫存」，建立 `KOL/宋分/articles/20260402_market_decoding_14_inventory_cash_flow.md`。Substack JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「庫存周轉 / 現金流預警框架」：庫存是尚未變成現金的營收期待，若庫存增速高於營收、周轉率下降、DIO 拉長，現金流會先惡化，後續可能拖累毛利與 EPS；庫存問題常領先 EPS 1-2 季。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
+
+- 入庫 `宋分-20260403-moat-time-irreversibility-framework-88ed0e1e`：整理宋分 / 美股送分題 2026-04-03 三則 Substack 留言補充（`c-237467099`、`c-237484028`、`c-237513578`），建立 `KOL/宋分/articles/20260403_moat_time_irreversibility_dynamic_framework.md`。Substack JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/ticker/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「動態護城河 / 不可逆來源框架」：護城河不是市佔、毛利或成長快，而是對手拿到相同資本、技術與人才後仍難以複製的能力；不可逆來源可分為技術型、規模 / 成本型、制度 / 信任型。**COST** 僅作 AI 時代持續產生價值與實體 / 會員 / 信任價值的 L1 framework context，不更新 watchlist 或 `Stocks/COST/`；本文不是買賣建議。
+
+- 入庫 `宋分-20260403-institutional-cash-ratio-risk-budget-54fc2625`：整理宋分 / 美股送分題 Substack 留言補充「機構持股比例、現金比例與風險指標調整框架」，建立 `KOL/宋分/articles/20260403_institutional_cash_ratio_risk_budget.md`。Substack JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「機構現金比例 / 風險指標調整框架」：公開基金可能因 mandate 與 benchmark risk 不會降到最低持股，常用持股比例與防禦型配置調風險；私募與對沖基金約束不同；宋分個人用信用、VIX、殖利率與 Fear & Greed 調整現金。文中無具名 ticker，不更新 watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260331-analyst-system-1-10k-10q-research-framework-f3b20534`：整理宋分 / 美股送分題 Substack 電子報《宋分 | 分析師底層系統 #1》我用 30分鐘掃一家公司，你卻花 3 小時還看不出重點。分析師研究的第一步：直接看公司在說什麼（掃10-K / 10-Q架構教學），並將推廣 Note `c-235909178` 作為同組補充來源，建立 `KOL/宋分/articles/20260331_analyst_system_1_10k_10q_research_framework.md`。Substack 電子報 HTML / JSON-LD 與推廣 Note JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「10-K / 10-Q 三表矛盾掃描框架」、「公司自述變化掃描框架」與「健康投資 vs 惡化分流框架」：分析師初讀 10-K / 10-Q 不是從單一 revenue / EPS 數字開始，而是看 Business / Segment、MD&A、Risk Factors 與三張財務表之間是否一致；若營收成長但 AR / inventory 上升、CFO 下滑，可能是品質惡化與 de-rate 風險；若新業務占比提升、毛利較高、CFO 穩定且公司持續投資，可能是健康投資與 re-rate 早期路徑。文中無具名 ticker，Aurora Systems 為假設案例，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
 
