@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260424-industry-stock-lens-5-txn-stage1-ai-rerate-0d830770`，並將 2026-04-25 留言補充 `宋分-20260425-stage1-rerate-position-narrative-supplement-901c3064` 作為同組來源：整理宋分 / 美股送分題 Substack Note《產業與個股透鏡 #5｜技術與商業模式》TXN 一天大漲 +19%，是財報利多反應？還是 re-rate 開始？建立 `KOL/宋分/articles/20260424_industry_stock_lens_5_txn_stage1_ai_rerate.md`。兩則 Substack JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用；使用者同批提供的 `https://openbookandeasypoint.substack.com/p/725` 已於 2026-03-07 以 source_id `宋分-20260307-investment-discipline-5-pricing-stage-entry-framework-c59f8d2d` 入庫，這次只作框架參照不重複建檔。
+- 更新：同步更新 `Stocks/TXN/quarterly/TXN_筆記_2026Q2.md`、`Stocks/TXN/TXN_儀表板.md`、`Stocks/TXN/TXN_index.md`、source/ticker/theme/framework/catalyst indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文把 **TXN** 從 3/24 的「FCF 修復尚非 AI re-rate」推進到「第一階段預期 re-rate 已開始」，但仍要求 AI revenue share、EPS / revenue revision、FCF 可預測性與 PE floor 支撐第二階段 verification re-rate。**TXN** 為 L3 已追蹤個股；**NVDA**、**MSFT** 僅為 4/25 留言中的 L1 歷史框架案例，不建立新單股 thesis。本文不是買賣建議。
+
 - 入庫 `宋分-20260422-market-decoding-19-roic-organic-growth-amzn-001d7c4f`，並將 PDD / AMZN 補充留言 `宋分-20260426-pdd-amzn-roic-change-slope-69a5a438`、`宋分-20260426-pdd-subsidy-retention-roic-rerate-96788133` 作為同組來源：整理宋分 / 美股送分題 Substack Note《市場解碼 #19｜分析師流程》ROIC x Organic Growth 與兩則 2026-04-26 PDD 對照補充，建立 `KOL/宋分/articles/20260422_market_decoding_19_roic_organic_growth_amzn.md`。三則 Substack JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 `Stocks/AMZN/quarterly/AMZN_筆記_2026Q2.md`、`Stocks/AMZN/AMZN_儀表板.md`、`Stocks/AMZN/AMZN_index.md`、source/ticker/theme/framework/catalyst indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文補強「資本週期 / ROIC x Organic Growth Re-rate 框架」：市場重估的不是最快成長，而是 ROIC 是否在 organic growth 仍在時改善；4/26 PDD 留言補充把 ROIC 絕對值與 ROIC 變化斜率分開，並用補貼停止後 user retention、GMV、廣告變現與商家生態檢查平台 growth 是否留下真實價值。**AMZN** 為 L3 已追蹤個股；**PDD** 僅為 L2 framework comparison，因 KOL 明確說很久沒看 PDD 且語氣為主觀留言補充，不建立 watchlist 或 `Stocks/PDD/`。本文不是買賣建議。
 
