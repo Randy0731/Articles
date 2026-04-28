@@ -231,6 +231,35 @@ stock_projects:
       - "#競爭風險"
       - "#供應鏈風險"
 
+  IBM:
+    aliases:
+      - "IBM"
+      - "International Business Machines"
+      - "International Business Machines Corporation"
+      - "Big Blue"
+    root: "Stocks/IBM"
+    raw_dir: "Stocks/IBM/raw"
+    notes_dir: "Stocks/IBM/notes"
+    quarterly_dir: "Stocks/IBM/quarterly"
+    milestones_dir: "Stocks/IBM/milestones"
+    longform_dir: "Stocks/IBM/longform"
+    dashboard: "Stocks/IBM/IBM_儀表板.md"
+    stock_index: "Stocks/IBM/IBM_index.md"
+    current_quarter_file_pattern: "IBM_筆記_YYYYQN.md"
+    milestone_file_pattern: "IBM_里程碑_[文章標題].md"
+    longform_file_pattern: "IBM_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    theme_tags:
+      - "#財報"
+      - "#AI基建"
+      - "#軟體SaaS"
+      - "#ReRating"
+      - "#估值風險"
+      - "#執行風險"
+      - "#競爭風險"
+      - "#併購"
+
   GOOGL:
     aliases:
       - "GOOGL"
