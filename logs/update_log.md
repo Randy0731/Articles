@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260317-market-decoding-11-ai-semiconductor-rerate-112df345`：整理宋分 / 美股送分題 Substack Note《市場解碼 #11｜分析師流程》與免費電子報《市場解碼深度》AI 是否正在將半導體從景氣循環股變成像雲端一樣可以穿越牛熊的基礎建設公司？，建立 `KOL/宋分/articles/20260317_market_decoding_11_ai_semiconductor_infrastructure_rerate.md`。Substack Note preloads 與免費電子報 HTML / preloads 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「產業級 Re-rate 五條件 / AI 半導體六指標框架」：機構重估產業通常看收入可預測性、現金流穩定、公司成為產業基礎設施、競爭減少與管理層資本配置被信任；AI 半導體追 AI CAPEX、AI semiconductor intensity、cluster scale、hardware refresh cycle、ecosystem lock-in 與 AI revenue mix。**MU** 為既有 memory framework proxy，本文未直接具名；**MSFT** / **AMZN** / **COST** / **TSM** 為 framework case；**NVDA** / **ASML** 為產業基礎設施例子。不建立 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260316-analyst-memo-2-hbm-meta-ai-software-ma-9947773b`：整理宋分 / 美股送分題 Substack 文章《宋分分析師備忘錄 #2》HBM / **META** AI / 軟體併購校準文，建立 `KOL/宋分/articles/20260316_analyst_memo_2_hbm_meta_ai_software_ma.md`，並複製使用者提供兩份 Substack 截圖 PDF 至 `KOL/宋分/raw/20260316_宋分_analyst_memo_2_hbm_meta_ai_software_ma_home_宋分-20260316-analyst-memo-2-hbm-meta-ai-software-ma-9947773b.pdf` 與 `KOL/宋分/raw/20260316_宋分_analyst_memo_2_hbm_meta_ai_software_ma_note_宋分-20260316-analyst-memo-2-hbm-meta-ai-software-ma-9947773b.pdf`。Substack preloads 正文完整可讀；PDF 為 image-only raw 備份，未 OCR。
 - 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。本文新增「HBM 雙結構 / 記憶體再定價框架」、「META AI 廣告飛輪 / 模型自主框架」與「軟體併購倍數校準框架」，並補強「市場提問轉向 / Buyside 備忘錄框架」與「記憶體 PB / Cycle 三階段框架」。**META** 判定 L2+ watchlist candidate，不建立 `Stocks/META/`；**MU** 只是既有 memory framework proxy，本篇未直接具名；**IBM** 僅為 L1 acquirer context，不更新 `Stocks/IBM/`；本文不是買賣建議。
 
