@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260228-investment-discipline-4-pricing-stage-discipline-1d3c5430`：整理宋分 / 美股送分題 Substack Note《投資紀律 #4｜分析師流程》與免費電子報《市場不是沒漲，是沒漲你持有的股票》，建立 `KOL/宋分/articles/20260228_investment_discipline_4_pricing_stage_discipline.md`。Substack Note 與電子報全文可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「定價階段 / 視野鎖定紀律框架」：市場定價有預期形成期、預期驗證期與估值消化期；報酬來自新增確定性被重新定價，而不是公司已知的強。**NVDA** 只作 2027 visibility / 財報後定價階段的 L2 framework application，宋分 read-through 為財報沒失誤但缺少更高 2027 visibility / 新東西；此判斷未用 official earnings transcript 校準，不建立 `Stocks/NVDA/`。讀者留言中的 **AMZN** / **MSFT** 不記為 KOL 觀點；本文不是買賣建議。
+
 - 入庫 `宋分-20260225-amd-meta-6gw-eps-model-process-f913e9c3`：整理宋分 / 美股送分題 Substack Note《市場解碼 #6｜分析師流程》**AMD** / Meta 6GW 合作到 EPS model 文，建立 `KOL/宋分/articles/20260225_amd_meta_6gw_eps_model_process.md`，並複製使用者提供之 Substack 截圖 PDF 至 `KOL/宋分/raw/20260225_宋分_amd_meta_6gw_eps_model_process_宋分-20260225-amd-meta-6gw-eps-model-process-f913e9c3.pdf`。Substack preloads JSON 正文可讀，PDF 為 image-only raw 備份，OCR 狀態標「部分」。
 - 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。本文新增「新聞到 EPS model / 訂單認列框架」：先把合作新聞轉成 revenue recognition schedule，再推 net income、diluted EPS，最後才判斷 PE multiple。**AMD** 判定 L3 候選追蹤，不建立 `Stocks/AMD/`；**META** 僅記 customer / AI capex context。AMD official 用於校準 6GW partnership、first 1GW shipments expected in 2H26、MI450-based custom GPU 與 Meta warrant up to 160M shares；宋分 `$17.5B/GW`、2026 EPS `$7.9`、2027 EPS `$11.76` 均為 KOL model assumptions，不是 official guidance 或買賣建議。
 
