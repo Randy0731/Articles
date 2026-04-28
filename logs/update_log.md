@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260312-memory-ai-pb-cycle-framework-861aa7e5`：整理宋分 / 美股送分題 Substack 文章《市場解碼深度》AI 記憶體熱潮下，拆解機構為什麼還是只看 PB？建立 `KOL/宋分/articles/20260312_memory_ai_pb_cycle_framework.md`，並複製使用者提供兩份 Substack 截圖 PDF 至 `KOL/宋分/raw/20260312_宋分_memory_ai_pb_cycle_framework_home_宋分-20260312-memory-ai-pb-cycle-framework-861aa7e5.pdf` 與 `KOL/宋分/raw/20260312_宋分_memory_ai_pb_cycle_framework_note_宋分-20260312-memory-ai-pb-cycle-framework-861aa7e5.pdf`。Substack preloads 正文完整可讀；PDF 為 image-only raw 備份，未 OCR。
+- 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。本文新增「記憶體 PB / Cycle 三階段框架」：AI / HBM 可能拉長記憶體 cycle，但只要供給可擴張、庫存可累積、價格可反轉，記憶體仍是長週期循環股，PB 比 PE 更適合判斷市場願意為產能與資產付多少倍。**MU** 判定 L2 framework / watchlist candidate，不建立 `Stocks/MU/`；**005930.KS** / **000660.KS** 僅為三大廠供給結構例子，**TSM** / **TXN** 僅為 PE valuation 對照。本文不是買賣建議。
+
 - 入庫 `宋分-20260310-market-decoding-9-rebound-risk-repricing-indicators-4c3e5065`：整理宋分 / 美股送分題 Substack Note《市場解碼 #9｜分析師視角》與使用者提供之留言補充截圖，建立 `KOL/宋分/articles/20260310_market_decoding_9_rebound_risk_repricing_indicators.md`。Substack JSON-LD 正文完整可讀，來源為 URL；留言截圖文字可完整人工辨識，截圖顯示 Mar 21，年份依原文推估為 2026；未另存 raw。
 - 更新：同步更新 source/theme/framework/catalyst indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文建立「市場風險三指標 / 反彈確認框架」：判斷反彈是否升級為風險重新定價，不看單日漲跌，而看信用利差是否擴大、VIX3M-VIX / VIX term structure 是否正常化、10Y / 利率預期是否定價衰退，再用市場分化、長期資金回流與 market breadth 確認。留言補充校準信用利差 bps 區間：200-300 常溫、300-500 壓力期、500-1000+ 危機期；重點是趨勢與速度，不是固定數字。文中無具名 ticker，因此不更新 ticker / watchlist / `Stocks/`；本文不是買賣建議。
 
