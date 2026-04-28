@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260408-reverse-pricing-worst-case-short-event-e3cd3a1a`：整理宋分 / 美股送分題 Substack Note「盤後開始進入反向定價」與同日留言補充 `宋分-20260408-short-event-not-structural-rerate-b8b8bfff`，建立 `KOL/宋分/articles/20260408_reverse_pricing_worst_case_short_event.md`。Substack JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文補強「反向定價 / 尾聲區間框架」並新增「短期消息效應 / 基本面重新評價分流框架」：停火兩週消息不是單純利多，而是市場開始檢查先前 fully priced 的油價上升、通膨延續、不降息甚至升息路徑是否需要回修；油服 / 煉油的短期供給缺口與暫時利潤反應，不等於長期獲利結構、投資驅動或需求可見度改變。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260407-market-decoding-15-energy-structural-rerate-80beaa71`：整理宋分 / 美股送分題 Substack 電子報《市場解碼深度》戰爭、能源與錯殺到結構性 re-rate，並將推廣 Note `c-239430439` 作為同組來源，建立 `KOL/宋分/articles/20260407_market_decoding_15_energy_structural_rerate.md`。Substack 電子報 HTML / JSON-LD 與推廣 Note JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/ticker/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「單一變數過度定價 / 第二敘事框架」與「假反彈 / 節奏型 / 結構性 re-rate 分流框架」，並補強「油價通膨 / 需求破壞雙階段框架」與「Re-rating 階梯 / Cycle Digestion 分辨框架」：市場常先過度定價油價、利率、成本或 CAPEX 等可計算變數，之後才修正需求、供給結構與現金流；能源是否長期 re-rate 要看供給結構、持續 CAPEX 與長期現金流是否同時成立；AI CAPEX 放緩造成股價修正，不必然等於 re-rating thesis 失敗。**XOM**, **CVX**, **SLB**, **HAL**, **SBUX**, **NKE**, **SHOP**, **ZM**, **AAPL**, **MSFT** 皆為 L1 historical / framework cases，不更新 watchlist 或 `Stocks/`；公開頁讀者留言 **TXN** 不記為宋分本文觀點；本文不是買賣建議。
 
