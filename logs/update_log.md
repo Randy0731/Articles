@@ -1,5 +1,10 @@
 # Update Log
 
+## 2026-04-29
+
+- 入庫 `KP_FOMOSoc-20250803-kp-thinking-note-1-ai-capex-nvo-719608a9`：整理 KP / FOMOSoc Substack 公開週報《一場3000億美元的AI賭局，與諾和諾德的投資看法 - KP思考筆記(第2期)》，建立 `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第01期_AI賭局與諾和諾德.md`。Substack API post id `169931981` / canonical URL `https://www.fomosoc.com/p/kp13000ai` 的 `body_html` 完整可讀，`audience=everyone`，正文有開頭、兩個主段落與本週結語，未偵測截斷；API `wordcount` 明顯偏低，故以 HTML 轉文字後逐段檢查。正文自稱「第一期思考筆記 / 第一期週報」，但原標題寫第2期，本專案按正文歸檔為第1期並保留差異註記。
+- 更新：同步更新 `KOL/KP_FOMOSoc/notes/KP筆記.md`、`KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`、source/ticker/theme/framework/catalyst/watchlist indexes，並為 **AMZN** / **GOOGL** 歷史 L2 補入 `Stocks/AMZN/quarterly/AMZN_筆記_2025Q3.md`、`Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md`、各自 index 與儀表板增量 open question / risk。**NVO** 判定單篇 L3 watchlist 候選，不建立 `Stocks/NVO/`；**MSFT** 判定 L2 framework context，更新 ticker index 與既有 watchlist row，不建立 `Stocks/MSFT/`；**AAPL** / **META** 為 L1 背景。本文新增「AI 基建資本開支回報 / 2026 轉折框架」與「成長故事信任危機 / 估值折價框架」；所有價位 / 倍數均為 KP 口徑或整理註記，不是買賣建議。
+
 ## 2026-04-28
 
 - 補充入庫 8 組宋分 / 美股送分題 Substack 主文留言，併回既有文章：`宋分-20260427-token-self-initiated-demand-nvda-gpu-cpu-07567eea`、`宋分-20260426-price-in-volume-expectation-checklist-11709092`、`宋分-20260422-amzn-capitalized-rd-satellite-connectivity-b0f48af8`、`宋分-20260420-token-price-roi-productivity-comments-99f5fc29`、`宋分-20260404-strong-stock-volume-fund-flow-comments-c0760713`、`宋分-20260331-financial-statement-change-signals-comments-89ba6095`、`宋分-20260321-thesis-check-institutional-time-horizon-comments-3024529d`、`宋分-20260312-memory-cycle-exit-hbm-pe-pb-comments-e13c48d1`。來源皆為公開 Substack comment permalink，URL 未另存 raw，OCR 狀態不適用；留言內容完整可整理，未偵測到截斷。

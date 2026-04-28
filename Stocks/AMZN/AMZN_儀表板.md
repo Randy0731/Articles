@@ -1,11 +1,12 @@
 # AMZN 投資儀表板
 
-> 最後更新：2026-04-28（觸發來源：`KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md` 留言補充）
+> 最後更新：2026-04-29（補入 KP / FOMOSoc 2025-08-03 歷史 L2；不改變當前最新立場）
 
 ## 當前立場快照
 
 - **綜合立場**：正式追蹤；宋分對 **AMZN** 的框架偏正面，核心是市場可能再次把 Amazon 的資本投入誤判為短期 EPS / FCF 壓力，而不是下一輪現金流引擎。
 - **KOL 最新立場**：宋分 2026-04-22 將 Amazon re-rate 的底層拆成 ROIC x Organic Growth；4/25 AMZN 主文留言補充指出 Amazon Leo / Globalstar 重點在 coverage + control，像是 AWS 從 compute + storage 延伸到 connectivity；資產化研發則需追是否轉成 revenue / FCF，而不是只改善 EPS。
+- **KP 歷史補充**：KP 2025-08-03 早期週報已把 AWS 放進 AI 基建軍備競賽，將 AWS margin 下滑解讀成守住龍頭地位的策略性犧牲；此為歷史 L2 脈絡，不覆蓋宋分 2026 年最新 thesis。
 - **依據篇章**：`KOL/宋分/articles/20260422_market_decoding_19_roic_organic_growth_amzn.md`；`KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md`；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q2.md`
 
 ## 關鍵價位追蹤
@@ -16,6 +17,7 @@
 | 宋分 2026-04-22 ROIC x Organic Growth 補充 | 無新股價 / 目標價 | 本文重點是 ROIC 斜率與 organic growth，不是價位；PDD / AMZN 分數對照是比喻 | 2026-04-22 / 2026-04-26 | `KOL/宋分/articles/20260422_market_decoding_19_roic_organic_growth_amzn.md` |
 | 宋分 2026-04-22 / 04-25 AMZN 留言補充 | 無新股價 / 目標價 | 本文重點是資產化研發品質與 satellite connectivity，不是價位 | 2026-04-22 / 2026-04-25 | `KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md` |
 | 宋分 2026-04-21 主文 | 無新股價 / 目標價 | 本文重點是資本週期與 ROIC 轉折，不是價位 | 2026-04-21 | `KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md` |
+| KP 2025-08-03 雲端戰爭週報 | 無股價 / 目標價；AWS revenue 約 `$30.9B`、growth `17.5%` | KP 用於說明 AWS 龍頭防衛與 AI capex ROI，不是價位訊號 | 2025-08-03 | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第01期_AI賭局與諾和諾德.md`；`Stocks/AMZN/quarterly/AMZN_筆記_2025Q3.md` |
 
 ## 近 30 天催化劑時程表
 
@@ -40,6 +42,7 @@
 | Advertising + Prime + 3P services 能否持續覆蓋 retail / logistics 成本？ | 2026-04-21 | Ads revenue growth、subscription revenue、3P services、shipping / fulfillment cost | 4/21 AMZN | 待追蹤 |
 | ROIC 是否在 organic growth 仍在時開始轉折，而不是只因縮投資短暫改善？ | 2026-04-21 / 2026-04-22 | ROIC、NOPAT、invested capital、organic revenue growth、CAPEX、reinvestment runway | 4/21 AMZN；4/22 #19 | 待追蹤 |
 | CAPEX 是攻擊型投資，還是維持既有業務 / 補成本洞？ | 2026-04-21 | CAPEX purpose、depreciation、FCF、revenue visibility、segment margins | 4/21 AMZN；3/26 現金流品質框架 | 待追蹤 |
+| AWS margin sacrifice 是短期防衛投資，還是雲端競爭力被壓縮？ | 2025-08-03（補入） | AWS operating margin、pricing、market share、Azure / Google Cloud growth gap、AI capex ROI | KP 思考筆記第1期 | 歷史 L2 / 待後續財報驗證 |
 
 ## 關鍵風險清單
 
@@ -53,6 +56,7 @@
 | 高毛利層不足 | 中高 | advertising / Prime / 3P services 成長放慢，shipping / fulfillment cost 持續上升 | ads revenue, subscription revenue, 3P services, shipping cost | 4/21 AMZN |
 | ROIC 斜率誤判 | 中高 | ROIC 回升只來自砍 CAPEX / 費用，而不是新現金流引擎開始提高資本效率 | ROIC trend, organic growth, reinvestment runway, FCF quality | 4/22 #19；4/21 AMZN |
 | 估值模型誤判 | 中 | 市場或投資人把所有低 EPS 都解讀成未來護城河，忽略真實成本惡化 | segment margins, OCF / FCF, ROIC trend, cost productivity | 4/21 AMZN；4/22 #19；整理者判斷 |
+| AWS 防衛戰成本失控 | 中 | 為守市占持續犧牲 margin，但 growth / backlog / AI revenue 沒有對應補回 | AWS growth、operating margin、RPO / backlog、pricing、cloud share | KP 2025-08-03 |
 
 ## 持倉判斷依據（最近 3 篇關鍵筆記）
 

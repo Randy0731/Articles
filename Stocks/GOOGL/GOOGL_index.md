@@ -7,6 +7,7 @@
 | 類型 | 路徑 | 說明 |
 |---|---|---|
 | 儀表板 | `Stocks/GOOGL/GOOGL_儀表板.md` | 當前追蹤摘要、風險、催化劑與持倉判斷依據 |
+| 季度筆記 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md` | KP / FOMOSoc 2025Q3 Google Cloud margin inflection 歷史 L2 |
 | 里程碑 | `Stocks/GOOGL/milestones/GOOGL_里程碑_20260221_Alphabet資本支出百年債與AI基建護城河.md` | 大叔 2026-02-21 Alphabet capex / century bond / AI infra thesis |
 | KOL 主整理 | `KOL/大叔美股筆記/articles/20260221_alphabet_2026_capex_century_bond_uncle.md` | 本次升級來源全文整理 |
 
@@ -14,6 +15,7 @@
 
 | 發文日期 | 路徑 | KOL | 主題 | Tags | 交會等級 | 摘要 |
 |---|---|---|---|---|---|---|
+| 2025-08-03 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第01期_AI賭局與諾和諾德.md` | KP / FOMOSoc | KP 思考筆記第1期、Google Cloud growth / margin inflection、AI capex ROI | #AI基建 #財報 #ReRating #估值風險 | 歷史 L2 | KP 將 Google Cloud 寫成雲端三巨頭中的效率亮點：growth `32%`、operating margin `11.3% -> 20.7%`，屬早期 Cloud AI monetization / scale benefit 證據 |
 | 2026-01-24 | `KOL/Bytc/articles/20260124_tax_reform_code_to_capacity.md` | Bytc | 大美麗法案 VI、data center excluded from §48D、domestic vs overseas R&D tax treatment | #AI基建 #監管審批 #估值風險 | L2 policy constraint | Bytc 明確說 data center 是服務基礎設施，不是先進製造，因此不能拿 48D；另指出國內 R&D 當年扣除、海外 R&D 仍 15 年攤銷，對 Google 全球研發配置形成稅負摩擦 |
 | 2026-02-21 | `Stocks/GOOGL/milestones/GOOGL_里程碑_20260221_Alphabet資本支出百年債與AI基建護城河.md`；`KOL/大叔美股筆記/articles/20260221_alphabet_2026_capex_century_bond_uncle.md` | 大叔美股筆記 | Alphabet 2026 capex、全球債券、100 年債、能源垂直整合、AI infra ROI | #AI基建 #能源電力 #核能 #增發融資 #ReRating #估值風險 | L4 | **GOOGL** 由 watchlist 升級正式追蹤；核心問題是 Alphabet 是否能把 search cash flow 轉成 AI infrastructure utility moat |
 | 2026-03-17 | `KOL/Bytc/articles/20260317_uprise_spark_utilize_energy_security.md` | Bytc | UTILIZE / Nest / VPP / grid utilization | #能源電力 #AI基建 | 歷史 watchlist L2 | Google 被放入 demand-side dispatch / household data / Nest energy software 線索 |
@@ -32,6 +34,6 @@
 
 ## 待補 / 待查
 
-- 後續 Alphabet 財報入庫時，建立 `Stocks/GOOGL/quarterly/GOOGL_筆記_YYYYQN.md`。
+- 後續 Alphabet 財報入庫時，建立或追加對應年度季度檔；目前已有 `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md` 作歷史 L2。
 - 若出現重大 antitrust remedy、default search agreement 或 AI Search monetization disclosure，更新儀表板與 catalyst index。
 - 若 Intersect / Kairos / nuclear power milestones 有官方進展，判斷是否建立第二個能源里程碑。
