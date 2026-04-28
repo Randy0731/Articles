@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260316-analyst-memo-2-hbm-meta-ai-software-ma-9947773b`：整理宋分 / 美股送分題 Substack 文章《宋分分析師備忘錄 #2》HBM / **META** AI / 軟體併購校準文，建立 `KOL/宋分/articles/20260316_analyst_memo_2_hbm_meta_ai_software_ma.md`，並複製使用者提供兩份 Substack 截圖 PDF 至 `KOL/宋分/raw/20260316_宋分_analyst_memo_2_hbm_meta_ai_software_ma_home_宋分-20260316-analyst-memo-2-hbm-meta-ai-software-ma-9947773b.pdf` 與 `KOL/宋分/raw/20260316_宋分_analyst_memo_2_hbm_meta_ai_software_ma_note_宋分-20260316-analyst-memo-2-hbm-meta-ai-software-ma-9947773b.pdf`。Substack preloads 正文完整可讀；PDF 為 image-only raw 備份，未 OCR。
+- 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。本文新增「HBM 雙結構 / 記憶體再定價框架」、「META AI 廣告飛輪 / 模型自主框架」與「軟體併購倍數校準框架」，並補強「市場提問轉向 / Buyside 備忘錄框架」與「記憶體 PB / Cycle 三階段框架」。**META** 判定 L2+ watchlist candidate，不建立 `Stocks/META/`；**MU** 只是既有 memory framework proxy，本篇未直接具名；**IBM** 僅為 L1 acquirer context，不更新 `Stocks/IBM/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260314-war-uncertainty-risk-budget-dry-powder-7baacd7c`：整理宋分 / 美股送分題 Substack 文章《當戰爭不知道要打多久的時候，機構其實在做什麼？當市場沒有答案時，投資人最容易犯的一個錯》，建立 `KOL/宋分/articles/20260314_war_uncertainty_risk_budget_dry_powder.md`，並複製使用者提供之 8 頁 Substack 截圖 PDF 至 `KOL/宋分/raw/20260314_宋分_war_uncertainty_risk_budget_dry_powder_宋分-20260314-war-uncertainty-risk-budget-dry-powder-7baacd7c.pdf`。Substack preloads 正文完整可讀，PDF 為 image-only raw 備份，未 OCR。
 - 更新：同步更新 source/theme/framework indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。本文新增「風險預算 / 降低動作框架」：市場沒有答案時，機構不是急著猜底，而是先檢查若市場再跌 10%-30%，資金、情緒、槓桿與部位是否還能撐住；分批加碼應按信用利差、VIX / VIX3M、10Y / 利率預期等風險訊號調整，而不是按跌幅機械買入。文中無具名 ticker，不更新 ticker / watchlist / `Stocks/`；本文不是買賣建議。
 
