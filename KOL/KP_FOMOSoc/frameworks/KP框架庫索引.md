@@ -15,6 +15,69 @@
 - **相關 ticker / 產業**：
 ```
 
+## AI Capex 資本外交 / 主權資金 moat 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第25期_Meta_ClaudeCowork_Netflix_Energy_LLY_Nvidia.md`
+- **一句話定義**：當 AI capex 大到內部現金流難以完全支撐，科技公司會把主權基金、人脈、政治信任與外部 financing 組成基建護城河的一部分。
+- **適用情境**：Meta AI capex、Middle East sovereign wealth capital、hyperscaler compute buildout、AI data center JV / SPV。
+- **觀察指標**：capex guidance、OCF / FCF、cash and marketable securities、external financing、sovereign fund partnership、debt spread、political appointments、regulatory friction。
+- **也出現於**：延伸 KP「股債雙語 / AI Capex 現金流壓力框架」、「AI 基建資本開支回報 / 2026 轉折框架」與「AI 基建表外融資 / 金主風險框架」。
+- **相關 ticker / 產業**：**META**, **MSFT**, **AMZN**, **GOOG**, **GOOGL**；PIF / Mubadala / QIA 等主權資金、AI compute infrastructure。
+
+## 桌面 Agent / SaaS Seat-to-Workflow 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第25期_Meta_ClaudeCowork_Netflix_Energy_LLY_Nvidia.md`
+- **一句話定義**：AI agent 若能直接讀寫檔案並完成任務，軟體價值會從 seat / UI 轉向資料、權限、workflow、agent governance 與可審計執行。
+- **適用情境**：Claude Cowork、Microsoft Copilot、enterprise agents、SaaS disruption、local file agents。
+- **觀察指標**：agent task completion、time saved、folder / file permissions、enterprise governance、audit logs、Windows / macOS support、SaaS churn、AI attach / upsell。
+- **也出現於**：延伸 KP「AI 作業系統 / Agentic Workflow 平台框架」、「AI Agent 資產感知 / 數據主權併購框架」與「高估值 SaaS 預期重設框架」。
+- **相關 ticker / 產業**：**MSFT**, **AMZN**, **GOOG**, **GOOGL**；Anthropic / Claude 未上市；enterprise SaaS、AI agents、cloud inference。
+
+## 風險定價紅線 / 民粹利率上限框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第25期_Meta_ClaudeCowork_Netflix_Energy_LLY_Nvidia.md`
+- **一句話定義**：金融產品若服務高風險客群，利率上限會把風險定價變成政治問題；銀行可能改用年費、收緊授信或退出次級客戶。
+- **適用情境**：Apple Card、credit-card APR caps、consumer finance、fintech-bank partnerships、民粹金融政策。
+- **觀察指標**：APR cap proposal、delinquency、net charge-off、subprime mix、annual fee、underwriting tightening、customer attrition、regulatory enforcement、portfolio discount。
+- **也出現於**：可與 KP「管理層誠信 / 製造增長拆彈框架」與「平台補貼壕溝戰 / 成長股轉週期股框架」中對風險池、客戶品質與補貼代價的討論交叉比對。
+- **相關 ticker / 產業**：**JPM**, **GS**, **AAPL**；consumer credit、credit cards、fintech distribution。
+
+## 併購確定性買斷 / 時間套利框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第25期_Meta_ClaudeCowork_Netflix_Energy_LLY_Nvidia.md`
+- **一句話定義**：在競標與監管賽局中，買方可能用全現金與更高 leverage 買斷股價波動、審查延遲和對手攻擊點，讓時間成為交易武器。
+- **適用情境**：Netflix / WBD / Paramount media M&A、stock-and-cash collars、all-cash bid、proxy fight。
+- **觀察指標**：cash vs stock mix、SEC review days、shareholder vote date、competing bidder、breakup fee、bridge loan、leverage ratio、antitrust review。
+- **也出現於**：延伸 KP「串流終局 / IP 文化帝國併購框架」與「GLP-1 搶親 / Pipeline 反壟斷框架」中對交易完成性與監管可完成性的處理。
+- **相關 ticker / 產業**：**NFLX**, **WBD**, **PARA**；media M&A、streaming consolidation、antitrust。
+
+## AI 電力成本隔離 / Ratepayer Backlash 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第25期_Meta_ClaudeCowork_Netflix_Energy_LLY_Nvidia.md`
+- **一句話定義**：AI data center 造成的大型新增負載若被分攤給居民，會引發 ratepayer backlash；政策會迫使 Big Tech 直接承擔電力基建成本。
+- **適用情境**：AI data center electricity demand、PJM capacity auctions、large-load tariffs、utility rate cases、on-site generation。
+- **觀察指標**：capacity price、household electricity bill、special tariff、long-term power contract、PUC rulings、price caps、on-site generation permits、Big Tech direct capex。
+- **也出現於**：延伸 KP「AI data center 費率政治 / 物理摩擦成本框架」、「能源三部曲供給-輸電-調度框架」與「AI 能源熟地 / Behind-the-Meter 時間套利框架」。
+- **相關 ticker / 產業**：**GEV**, **PWR**, **BE**, **CEG**, **VST**, **TLN**, **AMZN**, **MSFT**, **GOOG**, **GOOGL**, **META**；utility、IPP、EPC、fuel cells、AI data centers。
+
+## 社區許可買路財 / Data Center Approval Speed 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第25期_Meta_ClaudeCowork_Netflix_Energy_LLY_Nvidia.md`
+- **一句話定義**：當 data center 受社區反對、水電資源與地方政治限制，最快擴張者可能是願意把稅收、水、工會、教育與電網升級成本預先內化的玩家。
+- **適用情境**：Microsoft data center expansion、large-load permitting、NIMBY opposition、AI infrastructure local politics。
+- **觀察指標**：permit approval time、community opposition、special power rate、water-positive projects、property tax agreements、labor union partnerships、local education investment、project cancellations。
+- **也出現於**：延伸 KP「AI data center 費率政治 / 物理摩擦成本框架」與「AI 基建實體資產 / 電力門票框架」。
+- **相關 ticker / 產業**：**MSFT**, **AMZN**, **GOOG**, **GOOGL**, **META**；data centers、local permitting、large-load tariffs。
+
+## 閉環 AI 製藥 / Lab-in-the-Loop 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第25期_Meta_ClaudeCowork_Netflix_Energy_LLY_Nvidia.md`
+- **一句話定義**：AI 製藥的價值不只是產生分子，而是把模擬、機器人實驗、即時資料回流、模型更新與製造數位雙生串成連續學習系統。
+- **適用情境**：Eli Lilly x Nvidia、BioNeMo、AI drug discovery、pharma manufacturing digital twins、industrial AI。
+- **觀察指標**：AI-discovered candidate entering clinic、cycle-time reduction、early-stage cost reduction、data quality、FDA guidance、TuneLab adoption、robotic lab throughput、manufacturing digital-twin ROI。
+- **也出現於**：延伸 KP「工業 AI 作業系統 / 自主數位雙生框架」與「製藥 0/1 臨床開關框架」。
+- **相關 ticker / 產業**：**LLY**, **NVDA**；pharma R&D、AI drug discovery、industrial AI、digital twins。
+
 ## 人形機器人 CAPEX / 群體學習商業化框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第24期_CES_NvidiaRubin_Intel_Vertiv_AMD_xAI.md`
