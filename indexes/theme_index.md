@@ -6,6 +6,9 @@
 
 | 主題 tag | 日期 | KOL / 來源 | 標題 | 核心觀點 | 相關 ticker | 框架 / 催化劑 | 筆記檔 |
 |---|---|---|---|---|---|---|---|
+| #財報 | 2026-04-11 | 宋分 / 美股送分題 | 市場解碼 #16：CCC 是 EPS / FCF 前面的現金流訊號 | 宋分把 CCC 定義為公司從投入營運資金到收回客戶現金中間要墊多久；CCC 改善代表成長開始帶現金，可能在 EPS / FCF 完整反映前先被機構 re-rate | 無具名 ticker；零售 / 電商 / SaaS / 高端品牌為類別語境 | CCC / 現金轉換週期 Re-rate 框架；DSI + DSO - DPO | `KOL/宋分/articles/20260411_market_decoding_16_ccc_cash_conversion_cycle_rerate.md`；`indexes/framework_index.md` |
+| #ReRating | 2026-04-11 | 宋分 / 美股送分題 | 用別人的錢成長：負 CCC 與長線大牛股公式 | 短 CCC / 負 CCC 讓客戶或供應商替公司提供營運資金，規模越大現金越多；同日補充說如果 CCC 下降來自 DPO 拉長，代表對上游議價能力變強 | 無具名 ticker | 資本黑洞 / 複利成長分流框架補強；DPO / supplier bargaining power | `KOL/宋分/articles/20260411_market_decoding_16_ccc_cash_conversion_cycle_rerate.md`；`indexes/framework_index.md` |
+| #估值風險 | 2026-04-11 | 宋分 / 美股送分題 | 營收與 EPS 成長但 CCC 惡化，可能是先漲後殺 | 宋分提醒營收 +20%、EPS +15% 仍可能危險；若 CCC 從 50 天拉到 80 天，代表成長需要吃更多錢，估值可能被壓 | 無具名 ticker | 現金流品質 / FCF Re-rate 框架補強；working capital warning | `KOL/宋分/articles/20260411_market_decoding_16_ccc_cash_conversion_cycle_rerate.md` |
 | #加密貨幣 | 2026-04-11 | 宋分 / 美股送分題 | 加密是高 beta 錯殺，還是敘事已死 | 宋分把加密當成流動性 + 風險偏好的放大器；若是錯殺，流動性與風險偏好修復時應領先止跌且反彈最強；若 AI / 半導體反彈但加密彈不起來，可能代表資金已放棄該敘事 | **IGV** L1 proxy；無具名 crypto ticker | 高 beta 流動性資產 / 敘事破裂分流框架；ETF / 機構資金 / 監管敘事 | `KOL/宋分/articles/20260409_investment_discipline_11_reverse_pricing_risk_reward.md` |
 | #投資與投機 | 2026-04-09 | 宋分 / 美股送分題 | 投資紀律 #11：反彈後最難的是敢不敢上車 | 反向定價後風險下降但資金尚未全面回來，散戶容易因損失厭惡、近期偏誤與追新聞而錯過第一段；宋分主張用 3-5 段分批容錯，而不是一次 all-in | 無具名單股 | 分段容錯；風險預算 / 降低動作框架補強 | `KOL/宋分/articles/20260409_investment_discipline_11_reverse_pricing_risk_reward.md` |
 | #ReRating | 2026-04-09 | 宋分 / 美股送分題 | 反向定價後要問結構，不是問價格 | 市場不是因所有事情變好才漲，而是因最壞情境不再被相信；真正機會在被油價、利率、地緣恐慌砍太深但結構沒壞的資產 | 無具名單股；標普 500 為大盤案例 | 反向定價 / 尾聲區間框架補強；結構性錯殺 / 短期消息分流 | `KOL/宋分/articles/20260409_investment_discipline_11_reverse_pricing_risk_reward.md`；`indexes/framework_index.md` |
