@@ -15,6 +15,78 @@
 - **相關 ticker / 產業**：
 ```
 
+## FOMO 命運共同體 / AI 算力捆綁框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第13期_OpenAI雲端合縱連橫與財報八題.md`
+- **一句話定義**：平台公司可透過稀缺算力、股權、雲端合約與供應商焦慮，把生態夥伴綁成共同風險承擔者。
+- **適用情境**：OpenAI ecosystem financing、AI supplier financing、large cloud / chip commitments、Stargate-type AI capex consortia。
+- **觀察指標**：capex commitments、supplier financing、warrants、cloud contracts、customer OCF、AI revenue quality、related-party exposure、utilization。
+- **也出現於**：可與 KP「AI 供應商融資 / 真需求過濾框架」與「AI 中央銀行 / 生態融資框架」交叉比對。
+- **相關 ticker / 產業**：**NVDA**, **AMD**, **ORCL**, **MSFT**, **AVGO**, **9984.T**；OpenAI 未上市；AI infrastructure、cloud、semiconductors。
+
+## 傳統企業 DNA 覺醒 / 利潤確定性框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第13期_OpenAI雲端合縱連橫與財報八題.md`
+- **一句話定義**：顛覆式轉型失速時，市場會短期獎勵承認現實、回到高利潤核心業務和資本紀律的公司。
+- **適用情境**：EV slowdown、legacy auto transition、consumer hardware / manufacturing companies retreating from unprofitable growth plans。
+- **觀察指標**：impairment、capex cuts、core segment margin、policy subsidy、demand adoption、cash flow、long-term disruption risk。
+- **也出現於**：可與 KP「預期管理 / 51 分止血框架」交叉比對。
+- **相關 ticker / 產業**：**GM**, **TSLA**；autos、EV transition、consumer cyclicals。
+
+## 可驗證量子 / 路線圖驗證框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第13期_OpenAI雲端合縱連橫與財報八題.md`
+- **一句話定義**：量子突破的投資意義不在即時商用，而在結果是否可重複驗證、錯誤率是否隨規模下降。
+- **適用情境**：quantum computing milestones、Google Willow / Quantum Echoes、post-quantum security debate、deep tech commercialization。
+- **觀察指標**：qubit count、error correction、repeatability、use-case demo、commercial timeline、cryptography threat horizon、peer verification。
+- **也出現於**：可與 Bytc 量子 / Bitcoin security 類文章交叉比對。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**；quantum computing、deep tech、AI infrastructure。
+
+## 雲端韌性 / 集中風險變現框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第13期_OpenAI雲端合縱連橫與財報八題.md`
+- **一句話定義**：核心雲端 outage 若未造成客戶流失，反而可能提高備援、multi-region 和 resilience spending。
+- **適用情境**：AWS outage、cloud concentration risk、multi-cloud / hybrid cloud decisions、critical infrastructure regulation。
+- **觀察指標**：outage scope、SLA credits、multi-region adoption、enterprise churn、regulatory response、cloud margin、resilience product revenue。
+- **也出現於**：可與 KP「AI 基建資本開支回報 / 2026 轉折框架」及宋分 AMZN capital cycle framework 交叉比對。
+- **相關 ticker / 產業**：**AMZN**, **MSFT**, **GOOG**, **GOOGL**；cloud infrastructure、enterprise IT。
+
+## AI 算力分工 / 訓練推理雙雲框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第13期_OpenAI雲端合縱連橫與財報八題.md`
+- **一句話定義**：頂級 AI 公司會依 training、inference、latency、cost 和 bargaining power，把 workload 分配給不同雲端與晶片。
+- **適用情境**：Anthropic / Google TPU、AWS Trainium、OpenAI multi-cloud、hyperscaler AI chip competition、neocloud procurement。
+- **觀察指標**：training share、inference share、TPU / Trainium / GPU adoption、latency、cost per token、cloud revenue、customer concentration。
+- **也出現於**：可與 KP「AI 作業系統 / SaaS 啞鈴化框架」、宋分 CSP Token 定價權框架交叉比對。
+- **相關 ticker / 產業**：**AMZN**, **GOOG**, **GOOGL**；Anthropic 未上市；cloud AI、AI accelerators。
+
+## Physical AI 信仰估值 / 戰時授權框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第13期_OpenAI雲端合縱連橫與財報八題.md`
+- **一句話定義**：當傳統業務獲利惡化，公司會把估值錨點推向遠期 AI / robotics TAM，並要求市場授權長期資本調度。
+- **適用情境**：Tesla FSD / Robotaxi / Optimus、founder control votes、VC-style public market valuation、auto-to-AI transition stories。
+- **觀察指標**：auto margin、FSD adoption、Robotaxi rollout、Optimus milestones、capex、voting control、regulatory approvals、unit economics。
+- **也出現於**：延伸 KP 2025-08-16 Dojo / AI 自研晶片框架，亦可與 Bytc Tesla Robotaxi / Optimus 筆記交叉比對。
+- **相關 ticker / 產業**：**TSLA**；EV、autonomous driving、robotics、Physical AI。
+
+## 困境反轉 ICU / 外部強心針框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第13期_OpenAI雲端合縱連橫與財報八題.md`
+- **一句話定義**：重病公司止血後，股價反應來自成本紀律、外部背書與政策安全網，但真正重估仍要靠核心業務造血。
+- **適用情境**：Intel turnaround、national champion support、strategic investors、loss-making segment stabilization、restructuring stories。
+- **觀察指標**：revenue stabilization、cost cuts、government backing、strategic investment、core share、segment losses、gross margin、FCF。
+- **也出現於**：延伸 KP「國家隊 Put / 戰略資產下檔鎖定框架」與「NVLink 圍牆花園 / CPU-GPU 平台化框架」。
+- **相關 ticker / 產業**：**INTC**, **NVDA**, **AMD**, **ARM**；semiconductors、foundry、server CPU。
+
+## 一次性黑天鵝 / 第二成長曲線框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第13期_OpenAI雲端合縱連橫與財報八題.md`
+- **一句話定義**：財報一次性衝擊需與核心引擎分開看，若主業和 FCF 強，市場下一步會聚焦新成長曲線能否拉 margin。
+- **適用情境**：Netflix tax charge、one-time legal / tax events、ads business ramp、mature platform second growth curve。
+- **觀察指標**：one-time charge、engagement、ads revenue、FCF、margin expansion、valuation、M&A optionality。
+- **也出現於**：可與 KP「串流圍牆花園 / IP 外部變現取捨框架」交叉比對。
+- **相關 ticker / 產業**：**NFLX**；streaming、advertising、consumer internet。
+
 ## 預期管理 / 51 分止血框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第12期_LVMH沃爾瑪AI基建與晶片財報.md`

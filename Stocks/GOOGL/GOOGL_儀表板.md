@@ -1,6 +1,6 @@
 # GOOGL 投資儀表板
 
-> 最後更新：2026-04-29（補入 KP / FOMOSoc 2025-09-06 歷史 L3：Safari Search economics / Ad Tech monopoly risk；不改變當前最新立場）
+> 最後更新：2026-04-29（補入 KP / FOMOSoc 2025-10-25 歷史 L2：Quantum Echoes / Anthropic TPU；不改變當前最新立場）
 
 ## 當前立場快照
 
@@ -10,6 +10,7 @@
 - **KP 歷史補充**：KP 2025-08-03 將 Google Cloud 寫成雲端三巨頭中的效率亮點，growth `32%`、operating margin `11.3% -> 20.7%`，可作 Cloud AI monetization / scale benefit 的早期 L2 脈絡。
 - **本次補入的 KP Chrome 風險**：KP 2025-08-23 將 Perplexity 喊話收購 Chrome 解讀為 AI 搜尋時代的入口控制權訊號。Chrome 是 Google Search 的護城河與門戶；若反壟斷 remedy 迫使 Chrome divestiture 或 default search economics 重構，Search moat、TAC、query share、AI answer monetization 與 Gemini distribution 都要重估。
 - **本次補入的 KP Ad Tech 風險**：KP 2025-09-06 用 Apple Safari 預設搜尋 revenue-share 反推 Google Search 現金流強度，同時提醒 Ad Tech monopoly case 已判 Google 敗訴，後續 remedy 若觸及 Google Ad Manager / AdX / DV360，可能直接打到 Alphabet 廣告基礎設施與平台稅。
+- **本次補入的 KP 2025Q4 技術選擇權**：KP 2025-10-25 將 Google Willow / Quantum Echoes 解讀為可驗證量子路線圖，不是短期商用；同篇 Anthropic 最高約 100 萬顆 TPU 合作，則補強 Google TPU / Cloud 在 AI 推理 workload 的商業背書。
 - **目前研究狀態**：正式追蹤個股；主里程碑為 2026-02-21 大叔 Alphabet capex / century bond / AI infra article。
 
 ## 關鍵價位 / 數字追蹤
@@ -26,6 +27,8 @@
 | KP 2025Q2 Cloud margin anchor | Google Cloud growth `32%`、operating margin `11.3% -> 20.7%` | KP / FOMOSoc 2025-08-03 | 歷史 L2：Google Cloud 是否具備規模效益與 AI 服務高毛利轉化能力 |
 | KP Safari Search economics | Apple payment 約 `$20B`、revenue share 約 `36%`、反推 Safari search ad revenue 約 `$55.6B`、net 約 `$35.6B`、約占 Google Search revenue 近 `28%` | KP / FOMOSoc 2025-09-06 | 歷史 L3：default search distribution 的現金流價值與監管風險同時被放大 |
 | KP Ad Tech case anchors | Google Ad Manager 高網站滲透、AdX 交易量超過 50%、2025-04-17 illegal monopoly ruling、2025-09-22 remedy hearing | KP / FOMOSoc 2025-09-06 | 歷史 L3：若 structural remedy 要求出售 / 拆分 Ad Manager，Alphabet ads stack 需重估 |
+| KP Quantum Echoes anchor | Google Willow / Quantum Echoes 重點是可重複驗證與錯誤校正；KP 提醒破解主流加密仍需數百萬個穩定 qubit | KP / FOMOSoc 2025-10-25 | 歷史 L2：補上 Google deep-tech optionality，但不寫成短期 revenue thesis |
+| KP Anthropic TPU anchor | Anthropic / Google deal 最高約 100 萬顆 TPU，KP 認為主要切入 inference / low-latency workload | KP / FOMOSoc 2025-10-25 | 歷史 L2：補強 Google Cloud / TPU 商業背書，需追 revenue conversion |
 
 ## 近 30 天催化劑
 
@@ -38,6 +41,7 @@
 | 日期 | 事件 | 狀態 | 結果 / 含義 | 來源 |
 |---|---|---|---|---|
 | 2025-09-06 | KP 思考筆記第6期：Safari Search economics 與 Ad Tech monopoly case | 已整理 / 歷史 L3 | 補上 Apple default-search payment / revenue share 與 Ad Manager / AdX / DV360 垂直整合風險；與第 4 期 Chrome / distribution moat 共同構成 antitrust risk map | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md` |
+| 2025-10-25 | KP 思考筆記第13期：Quantum Echoes 與 Anthropic TPU | 已整理 / 歷史 L2 | 補上 Google quantum roadmap validation 與 TPU / Cloud 在 Anthropic inference workload 的商業背書；不改變 2026 最新 capex / Search / Cloud AI 主 thesis | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
 | 2025-09-22（KP 原文下一節點） | Google Ad Tech remedy / penalty hearing | 原文時點已過 / 待後續外部校準 | KP 稱 DOJ 嚴厲版本要求出售 Google Ad Manager；整理日未外部核對結果，後續需查 court docket / filings | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第06期_Google反壟斷與晶片TCO.md` |
 | 2026-02 | Alphabet 約 `$320 億美元` 全球債券與 100 年英鎊債 | 已發生 / 需追後續成本 | 大叔視為 AI 基建資本結構重塑，不只是補流動性 | `Stocks/GOOGL/milestones/GOOGL_里程碑_20260221_Alphabet資本支出百年債與AI基建護城河.md` |
 | 2026-02-21 | 大叔發布 Alphabet capex / century bond 長文 | 已整理 / 升級觸發 | **GOOGL** 由 watchlist 升級為正式追蹤 | `KOL/大叔美股筆記/articles/20260221_alphabet_2026_capex_century_bond_uncle.md` |
@@ -57,6 +61,8 @@
 | Google Cloud 2025 年的 margin inflection 是否能延續到 AI capex / depreciation 高峰期？ | KP 2025-08-03 將 Google Cloud margin 改善視為效率拐點；若後續 capex / depreciation 壓力吃掉 margin，早期證據就不足以支撐 re-rate | Cloud revenue、operating margin、capex、depreciation、TPU / AI service monetization、FCF |
 | Chrome / default search remedy 是否改寫 Google Search distribution moat？ | KP 2025-08-23 將 Chrome 視為 Search 與 AI browser distribution 的核心入口；若出售或 conduct remedy 改寫預設搜尋，Search moat 需重估 | court docket、remedy order、appeal timeline、default search contracts、TAC、browser share、AI answer / agent adoption |
 | Ad Tech remedy 是否改寫 Google 廣告平台稅與 display / network monetization？ | KP 2025-09-06 認為 Ad Tech case 不是單一產品，而是 Google 代表買方、賣方又控制 exchange 的整套廣告基礎設施；若 Ad Manager / AdX / DV360 被拆分，take rate 與資料優勢需重估 | Ad Manager remedy、AdX auction rule、DV360 routing、publisher take rate、Network revenue、DOJ remedy order、appeal timeline |
+| Quantum Echoes 是否能從 roadmap validation 走向商業用途？ | KP 2025-10-25 認為可驗證性和 error correction 是重要科學 / 工程進展，但商業化仍很遠 | qubit scale、error correction、peer repeatability、molecular / battery demos、quantum cloud revenue |
+| Anthropic TPU deal 是否能轉成 Google Cloud AI revenue？ | TPU 商業背書重要，但還需要看 inference workload、cost per token 與 revenue recognition | TPU allocation、Anthropic cloud spend split、Google Cloud AI revenue、gross margin、customer concentration |
 
 ## 關鍵風險清單
 
@@ -75,6 +81,8 @@
 | Ad Tech take rate / 平台稅下降 | 中高 | remedy 提高 publisher share、降低 Google auction / routing advantage，或廣告商改用更透明的競爭平台 | KP 2025-09-06 |
 | 供應鏈議價力外流 | 中 | GPU / ASIC pricing、supplier gross margin、custom silicon adoption | 大叔文章 |
 | Google Cloud margin inflection 不持續 | 中高 | Google Cloud operating margin、Cloud AI revenue、TPU utilization、depreciation | KP 2025-08-03 |
+| 量子商業化時間過長 | 中 | qubit scale 無法上去、error correction 不具商業可行性、use case demo 難轉收入 | KP 2025-10-25 |
+| TPU deal 無法轉成可見 Cloud revenue | 中高 | Anthropic workload split 不明、TPU utilization / pricing 不透明、inference margin 被成本吃掉 | KP 2025-10-25 |
 
 ## 持倉判斷依據
 
@@ -88,11 +96,13 @@
 | KP 2025-08-03 Cloud margin inflection | 中 | 補上 Google Cloud 在 2025Q2 的 early scale-benefit 證據，作為後續 AI infrastructure thesis 的歷史脈絡 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md` |
 | KP 2025-08-23 Chrome / antitrust | 中高 | 補上 Google Search distribution moat 的歷史 L3 風險：Chrome 是 AI 搜尋 / agent 入口，若被迫出售或 default economics 改寫，Search moat 和 AI monetization 需重估 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md` |
 | KP 2025-09-06 Safari Search / Ad Tech antitrust | 中高 | 補上 Safari default-search economics 與 Ad Tech 垂直整合風險；若 Ad Manager / AdX / DV360 remedy 變嚴，Alphabet ads stack 和平台稅需重估 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md` |
+| KP 2025-10-25 Quantum / Anthropic TPU | 中 | 補上 Google deep-tech 與 TPU / Cloud 推理 workload 選擇權；重要但偏中長期，不覆蓋當前 Search / capex 主 thesis | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
 
 ## 索引
 
 - `Stocks/GOOGL/GOOGL_index.md`
 - `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md`
+- `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md`
 - `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第06期_Google反壟斷與晶片TCO.md`
 - `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第04期_AI泡沫Chrome入口與Intel國家隊.md`
 - `Stocks/GOOGL/milestones/GOOGL_里程碑_20260221_Alphabet資本支出百年債與AI基建護城河.md`

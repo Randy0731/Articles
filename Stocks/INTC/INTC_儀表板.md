@@ -1,6 +1,6 @@
 # INTC 投資儀表板
 
-> 最後更新：2026-04-29（觸發來源：`Stocks/INTC/quarterly/INTC_筆記_2025Q3.md`；補入 KP / FOMOSoc 2025-09-20 思考筆記第8期的 Nvidia 投資 / NVLink x86 / Foundry 未驗證歷史 L3；不改變 2026 最新正面驗證仍需財報確認的立場）
+> 最後更新：2026-04-29（觸發來源：`Stocks/INTC/quarterly/INTC_筆記_2025Q4.md`；補入 KP / FOMOSoc 2025-10-25 思考筆記第13期的 Intel 止血 / 復健室歷史 L3；不改變 2026 最新正面驗證仍需財報確認的立場）
 
 ## 當前立場快照
 
@@ -13,6 +13,7 @@
 - **本次補入的 KP 歷史風險訊號**：KP 2025-08-09 在 AMD 思考筆記中稱 EPYC 2025Q2 x86 server CPU share 約 `50%`、2024 年約 `30%`，意味 Intel Xeon 長期壟斷被打破。這是後續 **INTC** CPU 復權 thesis 的歷史負面基準，不改寫 2026 最新正面補強。
 - **本次補入的 KP 國策安全網訊號**：KP 2025-08-23 將美國政府可能入股 Intel 解讀為「Trump Put」：政府從補貼者變股東，降低公司存續風險；但補助轉股 / 未來增發可能稀釋股東，而政府資金只能買時間和機會，不能直接買到 18A、foundry 外部客戶、gross margin 或 FCF 成功。
 - **本次補入的 KP Nvidia 合作訊號**：KP 2025-09-20 將 Nvidia 對 Intel `50 億美元`、每股 `$23.28`、約 4% stake 投資拆成政治投名狀與技術平台合作：Intel 客製 x86 server CPU + NVLink 可補強 DCAI / AI server system relevance，RTX chiplet x86 SoC 可攻擊 AMD APU；但 KP 明確指出交易未包含 Nvidia 使用 Intel Foundry，最先進晶片仍在 TSMC，故此訊號補強產品 / 平台機會，不等於 Foundry 成功已驗證。
+- **本次補入的 KP 2025Q4 復健訊號**：KP 2025-10-25 將 Intel 財報解讀為從 ICU 轉到復健室：連續六季虧損後轉盈、PC demand 回暖、成本紀律奏效、美國政府 / Nvidia / SoftBank 三劑強心針；但 data center share loss 與 Foundry 約 `$2.3B` 虧損仍是慢性病，真正上檔仍取決於商業執行。
 - **依據篇章**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第08期_OracleTikTok與NvidiaIntel_Nscale.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第04期_AI泡沫Chrome入口與Intel國家隊.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第02期_AMD_CPU與GPU.md`；`Stocks/INTC/quarterly/INTC_筆記_2025Q3.md`；`KOL/Bytc/articles/20260124_tax_reform_code_to_capacity.md`；`KOL/Bytc/articles/20260425_macro_data_weekly_20260423.md`；`KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md`；`KOL/大叔美股筆記/notes/大叔美股筆記.md`；`KOL/Bytc/articles/20260405_macro_data_weekly_20260404.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q2.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q1.md`
 
 ## 關鍵價位追蹤
@@ -53,6 +54,7 @@
 | 政府入股 / 補助轉股是否只降低存續風險，卻未轉成股東回報？ | 2025-08-23（補入日 2026-04-29） | government equity terms、share count、capex funding gap、18A yield、external foundry wins、gross margin、FCF | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第04期_AI泡沫Chrome入口與Intel國家隊.md`；`Stocks/INTC/quarterly/INTC_筆記_2025Q3.md` | 歷史 L3 / 待政策與財報驗證 |
 | Nvidia / Intel 客製 x86 CPU + NVLink 合作是否能轉成 DCAI design wins，而不只是政治背書？ | 2025-09-20（補入日 2026-04-29） | custom x86 CPU roadmap、NVLink CPU-GPU adoption、AI server customers、DCAI revenue、gross margin | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第08期_OracleTikTok與NvidiaIntel_Nscale.md`；`Stocks/INTC/quarterly/INTC_筆記_2025Q3.md` | 歷史 L3 / 待產品與財報驗證 |
 | Nvidia 未承諾使用 Intel Foundry 是否代表 18A / external foundry thesis 仍未被 AI leader 背書？ | 2025-09-20（補入日 2026-04-29） | Nvidia manufacturing allocation、Intel 18A yield、external foundry wins、TSMC dependency、Foundry revenue / margin | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第08期_OracleTikTok與NvidiaIntel_Nscale.md`；`Stocks/INTC/quarterly/INTC_筆記_2025Q3.md` | 歷史 L3 / 待 foundry 驗證 |
+| KP 2025Q4 所說「從 ICU 到復健室」是否能轉成真正出院？ | 2025-10-25（補入日 2026-04-29） | DCAI revenue、Xeon backlog、server CPU share、Foundry external customers、Foundry losses、gross margin、FCF | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第13期_OpenAI雲端合縱連橫與財報八題.md`；`Stocks/INTC/quarterly/INTC_筆記_2025Q4.md` | 歷史 L3 / 待後續財報驗證 |
 | Diamond / Coral Rapids 是否能壓制 AMD EPYC 的效能功耗比？ | 2026-04-24 | benchmark、TCO、資料中心市占、客戶採用 | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md` | 待追蹤 |
 | AI PC 換機潮是否能讓 CCG 重新加速？ | 2026-04-24 | Windows 11 更新、Core Ultra / NPU 滲透、商用 PC 換機、CCG 成長率 | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md` | 待追蹤 |
 | Cantor Fitzgerald 2025Q4 **INTC** 高成本倉位是否延續？ | 2026-04-27 | 2026Q1 13F、common vs put rows、後續加碼 / 減碼、是否仍持有 | `Stocks/INTC/quarterly/INTC_筆記_2026Q1.md` | 待追蹤 |
@@ -71,6 +73,7 @@
 | 48D / 工廠折舊利多被誤讀成收入 | 中高 | 市場把 35% ITC、100% special depreciation 或 2026 年底動工倒數寫成 **INTC** 已取得新客戶 / 新訂單 | tax credit disclosure、cash tax rate、capex、external foundry wins、backlog、revenue recognition | `KOL/Bytc/articles/20260124_tax_reform_code_to_capacity.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q1.md` |
 | 國家隊 Put 被誤讀成成功保證 | 高 | 政府入股降低存續風險，但 18A / foundry 外部客戶 / DCAI / gross margin 沒跟上，股東只承擔稀釋與低 ROIC | government equity terms、share count、18A yield、external foundry wins、Foundry revenue、gross margin、FCF | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第04期_AI泡沫Chrome入口與Intel國家隊.md` |
 | Nvidia 合作只驗證 CPU / platform adjacency，不驗證 Foundry | 高 | 市場把 Nvidia stake 寫成 Intel manufacturing win，但 Nvidia 最先進晶片仍由 TSMC 製造，Intel 沒拿到外部 foundry 大單 | Nvidia manufacturing allocation、18A yield、Foundry external wins、Foundry revenue / margin、TSMC dependency | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第08期_OracleTikTok與NvidiaIntel_Nscale.md` |
+| 止血被誤讀成康復 | 中高 | 市場把成本削減和外部背書當成核心業務復甦，但 DCAI share、Foundry 外部客戶與 FCF 沒有改善 | DCAI revenue、server CPU share、Foundry losses、gross margin、FCF、cost-cut quality | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第13期_OpenAI雲端合縱連橫與財報八題.md`；`Stocks/INTC/quarterly/INTC_筆記_2025Q4.md` |
 | 高估值壓縮 | 高 | 約 `38.8x` FY26 forward P/E 無法被 2027 EPS / margin 證明 | FY26 / FY27 EPS、gross margin、foundry margin | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md` |
 | AI PC 需求遞延 | 中 | PC 換機不如預期，CCG 仍只低速成長 | PC shipment、Core Ultra / NPU adoption、CCG revenue | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md` |
 | 13F 成本估算被誤讀為基本面驗證 | 中高 | 把 Cantor 表格 `$26.80` 寫成 SEC cost basis、即時買盤、或 **INTC** thesis 已驗證 | SEC information table、common vs put rows、後續 13F、DCAI / Foundry actuals | `Stocks/INTC/quarterly/INTC_筆記_2026Q1.md` |
