@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260427-analyst-memo-8-early-bull-real-investment-cycle-692634df`，並將推廣 Note `宋分-20260427-analyst-memo-8-early-bull-promo-e6d2dde3` 作為同組來源：整理宋分 / 美股送分題 Substack 電子報《宋分分析師備忘錄 #8》市場創新高，卻是初期牛市的典型結構｜當市場邊漲邊懷疑，通常才剛開始，建立 `KOL/宋分/articles/20260427_analyst_memo_8_early_bull_real_investment_cycle.md`。Substack 電子報 HTML / preloads 與推廣 Note JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「初期牛市 / 實體投資週期框架」與「核心資產回流 / 擁擠交易分流框架」：市場創新高但仍被懷疑時，若民間部門接棒、實體 CAPEX / hiring / M&A / buybacks 與營業槓桿改善，可能是新週期早段；資金從 crowded AI beneficiaries 回到核心算力資產，**NVDA** 判定 L2 watchlist / ticker index 更新，不建立 `Stocks/NVDA/`。本文不是買賣建議。
+
 - 入庫 `宋分-20260426-investment-discipline-14-price-in-earnings-flow-313efbef`，並將推廣 Note `宋分-20260426-investment-discipline-14-price-in-promo-3d98634d` 作為同組來源：整理宋分 / 美股送分題 Substack 電子報《財報後先跌再漲到底是不是利多出盡？要怎麼知道 price in 了沒有？近期資金行情散戶最容易犯的錯》，建立 `KOL/宋分/articles/20260426_investment_discipline_14_price_in_earnings_flow.md`。Substack 電子報 HTML / preloads 與推廣 Note JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/theme/framework/catalyst indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「財報後 Price-in / 預期驗證定價框架」與「資金行情 / 流動性主導風險框架」：財報後先跌再漲或利多不漲，不應用一天價格判斷長期結構，而要看預期 -> 驗證 -> 定價、財報前股價 / PE / estimates 是否已 price 樂觀情境，以及市場是否從基本面驗證切到資金主導。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`。本文不是買賣建議。
 
