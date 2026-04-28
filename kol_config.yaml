@@ -292,6 +292,41 @@ stock_projects:
       - "#執行風險"
       - "#政策風險"
 
+  LRCX:
+    aliases:
+      - "LRCX"
+      - "Lam Research"
+      - "Lam Research Corporation"
+      - "Lam"
+      - "科林研發"
+      - "泛林集團"
+    root: "Stocks/LRCX"
+    raw_dir: "Stocks/LRCX/raw"
+    notes_dir: "Stocks/LRCX/notes"
+    quarterly_dir: "Stocks/LRCX/quarterly"
+    milestones_dir: "Stocks/LRCX/milestones"
+    longform_dir: "Stocks/LRCX/longform"
+    dashboard: "Stocks/LRCX/LRCX_儀表板.md"
+    stock_index: "Stocks/LRCX/LRCX_index.md"
+    current_quarter_file_pattern: "LRCX_筆記_YYYYQN.md"
+    milestone_file_pattern: "LRCX_里程碑_[文章標題].md"
+    longform_file_pattern: "LRCX_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    theme_tags:
+      - "#財報"
+      - "#半導體設備"
+      - "#Memory"
+      - "#AI基建"
+      - "#先進封裝"
+      - "#產品節點"
+      - "#ReRating"
+      - "#估值風險"
+      - "#執行風險"
+      - "#競爭風險"
+      - "#政策風險"
+      - "#供應鏈風險"
+
 kols:
   Bytc:
     aliases:

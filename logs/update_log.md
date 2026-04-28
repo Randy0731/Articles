@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `大叔美股筆記-20260424-lam-research-lrcx-q3-2026-0726485d`：整理大叔美股筆記 Substack 付費文章《Lam Research #LRCX Q3 2026 財報分析》，建立 `KOL/大叔美股筆記/articles/20260424_lam_research_lrcx_q3_2026_uncle.md`，並複製使用者提供之 8 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20260424_大叔美股筆記_lam_research_lrcx_q3_2026_大叔美股筆記-20260424-lam-research-lrcx-q3-2026-0726485d.pdf`。本篇為 **LRCX** FY2026 Q3 財報 / 半導體設備 / AI 記憶體設備長文，大叔將 revenue `58.4 億美元`、Non-GAAP EPS `$1.47`、Q4 revenue guide midpoint `66 億美元` 解讀為 AI 從 GPU 算力轉向 memory / storage / process intensity 的設備端驗證，核心是 NAND 300+ layers、HBM / TSV、GAA / selective etch / ALD 與先進封裝提升 **LRCX** equipment intensity。
+- 更新：依新追蹤 ticker 回查規則將 **LRCX** 升級為正式 `Stocks/LRCX/` 專案，新增 `Stocks/LRCX/quarterly/LRCX_筆記_2026Q2.md`、`Stocks/LRCX/LRCX_儀表板.md`、`Stocks/LRCX/LRCX_index.md`，同步更新 `kol_config.yaml`、source/ticker/theme/catalyst/framework indexes 與 private raw manifest。歷史回查確認 2026-01-24 Bytc 稅制 / 48D 文章已有 **LRCX** 半導體設備鏈提及，但缺少 Lam-specific 財務、訂單或估值，因此只保留為 policy / capex 背景索引，不補入 `Stocks/LRCX/quarterly/`。PDF 為 image-only，OCR 狀態標「部分」；p.1-p.6 上半為核心正文 / links / 免責聲明，p.6 下半起為 discussion / recommended posts / footer。Lam official PR 用於校準 Q4 guide 與區域營收差異；本文不是買賣建議。
+
 - 入庫 `大叔美股筆記-20260423-howard-marks-wharton-investing-philosophy-50b83754`：整理大叔美股筆記 Substack Note《Howard Marks 談價值投資、市場週期與投資哲學》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。本篇為 Howard Marks 在 Wharton School Investor Series 訪談的投資哲學摘要，大叔整理重點包括市場樂觀偏見 / 認知失調、S&P 500 約 `22x` P/E vs 歷史平均 `16x-17x` 的估值警覺、不要精準抄底、買入理由應是足夠便宜、價值 / 成長不是二分法、賣出等於重新問自己是否仍願意買入，以及信貸 / 債券偏向少犯錯、創投 / 股票偏向抓贏家。
 - 更新：同步更新 source/ticker/theme/framework indexes。**AMZN** 只作長期複利機器與太早獲利了結的 L1 案例，不建立或更新 `Stocks/AMZN/`；本篇新增「Howard Marks 價格優先與 Un-buy 框架」，用於後續查詢大叔是否把該框架套用到單股、估值或倉位紀律。來源為 URL，未另存 raw，OCR 狀態不適用；本文不是買賣建議。
 
