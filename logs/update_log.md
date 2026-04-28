@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260215-investment-discipline-2-research-order-da28e1fb`：整理宋分 / 美股送分題 Substack Note《投資紀律 #2｜分析師流程》，建立 `KOL/宋分/articles/20260215_investment_discipline_2_research_order.md`。Substack preloads JSON 正文可讀，只有 URL，未另存 raw，OCR 狀態標「不適用」。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文補強既有「分析師流程 / 事件等待框架」：研究不應從看盤、K 線、新聞與題材開始，否則容易先被價格吸引，再反向找理由。文中只概括提到某幾檔軟體股一兩天反彈，沒有具名 ticker 或單股觀點，因此不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260213-ai-inference-economics-nvda-groq-lpu-93f0e6cc`：整理宋分 / 美股送分題 Substack Note《產業與個股透鏡 #1｜技術與商業模式》，建立 `KOL/宋分/articles/20260213_ai_inference_economics_nvda_groq_lpu.md`。Substack preloads JSON 正文可讀，只有 URL，未另存 raw，OCR 狀態標「不適用」。
 - 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「推理經濟性 / 企業 SLA 基礎設施框架」：AI 商業化重心從訓練算力轉向推理回應穩定性、latency predictability 與 enterprise SLA；宋分把 Groq / LPU 作為推理市場獨立化訊號，並明確表示這讓他對 **NVDA** 推理場景與平台化估值更有信心。**NVDA** 判定 L2+ 候選追蹤，更新 watchlist，但不建立 `Stocks/NVDA/`；本文不是買賣建議。
 
