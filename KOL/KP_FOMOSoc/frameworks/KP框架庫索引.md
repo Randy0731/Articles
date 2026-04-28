@@ -33,6 +33,24 @@
 - **也出現於**：本篇為 KP 框架庫首筆。
 - **相關 ticker / 產業**：**AMD**, **NVDA**, **INTC**；AI 推論、server CPU、GPU utilization、資料中心。
 
+## AI 自研晶片 / 垂直整合陷阱框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第03期_AI夢與核能成長密碼.md`
+- **一句話定義**：自研晶片只有在硬體性能、軟體生態、供應鏈節奏、人才連續性與資本投入同時過關時才可能創造差異化；否則垂直整合會從護城河變成資本與組織能力的壓力測試。
+- **適用情境**：Tesla Dojo、hyperscaler ASIC、AI accelerator challenger、自研 training / inference chip、make-or-buy decision。
+- **觀察指標**：HBM / SRAM memory architecture、thermal / power envelope、compiler / software stack maturity、developer ecosystem、talent retention、capex、TCO、time-to-market、external GPU roadmap、customer workload fit。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**TSLA**, **NVDA**, **AMD**, **TSM**；AI 訓練晶片、自研 ASIC、CUDA 生態、先進製程供應鏈。
+
+## 核能成長三路徑 / AI PPA 高價值電力框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第03期_AI夢與核能成長密碼.md`
+- **一句話定義**：核能公司的成長可拆成既有資產增容與延壽、長期高價 PPA 鎖利潤、新建或模組化反應爐擴張；AI data center 需求讓全天候零碳電力具備重新定價可能。
+- **適用情境**：核電營運商、SMR / advanced nuclear、新建核電、AI data center power procurement、energy infrastructure re-rating。
+- **觀察指標**：power uprates、license extensions、capacity factor、PTC / policy support、PPA price / duration、AI customer commitments、fuel cost、O&M cost、EPS CAGR vs revenue growth、NRC approvals、construction cost / schedule、factory manufacturing proof。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**CEG**, **OKLO**, **MSFT**, **GOOG**, **GOOGL**；核能、AI data center power、24/7 carbon-free electricity、PPA。
+
 ## AMD 雙線敘事 / 估值動能博弈框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第02期_AMD_CPU與GPU.md`
