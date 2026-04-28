@@ -102,3 +102,50 @@ KP 將 Perplexity 喊話收購 Chrome 解讀為公關操作，但它凸顯 Alpha
 > 呼應 `Stocks/GOOGL/GOOGL_儀表板.md` 的 antitrust / AI Search risk：KP 2025-08-23 從 Chrome 入口控制權角度補上較早的監管風險框架，與 Bytc 2026-04-14「Search 印鈔機變貴」互相補強。
 
 ---
+
+## KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Safari Search economics 與 Ad Tech monopoly 風險
+
+- **來源 KOL**：KP / FOMOSoc
+- **原文主整理**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第06期_Google反壟斷與晶片TCO.md`
+- **原始來源**：https://www.fomosoc.com/p/google200-kp6
+- **source_id**：KP_FOMOSoc-20250906-kp-thinking-note-6-google-adtech-chip-tco-195a48ee
+- **raw 路徑 / URL**：URL（未另存 raw）
+- **OCR 狀態**：不適用（Substack API `body_html` 完整可讀）
+- **類型**：Substack 週報 / KP 思考筆記 / Google antitrust / Ad Tech
+- **發文時間**：2025-09-06 03:55 UTC（台北 11:55）
+- **整理日期**：2026-04-29
+- **交會等級**：L3
+- **事件類型**：歷史監管風險 / Search distribution economics / Ad Tech remedy
+- **主題 / 母題標籤**：#監管審批 #競爭風險 #AI基建 #估值風險 #ReRating
+
+### 對 **GOOGL** 的影響
+
+KP 將 Google / Apple Safari 預設搜尋 revenue-share 與 Ad Tech monopoly case 串在一起，補上 Alphabet Search / Ads 現金流的雙面性：一方面，約 `$20B` Apple payment、36% revenue share 與約 `$55.6B` Safari search ad revenue 的反推，說明 Google Search 的 mobile distribution 和高價值流量極度賺錢；另一方面，Ad Manager / AdX / DV360 的垂直整合讓 Google 同時控制 publisher tools、buyer tools 與 exchange，形成 Ad Tech case 的核心監管風險。
+
+### 觀點摘要
+
+| 面向 | 內容 |
+|---|---|
+| **立場** | 偏負面監管風險 / 現金流透明化；Search economics 強，但 Ad Tech remedy 可能觸及廣告 monetization stack |
+| **關鍵數字** | KP 口徑：Google 對 Apple 支付約 `$20B`；Safari search revenue share 約 `36%`；反推 Safari search ad revenue 約 `$55.6B`、扣渠道費後約 `$35.6B`；約占 Google Search revenue 近 `28%` |
+| **Ad Tech 案件節點** | KP 口徑：2025-04-17 Judge Leonie Brinkema 判定 Google 相關行為構成非法壟斷；2025-09-22 進入 remedy / penalty hearing；DOJ 嚴厲版本要求出售 Google Ad Manager |
+| **基本面** | 若 Ad Manager / AdX / DV360 被拆分或限制，可能影響 Google take rate、auction data advantage、publisher relationships、display / network ads economics 與整體 ads margin |
+
+### 風險表
+
+| 風險 | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|
+| Google Ad Manager forced sale / structural remedy | 高 | 法院要求出售或拆分 Google Ad Manager / AdX，或禁止部分自家工具互相優先 | court docket、remedy order、appeal timeline、Ad Manager / AdX revenue exposure | KP 2025-09-06 |
+| Search distribution economics 被重估 | 高 | default search contracts / revenue share terms 被限制，Apple / Safari traffic economics 改寫 | TAC、default search contracts、Safari / iOS query share、Search revenue | KP 2025-09-06 |
+| Ad Tech take rate 下降 | 中高 | Ad Tech remedy 提高 publisher share、降低 Google auction / routing advantage | publisher revenue share、advertiser ROI、Network revenue、AdX auction mechanics | KP 2025-09-06 |
+
+### 關鍵證據
+
+| 證據 | 解讀 |
+|---|---|
+| KP 用 Apple payment / revenue share 反推 Safari Search economics | 代表 default position 不是單純渠道成本，而是 Google Search moat 與現金流規模的關鍵入口 |
+| KP 將 Ad Tech case 視為 Search 案之外更深一層戰場 | Alphabet 監管風險不只在 Chrome / default search，也在廣告基礎設施和平台稅 |
+
+### 呼應連結
+
+> 呼應 `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第04期_AI泡沫Chrome入口與Intel國家隊.md` 與 `Stocks/GOOGL/GOOGL_儀表板.md`：第 4 期偏 Chrome / distribution moat，第 6 期補上 Safari economics 與 Ad Tech monopoly stack，兩者共同構成 Alphabet antitrust risk map。

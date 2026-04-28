@@ -2,6 +2,9 @@
 
 ## 2026-04-29
 
+- 入庫 `KP_FOMOSoc-20250906-kp-thinking-note-6-google-adtech-chip-tco-195a48ee`：整理 KP / FOMOSoc Substack 公開週報《Google的反壟斷案還未結束？為何晶片不能堆數量？- KP思考筆記(第6期)》，建立 `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第06期_Google反壟斷與晶片TCO.md`。Substack API post id `172767355` / canonical URL `https://www.fomosoc.com/p/google200-kp6` 的 `body_html` 完整可讀，`audience=everyone`，正文有 Google 反壟斷、Ad Tech monopoly、先進製程 TCO、中國 AI 應用路徑與垂直整合動機分流，未偵測截斷；API `wordcount` 明顯偏低，故以 HTML 轉文字後逐段檢查。
+- 更新：同步更新 `KOL/KP_FOMOSoc/notes/KP筆記.md`、`KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`、source/ticker/theme/framework/catalyst indexes，並為 **GOOG** / **GOOGL** 歷史 L3 監管風險補入 `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md`、`Stocks/GOOGL/GOOGL_index.md` 與 `Stocks/GOOGL/GOOGL_儀表板.md`。本文新增「Ad Tech 垂直整合 / 平台稅壟斷框架」、「先進製程 TCO / 算力堆數量失效框架」、「AI 雙戰場 / 峰頂算力與效率平原框架」與「科技地緣生態圈 / 垂直整合動機框架」；**AAPL**, **MSFT**, **NVDA**, **ASML**, **TSM**, **005930.KS**, **INTC**, **0981.HK**, **BABA**, **AMZN** 只作分發、供應鏈或地緣生態脈絡，不新增 `Stocks/`。本文不是買賣建議。
+
 - 入庫 `KP_FOMOSoc-20250830-kp-thinking-note-5-netflix-mstr-meituan-9b22e06b`：整理 KP / FOMOSoc Substack 公開週報《Netflix的跨界逆襲，MSTR的魔法失靈，美團的壕溝戰 - KP思考筆記(第5期)》，建立 `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第05期_Netflix圍牆MSTR溢價與美團壕溝戰.md`。Substack API post id `172225132` / canonical URL `https://www.fomosoc.com/p/netflixmstr-kp5` 的 `body_html` 完整可讀，`audience=everyone`，正文有 Netflix 圍牆花園、MSTR Bitcoin treasury premium 壓縮、美團外賣壕溝戰三個主題與結尾署名，未偵測截斷；API `wordcount` 明顯偏低，故以 HTML 轉文字後逐段檢查。
 - 更新：同步更新 `KOL/KP_FOMOSoc/notes/KP筆記.md`、`KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`、source/ticker/theme/framework/catalyst/watchlist indexes。本文新增「串流圍牆花園 / IP 外部變現取捨框架」、「Bitcoin Treasury Premium 壓縮框架」與「平台補貼壕溝戰 / 成長股轉週期股框架」；**NFLX** 判定 KP 單篇 L3 watchlist、**MSTR** 判定偏負面 L3 watchlist、**3690.HK** 判定 L3 watchlist，三者均不建立新 `Stocks/`；**BABA**, **JD** 為競爭脈絡，**BTC**, **IBIT**, **ETH**, **SOL** 為 crypto proxy / 替代 exposure 脈絡，**DIS** 為完整 IP 生態對照。本文不是買賣建議。
 

@@ -15,6 +15,42 @@
 - **相關 ticker / 產業**：
 ```
 
+## Ad Tech 垂直整合 / 平台稅壟斷框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第06期_Google反壟斷與晶片TCO.md`
+- **一句話定義**：當平台同時控制 publisher ad server、advertiser buying tool 與 exchange，收入優化可能不再服務買方或賣方，而是服務平台自身 take rate 與資料優勢。
+- **適用情境**：Google Ad Manager / AdX / DV360、digital advertising exchange、publisher monetization、ad tech antitrust。
+- **觀察指標**：Ad Manager remedy、AdX auction rule、DV360 routing、publisher take rate、TAC、Search & Network revenue、DOJ remedy order、appeals timeline、advertiser ROI、publisher revenue share。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **AAPL**, **MSFT**；搜尋、數位廣告、Ad Tech、反壟斷。
+
+## 先進製程 TCO / 算力堆數量失效框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第06期_Google反壟斷與晶片TCO.md`
+- **一句話定義**：AI 算力不能只用晶片數量衡量，真正成本要同時計入良率、單位成本、每瓦效能、資料中心空間、散熱、互連延遲與叢集利用率。
+- **適用情境**：中國 DUV 多重曝光、SMIC 7nm / 5nm、EUV export controls、AI data center TCO、mature-node AI chips。
+- **觀察指標**：yield rate、cost per die、performance per watt、cluster utilization、interconnect latency、rack density、power availability、cooling cost、EUV access、HBM / advanced packaging availability。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**ASML**, **TSM**, **005930.KS**, **INTC**, **0981.HK**, **NVDA**；半導體設備、晶圓代工、AI data center、先進製程。
+
+## AI 雙戰場 / 峰頂算力與效率平原框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第06期_Google反壟斷與晶片TCO.md`
+- **一句話定義**：AI 競爭可分成 frontier training 的能力之巔與 mass-market deployment 的效率平原；前者重視極限性能與軟體生態，後者重視成本、場景、整合與普及速度。
+- **適用情境**：Nvidia CUDA moat、中國 AI 應用公司、enterprise AI deployment、低成本模型、developing-market AI solutions。
+- **觀察指標**：frontier model training cost、CUDA / software ecosystem switching cost、inference cost、enterprise adoption、application revenue、model performance per dollar、local hardware compatibility、global expansion。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**NVDA**, **BABA**；AI infrastructure、CUDA、AI 應用、低成本模型與企業落地。
+
+## 科技地緣生態圈 / 垂直整合動機框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第06期_Google反壟斷與晶片TCO.md`
+- **一句話定義**：地緣分裂下，自研晶片與垂直整合不一定代表效率最大化；要區分主動優化與被動求生，並評估每個生態圈在各自地緣市場的主導力。
+- **適用情境**：Google TPU、Apple M-series、Amazon Trainium / Inferentia、Huawei Ascend、Alibaba AI chips、中美 tech decoupling。
+- **觀察指標**：ecosystem lock-in、chip availability、domestic substitution rate、software compatibility、cloud / device integration、customer retention、capex intensity、export-control changes、regional market share。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **AAPL**, **AMZN**, **BABA**；hyperscaler 自研晶片、cloud、device ecosystem、地緣科技分岔。
+
 ## AI 基建資本開支回報 / 2026 轉折框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第01期_AI賭局與諾和諾德.md`
