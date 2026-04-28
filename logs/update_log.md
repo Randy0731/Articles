@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260324-analog-ic-ai-structural-rerate-32e8539e`：整理宋分 / 美股送分題 Substack 電子報《市場解碼深度》類比晶片：是景氣循環的末端，還是下一個被「結構性重估」的 AI 隱形地標？並將 2026-03-24 推廣 Note `c-232399422` 與 2026-03-28 留言補充 `c-234581134` 作為同組來源，建立 `KOL/宋分/articles/20260324_analog_ic_ai_structural_rerate.md`。Substack 電子報 HTML、兩則 Note preloads JSON 與使用者提供 3 張留言截圖完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes、`KOL/宋分/frameworks/宋分框架庫索引.md`、`Stocks/TXN/quarterly/TXN_筆記_2026Q1.md`、`Stocks/TXN/TXN_index.md` 與 `Stocks/TXN/TXN_儀表板.md`。本文新增「Re-rating 階梯 / Cycle Digestion 分辨框架」，並補強「類比晶片 AI 電力雙結構 Re-rate 框架」：**TXN** 為已追蹤個股 L2，宋分明確拆成 FCF 修復尚非 AI re-rate；**ADI** 更新 watchlist，重點為 AI / robotics / edge AI 第二階段驗證；**NVDA**、**META**、**NFLX**、**DPZ**、**SHW**、**MSFT**、**COST**、**ASML** 僅為 framework cases。本文不是買賣建議。
+
 - 入庫 `宋分-20260323-analyst-memo-3-ai-rerate-diffusion-226975cd`：整理宋分 / 美股送分題 Substack 文章《宋分分析師備忘錄 #3》被遺忘的 AI 半導體受惠者浮現｜市場可能低估 CSP 的「現金流永動機」｜AI 正在擴散到所有產業的 re-rate 起點，建立 `KOL/宋分/articles/20260323_analyst_memo_3_ai_rerate_diffusion.md`，並複製使用者提供之 7 頁 Substack 截圖 PDF 至 `KOL/宋分/raw/20260323_宋分_analyst_memo_3_ai_rerate_diffusion_宋分-20260323-analyst-memo-3-ai-rerate-diffusion-226975cd.pdf`。Substack preloads JSON 正文完整可讀；PDF 作 raw 備份，未 OCR；使用者提供 2026-03-24 ON Semi 留言補充截圖可人工辨識。
 - 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes、`KOL/宋分/frameworks/宋分框架庫索引.md`、`Stocks/TXN/quarterly/TXN_筆記_2026Q1.md`、`Stocks/TXN/TXN_index.md`、`Stocks/TXN/TXN_儀表板.md` 與 private raw manifest。本文新增「類比晶片 AI 電力雙結構 Re-rate 框架」與「AI 擴散式 Re-rate / 商業模式重定價框架」：**TXN** 為已追蹤個股 L2，補入 TXN 2026Q1；**ADI**、**ON**、**WMT** 判定為候選追蹤，不建立新 `Stocks/` 專案；**MSFT** / **WMG** / **NFLX** / **ROKU** 為 framework cases；**AMZN** / **GOOG** / **GOOGL** / **META** 僅為比較或背景。本文不是買賣建議。
 
