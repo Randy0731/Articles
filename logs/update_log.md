@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260205-nvda-valuation-thermometer-3ad8a4bd`：整理宋分 / 美股送分題 Substack Note + Threads 前文《NVDA 估值溫度計：M7 裡宋分認為第一名便宜》，建立 `KOL/宋分/articles/20260205_nvda_valuation_thermometer.md`，並複製使用者提供之 1 頁 Threads 截圖 PDF 至 `KOL/宋分/raw/20260205_宋分_nvda_valuation_thermometer_宋分-20260205-nvda-valuation-thermometer-3ad8a4bd.pdf`。Substack Note 正文可讀；Threads PDF 為 image-only，p.1 為 2025-11-20 核心前文、2025-11-19 內嵌舊文與後續延伸，人工視讀足以支撐整理。
+- 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。**NVDA** 判定為宋分單篇 L3 候選追蹤：FY2027 forward PE、Threads 口徑明年共識不到 `27x`、若把 `5000億` 訂單認真算入可能約 `20x`、市場 `3300億` consensus gap、10-Q 最高回購價約 `$183`、剩餘回購額度約 `622億`、Groq LPU / inference、H200 中國 optionality、Rubin timing risk 與毛利率約 `75%` 作後續檢查。因 `Stocks/NVDA/` 尚未建立且本次是補入舊文，先更新 watchlist，不自動建立正式個股專案；所有「便宜」「第一名」語境均為 KOL 個人框架，不是本專案買賣建議。
+
 - 入庫 `宋分-20260205-avgo-valuation-thermometer-d7fe5606`：整理宋分 / 美股送分題 Substack Note + Threads 前文《AVGO 估值溫度計：剛要踏入便宜的開始》，建立 `KOL/宋分/articles/20260205_avgo_valuation_thermometer.md`，並複製使用者提供之 2 頁 Threads 截圖 PDF 至 `KOL/宋分/raw/20260205_宋分_avgo_valuation_thermometer_宋分-20260205-avgo-valuation-thermometer-d7fe5606.pdf`。Substack Note 正文可讀；Threads PDF 為 image-only，p.1 為 2026-01-21 核心前文、內嵌 2025-12-15 舊文與留言，p.2 為留言尾端，人工視讀足以支撐整理。
 - 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。**AVGO** 判定為宋分單篇 L3 候選追蹤：FY2027 forward PE 由 `24x` -> `21x`、最新一季未回購、去年約 `$153` 回購、內部人均價約 `$352` 賣股、2027 ASIC 客戶數可能從 3 家增至 9 家、先前 `$60B-$90B` ASIC SAM 顯著偏低與 `$73B` 訂單作為後續檢查。因 `Stocks/AVGO/` 尚未建立且本次是補入舊文，先新增 watchlist，不自動建立正式個股專案；所有「便宜」「黃金坑」語境均為 KOL 個人框架，不是本專案買賣建議。
 
