@@ -4,6 +4,49 @@
 
 ---
 
+## KP / FOMOSoc：Ironwood TPU 與 Gemini / Siri，補強 Google AI infrastructure 兩條路
+
+- **source_id**：`KP_FOMOSoc-20251108-kp-thinking-note-15-google-tpu-siri-glp1-copper-meta-e18a7b9`
+- **來源**：KP / FOMOSoc Substack 週報
+- **原文**：https://www.fomosoc.com/p/trumpmusktpunvda-kp15
+- **發文時間**：2025-11-08 03:00 UTC（台北 11:00）
+- **整理日期**：2026-04-29
+- **交會等級**：L3（已追蹤個股歷史補強）
+- **主題 tags**：#AI基建 #雲端基建 #軟體SaaS #ReRating #競爭風險 #估值風險
+
+### 主旨
+
+KP 在第 15 期用兩條線補強 Alphabet AI thesis：一條是 Google Ironwood TPU 把 AI 基建競爭推向 inference / cost per token / 垂直整合；另一條是 Apple 每年約 `$1B` 讓 Siri 採用 Gemini，驗證 Google 可把 Gemini 做成 AI-as-a-Service 並打入競爭對手的高價值 device distribution。
+
+### 個股觀點
+
+| 面向 | KP 觀點 | 對 **GOOGL** 的資料庫含義 |
+|---|---|---|
+| Ironwood TPU | Ironwood 單晶片 `4.6 PetaFLOPS`，可把 `9,216` 顆組成 `42.5 ExaFLOPS` Pod，核心敘事是 inference era | 補強 Google TPU / Google Cloud 不只是訓練輔助，而是推理成本與規模效率的差異化 |
+| Anthropic validation | Anthropic 訂購 `100萬顆` Ironwood TPU，多年期、數十億美元訂單，KP 視為市場用腳投票 | 與第 13 / 14 期 Anthropic / Google Cloud 線索串起來，形成 TPU commercial validation |
+| Full-stack moat | Google 控制 Ironwood、Jupiter network、JAX / TensorFlow，可做全局軟硬整合 | 補強 Alphabet 垂直整合 AI infrastructure moat，但也要追 Google Cloud 圍牆花園 adoption 限制 |
+| Nvidia comparison | Nvidia 是 open arms dealer / CUDA moat，Google 是 closed empire builder | 對 **GOOGL** 是差異化正面，對 **NVDA** 是競爭脈絡；不可寫成 Nvidia moat 已破 |
+| Siri + Gemini | Apple 每年約 `$1B` 授權 Gemini 作 Siri 核心智能，模型約 `1.2萬億` 參數，將在 Apple private cloud 上運行 | Google 取得 18 億+ Apple devices 的 AI distribution；Gemini 從模型產品升級成 AI infrastructure service |
+| AIaaS revenue | KP 認為交易驗證 AI-as-a-Service，並把 OpenAI 從 Siri brain 降成 optional app | 補強 Alphabet 搜尋廣告之外的 AI monetization optionality，也提高 antitrust / partner-dependence 檢查權重 |
+
+### 延伸追蹤
+
+| 事件 | 追蹤重點 |
+|---|---|
+| Google Cloud / TPU 財報線索 | TPU revenue visibility、Cloud AI revenue、Anthropic workload split、cost per token、gross margin |
+| Apple enhanced Siri launch | 2026 launch timing、Gemini licensing durability、Apple private cloud privacy claims、user adoption |
+| Nvidia / TPU 競爭 | CUDA lock-in、GPU demand resilience、Google Cloud 圍牆花園是否限制 Ironwood adoption |
+| AI-as-a-Service | Gemini enterprise / platform revenue、external licensing deals、OpenAI competitive displacement |
+
+### 風險與限制
+
+- KP 的判斷是 Google 取得 inference 時代的有效進攻路徑，不是說 TPU 已全面取代 Nvidia GPU。
+- Ironwood 目前仍在 Google Cloud 圍牆花園內，若外部 workload 遷移摩擦大，commercial adoption 會受限。
+- Apple / Gemini deal 對 Google 是 distribution win，但合約條款、收入認列、隱私架構與 Apple 後續自研進度仍需校準。
+- 本文不是買賣建議。
+
+---
+
 ## KP / FOMOSoc：Google Cloud 從追趕者變成高利潤 AI 雲端挑戰者
 
 - **source_id**：`KP_FOMOSoc-20251101-kp-thinking-note-14-meta-cloud-nvo-fiserv-cmg-nvidia-e81ba8c3`

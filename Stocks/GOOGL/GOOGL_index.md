@@ -7,7 +7,7 @@
 | 類型 | 路徑 | 說明 |
 |---|---|---|
 | 儀表板 | `Stocks/GOOGL/GOOGL_儀表板.md` | 當前追蹤摘要、風險、催化劑與持倉判斷依據 |
-| 季度筆記 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md`；`Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` | KP / FOMOSoc 2025Q3 Google Cloud margin inflection 歷史 L2；KP 2025-08-23 Chrome / antitrust / AI browser distribution 歷史 L3；KP 2025-09-06 Safari Search economics / Ad Tech monopoly 歷史 L3；KP 2025Q4 Quantum / TPU / Cloud AI 歷史 L2 |
+| 季度筆記 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md`；`Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` | KP / FOMOSoc 2025Q3 Google Cloud margin inflection 歷史 L2；KP 2025-08-23 Chrome / antitrust / AI browser distribution 歷史 L3；KP 2025-09-06 Safari Search economics / Ad Tech monopoly 歷史 L3；KP 2025Q4 Quantum / TPU / Cloud AI 歷史 L2-L3；KP 2025-11-08 Ironwood TPU / Gemini-Siri AIaaS 歷史 L3 |
 | 里程碑 | `Stocks/GOOGL/milestones/GOOGL_里程碑_20260221_Alphabet資本支出百年債與AI基建護城河.md` | 大叔 2026-02-21 Alphabet capex / century bond / AI infra thesis |
 | KOL 主整理 | `KOL/大叔美股筆記/articles/20260221_alphabet_2026_capex_century_bond_uncle.md` | 本次升級來源全文整理 |
 
@@ -15,6 +15,7 @@
 
 | 發文日期 | 路徑 | KOL | 主題 | Tags | 交會等級 | 摘要 |
 |---|---|---|---|---|---|---|
+| 2025-11-08 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第15期_GoogleTPU_Siri_GLP1與AI眼鏡.md` | KP / FOMOSoc | Google Ironwood TPU / Apple Siri + Gemini / AI-as-a-Service | #AI基建 #雲端基建 #軟體SaaS #ReRating #競爭風險 | 歷史 L3 | KP 將 Ironwood 單晶片 `4.6 PetaFLOPS`、`9,216` chip Pod / `42.5 ExaFLOPS`、Anthropic `100萬顆` TPU 訂單與 Apple 約 `$1B` 年費採用 Gemini 作 Siri brain，解讀為 Google 在 inference infrastructure 與 AIaaS distribution 的雙線補強 |
 | 2025-11-01 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第14期_Meta債券雲端戰爭與主權AI.md` | KP / FOMOSoc | Google Cloud Q3 growth / operating profit / backlog / Meta and Anthropic AI compute | #雲端基建 #AI基建 #財報 #ReRating #競爭風險 | 歷史 L2 | KP 將 Google Cloud +34%、operating profit 約 `$2.8B`、backlog 約 `$155B`、Meta 約 `$10B` AI compute 與 Anthropic TPU 部署，解讀為 Google Cloud 從追趕者轉成高利潤 AI 雲端挑戰者 |
 | 2025-10-25 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第13期_OpenAI雲端合縱連橫與財報八題.md` | KP / FOMOSoc | Google Quantum Echoes / Willow / Anthropic TPU | #量子運算 #AI基建 #雲端基建 #ReRating | 歷史 L2 | KP 將 Quantum Echoes 解讀為可驗證量子路線圖，不是短期商用；Anthropic 最高約 100 萬顆 TPU 合作則補強 Google TPU / Cloud 在推理 workload 的商業背書 |
 | 2025-08-03 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第01期_AI賭局與諾和諾德.md` | KP / FOMOSoc | KP 思考筆記第1期、Google Cloud growth / margin inflection、AI capex ROI | #AI基建 #財報 #ReRating #估值風險 | 歷史 L2 | KP 將 Google Cloud 寫成雲端三巨頭中的效率亮點：growth `32%`、operating margin `11.3% -> 20.7%`，屬早期 Cloud AI monetization / scale benefit 證據 |
@@ -36,6 +37,7 @@
 | Ad Tech 垂直整合 / 平台稅壟斷 | KP 認為 Ad Manager / AdX / DV360 讓 Google 同時控制 publisher、advertiser 與 exchange，若 remedy 嚴厲會打到 ads take rate 和資料優勢 | KP 2025-09-06 | Ad Manager remedy、AdX auction rule、DV360 routing、publisher take rate、Network revenue |
 | 能源與 power sovereignty | 大叔 / Bytc 都把 Google 放進 AI 電力與調度層 | 大叔 2026-02-21；Bytc 2026-03-17 | Intersect、Kairos、VPP / Nest policy |
 | AI Native capital loop | Google 可透過 Cloud / TPU / Anthropic stake 捕捉 private AI protocol value | Bytc 2026-04-14 Note | Anthropic valuation、Google Cloud AI revenue、equity gains / losses |
+| TPU / Gemini AI-as-a-Service | KP 認為 Google 正用 Ironwood TPU 攻 inference cost / scale，用 Gemini 授權打入 Apple device distribution | KP 2025-11-08 | TPU allocation、cost per token、Gemini licensing revenue、Siri launch、external AIaaS deals |
 | 稅法下的 data center / R&D 摩擦 | Bytc 認為 data center 無法拿 48D advanced manufacturing credit，國內 R&D 當年扣除與海外 R&D 15 年攤銷會改變大科技研發 location economics | Bytc 2026-01-24 | tax footnotes、effective tax rate、R&D geography、capex mix |
 
 ## 待補 / 待查
@@ -43,3 +45,4 @@
 - 後續 Alphabet 財報入庫時，建立或追加對應年度季度檔；目前已有 `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md` 作歷史 L2。
 - 若出現重大 antitrust remedy、Chrome divestiture / conduct remedy、default search agreement 或 AI Search monetization disclosure，更新儀表板與 catalyst index。
 - 若 Intersect / Kairos / nuclear power milestones 有官方進展，判斷是否建立第二個能源里程碑。
+- 追 Ironwood / Anthropic TPU / Gemini-Siri deal 後續：TPU 是否轉成 Cloud AI revenue、Gemini licensing 是否擴大成 AIaaS line item、Apple enhanced Siri 是否如期推出且沒有傷害 privacy / antitrust narrative。

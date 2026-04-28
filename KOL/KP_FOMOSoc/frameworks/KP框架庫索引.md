@@ -15,6 +15,69 @@
 - **相關 ticker / 產業**：
 ```
 
+## 下跌體檢 / 組合健康三問框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第15期_GoogleTPU_Siri_GLP1與AI眼鏡.md`
+- **一句話定義**：回撤是檢查情緒、核心敘事與持倉角色的鏡子；真正健康是結構性韌性，不只是帳面正報酬。
+- **適用情境**：market drawdown、portfolio review、position sizing、thesis check、現金 / 核心 / 衛星配置檢查。
+- **觀察指標**：第一情緒反應、是否回到研究筆記、核心 narrative 是否仍成立、持倉角色、現金比例、回撤承受度、加碼條件。
+- **也出現於**：可與宋分「看錯定義 / 條件停損框架」與「相對低點 / 安全區間風險控制框架」交叉比對。
+- **相關 ticker / 產業**：不映射單一 ticker；portfolio construction、投資紀律。
+
+## 商業太空政商聯姻 / 國家客戶框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第15期_GoogleTPU_Siri_GLP1與AI眼鏡.md`
+- **一句話定義**：商業太空公司若成為政府太空戰略的核心承包商，政策、人事與國家客戶會共同放大 backlog / mission scope。
+- **適用情境**：NASA / DoD procurement、commercial space outsourcing、space contractor government customer concentration、政商關係修復。
+- **觀察指標**：NASA leadership、contract awards、procurement model、launch cadence、mission outsourcing、budget、political alignment、fixed-price risk。
+- **也出現於**：可與大叔「商業太空進入國防主幹道框架」與「國防太空四層分工框架」交叉比對。
+- **相關 ticker / 產業**：SpaceX 未上市；commercial space、NASA、government procurement。
+
+## 推理時代 / 專用晶片帝國框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第15期_GoogleTPU_Siri_GLP1與AI眼鏡.md`
+- **一句話定義**：AI workload 重心轉向 inference 後，垂直整合的專用晶片可用成本、規模和效率挑戰通用 GPU，但受圍牆花園限制。
+- **適用情境**：Google TPU / Nvidia GPU competition、hyperscaler custom silicon、inference cost optimization、AI cloud workload allocation。
+- **觀察指標**：inference share、cost per token、TPU / GPU adoption、software stack、customer lock-in、JAX / TensorFlow / CUDA ecosystem、open vs closed ecosystem。
+- **也出現於**：延伸 KP「AI 算力分工 / 訓練推理雙雲框架」與「AI Factory 系統級 TCO / Tokens per Watt 護城河框架」。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **NVDA**；Anthropic 未上市；AI accelerators、cloud AI。
+
+## AI 外包買時間 / 模型即服務框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第15期_GoogleTPU_Siri_GLP1與AI眼鏡.md`
+- **一句話定義**：落後平台可外包 frontier model 迅速修補產品短板，供應商則取得 distribution 與標準制定權，但雙方都承擔依賴與品牌風險。
+- **適用情境**：Apple Siri / Google Gemini、AI model licensing、AI-as-a-Service、platform product gap、模型供應商 distribution wins。
+- **觀察指標**：annual licensing fee、device reach、privacy architecture、product launch timing、AIaaS revenue、dependency terms、in-house model roadmap、regulatory / antitrust narrative。
+- **也出現於**：可與 KP「Agentic Commerce / AI 入口抽佣框架」及宋分 CSP Token 定價權類框架交叉比對。
+- **相關 ticker / 產業**：**AAPL**, **GOOG**, **GOOGL**；OpenAI 未上市；AI software、consumer devices。
+
+## 藥價投降 / 市場准入換利潤框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第15期_GoogleTPU_Siri_GLP1與AI眼鏡.md`
+- **一句話定義**：高度監管產業可用價格與本土投資讓步，換取更大支付方市場、關稅豁免與政策穩定；龍頭可能用 volume 擴張抵消 margin 壓縮。
+- **適用情境**：drug pricing negotiation、Medicare coverage expansion、tariff exemption、pharma domestic investment pledge、GLP-1 market access。
+- **觀察指標**：net price、covered lives、market share、tariff exemption、domestic capex、gross margin、latecomer price-performance、PBM / direct platform changes。
+- **也出現於**：延伸 KP「政策 Relief / 可複製投降範本框架」與「GLP-1 搶親 / Pipeline 反壟斷框架」。
+- **相關 ticker / 產業**：**LLY**, **NVO**, **AMGN**, **VKTX**, **MTSR**；GLP-1、obesity drugs、healthcare policy。
+
+## 關鍵礦產 / 供應鏈武器化框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第15期_GoogleTPU_Siri_GLP1與AI眼鏡.md`
+- **一句話定義**：當需求預測、進口依存與地緣競爭交會，commodity 會被升級為 national security asset，政策工具也從市場交易轉為補貼、關稅與快速審批。
+- **適用情境**：critical minerals list、copper / lithium / rare earth policy、energy transition supply chain、AI data center raw materials、friend-shoring。
+- **觀察指標**：import dependency、critical list status、tax credit、permitting timeline、tariff threat、domestic production、demand forecast、China / LatAm supply-chain influence。
+- **也出現於**：可與大叔 / Bytc 的 critical resources、供應鏈自主與再工業化框架交叉比對。
+- **相關 ticker / 產業**：原文未具名；美國銅礦商 / **FCX** 只作整理者 read-through；copper、critical minerals。
+
+## AI 眼鏡 / 物理世界入口框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第15期_GoogleTPU_Siri_GLP1與AI眼鏡.md`
+- **一句話定義**：下一代 AI platform 可能由 always-on wearable 取得環境、視覺與互動資料；價值在模型、硬體、品牌、零售與算力的共同控制。
+- **適用情境**：Ray-Ban Meta、smart glasses、Reality Labs capex、AI assistant hardware、consumer wearable platform shifts。
+- **觀察指標**：wearable revenue、profitability、market share、retail footprint、AI assistant adoption、Reality Labs burn、partner lock-in、device retention、privacy / regulatory risk。
+- **也出現於**：可與 KP「Physical AI 信仰估值 / 戰時授權框架」和宋分 / Bytc 的 Meta AI ads / platform 框架交叉比對。
+- **相關 ticker / 產業**：**META**, **EL.PA** / **ESLOY**；consumer hardware、AI wearables、advertising platform。
+
 ## 股債雙語 / AI Capex 現金流壓力框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第14期_Meta債券雲端戰爭與主權AI.md`
