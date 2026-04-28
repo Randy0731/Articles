@@ -15,6 +15,60 @@
 - **相關 ticker / 產業**：
 ```
 
+## 預期管理 / 51 分止血框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第12期_LVMH沃爾瑪AI基建與晶片財報.md`
+- **一句話定義**：在低預期環境中，剛及格也能觸發股價大漲；但這代表止血與預期修正，不等於基本面全面復甦。
+- **適用情境**：luxury / consumer downturn、連續衰退後的財報、低預期 beat、判斷 relief rally 是否能升級成基本面復甦。
+- **觀察指標**：organic growth、reported growth、FX drag、core segment growth、CFO tone、comparison base、regional recovery、tourist spending、margin investment。
+- **也出現於**：可與 KP「完美定價 / 奢侈品估值正常化框架」與宋分「財報季利潤率轉折 / 最壞已過框架」交叉比對。
+- **相關 ticker / 產業**：**MC.PA**；luxury goods、consumer discretionary、China consumption。
+
+## Agentic Retail / 品牌隱形化框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第12期_LVMH沃爾瑪AI基建與晶片財報.md`
+- **一句話定義**：當 AI 取代搜索與比較，零售平台和 AI 平台重新分配客戶關係，品牌可能在購物決策最後一公里失去曝光。
+- **適用情境**：Walmart / OpenAI、AI shopping agents、retail media、private label、CPG brand moat、Agentic Commerce。
+- **觀察指標**：AI shopping adoption、checkout conversion、private-label mix、merchant fees、customer data ownership、brand search share、recommendation rules、retail media revenue。
+- **也出現於**：延伸 KP「Agentic Commerce / AI 入口抽佣框架」；也可與宋分「AI 擴散式 Re-rate / 商業模式重定價框架」交叉比對。
+- **相關 ticker / 產業**：**WMT**, **AMZN**, **ETSY**, **SHOP**；OpenAI 未上市；retail、e-commerce、consumer packaged goods。
+
+## AI 基建實體資產 / 電力門票框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第12期_LVMH沃爾瑪AI基建與晶片財報.md`
+- **一句話定義**：AI data center 的核心資產不只是 GPU，而是可快速上線的電力、冷卻、土地與許可；誰握有電力門票，誰就握有 capacity option。
+- **適用情境**：data center M&A、hyperscaler AI capex、utility investment、AI power bottleneck、infrastructure capital stack。
+- **觀察指標**：power availability、grid connection、land bank、liquid cooling、data center pipeline、utility exposure、capex / utilization、financing cost、customer commitments。
+- **也出現於**：可與 KP「AI 基建送水人 / 確定性交付框架」及 Bytc「AI 物理瓶頸資金輪動框架」交叉比對。
+- **相關 ticker / 產業**：**BLK**, **MSFT**, **NVDA**；Aligned Data Centers 未上市；AI data center、utilities、power infrastructure。
+
+## 國家安全萬能鑰匙 / 資本國籍風險框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第12期_LVMH沃爾瑪AI基建與晶片財報.md`
+- **一句話定義**：戰略產業中，資產、股東、管理層與供應鏈國籍都可能成為政府干預與估值折價來源。
+- **適用情境**：Nexperia / Wingtech、semiconductor M&A、cross-border strategic assets、friend-shoring、國安審查。
+- **觀察指標**：entity list、government intervention、asset freeze、CEO / ownership nationality、IP transfer allegations、export bans、supply-chain duplication、local champion policy。
+- **也出現於**：可與 KP「科技地緣生態圈 / 垂直整合動機框架」與「主權 AI / 全球智慧發電廠框架」交叉比對。
+- **相關 ticker / 產業**：**600745.SS**；Nexperia 未上市；semiconductors、geopolitics、supply-chain localization。
+
+## Crypto Treasury NAV / 優質代理人折價框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第12期_LVMH沃爾瑪AI基建與晶片財報.md`
+- **一句話定義**：Crypto treasury 公司若不能證明自己比直接持幣創造更多價值，premium 會回到 NAV 甚至折價。
+- **適用情境**：Metaplanet、MicroStrategy 類 treasury company、BTC proxy stocks、public company crypto holdings。
+- **觀察指標**：premium to NAV、BTC holdings、share issuance、preferred / debt financing、ETF substitution、management brand premium、cost of capital、governance discipline。
+- **也出現於**：延伸 KP「Bitcoin Treasury Premium 壓縮框架」。
+- **相關 ticker / 產業**：**3350.T**, **MSTR**, **BTC**；crypto treasury、Bitcoin proxy、加密貨幣。
+
+## AI 半導體瓶頸轉移 / 先進封裝定價權框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第12期_LVMH沃爾瑪AI基建與晶片財報.md`
+- **一句話定義**：AI demand 若仍強，瓶頸會從晶圓製造轉向 CoWoS、封裝與地緣可用產能，瓶頸所在即定價權所在。
+- **適用情境**：TSMC / ASML earnings、CoWoS capacity、advanced packaging supply chain、AI capex sell-the-news、China DUV normalization。
+- **觀察指標**：CoWoS capacity、advanced packaging capex、gross margin guidance、ASML orders / China mix、North America revenue share、AI customer demand、export controls、sell-side target revision。
+- **也出現於**：可與 KP「先進製程 TCO / 算力堆數量失效框架」及大叔「先進封裝新晶圓代工 / OSAT 估值重構框架」交叉比對。
+- **相關 ticker / 產業**：**TSM**, **ASML**, **NVDA**；CoWoS、advanced packaging、半導體設備、AI data center supply chain。
+
 ## AI 作業系統 / Agentic Workflow 平台框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第11期_OpenAI平台Dell與AI中央銀行.md`
