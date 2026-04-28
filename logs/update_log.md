@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `大叔美股筆記-20260111-us-space-strategy-rklb-pl-asts-rdw-18378ad7`：整理大叔美股筆記 Substack 付費文章《解析美國太空戰略架構之重塑(上半集)》，建立 `KOL/大叔美股筆記/articles/20260111_us_space_strategy_rklb_pl_asts_rdw_uncle.md`，並複製使用者提供之 8 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20260111_大叔美股筆記_us_space_strategy_rklb_pl_asts_rdw_大叔美股筆記-20260111-us-space-strategy-rklb-pl-asts-rdw-18378ad7.pdf`。公開頁只顯示標題、metadata 與 preview，完整內容以 PDF 視讀為主；p.1-p.5 為核心正文與財務 / 戰略圖表，p.6 為免責聲明 / references，p.7-p.8 為 discussion / recommended posts。大叔將 **RKLB**、**PL**、**ASTS**、**RDW** 從「太空新創四小龍」重新定位為美國國防太空架構中的可交付產能，核心是 DoW / SDA / Golden Dome 把 commercial space vendor 推進國防主幹道。
+- 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes 與 private raw manifest。四檔均判定為候選追蹤，不建立 `Stocks/` 專案；**RKLB**、**RDW**、**ASTS** 更新既有 watchlist，**PL** 新增 watchlist。`Neutron 2026 Q1` 係原文時點預期，整理日已過，標記為「待確認」而不推測結果；文章內 Q3 2025 財務數字以大叔 / PDF 口徑記錄，未逐項外部校準。本文不是買賣建議。
+
 - 入庫 `大叔美股筆記-20251227-geopolitics-supply-chain-autonomy-41d08e23`：整理大叔美股筆記 Substack 文章《大叔 2026 地緣政治與供應鏈自主(包含國防、太空、無人機、稀土)》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，並複製使用者提供之 3 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20251227_大叔美股筆記_geopolitics_supply_chain_autonomy_大叔美股筆記-20251227-geopolitics-supply-chain-autonomy-41d08e23.pdf`。公開頁全文可讀；原文標註 2025/12/25 更新版清單，發文時間 2025-12-27 08:56 UTC（台北 16:56）。大叔將 2026 地緣政治與供應鏈自主拆成國防鐵軍與核 / 海霸權、戰術無人機與蜂群、太空天眼與通訊、稀土與能源四籃子。
 - 更新：同步更新 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`、`Stocks/ONDS/ONDS_index.md`、source/ticker/theme/catalyst/framework/watchlist indexes 與 private raw manifest。**ONDS** 判定為已追蹤個股 L2 ownership / C-UAS 主題訊號，只同步季度筆記，不另開 milestone 或更新 dashboard；**PLTR** 因標 `✅` 且定位為國防作戰系統與情報 AI / 美軍去中化軟體核心，新增 watchlist；其餘多數 ticker 只作 broad watchlist / supply-chain map。`✅` 是大叔自述 exposure，`(考慮有)` 是觀察語境，不是本專案買賣建議。
 
