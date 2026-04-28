@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260330-analyst-memo-4-reverse-pricing-ai-deflation-81737b0f`：整理宋分 / 美股送分題 Substack 電子報《宋分分析師備忘錄 #4》修正的尾聲訊號開始浮現｜市場開始「反向定價」｜AI 通縮時代的真正贏家，並將推廣 Note `c-235335789` 與留言補充 `c-235345006` 作為同組來源，建立 `KOL/宋分/articles/20260330_analyst_memo_4_reverse_pricing_ai_deflation.md`。Substack 電子報 HTML / JSON-LD、推廣 Note 與留言補充 JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「反向定價 / 尾聲區間框架」、「市場傳導速度差框架」與「AI 通縮 / 稀缺資產再定價框架」：修正可能在底部形成左側的尾聲區間，但尚未確認落底；市場開始問如果油價、利率與經濟沒有更壞，哪些錯殺資產先反應；油價衝擊在期貨、股權與實體市場反應速度不同；AI 通縮可能使不可複製資產、算力 / 智慧與真實體驗重新取得溢價。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260328-cta-passive-selling-institutional-positioning-3bf17894`：整理宋分 / 美股送分題 Substack 文章《CTA/被動基金賣壓要到什麼時候？內部人一直賣是不是有鬼？機構看到止跌後竟然不是先加碼手上虧最多的？》，並補入 6 則同主題 Note（`c-234476351`、`c-234532297`、`c-235075922`、`c-235080237`、`c-235324198`、`c-235479075`）與使用者提供 2026-03-28 留言截圖，建立 `KOL/宋分/articles/20260328_cta_passive_selling_institutional_positioning.md`。主文與補充 Note 的 Substack preloads JSON 完整可讀，使用者提供 11 頁 Substack 截圖 PDF 已複製至 `KOL/宋分/raw/20260328_宋分_cta_passive_selling_institutional_positioning_宋分-20260328-cta-passive-selling-institutional-positioning-3bf17894.pdf` 作 raw 備份，未 OCR。
 - 更新：同步更新 source/theme/framework/catalyst indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。本文新增「結構性賣壓 / 訊號對應部位框架」：下跌未必是未知壞消息，而可能是 CTA、ETF / 被動資金、再平衡、風控、保險資金換債券與回購黑窗期造成的被迫賣；機構用不再破底、強勢股撐住、市場分化、趨勢確認把部位從 10%-20%、30%-50%、60%-80% 推到 80%-100%。補充 Note 補強強勢股辨識、資金結構轉弱、輪動 vs 主線延伸與故事到數字驗證。文中無具名 ticker，不更新 ticker / watchlist / `Stocks/`；本文不是買賣建議。
 
