@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260225-amd-meta-6gw-eps-model-process-f913e9c3`：整理宋分 / 美股送分題 Substack Note《市場解碼 #6｜分析師流程》**AMD** / Meta 6GW 合作到 EPS model 文，建立 `KOL/宋分/articles/20260225_amd_meta_6gw_eps_model_process.md`，並複製使用者提供之 Substack 截圖 PDF 至 `KOL/宋分/raw/20260225_宋分_amd_meta_6gw_eps_model_process_宋分-20260225-amd-meta-6gw-eps-model-process-f913e9c3.pdf`。Substack preloads JSON 正文可讀，PDF 為 image-only raw 備份，OCR 狀態標「部分」。
+- 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。本文新增「新聞到 EPS model / 訂單認列框架」：先把合作新聞轉成 revenue recognition schedule，再推 net income、diluted EPS，最後才判斷 PE multiple。**AMD** 判定 L3 候選追蹤，不建立 `Stocks/AMD/`；**META** 僅記 customer / AI capex context。AMD official 用於校準 6GW partnership、first 1GW shipments expected in 2H26、MI450-based custom GPU 與 Meta warrant up to 160M shares；宋分 `$17.5B/GW`、2026 EPS `$7.9`、2027 EPS `$11.76` 均為 KOL model assumptions，不是 official guidance 或買賣建議。
+
 - 入庫 `宋分-20260224-dcf-pe-target-rerating-resale-market-d1cf3e16`：整理宋分 / 美股送分題 Substack Note《市場解碼 #5｜分析師視角》DCF / PE target / re-rating 框架文，建立 `KOL/宋分/articles/20260224_dcf_pe_target_rerating_resale_market.md`，並複製使用者提供之 Substack 截圖 PDF 至 `KOL/宋分/raw/20260224_宋分_dcf_pe_target_rerating_resale_market_宋分-20260224-dcf-pe-target-rerating-resale-market-d1cf3e16.pdf`。Substack preloads JSON 正文可讀，PDF 為 image-only raw 備份，OCR 狀態標「部分」。
 - 更新：同步更新 source/theme/framework indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。本文新增「DCF 收購價值 / PE 轉售市場 re-rating 框架」：DCF 回答 private market 整家公司收購價值與 downside protection，PE target 回答 public market 轉售價格與 exit multiple；大行情常來自市場改變評價方法。文中無具名 ticker，AI / 資料中心公司僅為假設案例，因此不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
 
