@@ -6,10 +6,67 @@
 
 | 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
 |---|---|---|---|---|---|---|
+| 2026-02-21 03:22 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Ormat 地熱、CTT 與 AI data center clean baseload | KP_FOMOSoc-20260221-kp-thinking-note-30-meta-nvidia-google-geothermal-anthropic-panw-walmart-druckenmiller-copper-blueowl-openai-tariffs-55e23889 | **GOOG**, **GOOGL**, **ORA**, **DUK** | #AI基建 #能源電力 #雲端基建 #政策風險 #監管審批 #執行風險 #ReRating | L3；Google / Ormat 150MW geothermal / Clean Transition Tariff / AI data center 24/7 clean baseload |
 | 2026-02-14 02:30 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：百年債、Apollo OCS 與 AI 基建公用事業化 | KP_FOMOSoc-20260214-kp-thinking-note-29-alphabet-century-bond-ai-disruption-google-ocs-hbm4-amat-openai-cerebras-msft-asts-cc671a80 | **GOOG**, **GOOGL**, **LITE**, **MU**, **005930.KS**, **000660.KS** | #AI基建 #雲端基建 #Memory #金融流動性 #增發融資 #ReRating #執行風險 | L3；Alphabet century bond / AI capex financing / Google Apollo OCS / TPU v8 HBM rumor calibration |
 | 2026-02-07 02:45 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：AI 沒有殺死搜尋，而是擴張搜尋與商業意圖 | KP_FOMOSoc-20260207-kp-thinking-note-28-amazon-google-amd-nvo-mstr-nvidia-openai-spacex-xai-fe4e3d99 | **GOOG**, **GOOGL**, **AMZN** | #AI基建 #軟體SaaS #財報 #ReRating #競爭風險 #估值風險 | L3；AI Search expansion / ads intent quality / Direct Offers / UCP / capex justification |
 
 ---
+
+## KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Ormat 地熱、CTT 與 AI data center clean baseload
+
+- **來源 KOL**：KP / FOMOSoc
+- **原文主整理**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第30期_MetaNvidia_GoogleGeothermal_PANW_WMT_OpenAITariffs.md`
+- **原始來源**：https://www.fomosoc.com/p/metanvidiacpuopenai-kp30
+- **source_id**：KP_FOMOSoc-20260221-kp-thinking-note-30-meta-nvidia-google-geothermal-anthropic-panw-walmart-druckenmiller-copper-blueowl-openai-tariffs-55e23889
+- **raw 路徑 / URL**：URL（未另存 raw；Jina Reader Markdown）
+- **OCR 狀態**：不適用
+- **類型**：Substack 公開週報 / Google geothermal PPA / Clean Transition Tariff / AI data center power
+- **發文時間**：2026-02-21 03:22 UTC（台北 11:22）
+- **整理日期**：2026-04-29
+- **交會等級**：L3
+- **事件類型**：Google / Ormat geothermal deal / 24/7 clean baseload / utility tariff structure
+- **主題 / 母題標籤**：#AI基建 #能源電力 #雲端基建 #政策風險 #監管審批 #執行風險 #ReRating
+
+### 對 **GOOGL** 的影響
+
+KP 將 Google 與 Ormat 的長期地熱交易解讀為 AI data center 用電邏輯的升級：Google 不是只買年度綠電憑證，而是在 Nevada data center 旁邊尋找 up to 150MW、可 24/7 供應的 clean baseload。地熱的價值在穩定、可調度、低碳，能補上 solar / wind 間歇性對 AI cluster uptime 的不足。
+
+Clean Transition Tariff 是此篇對 **GOOGL** 的關鍵。KP 認為這個架構讓 Google 自付新增 clean power 的 premium，NV Energy 負責 PPA、grid integration 與 balancing，PUCN 監管則透過 damages / performance guarantee 保護一般居民不替 data center 成本買單。這使 Google 的能源策略從「找便宜電」變成「替 AI capacity 買社會許可和電網上線速度」。
+
+整理者判定為 L3：此篇與第22期 Intersect Power、第29期百年債 / OCS、大叔 2026-02-21 capex / energy moat 長文同方向，補上 **GOOGL** AI 基建 thesis 的 power-procurement 模板。但目前仍需後續用 Ormat / utility filings 驗證 MW delivery、CTT approval、project economics 與是否能轉成 Google Cloud AI capacity。
+
+### 觀點摘要
+
+| 面向 | 內容 |
+|---|---|
+| **立場** | 偏正面 L3；Google 正用 geothermal + tariff design 把 AI data center power 從年度綠電採購推向 24/7 clean baseload |
+| **正面訊號** | up to 150MW geothermal、Ormat binary-cycle / closed-loop system、CTT 由 Big Tech 自付 premium、utility / regulator 共同降低社會摩擦 |
+| **與既有 thesis 關係** | 與 Intersect Power 的能源熟地、百年債的資本結構、Apollo OCS 的效率路線共同構成 AI infrastructure utility moat |
+| **主要風險** | 地熱 resource / drilling / interconnection risk、CTT 監管核准、ratepayer backlash、PPA cost、Cloud AI revenue 是否吸收能源 premium |
+
+### 價位與催化劑
+
+| 類型 | 內容 | 日期 / 數字 | 來源 | 備註 |
+|---|---|---|---|---|
+| Geothermal PPA | Google / Ormat long-term deal，供應 Nevada data center | up to 150MW | KP 文章口徑 | 需追 Ormat / NV Energy / PUCN 文件 |
+| Tariff design | Clean Transition Tariff：Google 付 premium、NV Energy 協調、PUCN 保護居民 | 2026 | KP 文章口徑 | 可能成為 Big Tech clean baseload template |
+| 技術供應商 | Ormat binary-cycle / closed-loop geothermal | 2026 | KP 文章口徑 | ORA 新增 watchlist，不建立 GOOGL 外的正式股票專案 |
+
+### 風險表
+
+| 風險 | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|
+| Geothermal delivery / resource risk | 中高 | 地熱井、resource output、project timing 不如預期 | MW delivered、capacity factor、capex overrun、Ormat backlog | KP 文章 / 整理者判斷 |
+| Tariff / regulatory risk | 中高 | CTT 未獲核准或被要求轉嫁更高保護成本 | PUCN order、NV Energy filings、ratepayer protection、damages terms | KP 文章 |
+| 能源 premium 無法轉成 AI revenue | 高 | Google 多付 clean baseload premium，但 Cloud AI revenue / utilization 不足 | Cloud AI revenue、data center utilization、power cost、operating margin | 整理者判斷 |
+
+### 呼應連結
+
+| 既有篇章 | 關係 |
+|---|---|
+| `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` 的 Intersect Power | 第22期是 Google 直接買 energy-development pipeline；第30期是透過 Ormat / utility / tariff 買 clean baseload |
+| 本檔 KP 2026-02-14 百年債 / Apollo OCS | 第29期補資本結構與 data center optical efficiency，第30期補 AI data center power procurement |
+| `Stocks/GOOGL/milestones/GOOGL_里程碑_20260221_Alphabet資本支出百年債與AI基建護城河.md` | 大叔同日從 capex / century bond / energy moat 升級為正式追蹤；KP 第30期提供地熱 / tariff 的細部模板 |
 
 ## KP / FOMOSoc 對 **GOOGL** 的觀點摘要：百年債、Apollo OCS 與 AI 基建公用事業化
 

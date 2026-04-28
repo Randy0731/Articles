@@ -1,6 +1,6 @@
 # GOOGL 投資儀表板
 
-> 最後更新：2026-04-29（補入 KP / FOMOSoc 2026-02-14 歷史 L3：Alphabet 百年債、Apollo OCS 與 TPU / HBM memory hierarchy；不改變當前最新立場）
+> 最後更新：2026-04-29（補入 KP / FOMOSoc 2026-02-21 歷史 L3：Google / Ormat 地熱、Clean Transition Tariff 與 AI data center 24/7 clean baseload；不改變當前最新立場）
 
 ## 當前立場快照
 
@@ -20,6 +20,7 @@
 - **本次補入的 KP 2025-12-27 Intersect Power 補強**：KP 將 Google 以 47.5 億美元收購 Intersect Power 解讀為 AI data center energy sovereignty 的「買時間」交易：買下 10.8GW 開發 pipeline、土地 / 許可 / 併網權與能源開發團隊，試圖繞過美國公共電網 5-7 年排隊摩擦；對 **GOOGL** 是歷史 L3 能源 / capex 補強，同時提高折舊、ROIC 與 execution risk 檢查權重。
 - **本次補入的 KP 2026-02-07 AI Search 擴張補強**：KP 將 Alphabet Q4 2025 Search revenue 631 億美元、年增 17%，解讀為 AI 沒有殺死搜尋，而是擴張 query 長度、語音 / 圖片入口與長尾商業意圖。Gemini 進入 ad quality system 可提高廣告匹配，Direct Offers / Universal Commerce Protocol 則讓 Google 有機會從搜尋入口推進 AI 對話內交易；這補強 Search 現金流與 2026 capex 合理性，但也提高 AI query cost、depreciation、paid-click cannibalization 與 commerce platform 監管檢查權重。
 - **本次補入的 KP 2026-02-14 百年債 / Apollo OCS 補強**：KP 將 Alphabet 約 200 億美元多幣種債與英鎊百年債解讀為 AI infrastructure utility 的資本結構訊號；同篇把 Google Apollo OCS 寫成 TPU cluster 的光學神經系統，透過 MEMS 全光交換降低功耗 / 延遲。KP 也校準 TPU v8 完全捨棄 HBM 的傳聞，認為 training 端仍需要 HBM 低延遲 / 高頻寬，OCS 更可能用於 chip interconnect 與 inference memory pooling。
+- **本次補入的 KP 2026-02-21 Google / Ormat 地熱補強**：KP 將 Google / Ormat up to 150MW geothermal deal 解讀為 AI data center 從年度綠電採購走向 24/7 clean baseload 的訊號。Clean Transition Tariff 讓 Google 自付 clean power premium，NV Energy 協調 PPA / grid / balancing，PUCN 監管保護一般居民；這和 Intersect Power、百年債、Apollo OCS 一起補強 Alphabet AI infrastructure utility thesis。
 - **目前研究狀態**：正式追蹤個股；主里程碑為 2026-02-21 大叔 Alphabet capex / century bond / AI infra article。
 
 ## 關鍵價位 / 數字追蹤
@@ -51,6 +52,7 @@
 | KP Intersect Power anchor | Google 以 47.5 億美元（約 `$4.75B`）買 Intersect Power 的開發團隊、土地 / 許可 / 併網權與 10.8GW pipeline，KP 認為核心是用能源熟地跳過 5-7 年等電時間 | KP / FOMOSoc 2025-12-27 | 歷史 L3：補強 Alphabet energy sovereignty / AI data center energization thesis；需追 pipeline delivery、permits、capex / depreciation 與 Cloud AI revenue |
 | KP AI Search expansion anchor | Alphabet Q4 2025 Search revenue 631 億美元、年增 17%；AI Mode query doubled、query length 約 3x、近六分之一來自語音或圖片；2026 capex 約 1750-1850 億美元 | KP / FOMOSoc 2026-02-07 | 歷史 L3：補強 Search 現金流、AI ad matching 與 Direct Offers / UCP transaction layer；需追 Search revenue、ad ROI、capex / depreciation 與 paid-click cannibalization |
 | KP century bond / OCS anchor | Alphabet 多幣種債約 200 億美元、含英鎊百年債；Google OCS switch 功耗 KP 口徑約 100W vs 傳統 switch 約 3000W；Google 可能吃下 600 萬顆以上 800G / 1.6T 光模組 | KP / FOMOSoc 2026-02-14 | 歷史 L3：補強 AI infrastructure utility 資本結構與 TPU / OCS full-stack；需追 bond spread、capex / FCF、OCS deployment、Cloud AI revenue |
+| KP Google / Ormat geothermal anchor | Google / Ormat long-term geothermal deal up to 150MW；Clean Transition Tariff 由 Google 支付 premium，NV Energy 協調，PUCN 監管保護 ratepayer | KP / FOMOSoc 2026-02-21 | 歷史 L3：補強 24/7 clean baseload 與 AI data center power procurement；需追 CTT approval、MW delivery、capacity factor、power cost 與 Cloud AI capacity |
 
 ## 近 30 天催化劑
 
@@ -64,6 +66,7 @@
 |---|---|---|---|---|
 | 2025-12-27 | KP 思考筆記第22期：Google / Intersect Power 能源熟地 | 已整理 / 歷史 L3 | 補上 Google 用 47.5 億美元買能源開發 pipeline、許可與併網權的 thesis；對 GOOGL 是 AI data center 等電時間與 behind-the-meter power 控制權補強，但也增加 capex / depreciation / execution risk | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
 | 2026-02-14 | KP 思考筆記第29期：百年債、Apollo OCS 與 HBM 分層 | 已整理 / L3 | 補上 Alphabet 百年債作 AI infrastructure utility 資本結構訊號，以及 Google Apollo OCS / TPU / HBM memory hierarchy；與 2026-02-21 大叔 L4 capex / century bond 里程碑同方向 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q1.md` |
+| 2026-02-21 | KP 思考筆記第30期：Google / Ormat 地熱與 Clean Transition Tariff | 已整理 / L3 | 補上 Google 用 up to 150MW geothermal 和 CTT 取得 24/7 clean baseload 的模板；與 Intersect Power / 百年債 / 大叔 capex energy moat thesis 同方向，但需追 project delivery、PUCN / NV Energy approval 與 Cloud AI revenue 吸收能力 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q1.md` |
 | 2026-02-07 | KP 思考筆記第28期：AI Search 擴張與交易閉環 | 已整理 / L3 | 補上 Search revenue +17%、AI Mode query doubled、Gemini ad matching、Direct Offers / UCP 與 2026 capex 合理性；對 GOOGL 是 Search 現金流韌性補強，但需追 AI query cost、capex / depreciation、ad cannibalization 與 commerce 平台風險 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q1.md` |
 | 2025-09-06 | KP 思考筆記第6期：Safari Search economics 與 Ad Tech monopoly case | 已整理 / 歷史 L3 | 補上 Apple default-search payment / revenue share 與 Ad Manager / AdX / DV360 垂直整合風險；與第 4 期 Chrome / distribution moat 共同構成 antitrust risk map | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md` |
 | 2025-10-25 | KP 思考筆記第13期：Quantum Echoes 與 Anthropic TPU | 已整理 / 歷史 L2 | 補上 Google quantum roadmap validation 與 TPU / Cloud 在 Anthropic inference workload 的商業背書；不改變 2026 最新 capex / Search / Cloud AI 主 thesis | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
@@ -107,6 +110,7 @@
 | AI Search 擴張是否能轉成更高 monetization，而不是更高 compute cost？ | KP 2026-02-07 認為 AI Mode 增加 query 長度、場景與商業意圖；但如果 AI answer 增加成本卻沒有拉升 ad ROI / conversion，Search cash cow 仍會變貴 | Search revenue、AI Mode usage、paid clicks、CPC / CPA、Direct Offers / UCP conversion、capex、depreciation、operating margin |
 | 百年債資本優勢是否抵消 AI capex 折舊與利息壓力？ | KP 2026-02-14 認為 Alphabet 借到的是 AI 軍備競賽中的時間；但若 Cloud / Search / AI revenue 不足，超長債也只是更長期的資本壓力 | bond spread、rating、interest expense、capex、depreciation、FCF、Cloud AI revenue |
 | Apollo OCS 是否能從內部效率轉成 Google Cloud AI moat？ | KP 2026-02-14 認為 OCS 是 TPU cluster 的光學神經系統；但供應鏈與技術效率需轉成可量化 revenue / margin 才能支撐 re-rate | OCS deployment、800G / 1.6T optics、TPU utilization、Cloud AI revenue、power usage effectiveness |
+| Google / Ormat geothermal 與 CTT 是否能形成可複製 clean baseload 模板？ | KP 2026-02-21 認為 AI data center 用電正在走向 24/7 clean baseload；若 CTT 成功，Google 可用自付 premium 換 capacity speed 與社會許可 | PUCN / NV Energy filings、CTT approval、Ormat MW delivery、capacity factor、power cost、data center uptime / Cloud AI capacity |
 | Waymo 高速公路是否能轉成可量化業務？ | KP 2025-11-15 認為高速公路使 Robotaxi 具備效率，但 Alphabet 仍需證明 rides、revenue、unit economics 與安全紀錄 | Waymo rides、service area、airport / highway routes、safety incidents、insurance cost、regulatory approvals |
 | Berkshire ownership signal 是否擴散成 value-investor re-rating？ | KP 2025-11-15 把 Berkshire 買 Alphabet 視為能力圈演化，但單一 13F 倉位不能保證估值重評 | Berkshire 13F follow-up、institutional holder mix、Search cash flow、YouTube / Cloud durability、AI capex / antitrust risk |
 
@@ -139,6 +143,7 @@
 | Google Search 交易閉環監管 / 商家反彈 | 中 | Direct Offers / UCP 讓 Google 從導流走向交易平台，引發自我偏好、fee、merchant data 或 antitrust 風險 | KP 2026-02-07；整理者判斷 |
 | 百年債 / AI capex 資本成本錯配 | 中高 | 超長債 funding 支撐短週期 AI hardware，但 AI revenue / FCF 無法吸收折舊與利息 | KP 2026-02-14；整理者判斷 |
 | Apollo OCS / optical supply-chain adoption 風險 | 中 | OCS 只形成內部效率、未轉成 Cloud AI revenue，或供應鏈受 Lumentum / 光模組產能與定價限制 | KP 2026-02-14；整理者判斷 |
+| Geothermal / CTT delivery and regulatory risk | 中高 | Ormat geothermal project 延誤、CTT 未獲監管核准，或 Google clean baseload premium 未能轉成 Cloud AI capacity / revenue | KP 2026-02-21；整理者判斷 |
 | Ironwood / TPU 圍牆花園限制 | 中高 | TPU 只在 Google Cloud 內有效，developer / customer 遷移成本高，無法撼動 CUDA / Nvidia open ecosystem | KP 2025-11-08 |
 | Gemini-Siri 依賴與監管敘事風險 | 中 | Apple 可能把 Gemini 視為過渡方案，或 privacy / antitrust 敘事讓合作受壓 | KP 2025-11-08 |
 | Waymo 擴張成本與安全 / 監管風險 | 中 | 高速公路事故、城市許可放慢、成本結構過高或無法把 rides 轉成 profitable unit economics | KP 2025-11-15 |
@@ -166,6 +171,7 @@
 | KP 2025-12-27 Google / Intersect Power | 中高 | 補上 Google 用 Intersect Power 的許可、併網權與 10.8GW pipeline 購買 AI data center 時間的 L3 thesis；強化 energy sovereignty，但也提高 capex / depreciation / execution risk 檢查權重 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
 | KP 2026-02-07 AI Search expansion | 中高 | 補上 Search revenue 在 AI 時代仍能擴張的 L3 thesis：AI Mode 拉長 query、Gemini 提高 ad matching、Direct Offers / UCP 可能建立交易閉環；但需檢查 capex / depreciation 與 cannibalization | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q1.md` |
 | KP 2026-02-14 century bond / Apollo OCS | 中高 | 補上 Alphabet 百年債、Google OCS 與 HBM 分層；與大叔 2026-02-21 L4 capital structure thesis 相互校準 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q1.md` |
+| KP 2026-02-21 Google / Ormat geothermal | 中高 | 補上 clean baseload / CTT power procurement 模板；與 Intersect Power、百年債、大叔 capex / energy moat thesis 相互校準 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q1.md` |
 
 ## 索引
 

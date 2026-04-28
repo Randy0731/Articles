@@ -15,6 +15,96 @@
 - **相關 ticker / 產業**：
 ```
 
+## 全棧綁定 / 算力主權換時間框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第30期_MetaNvidia_GoogleGeothermal_PANW_WMT_OpenAITariffs.md`
+- **一句話定義**：Hyperscaler 可用高溢價、供應商鎖定與全棧採購換部署速度，短期買時間，長期再用自研晶片或替代供應商回收算力主權。
+- **適用情境**：Meta / Nvidia full-stack deal、Grace / Vera CPU、Spectrum-X、MTIA / TPU、AI data center platform selection。
+- **觀察指標**：deployment speed、GPU / CPU allocation、training throughput、inference cost、supplier concentration、custom silicon progress、capex / depreciation、switching cost。
+- **也出現於**：呼應 KP 第29期「AI 自給自足 / 混合生態 margin deadlock 框架」與第24期 Nvidia system-level co-design。
+- **相關 ticker / 產業**：**META**, **NVDA**, **AMD**, **INTC**, **ARM**；AI data center / server CPU。
+
+## Clean Baseload / CTT 公私合營框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第30期_MetaNvidia_GoogleGeothermal_PANW_WMT_OpenAITariffs.md`
+- **一句話定義**：AI data center 需要 24/7 clean baseload；Big Tech 透過專屬 tariff 自付溢價，utility 負責協調電網與 PPA，監管保護居民不被轉嫁成本。
+- **適用情境**：Google / Ormat geothermal PPA、Clean Transition Tariff、AI data center energy procurement、utility rate case。
+- **觀察指標**：MW delivery、PPA term、tariff approval、project cost overrun、Google / hyperscaler guarantee、utility rate impact、baseload availability、Ormat backlog。
+- **也出現於**：可與 KP「AI data center 費率政治 / 電網摩擦」與大叔 Alphabet / Intersect Power energy sovereignty 交叉比對。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **ORA**, **DUK**；地熱 / utilities / AI power。
+
+## AI Safety vs 國安用途框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第30期_MetaNvidia_GoogleGeothermal_PANW_WMT_OpenAITariffs.md`
+- **一句話定義**：AI 模型供應商的 safety policy 與國安機構的 all lawful purposes 需求可能衝突，供應鏈資格與使用限制會成為商業風險。
+- **適用情境**：Anthropic / DoD contract、Claude through Palantir、defense AI procurement、model use policy、supply-chain risk designation。
+- **觀察指標**：DoD policy、contract renewal、supply-chain risk label、model access restrictions、prime contractor compliance、government revenue、public backlash。
+- **也出現於**：可與 PLTR enterprise / defense AI workflow framework、KP「國家隊 Put / 戰略資產」交叉比對。
+- **相關 ticker / 產業**：Anthropic 未上市；**PLTR**, **AMZN**, **GOOG**, **GOOGL**；defense AI。
+
+## AI 原生資安平台化框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第30期_MetaNvidia_GoogleGeothermal_PANW_WMT_OpenAITariffs.md`
+- **一句話定義**：AI agent 與機器身份爆發後，資安從 point products 轉向 identity、agent endpoint、observability 與 autonomous defense 的整合平台。
+- **適用情境**：PANW earnings、Prisma AIRS、Cortex AgentiX、CyberArk / Chronosphere integration、AI security budget。
+- **觀察指標**：NGS ARR、platform customers、NRR、AI security product adoption、M&A integration cost、EPS dilution、COGS / memory cost、competitive response。
+- **也出現於**：呼應 KP 第17期 PANW / Chronosphere security + observability convergence。
+- **相關 ticker / 產業**：**PANW**, **CYBR**, **CRWD**, **DDOG**, **DT**；cybersecurity。
+
+## K 型消費 / 後通膨真實需求框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第30期_MetaNvidia_GoogleGeothermal_PANW_WMT_OpenAITariffs.md`
+- **一句話定義**：高通膨退潮後，零售成長要靠 real volume；高收入消費降級與低收入必需品依賴同時存在，防禦型低價零售商可能取得相對勝利。
+- **適用情境**：Walmart earnings、retail media、consumer bifurcation、hiring recession、post-inflation retail guide。
+- **觀察指標**：same-store sales、high-income cohort share、ecommerce growth、advertising growth、food inflation、EPS guidance、student-loan pressure、automation capex。
+- **也出現於**：呼應 KP Walmart / OpenAI agentic commerce 與宋分 AI shopping flow / WMT framework。
+- **相關 ticker / 產業**：**WMT**, **TGT**, **HD**, **KR**, **AMZN**；retail / consumer。
+
+## 13F 宏觀敘事探針框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第30期_MetaNvidia_GoogleGeothermal_PANW_WMT_OpenAITariffs.md`
+- **一句話定義**：對高周轉 macro investor，13F 不是可照抄清單，而是用來拆美元、政策、輪動、風險偏好與倉位敘事的延遲探針。
+- **適用情境**：Druckenmiller 13F、family office / hedge fund filings、macro rotation analysis、ETF exposure。
+- **觀察指標**：turnover、holding period、ETF baskets、USD trend、commodity prices、policy deregulation、market breadth、financial conditions。
+- **也出現於**：可與大叔 / 13F positioning 類筆記和宋分「市場提問轉向」交叉比對。
+- **相關 ticker / 產業**：**EWZ**, **RSP**, **XLF**；macro ETFs / financials。
+
+## 銅擴張稅 / 工業權力移轉框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第30期_MetaNvidia_GoogleGeothermal_PANW_WMT_OpenAITariffs.md`
+- **一句話定義**：AI、電網、EV 與再生能源讓銅成為新工業神經系統，鐵礦砂則因中國地產與供給增加而從成長引擎回到現金牛。
+- **適用情境**：BHP / Rio Tinto earnings、copper EBITDA mix、AI data center power buildout、EV grid demand、mining capex allocation。
+- **觀察指標**：copper EBITDA share、iron ore EBITDA share、copper price、mine grades、new mine timeline、Simandou supply、AI data center / grid copper demand、capex into copper。
+- **也出現於**：延伸 KP 第28期「商品趨勢 / 礦業股槓桿分流框架」。
+- **相關 ticker / 產業**：**BHP**, **RIO**, **COPX**, **CPER**；copper / mining。
+
+## 半流動性私募信貸錯配框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第30期_MetaNvidia_GoogleGeothermal_PANW_WMT_OpenAITariffs.md`
+- **一句話定義**：零售化 private credit 用非流動性資產承諾定期贖回，壓力期會轉成 gating、有序清算、折價出售或敘事信任危機。
+- **適用情境**：Blue Owl OBDC II、retail private credit funds、BDC redemptions、AI data center financing sentiment。
+- **觀察指標**：redemption requests、gating policy、asset sale price vs NAV、fund flows、NAV marks、software-loan exposure、spread, fundraising, institutional buyer demand。
+- **也出現於**：呼應 KP 第21期 Blue Owl / Oracle AI data center financing risk。
+- **相關 ticker / 產業**：**OWL**, **BX**, **ARES**, **BLK**, **META**；private credit / AI infrastructure finance。
+
+## AI 公用事業預融資框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第30期_MetaNvidia_GoogleGeothermal_PANW_WMT_OpenAITariffs.md`
+- **一句話定義**：Frontier AI 公司用多雲、多硬體與多資本供應商預先融資，避免被單一雲端、單一 GPU 供應商或單一投資人卡死。
+- **適用情境**：OpenAI 100B+ funding、Amazon / Nvidia / Microsoft / SoftBank AI infrastructure capital、multi-cloud strategy、AI utility model。
+- **觀察指標**：funding terms、valuation、cloud spend split、GPU allocation、equity accounting、AI revenue growth、capex / energy buildout、regulatory scrutiny、customer concentration。
+- **也出現於**：呼應 KP 第28期「戰略性脫鉤 / 供應商融資重定價框架」與第29期「百年債 / AI 基建公用事業框架」。
+- **相關 ticker / 產業**：OpenAI 未上市；**AMZN**, **MSFT**, **NVDA**, **GOOG**, **GOOGL**；AI infrastructure finance。
+
+## 關稅精準合法化框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第30期_MetaNvidia_GoogleGeothermal_PANW_WMT_OpenAITariffs.md`
+- **一句話定義**：行政緊急關稅被限制後，保護主義不消失，而是轉向更程序化、更可訴訟防守的 Section 122 / 301 / 232 精準關稅路徑。
+- **適用情境**：Trump tariff policy、IEEPA ruling、global supply chain margin、retail / tech tariff relief、steel / auto protection。
+- **觀察指標**：Section 122 timeline、301 / 232 investigations、refund liability、tariff revenue、gross margin, import mix、supply-chain relocation、sector exemptions。
+- **也出現於**：可與 KP Nike tariff cost / consumer brand turnaround 與政策風險框架交叉比對。
+- **相關 ticker / 產業**：**NKE**, **TGT**, **AAPL**, **X**, **F**, **GM**；retail / tech / steel / autos。
+
 ## 研究 / 執行分離框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第29期_GoogleOCS_HBM4_AMAT_OpenAI_MSFT_ASTS.md`
