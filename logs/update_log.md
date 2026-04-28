@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260409-investment-discipline-11-reverse-pricing-risk-reward-7de3ec8d`：整理宋分 / 美股送分題 Substack 電子報《投資紀律 #11》市場最難的時刻不是下跌，而是反彈後該不該上車，並將推廣 Note `宋分-20260409-investment-discipline-11-reverse-pricing-promo-f9135023`、大盤補充 `宋分-20260409-index-structural-mispricing-a7a5e2c4`、加密補充 `宋分-20260411-crypto-high-beta-liquidity-narrative-182479b7` 作為同組來源，建立 `KOL/宋分/articles/20260409_investment_discipline_11_reverse_pricing_risk_reward.md`。Substack 電子報 HTML / JSON-LD、推廣 Note 與兩則留言補充 JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/ticker/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文補強「反向定價 / 尾聲區間框架」、「短期消息效應 / 基本面重新評價分流框架」與「風險預算 / 降低動作框架」，新增「高 beta 流動性資產 / 敘事破裂分流框架」：市場不是等所有事情變好才反彈，而是最壞情境不再惡化時先修正錯誤定價；機構用信用利差、VIX 結構與殖利率確認風險沒有更壞，再用 3-5 段分批容錯；加密若只是流動性高 beta 錯殺，應在 risk-on 修復時領先止跌且反彈最強，否則可能是敘事破裂與資金長期轉向。**IGV** 僅為 L1 growth-risk proxy，不更新 watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260408-reverse-pricing-worst-case-short-event-e3cd3a1a`：整理宋分 / 美股送分題 Substack Note「盤後開始進入反向定價」與同日留言補充 `宋分-20260408-short-event-not-structural-rerate-b8b8bfff`，建立 `KOL/宋分/articles/20260408_reverse_pricing_worst_case_short_event.md`。Substack JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文補強「反向定價 / 尾聲區間框架」並新增「短期消息效應 / 基本面重新評價分流框架」：停火兩週消息不是單純利多，而是市場開始檢查先前 fully priced 的油價上升、通膨延續、不降息甚至升息路徑是否需要回修；油服 / 煉油的短期供給缺口與暫時利潤反應，不等於長期獲利結構、投資驅動或需求可見度改變。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
 
