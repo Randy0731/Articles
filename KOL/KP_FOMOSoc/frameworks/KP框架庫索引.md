@@ -15,6 +15,51 @@
 - **相關 ticker / 產業**：
 ```
 
+## AI Agent 執行層 / 厚 Wrapper 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第23期_Meta_Manus_SamsClub_Silver_Nike_BRK.md`
+- **一句話定義**：當底層 LLM 逐步商品化，價值會轉向能把不確定模型輸出轉成可靠任務完成的 execution layer。
+- **適用情境**：Meta / Manus AI、AI agent orchestration、multi-model routing、cloud sandbox、workflow automation。
+- **觀察指標**：agent task completion、execution data、sandbox environments、workflow retention、model routing cost、integration into consumer apps、privacy / regulatory issues。
+- **也出現於**：可與 KP「AI 作業系統 / Agentic Workflow 平台框架」、「開源商品化反噬 / 閉源變現轉向框架」及宋分「META AI 廣告飛輪 / 模型自主框架」交叉比對。
+- **相關 ticker / 產業**：**META**；Manus AI / OpenAI / Anthropic 未上市；AI agents、consumer AI、workflow automation。
+
+## 市場真空 / 身份重定義框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第23期_Meta_Manus_SamsClub_Silver_Nike_BRK.md`
+- **一句話定義**：企業進入新市場時，如果既有龍頭缺席或定位真空，模仿者也可能透過重新定義身份成為主導者。
+- **適用情境**：Sam's Club China、Threads in Chinese-speaking markets、international retail expansion、platform localization。
+- **觀察指標**：membership growth、target customer clarity、private label / exclusive SKU mix、delivery speed、local platform integration、competitor entry。
+- **也出現於**：可與 KP「零售飛輪再加速 / K 型消費防禦框架」、「Agentic Retail / 品牌隱形化框架」和「情感護城河 / 社群信任框架」交叉比對。
+- **相關 ticker / 產業**：**WMT**, **COST**, **META**；warehouse retail、membership retail、social platforms。
+
+## 商品基本面 / 交易所保證金紅線框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第23期_Meta_Manus_SamsClub_Silver_Nike_BRK.md`
+- **一句話定義**：商品供需短缺可以推動長期趨勢，但交易所保證金、倉位限制與監管紅線會改變價格發現路徑與槓桿玩家生存率。
+- **適用情境**：白銀、銅、COMEX / CME margin hikes、energy transition commodities、AI data center raw materials。
+- **觀察指標**：margin requirements、inventory、physical premium、open interest、lease rates、ETF flows、industrial demand、regulatory language。
+- **也出現於**：可與 KP「關鍵礦產 / 供應鏈武器化框架」、Bytc「美林時鐘商品輪動框架」與銅供應鏈文章交叉比對。
+- **相關 ticker / 產業**：**CME**；白銀、銅、COMEX、energy transition commodities。
+
+## 內部人集群買入 / 轉型中局框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第23期_Meta_Manus_SamsClub_Silver_Nike_BRK.md`
+- **一句話定義**：在壞消息密集期，多位深度內部人非預設性大額買入，代表營運底部或信任修復的信號，但不等於股價立刻見底。
+- **適用情境**：Nike turnaround、consumer brand reset、new CEO return、board confidence signal。
+- **觀察指標**：insider purchase size、buyer role、non-10b5-1 nature、same-store sales、inventory、gross margin、regional recovery、brand heat。
+- **也出現於**：延伸 KP「通路修復 / 品牌自我修正框架」、「品牌靈魂 vs 帝國擴張 / 創辦人道德否決框架」與 consumer turnaround 類框架。
+- **相關 ticker / 產業**：**NKE**, **AAPL**；athletic apparel、consumer brands、board governance。
+
+## 創辦人溢價交棒 / 現金部署壓力框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第23期_Meta_Manus_SamsClub_Silver_Nike_BRK.md`
+- **一句話定義**：高度依賴創辦人或傳奇資本配置者的公司交棒後，市場會把信任溢價轉成對新 CEO 資本部署、文化維持與營運效率的驗證。
+- **適用情境**：Berkshire Hathaway succession、founder-led conglomerates、large cash balance、industrial holding companies。
+- **觀察指標**：cash level、buybacks、large acquisitions、insurance underwriting、subsidiary autonomy、equity portfolio turnover、relative performance vs index。
+- **也出現於**：可與 KP「科技公用事業 / 價值投資能力圈演化框架」、「穿越週期 kitchen-sink 指引框架」及 holding-company / conglomerate valuation 框架交叉比對。
+- **相關 ticker / 產業**：**BRK.A**, **BRK.B**；insurance, energy infrastructure, industrial conglomerates。
+
 ## 算力聚合平台 / 客戶邊界框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第22期_Nvidia_DGXCloud_NVO_GoogleIntersect.md`

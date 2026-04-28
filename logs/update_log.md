@@ -2,6 +2,9 @@
 
 ## 2026-04-29
 
+- 入庫 `KP_FOMOSoc-20260103-kp-thinking-note-23-meta-manus-sams-club-china-silver-cme-nike-berkshire-1a8ce04b`：整理 KP / FOMOSoc Substack 公開週報《Meta又在亂花錢？交易所在操縱白銀？ - KP思考筆記(第23期)》，建立 `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第23期_Meta_Manus_SamsClub_Silver_Nike_BRK.md`。整理時以 Jina Reader public Markdown / canonical URL `https://www.fomosoc.com/p/meta-kp23` 入庫；正文開頭明確自稱第23期，文內列出 Meta / Manus AI、Sam's Club 中國、白銀與 CME、Nike 內部人買入、Berkshire / Buffett 交棒五個主題，結尾有投票、宣傳段落與 KP 署名，未偵測截斷。
+- 更新：同步更新 `KOL/KP_FOMOSoc/notes/KP筆記.md`、`KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`、source/ticker/theme/framework/catalyst/watchlist indexes。本文新增「AI Agent 執行層 / 厚 Wrapper 框架」、「市場真空 / 身份重定義框架」、「商品基本面 / 交易所保證金紅線框架」、「內部人集群買入 / 轉型中局框架」與「創辦人溢價交棒 / 現金部署壓力框架」；**META**, **WMT**, **NKE** 為既有 watchlist L3 補強，**BRK.A**/**BRK.B** 新增 L3 watchlist；**CME** 為白銀保證金 / 市場結構 context，**COST** / **AAPL** 為競爭或治理 context。Manus AI / OpenAI / Anthropic / X 未上市或非 ticker；本文不是買賣建議。
+
 - 入庫 `KP_FOMOSoc-20251227-kp-thinking-note-22-nvidia-dgx-lepton-agi-novo-wegovy-google-intersect-power-259e9726`：整理 KP / FOMOSoc Substack 公開週報《口服減重藥時代正式開啟？Nvidia不搞雲端了？- KP思考筆記(第22期)》，建立 `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第22期_Nvidia_DGXCloud_NVO_GoogleIntersect.md`。整理時以 Jina Reader public Markdown / canonical URL `https://www.fomosoc.com/p/nvidia-kp22` 入庫；正文開頭明確自稱第22期，文內有 Nvidia DGX Cloud / Lepton、LeCun vs Hassabis AGI 路線、Novo Nordisk 口服 Wegovy、Google / Intersect Power 四個主題，結尾有宣傳段落與 KP 署名，未偵測截斷。
 - 更新：同步更新 `KOL/KP_FOMOSoc/notes/KP筆記.md`、`KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`、source/ticker/theme/framework/catalyst/watchlist indexes，並補入 `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` 與 GOOGL dashboard / index。本文新增「算力聚合平台 / 客戶邊界框架」、「AI 路線時間成本 / Scaling vs World Model 框架」、「口服 GLP-1 價格滲透 / API 產能約束框架」與「AI 能源熟地 / Behind-the-Meter 時間套利框架」；**GOOG**/**GOOGL** 判定已追蹤個股歷史 L3 補強，**NVDA**, **NVO**, **LLY**, **CRWV**, **META** 為既有 watchlist / ticker 補強。Intersect Power / Lambda 未上市；**FSLR**, **TSLA** 只作供應鏈 / 儲能 context；本文不是買賣建議。
 
