@@ -358,6 +358,39 @@ stock_projects:
       - "#競爭風險"
       - "#供應鏈風險"
 
+  RDW:
+    aliases:
+      - "RDW"
+      - "Redwire"
+      - "Redwire Corporation"
+      - "Redwire Corp"
+    root: "Stocks/RDW"
+    raw_dir: "Stocks/RDW/raw"
+    notes_dir: "Stocks/RDW/notes"
+    quarterly_dir: "Stocks/RDW/quarterly"
+    milestones_dir: "Stocks/RDW/milestones"
+    longform_dir: "Stocks/RDW/longform"
+    dashboard: "Stocks/RDW/RDW_儀表板.md"
+    stock_index: "Stocks/RDW/RDW_index.md"
+    current_quarter_file_pattern: "RDW_筆記_YYYYQN.md"
+    milestone_file_pattern: "RDW_里程碑_[文章標題].md"
+    longform_file_pattern: "RDW_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    theme_tags:
+      - "#財報"
+      - "#國防科技"
+      - "#能源電力"
+      - "#併購"
+      - "#產品節點"
+      - "#訂單合約"
+      - "#ReRating"
+      - "#估值風險"
+      - "#現金流風險"
+      - "#執行風險"
+      - "#政策風險"
+      - "#供應鏈風險"
+
 kols:
   Bytc:
     aliases:

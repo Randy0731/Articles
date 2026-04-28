@@ -25,7 +25,7 @@
 | **RKLB** | 太空路徑 / 發射與太空系統 prime，HASTE、SDA、Neutron 與 backlog 驗證主角 | L2-L3 候選追蹤 | article + ticker/theme/catalyst/watchlist；不建立 `Stocks/RKLB/` | 下半集延續上半集的 **RKLB** thesis，補上毛利、backlog、Neutron 延遲與 SDA 回報潛力，但不是單一 RKLB 深度文 |
 | **PL** | 全球情報感知層，從影像資料供應商轉為 AI / MDA intelligence workflow | L3 候選追蹤 | article + ticker/theme/catalyst/watchlist；不建立 `Stocks/PL/` | 大叔用多段拆 Q3 2025 revenue、NDR、customer count、Pelican / Tanager / Owl、NGA / NRO 合約與 CapEx-to-annuity thesis |
 | **ASTS** | 韌性通訊神經，direct-to-cell、Verizon / AT&T、stc Group 與 FirstNet / defense comm optionality | L3 候選追蹤 | article + ticker/theme/catalyst/watchlist；不建立 `Stocks/ASTS/` | 大叔認為資金缺口已被大幅拆解，技術與部署節點成為下一關；但 2026 Q1 發射與 2026 年底 45-60 顆目標都需追蹤 |
-| **RDW** | ROSA 電力、VLEO、Edge Autonomy / UAS、太空基礎設施與供應鏈整合 | L3 候選追蹤 | article + ticker/theme/catalyst/watchlist；不建立 `Stocks/RDW/` | 大叔同時寫出營收與 backlog 成長、Axiom ROSA / DARPA SabreSat / UAS optionality，以及 EAC、內控、固定價格成本超支等高風險 |
+| **RDW** | ROSA 電力、VLEO、Edge Autonomy / UAS、太空基礎設施與供應鏈整合 | L3 候選追蹤 | article + ticker/theme/catalyst/watchlist；當時未建立 `Stocks/RDW/`，後續 2026-04-28 因 2026-01-18 單篇 **RDW** 財報深度文升級為正式專案 | 大叔同時寫出營收與 backlog 成長、Axiom ROSA / DARPA SabreSat / UAS optionality，以及 EAC、內控、固定價格成本超支等高風險 |
 
 ## 結構化分析
 

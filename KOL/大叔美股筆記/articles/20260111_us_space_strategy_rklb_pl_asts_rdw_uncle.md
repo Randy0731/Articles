@@ -25,7 +25,7 @@
 | **RKLB** | 發射、HASTE hypersonic testing、Space Systems 與 SDA / Geost 國防整合主角 | L3 候選追蹤 | article + ticker/theme/framework/catalyst/watchlist；不建立 `Stocks/RKLB/` | 大叔用多段拆 Q3 2025 revenue、launch / space systems、HASTE、Neutron delay、Geost 與 SDA Tranche 3，形成完整 RKLB defense-space thesis |
 | **PL** | 地球觀測資料中台、每日全球掃描、Pelican / Tanager / Bedrock AI analytics | L3 候選追蹤 | article + ticker/theme/watchlist；不建立 `Stocks/PL/` | 大叔把 Planet Labs 從遙測資料商品化，提升到盟友可分享的戰區態勢感知 / MDA workflow；但仍需追 CapEx、客戶留存與政府收入轉換 |
 | **ASTS** | 太空 5G / direct-to-cell / FirstNet public safety backup option | L2-L3 候選追蹤 | article + ticker/theme/catalyst；更新既有 watchlist | 大叔認為 ASTS 先處理資本結構與技術風險，若衛星部署與商業驗證順利會快速重估；若交付不順，融資與稀釋焦慮會回來 |
-| **RDW** | ROSA power system、VLEO platform、Edge Autonomy / UAS-ISR 整合與基礎設施供應鏈 | L3 候選追蹤 | article + ticker/theme/watchlist；不建立 `Stocks/RDW/` | 大叔把 RDW 寫成太空工業供應鏈關鍵賦能者，但同時強調固定價格合約成本超支、內控與高風險高報酬轉型期 |
+| **RDW** | ROSA power system、VLEO platform、Edge Autonomy / UAS-ISR 整合與基礎設施供應鏈 | L3 候選追蹤 | article + ticker/theme/watchlist；當時未建立 `Stocks/RDW/`，後續 2026-04-28 因 2026-01-18 單篇 **RDW** 財報深度文升級為正式專案 | 大叔把 RDW 寫成太空工業供應鏈關鍵賦能者，但同時強調固定價格合約成本超支、內控與高風險高報酬轉型期 |
 
 ## 結構化分析
 
