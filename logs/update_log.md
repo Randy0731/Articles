@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260211-consensus-expectation-gap-market-pricing-2e0cca02`：整理宋分 / 美股送分題 Substack 文章《為什麼你明明看對公司，卻還是賺不到錢？》，建立 `KOL/宋分/articles/20260211_consensus_expectation_gap_market_pricing.md`，並複製使用者提供之 3 頁 Substack 截圖 PDF 至 `KOL/宋分/raw/20260211_宋分_consensus_expectation_gap_market_pricing_宋分-20260211-consensus-expectation-gap-market-pricing-2e0cca02.pdf`。Substack preloads JSON 正文可讀，PDF 作 raw 備份，OCR 狀態標「部分」。
+- 更新：同步更新 source/theme/framework indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。本文判定為純框架文，不更新 ticker index、watchlist 或 `Stocks/`；**NVDA** 僅出現在方格子前文標題引用，不能寫成本篇宋分對 **NVDA** 的新觀點。新增「共識變化 / 預期差定價框架」：市場形成報酬的關鍵不是公司當下好壞，而是市場共識何時改變；本文不是買賣建議。
+
 - 入庫 `宋分-20260209-dcf-buyside-valuation-process-32a33181`：整理宋分 / 美股送分題 Substack Note《市場解碼 #2：Buyside 估值流程、DCF 與 Forward PE》，建立 `KOL/宋分/articles/20260209_dcf_buyside_valuation_process.md`。Substack HTML / JSON-LD 正文可讀，來源為 URL，未另存 raw，OCR 狀態不適用。本文無具名 ticker，台積電僅作折現率高低例子，不更新 ticker index、watchlist 或 `Stocks/`。
 - 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。新增「DCF 安全檢查 / PE 交易語言框架」，並補強「Forward PE 悲觀錯價框架」：傳統 buyside 先用產業、公司、財報推導 EPS / cash flow，再用 DCF 檢查 intrinsic value，最後轉回 Forward PE 判斷市場是否用悲觀情境定價。本文是框架教學，不是買賣建議。
 

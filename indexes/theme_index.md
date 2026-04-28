@@ -6,6 +6,9 @@
 
 | 主題 tag | 日期 | KOL / 來源 | 標題 | 核心觀點 | 相關 ticker | 框架 / 催化劑 | 筆記檔 |
 |---|---|---|---|---|---|---|---|
+| #ReRating | 2026-02-11 | 宋分 / 美股送分題 | 看對公司卻賺不到：市場定價的是共識變化 | 宋分認為報酬來自共識形成之前；投資難點不是找到好公司，而是判斷市場何時開始定價投資人已經知道的事情 | 全市場 / 成長型科技股 | 共識變化 / 預期差定價框架；投資流程錯位；盤整期共識形成 / 崩解 | `KOL/宋分/articles/20260211_consensus_expectation_gap_market_pricing.md`；`indexes/framework_index.md` |
+| #投資與投機 | 2026-02-11 | 宋分 / 美股送分題 | 散戶等確認，機構等預期差 | 本篇將一般投資人「等財報、等討論、等股價確認」的流程，對比機構提前判斷市場看法何時改變；當投資人覺得安全時，價格常已完成重估 | 全市場 / 成長型科技股 | 投資流程錯位框架；共識形成前報酬；確認 vs 預期差 | `KOL/宋分/articles/20260211_consensus_expectation_gap_market_pricing.md` |
+| #估值風險 | 2026-02-11 | 宋分 / 美股送分題 | 好公司不等於好報酬：已定價與共識擁擠風險 | 宋分提醒公司變好、新聞最好時，股價反而可能不動或見頂，因為市場交易的是預期變化；若共識已形成，後手買入可能只是在接已定價的安全感 | 全市場 / 成長型科技股 | crowded consensus、no new buyer reason、盤整期判斷 | `KOL/宋分/articles/20260211_consensus_expectation_gap_market_pricing.md` |
 | #ReRating | 2026-02-09 | 宋分 / 美股送分題 | 市場解碼 #2：Buyside 估值流程、DCF 與 Forward PE | 宋分把傳統 buyside 估值流程拆成三段：基本面先推 EPS / cash flow，DCF 檢查 intrinsic value，最後用 Forward PE 判斷市場是否低估 | 全市場 / 成長型科技股 | DCF 安全檢查 / PE 交易語言框架；EPS model；implied fair PE | `KOL/宋分/articles/20260209_dcf_buyside_valuation_process.md`；`indexes/framework_index.md` |
 | #估值風險 | 2026-02-09 | 宋分 / 美股送分題 | DCF 不是答案產生器，而是安全檢查 | 本篇提醒 DCF 的關鍵風險在於輸入：如果 EPS model、折現率、長期現金流或 terminal assumptions 過度樂觀，DCF 會給出精確但失真的合理價值 | 全市場 / 成長型科技股 | EPS model 來源、discount rate、intrinsic value sensitivity、terminal value | `KOL/宋分/articles/20260209_dcf_buyside_valuation_process.md` |
 | #投資與投機 | 2026-02-09 | 宋分 / 美股送分題 | PE 是交易語言，DCF 是價值驗證語言 | 宋分將基金經理判斷低點的流程寫成：如果基本面推導沒壞，但市場用低 PE 給悲觀情境定價，就可能是 re-rating 的左側；但這必須建立在 EPS model 沒破壞 | 全市場 / 成長型科技股 | Forward PE 悲觀錯價框架補充；market expectation revision | `KOL/宋分/articles/20260209_dcf_buyside_valuation_process.md`；`KOL/宋分/articles/20260207_forward_pe_market_decoding.md` |
