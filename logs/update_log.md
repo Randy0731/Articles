@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260224-dcf-pe-target-rerating-resale-market-d1cf3e16`：整理宋分 / 美股送分題 Substack Note《市場解碼 #5｜分析師視角》DCF / PE target / re-rating 框架文，建立 `KOL/宋分/articles/20260224_dcf_pe_target_rerating_resale_market.md`，並複製使用者提供之 Substack 截圖 PDF 至 `KOL/宋分/raw/20260224_宋分_dcf_pe_target_rerating_resale_market_宋分-20260224-dcf-pe-target-rerating-resale-market-d1cf3e16.pdf`。Substack preloads JSON 正文可讀，PDF 為 image-only raw 備份，OCR 狀態標「部分」。
+- 更新：同步更新 source/theme/framework indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。本文新增「DCF 收購價值 / PE 轉售市場 re-rating 框架」：DCF 回答 private market 整家公司收購價值與 downside protection，PE target 回答 public market 轉售價格與 exit multiple；大行情常來自市場改變評價方法。文中無具名 ticker，AI / 資料中心公司僅為假設案例，因此不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260223-nvda-earnings-preview-ai-duration-visibility-d6cf0c58`：整理宋分 / 美股送分題 Substack Note《市場解碼 #4｜分析師視角》**NVDA** 財報 Preview，建立 `KOL/宋分/articles/20260223_nvda_earnings_preview_ai_duration_visibility.md`，並複製使用者提供之 Substack 截圖 PDF 至 `KOL/宋分/raw/20260223_宋分_nvda_earnings_preview_ai_duration_visibility_宋分-20260223-nvda-earnings-preview-ai-duration-visibility-d6cf0c58.pdf`。Substack preloads JSON 正文可讀，PDF 為 image-only raw 備份，OCR 狀態標「部分」。
 - 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。本文延續 2026-02-19 PEG 框架，將 **NVDA** PEG 0.37 寫成市場對 2027 以後 growth duration 信任不足的訊號；關鍵檢查是訂單能見度能否從 2026 延到 2027H1、毛利率 / 營益率是否在 ASIC / **AMD** 競爭下維持、GTC 是否提出推理架構與新晶片方向。**NVDA** 判定 L3 候選追蹤，不建立 `Stocks/NVDA/`；**AMD** / ASIC 僅為競爭風險語境，不新增 AMD thesis。本文不是買賣建議。
 
