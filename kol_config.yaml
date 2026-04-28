@@ -1,5 +1,5 @@
 version: 1
-updated: "2026-04-25"
+updated: "2026-04-28"
 language: "zh-Hant"
 
 global:
@@ -325,6 +325,37 @@ stock_projects:
       - "#執行風險"
       - "#競爭風險"
       - "#政策風險"
+      - "#供應鏈風險"
+
+  VRT:
+    aliases:
+      - "VRT"
+      - "Vertiv"
+      - "Vertiv Holdings"
+      - "Vertiv Holdings Co"
+      - "Vertiv Holdings Co."
+    root: "Stocks/VRT"
+    raw_dir: "Stocks/VRT/raw"
+    notes_dir: "Stocks/VRT/notes"
+    quarterly_dir: "Stocks/VRT/quarterly"
+    milestones_dir: "Stocks/VRT/milestones"
+    longform_dir: "Stocks/VRT/longform"
+    dashboard: "Stocks/VRT/VRT_儀表板.md"
+    stock_index: "Stocks/VRT/VRT_index.md"
+    current_quarter_file_pattern: "VRT_筆記_YYYYQN.md"
+    milestone_file_pattern: "VRT_里程碑_[文章標題].md"
+    longform_file_pattern: "VRT_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    theme_tags:
+      - "#AI基建"
+      - "#能源電力"
+      - "#併購"
+      - "#產品節點"
+      - "#ReRating"
+      - "#估值風險"
+      - "#執行風險"
+      - "#競爭風險"
       - "#供應鏈風險"
 
 kols:

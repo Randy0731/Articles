@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `大叔美股筆記-20260428-vertiv-vrt-stl-liquid-cooling-d744ecb5`：整理大叔美股筆記 Substack 文章《Vertiv **VRT** 收購 STL 背後的千億散熱帝國與估值》，建立 `KOL/大叔美股筆記/articles/20260428_vertiv_vrt_stl_liquid_cooling_uncle.md`，並複製使用者提供之 4 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20260428_大叔美股筆記_vertiv_vrt_stl_liquid_cooling_大叔美股筆記-20260428-vertiv-vrt-stl-liquid-cooling-d744ecb5.pdf`。公開頁全文可讀；Vertiv official PR 用於校準 2026-04-27 已收購 Strategic Thermal Labs LLC，並確認 cold-plate design、server-side liquid cooling 與 high-density thermal validation 能力補強。大叔將此解讀為 AI rack power density 逼近 1MW+ 後，**VRT** 從 facility cooling 延伸到 server boundary / thermal chain 的策略補強。
+- 更新：依新追蹤 ticker 回查規則將 **VRT** 升級為正式 `Stocks/VRT/` 專案，新增 `Stocks/VRT/quarterly/VRT_筆記_2026Q2.md`、`Stocks/VRT/VRT_儀表板.md`、`Stocks/VRT/VRT_index.md`，同步更新 `kol_config.yaml`、source/ticker/theme/catalyst/framework/watchlist indexes 與 private raw manifest。歷史回查確認 2026-04-23 大叔 NVIDIA 800V 供應鏈清單已有 **VRT** L1 背景提及，但缺少 VRT-specific 財務、訂單或估值，因此只保留在 `Stocks/VRT/VRT_index.md` 與全域索引，不補入季度檔。大叔對液冷趨勢偏正面，但對 **VRT** 戰術謹慎：Evercore 目標價 `$350` 是分析師目標價，文章當下 `$322` 附近與 `+8.6%` upside 只是大叔 / Evercore 語境，不是本專案建議。**MOD**、**NVT**、**PH** 新增 watchlist 作為上游液冷零組件候選。
+
 - 入庫 `大叔美股筆記-20260428-wdc-bofa-495-ai-storage-6824a163`：整理大叔美股筆記 Substack Note《**WDC** BofA 目標價上調至 `$495`：AI storage / nearline HDD re-rating》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。大叔轉述 BofA 將 **WDC** 目標價由 `$415` 上調至 `$495`，並把現價 `~$400` / `$20` EPS 保守情境、TB growth + gross margin expansion、AI data center nearline storage demand 與 AI inference / Data -> Storage 串成 storage infrastructure re-rating thesis。
 - 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes。**WDC** 判定為單篇大叔 L2+ 候選追蹤；`$495` 是 BofA 分析師目標價，不是大叔自身目標價或本專案建議；目前不建立 `Stocks/WDC/`，後續需用 2026-04-30 WDC FY2026 Q3 results、nearline HDD demand、price-per-TB、TB growth、gross margin、EPS / guidance 驗證。來源為 URL，未另存 raw，OCR 狀態不適用。
 
