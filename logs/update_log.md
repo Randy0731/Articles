@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260318-market-decoding-12-rerate-early-signals-35358ea2`：整理宋分 / 美股送分題 Substack Note《市場解碼 #12｜分析師流程》什麼是 re-rate？在 re-rate 前佈局是最難的，但也是報酬最大的時候，建立 `KOL/宋分/articles/20260318_market_decoding_12_rerate_early_signals.md`。Substack preloads JSON 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/ticker/theme/framework/catalyst indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「Re-rate 早期訊號 / 上漲來源分流框架」：re-rate 是市場改變評價標準，不是單純股價上漲；要先分辨股價漲的是估值變、獲利變還是景氣變，再看大公司提前卡位、產業瓶頸、股價先於財報、賣方改敘事 / 估值方法等早期訊號。**NVDA** 為 re-rate 案例，**AMZN** 為成長股上漲案例，**TSM** 為設廠 / 先進封裝瓶頸語境，**COST** 只出現在連結前一篇電子報案例清單；不建立 `Stocks/` 或新增 watchlist，本文不是買賣建議。
+
 - 入庫 `宋分-20260317-market-decoding-11-ai-semiconductor-rerate-112df345`：整理宋分 / 美股送分題 Substack Note《市場解碼 #11｜分析師流程》與免費電子報《市場解碼深度》AI 是否正在將半導體從景氣循環股變成像雲端一樣可以穿越牛熊的基礎建設公司？，建立 `KOL/宋分/articles/20260317_market_decoding_11_ai_semiconductor_infrastructure_rerate.md`。Substack Note preloads 與免費電子報 HTML / preloads 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「產業級 Re-rate 五條件 / AI 半導體六指標框架」：機構重估產業通常看收入可預測性、現金流穩定、公司成為產業基礎設施、競爭減少與管理層資本配置被信任；AI 半導體追 AI CAPEX、AI semiconductor intensity、cluster scale、hardware refresh cycle、ecosystem lock-in 與 AI revenue mix。**MU** 為既有 memory framework proxy，本文未直接具名；**MSFT** / **AMZN** / **COST** / **TSM** 為 framework case；**NVDA** / **ASML** 為產業基礎設施例子。不建立 `Stocks/`；本文不是買賣建議。
 
