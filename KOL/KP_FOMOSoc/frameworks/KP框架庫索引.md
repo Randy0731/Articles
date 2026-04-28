@@ -15,6 +15,87 @@
 - **相關 ticker / 產業**：
 ```
 
+## HALO / 實體資產預期重置框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第31期_AMDMeta_IBM_GoogleTPU_Salesforce_HBF_Nvidia_Netflix_AWS.md`
+- **一句話定義**：AI 軟體顛覆和高預期消化期中，資金可能轉向 heavy assets、low obsolescence 與基本面改善但市場期待較低的實體資產。
+- **適用情境**：hard assets、AI power、copper / commodities、Japan industrials、semiconductor upstream、software derating environment。
+- **觀察指標**：valuation spread、earnings revision、commodity demand、capex cycle、asset replacement risk、pricing power、capital intensity。
+- **也出現於**：呼應第30期銅擴張稅 / 工業權力移轉框架。
+- **相關 ticker / 產業**：copper / Japan / industrials / utilities / AI infrastructure。
+
+## 客戶 warrants / 命運共同體框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第31期_AMDMeta_IBM_GoogleTPU_Salesforce_HBF_Nvidia_Netflix_AWS.md`
+- **一句話定義**：挑戰者供應商用 equity upside 綁定超大客戶，把客戶從買方變成共同推動規模驗證、軟體遷移與產能承諾的盟友。
+- **適用情境**：AMD / Meta 6GW deal、supplier warrants、second-source strategy、OpenAI-style supplier / customer financing。
+- **觀察指標**：deployment milestones、warrant vesting、stock-price hurdles、customer engineering contribution、software ecosystem migration、revenue recognition、dilution。
+- **也出現於**：呼應第28期 AMD / OpenAI multi-sourcing 和第30期 Meta / Nvidia 全棧綁定。
+- **相關 ticker / 產業**：**AMD**, **META**, **NVDA**, **TSM**；AI accelerator / hyperscaler procurement。
+
+## Legacy IT 知識護城河反轉框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第31期_AMDMeta_IBM_GoogleTPU_Salesforce_HBF_Nvidia_Netflix_AWS.md`
+- **一句話定義**：AI modernization 工具會把 legacy system 的知識不對稱透明化，使護城河從「只有我懂」轉向「我能最快安全整合」。
+- **適用情境**：IBM mainframe / COBOL、Claude Code、AWS Transform、enterprise legacy modernization。
+- **觀察指標**：consulting bookings / margin、mainframe renewals、migration wins、downtime risk、governance / compliance scope、cloud modernization attach。
+- **也出現於**：呼應第20期 IBM / Confluent hybrid cloud data artery 和大叔 IBM enterprise AI 現金流化。
+- **相關 ticker / 產業**：**IBM**, **AMZN**, **MSFT**；enterprise IT / cloud migration。
+
+## TPU 外部化 / Neocloud 影子戰爭框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第31期_AMDMeta_IBM_GoogleTPU_Salesforce_HBF_Nvidia_Netflix_AWS.md`
+- **一句話定義**：晶片平台可用投資、租賃擔保、neocloud 通路和財務背書，把自家加速器推出原生雲端圍牆並建立外部 demand。
+- **適用情境**：Google TPU / FluidStack、Meta TPU lease、Nvidia neocloud financing、AI accelerator distribution。
+- **觀察指標**：lease guarantee、external TPU customers、neocloud capacity、PyTorch / TorchTPU readiness、CoWoS allocation、Cloud AI revenue、utilization。
+- **也出現於**：呼應第21期 TorchTPU、第29期 Google OCS / TPU、第30期 Meta multi-sourcing。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **META**, **NVDA**, **CRWV**, **NBIS**, **HUT**, **WULF**；neocloud / AI accelerators。
+
+## 數位勞動力稅 / AWU 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第31期_AMDMeta_IBM_GoogleTPU_Salesforce_HBF_Nvidia_Netflix_AWS.md`
+- **一句話定義**：SaaS 從按人頭賣 seat 轉向按 AI agent 完成工作收費，但必須證明新 usage revenue 能覆蓋 seat cannibalization 與 token 成本。
+- **適用情境**：Salesforce Agentforce、AI agents、seat-based SaaS disruption、usage-based enterprise software。
+- **觀察指標**：Agentforce ARR、Flex Credits / AWU usage、AI gross margin、compute cost、core subscription growth、customer data access、operating margin。
+- **也出現於**：呼應第25期 Claude Cowork / SaaS seat-to-workflow 與第27期 SaaS AI 有罪推定。
+- **相關 ticker / 產業**：**CRM**, **NOW**, **MSFT**, **DDOG**, **PANW**；enterprise SaaS。
+
+## HBF 記憶體新樓層框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第31期_AMDMeta_IBM_GoogleTPU_Salesforce_HBF_Nvidia_Netflix_AWS.md`
+- **一句話定義**：AI memory hierarchy 可在 HBM 與 SSD 之間新增高頻寬 Flash 層，承接模型權重與 KV cache，降低 GPU 閒置與 HBM 容量壓力。
+- **適用情境**：SanDisk HBF、SK Hynix partnership、NAND / HBM / SSD hierarchy、AI inference memory。
+- **觀察指標**：OCP standard、Nvidia design-in、CoWoS allocation、NAND pricing、SSD availability、HBM capacity relief、Samsung / Micron roadmap。
+- **也出現於**：呼應第29期 HBM 尖端引領 vs DRAM 務實跟隨框架和 OCS / HBM 分層框架。
+- **相關 ticker / 產業**：**SNDK**, **000660.KS**, **005930.KS**, **MU**, **NVDA**, **TSM**；memory / storage。
+
+## 完美財報消化期框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第31期_AMDMeta_IBM_GoogleTPU_Salesforce_HBF_Nvidia_Netflix_AWS.md`
+- **一句話定義**：當 beat-and-raise 已成市場基本預期，股價需要新敘事、客戶 ROI、下一代產品節點與長期 visibility 才能再次 re-rate。
+- **適用情境**：Nvidia post-earnings reaction、AI leader valuation digestion、GTC / roadmap events。
+- **觀察指標**：revenue / margin beats、customer ROI、sovereign AI revenue、inference cost per token、2027 visibility、product roadmap、valuation multiple。
+- **也出現於**：呼應宋分 NVDA post-event / 定價階段觀點與第17期 Nvidia 財報會計恐慌校準。
+- **相關 ticker / 產業**：**NVDA**, **META**, **MSFT**, **GOOG**, **GOOGL**, **AMZN**；AI infrastructure。
+
+## 資本紀律 vs 增長缺口框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第31期_AMDMeta_IBM_GoogleTPU_Salesforce_HBF_Nvidia_Netflix_AWS.md`
+- **一句話定義**：放棄昂貴併購可移除過度支付與槓桿風險，但也會暴露原本想靠併購補上的長期增長缺口。
+- **適用情境**：Netflix / WBD、media M&A、streaming maturity、IP acquisition discipline。
+- **觀察指標**：deal terms、breakup fee、buyback resumption、ad-tier revenue、content ROI、subscriber growth、sports / games traction、IP franchise output。
+- **也出現於**：呼應第19期 Netflix / WBD 串流終局與第25期 WBD 全現金確定性交易。
+- **相關 ticker / 產業**：**NFLX**, **WBD**, **PARA**；streaming / media M&A。
+
+## Stateful Runtime / 企業 AI 作業系統框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第31期_AMDMeta_IBM_GoogleTPU_Salesforce_HBF_Nvidia_Netflix_AWS.md`
+- **一句話定義**：AI agent 若帶記憶、身份、長任務與雲端底層服務整合，雲端平台可從 compute provider 升級為 enterprise operating system layer。
+- **適用情境**：OpenAI Frontier、AWS Bedrock Stateful Runtime、enterprise AI agents、Copilot vs cloud distribution。
+- **觀察指標**：contract terms、Bedrock revenue、IAM / S3 attach、Trainium utilization、Frontier adoption、enterprise retention、migration cost、OpenAI OCF。
+- **也出現於**：呼應第30期 AI 公用事業預融資框架與第28期 AWS 建設模式 / backlog 收據框架。
+- **相關 ticker / 產業**：OpenAI 未上市；**AMZN**, **MSFT**, **NVDA**, **GOOG**, **GOOGL**；cloud AI / enterprise agents。
+
 ## 全棧綁定 / 算力主權換時間框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第30期_MetaNvidia_GoogleGeothermal_PANW_WMT_OpenAITariffs.md`

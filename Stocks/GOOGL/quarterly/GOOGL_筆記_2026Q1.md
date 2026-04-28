@@ -6,11 +6,71 @@
 
 | 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
 |---|---|---|---|---|---|---|
+| 2026-02-28 03:51 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google TPU 外部化、FluidStack 與 Meta TPU lease | KP_FOMOSoc-20260228-kp-thinking-note-31-amd-meta-ibm-google-tpu-salesforce-hbf-nvidia-netflix-openai-aws-5e901705 | **GOOG**, **GOOGL**, **META**, **NVDA**, **CRWV**, **NBIS**, **HUT**, **WULF** | #AI基建 #雲端基建 #競爭風險 #ReRating #執行風險 #金融流動性 | L3；TPU outside the wall / FluidStack lease guarantee / Meta TPU lease / neocloud distribution |
 | 2026-02-21 03:22 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Ormat 地熱、CTT 與 AI data center clean baseload | KP_FOMOSoc-20260221-kp-thinking-note-30-meta-nvidia-google-geothermal-anthropic-panw-walmart-druckenmiller-copper-blueowl-openai-tariffs-55e23889 | **GOOG**, **GOOGL**, **ORA**, **DUK** | #AI基建 #能源電力 #雲端基建 #政策風險 #監管審批 #執行風險 #ReRating | L3；Google / Ormat 150MW geothermal / Clean Transition Tariff / AI data center 24/7 clean baseload |
 | 2026-02-14 02:30 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：百年債、Apollo OCS 與 AI 基建公用事業化 | KP_FOMOSoc-20260214-kp-thinking-note-29-alphabet-century-bond-ai-disruption-google-ocs-hbm4-amat-openai-cerebras-msft-asts-cc671a80 | **GOOG**, **GOOGL**, **LITE**, **MU**, **005930.KS**, **000660.KS** | #AI基建 #雲端基建 #Memory #金融流動性 #增發融資 #ReRating #執行風險 | L3；Alphabet century bond / AI capex financing / Google Apollo OCS / TPU v8 HBM rumor calibration |
 | 2026-02-07 02:45 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：AI 沒有殺死搜尋，而是擴張搜尋與商業意圖 | KP_FOMOSoc-20260207-kp-thinking-note-28-amazon-google-amd-nvo-mstr-nvidia-openai-spacex-xai-fe4e3d99 | **GOOG**, **GOOGL**, **AMZN** | #AI基建 #軟體SaaS #財報 #ReRating #競爭風險 #估值風險 | L3；AI Search expansion / ads intent quality / Direct Offers / UCP / capex justification |
 
 ---
+
+## KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google TPU 外部化、FluidStack 與 Meta TPU lease
+
+- **來源 KOL**：KP / FOMOSoc
+- **原文主整理**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第31期_AMDMeta_IBM_GoogleTPU_Salesforce_HBF_Nvidia_Netflix_AWS.md`
+- **原始來源**：https://www.fomosoc.com/p/nvidiasandiskhbf-kp31
+- **source_id**：KP_FOMOSoc-20260228-kp-thinking-note-31-amd-meta-ibm-google-tpu-salesforce-hbf-nvidia-netflix-openai-aws-5e901705
+- **raw 路徑 / URL**：URL（未另存 raw；Jina Reader Markdown）
+- **OCR 狀態**：不適用
+- **類型**：Substack 公開週報 / TPU externalization / neocloud financing / Meta TPU lease
+- **發文時間**：2026-02-28 03:51 UTC（台北 11:51）
+- **整理日期**：2026-04-29
+- **交會等級**：L3
+- **事件類型**：Google TPU outside the wall / FluidStack investment / lease guarantee / Meta TPU lease
+- **主題 / 母題標籤**：#AI基建 #雲端基建 #競爭風險 #ReRating #執行風險 #金融流動性
+
+### 對 **GOOGL** 的影響
+
+KP 將 Google TPU 外部化視為 **GOOGL** AI 基建 thesis 的新階段。過去 TPU 主要被市場視為 Google 內部 cost-optimization 工具，價值藏在 Search、YouTube、Cloud 內部 margin；第31期的重點是 Google 正透過 FluidStack 這類 neocloud、租賃擔保與 Meta TPU lease，把 TPU 從 Google Cloud 圍牆內推向外部客戶。
+
+這是「neocloud 影子戰爭」：Nvidia 可用 CoreWeave / Lambda / Nebius 等通路把 GPU 供給外部化，Google 則可能用投資、lease guarantee 和資料中心合作夥伴，把 TPU 包裝成可租、可部署、可被 Meta 等大型客戶驗證的第二算力來源。若 Meta 不只租 TPU 做 inference，而是拿來 training，代表 JAX / XLA / TorchTPU 與 PyTorch integration 的商業門檻正在下降。
+
+整理者判定為 L3：這直接補強 `Stocks/GOOGL` 既有 TPU / OCS / TorchTPU / Cloud AI thesis，也與第29期 Apollo OCS、第30期 clean baseload 共同構成 Alphabet AI infrastructure utility moat。但仍需防止過度外推：CUDA 慣性、CoWoS 供給、developer tooling、neocloud leverage 和 Google 外部 TPU 供貨規模，都是必須逐季驗證的硬摩擦。
+
+### 觀點摘要
+
+| 面向 | 內容 |
+|---|---|
+| **立場** | 偏正面 L3；Google TPU 從內部成本中心走向外部利潤中心的早期訊號 |
+| **正面訊號** | FluidStack investment / lease guarantee、Meta multibillion TPU lease、未來可能直接購買 TPU、TorchTPU 降低 PyTorch 遷移摩擦 |
+| **與既有 thesis 關係** | 補強 TPU / Cloud AI monetization，與 Apollo OCS、TorchTPU、AI Search 現金流、clean baseload power 形成同一條 AI infrastructure utility 脈絡 |
+| **主要風險** | CUDA inertia、JAX / XLA developer friction、CoWoS allocation、Google external TPU supply size、neocloud financing / delivery risk |
+
+### 催化劑與追蹤數字
+
+| 類型 | 內容 | 日期 / 數字 | 來源 | 備註 |
+|---|---|---|---|---|
+| FluidStack investment | Google 考慮投資 FluidStack | KP 口徑約 `$100M`、valuation 約 `$7.5B` | KP 文章口徑 | 需追官方投資 / 融資文件 |
+| Lease guarantee | Google 用 lease guarantee 幫 neocloud 融資 | KP 舉例 `$3.2B` | KP 文章口徑 | 核心是把 TPU demand 變成可融資 cash flow |
+| Meta TPU lease | Meta 簽 multibillion TPU lease，且未來可能直接購買 TPU | 2026 | KP 文章口徑 | 對 GOOGL 是外部客戶驗證，對 NVDA / AMD 是第二供應商競爭 |
+| TPU shipments | 2026 TPU shipments 可能達 310-360 萬片 | 2026 | KP / 供應鏈口徑 | KP 推估約 Nvidia external GPU supply 的 20%-30%，需後續校準 |
+| TorchTPU readiness | PyTorch / TPU bridge 逐步降低開發者遷移摩擦 | 2026-2027 | KP 文章 / 第21期脈絡 | 與本檔 TorchTPU 歷史段落呼應 |
+
+### 風險表
+
+| 風險 | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|
+| CUDA / developer inertia | 高 | 外部客戶不願把 production workload 從 CUDA / Nvidia stack 遷到 TPU | TorchTPU compatibility、PyTorch support、developer adoption、enterprise workload migration | KP 文章 |
+| External TPU supply 不足 | 中高 | Google TPU 供貨規模仍主要服務內部，外部供應只占小比例 | TPU shipments、Cloud AI revenue、Meta allocation、lead times | KP 文章 / 整理者判斷 |
+| CoWoS / packaging bottleneck | 中高 | TPU 外部化與 Nvidia / AMD 同樣受先進封裝、HBM、power bottleneck 限制 | CoWoS allocation、HBM availability、data center delivery | KP 文章 |
+| Neocloud financing / delivery risk | 中高 | FluidStack / Hut 8 / TeraWulf 等通路在 leverage、power、delivery 或 customer concentration 上出現壓力 | lease guarantees、data center commissioning、debt cost、GPU / TPU utilization | KP 文章 / 整理者判斷 |
+
+### 呼應連結
+
+| 既有篇章 | 關係 |
+|---|---|
+| 本檔 KP 2026-02-14 百年債 / Apollo OCS | 第29期補 capital structure 與 optical interconnect；第31期補 TPU external distribution / neocloud financing |
+| 本檔 KP 2026-02-21 Google / Ormat 地熱 | 第30期補 AI data center power procurement；第31期補 TPU demand / external customers |
+| `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` 的 TorchTPU / GPU vs TPU | 第21期與第18期是 TPU 外部化的技術與競爭前史；第31期是更明確的商業化 / 融資路線 |
 
 ## KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Ormat 地熱、CTT 與 AI data center clean baseload
 
