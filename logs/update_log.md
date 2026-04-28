@@ -2,6 +2,9 @@
 
 ## 2026-04-29
 
+- 入庫 `KP_FOMOSoc-20251004-kp-thinking-note-10-chatgpt-nike-healthcare-fermi-7796fd2c`：整理 KP / FOMOSoc Substack 公開週報《ChatGPT殺進電商？Nike醒過來了嗎？醫療板塊怎麼反彈了？- KP思考筆記(第10期)》，建立 `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第10期_ChatGPT電商Nike醫療與Fermi.md`。Substack API post id `175075643` / canonical URL `https://www.fomosoc.com/p/chatgptnike-kp10` 的 `body_html` 完整可讀，`audience=everyone`，正文有開頭、Nike、醫療股、Fermi、ChatGPT 電商四個主題、特別鳴謝與 KP 署名，未偵測截斷；API `wordcount` 明顯偏低，故以 HTML 轉文字後逐段檢查。
+- 更新：同步更新 `KOL/KP_FOMOSoc/notes/KP筆記.md`、`KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`、source/ticker/theme/framework/catalyst/watchlist indexes。本文新增「通路修復 / 品牌自我修正框架」、「政策 Relief / 可複製投降範本框架」、「AI 基建故事股 / Faith vs Fact 框架」與「Agentic Commerce / AI 入口抽佣框架」；**NKE**, **PFE**, **FRMI**, **ETSY**, **SHOP** 判定 KP 單篇 L3 watchlist，不建立 `Stocks/`；**LLY**, **MRK**, **AMZN**, **GOOG**, **GOOGL** 只作板塊或競爭脈絡。本文不是買賣建議。
+
 - 入庫 `KP_FOMOSoc-20250928-kp-thinking-note-special-nvidia-ai-factory-a353d3e5`：整理 KP / FOMOSoc Substack 公開特別篇《黃仁勳的AI作戰藍圖：為何Nvidia增長不會停？為何對手免費也贏不了？ - KP思考筆記(特別篇)》，建立 `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記特別篇_NvidiaAI作戰藍圖.md`。Substack API post id `174677825` / canonical URL `https://www.fomosoc.com/p/ainvidia-kp` 的 `body_html` 完整可讀，`audience=everyone`，正文有黃仁勳 BG2 Podcast 訪談引言、六個主題、結論與 KP 署名，未偵測截斷；API `wordcount` 低於實際解析長度，故以 HTML 轉文字後逐段檢查。
 - 更新：同步更新 `KOL/KP_FOMOSoc/notes/KP筆記.md`、`KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`、source/ticker/theme/framework/catalyst indexes。本文新增「加速計算更新 / 存量基建替換框架」、「AI 三重 Scaling Laws / 推理思考成本框架」、「AI Factory 系統級 TCO / Tokens per Watt 護城河框架」與「主權 AI / 全球智慧發電廠框架」；**NVDA** 判定 L3 watchlist 歷史補強，不建立 `Stocks/NVDA/`；**MSFT**, **GOOG**, **GOOGL**, **META**, **AMZN** 只作 hyperscaler、客戶、競爭或 AI workload 脈絡。本文不是買賣建議。
 

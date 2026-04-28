@@ -15,6 +15,42 @@
 - **相關 ticker / 產業**：
 ```
 
+## 通路修復 / 品牌自我修正框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第10期_ChatGPT電商Nike醫療與Fermi.md`
+- **一句話定義**：品牌龍頭若因錯誤通路策略與產品節奏失去成長，第一階段不是看估值，而是看管理層是否承認錯誤、修復夥伴關係並用核心品類重新取得話語權。
+- **適用情境**：Nike turnaround、consumer brand reset、DTC 過度化後重回 wholesale、產品線修復。
+- **觀察指標**：wholesale revenue、DTC mix、核心品類 sales growth、inventory、gross margin、regional sales、brand heat、retail partner commentary、tariff / FX impact。
+- **也出現於**：本篇為 KP 框架庫首筆；可與宋分「假反彈 / 節奏型 / 結構性 re-rate 分流框架」交叉比對。
+- **相關 ticker / 產業**：**NKE**；consumer brands、athletic apparel、retail distribution。
+
+## 政策 Relief / 可複製投降範本框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第10期_ChatGPT電商Nike醫療與Fermi.md`
+- **一句話定義**：高度監管產業若用小且可控的讓步換取政策穩定，市場反應通常不是基本面上修，而是最壞情境解除後的 relief trade。
+- **適用情境**：drug pricing negotiation、tariff exemption、pharma policy risk、regulated industry political settlements。
+- **觀察指標**：guidance revision、affected revenue mix、policy duration、exemption terms、peer adoption、government messaging、Medicaid / Medicare exposure、capex pledge quality。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**PFE**, **LLY**, **MRK**；pharma、healthcare policy、tariff / price-control risk。
+
+## AI 基建故事股 / Faith vs Fact 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第10期_ChatGPT電商Nike醫療與Fermi.md`
+- **一句話定義**：AI infrastructure 熱潮中，零營收或早期公司可能靠宏大敘事取得高估值，但投資標的本質更接近高風險選擇權，需逐條檢查客戶、合約、融資與執行里程碑。
+- **適用情境**：AI data center IPO、energy infrastructure startup、pre-revenue AI infrastructure company、nuclear / power / land story stocks。
+- **觀察指標**：binding customer contracts、revenue recognition、construction permits、power availability、debt financing、cash burn、management track record、capex budget、schedule slippage、anchor tenant commitment。
+- **也出現於**：可與 KP「IPO 價格發現 / 投資投機邊界框架」與「主權 AI / 全球智慧發電廠框架」交叉比對。
+- **相關 ticker / 產業**：**FRMI**；AI data center、power infrastructure、nuclear energy、story stocks。
+
+## Agentic Commerce / AI 入口抽佣框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第10期_ChatGPT電商Nike醫療與Fermi.md`
+- **一句話定義**：當 AI agent 直接承接 discovery、comparison 與 conversion，商品平台短期取得新流量，但長期價值可能從商家 / marketplace 轉向控制對話入口與結帳流程的 AI 平台。
+- **適用情境**：OpenAI Instant Checkout、Etsy / Shopify partnerships、AI shopping agents、marketplace traffic disintermediation。
+- **觀察指標**：ChatGPT shopping query share、checkout conversion rate、merchant take rate、repeat purchase ownership、customer data access、GMV uplift、AI platform fees、Google / Amazon response、merchant churn。
+- **也出現於**：可與宋分「CSP Token 定價權 / 收費機制 Re-rate 框架」及 Agentic Commerce / AI shopping flow 相關 watchlist 脈絡交叉比對。
+- **相關 ticker / 產業**：**ETSY**, **SHOP**, **AMZN**, **GOOG**, **GOOGL**；OpenAI 未上市；e-commerce、AI agents、marketplace。
+
 ## 加速計算更新 / 存量基建替換框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記特別篇_NvidiaAI作戰藍圖.md`
