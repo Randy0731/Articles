@@ -815,3 +815,66 @@
 - **觀察指標**：export policy、domestic chip deployment、power cost、cluster size、software efficiency、CUDA compatibility、data center buildout、supply-chain sovereignty。
 - **也出現於**：可與「主權 AI 分層主權 / 地緣建築師框架」和「關鍵礦產 / 供應鏈武器化框架」交叉比對。
 - **相關 ticker / 產業**：**NVDA**, **BIDU**, **BABA**, **TCEHY**, **688256.SS**, **TSM**；AI semiconductor、China AI stack、export controls、地緣科技。
+
+## 多雲互操作 / 跨平台治理框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第19期_AWS_Google_MSTR_Nvidia_Netflix_ALAB_CRDO.md`
+- **一句話定義**：當企業已經多雲化，雲端供應商的競爭重點會從阻止客戶離開，轉向誰能成為跨雲網路、治理、監控與合規的控制層。
+- **適用情境**：AWS / Google Cloud multicloud interconnect、Azure Arc、enterprise resilience、AI workload placement、雲端 outage 後的架構調整。
+- **觀察指標**：multi-cloud adoption、private interconnect latency / cost、egress economics、RPO / RTO、resilience spend、Azure Arc adoption、AI workload placement、enterprise network attach。
+- **也出現於**：可與「雲端韌性 / 集中風險變現框架」、「雲端三國 / AI Capex 入場券框架」和「AI 算力分工 / 訓練推理雙雲框架」交叉比對。
+- **相關 ticker / 產業**：**AMZN**, **GOOG**, **GOOGL**, **MSFT**, **NVDA**；cloud infrastructure、multicloud networking、AI workload governance。
+
+## Bitcoin Treasury mNAV / 死亡螺旋框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第19期_AWS_Google_MSTR_Nvidia_Netflix_ALAB_CRDO.md`
+- **一句話定義**：Bitcoin treasury company 的 premium flywheel 只有在 mNAV > 1 且資本市場開放時成立；若 mNAV < 1 且融資窗口關閉，賣幣支付固定義務可能讓反身性轉負。
+- **適用情境**：MSTR / Strategy、Metaplanet、crypto treasury premium、preferred dividends、convertible debt、spot BTC ETF 替代。
+- **觀察指標**：mNAV、BTC holdings、cash reserve、preferred dividend coverage、equity issuance、convertible put rights、ETF flows、BTC price volatility。
+- **也出現於**：可與「Crypto Treasury NAV / 優質代理人折價框架」交叉比對。
+- **相關 ticker / 產業**：**MSTR**, **BTC**, **IBIT**, **3350.T**；crypto treasury、capital structure、Bitcoin proxy。
+
+## 機器人產業政策 / 製造業悖論框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第19期_AWS_Google_MSTR_Nvidia_Netflix_ALAB_CRDO.md`
+- **一句話定義**：國家推動 robotics 可帶回製造產出與供應鏈安全，但自動化越成功，傳統藍領工作回流越不一定同步發生。
+- **適用情境**：Trump robotics policy、reshoring、humanoid robots、industrial automation、China robot density、defense / logistics robots。
+- **觀察指標**：executive order / policy budget、robotics procurement、factory automation capex、humanoid production milestones、robot density、supply-chain bottlenecks、labor productivity。
+- **也出現於**：可與「自動駕駛雙路線 / 漸進主義 vs 純視覺豪賭框架」和 physical AI 類框架交叉比對。
+- **相關 ticker / 產業**：**TSLA**, **IRBT**；robotics、industrial automation、humanoid robots、manufacturing policy。
+
+## EDA 加速 / 生態規則制定框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第19期_AWS_Google_MSTR_Nvidia_Netflix_ALAB_CRDO.md`
+- **一句話定義**：若上游 EDA 工具在 GPU / CUDA 上跑得最快，晶片設計者會在設計源頭就被導向特定 hardware / software ecosystem。
+- **適用情境**：Nvidia / Synopsys、EDA acceleration、computational lithography、chip design cycle compression、CUDA-X libraries。
+- **觀察指標**：simulation speedup、EDA GPU attach、cloud EDA adoption、Synopsys roadmap、customer migration、design-cycle time、Nvidia hardware pull-through。
+- **也出現於**：可與「AI Factory 系統級 TCO / Tokens per Watt 護城河框架」和 computational lithography 類框架交叉比對。
+- **相關 ticker / 產業**：**NVDA**, **SNPS**, **AAPL**, **AMD**, **INTC**, **005930.KS**；EDA、AI semiconductor、CUDA ecosystem。
+
+## 資產分拆反轉 / 系統整合保留框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第19期_AWS_Google_MSTR_Nvidia_Netflix_ALAB_CRDO.md`
+- **一句話定義**：當外部資本緩解資產負債表壓力，原本要出售的非核心資產可能被重新定義為系統方案的一部分；但代價是戰線擴張與執行複雜度上升。
+- **適用情境**：Intel NEX、turnaround company asset sales、AI server system integration、telecom edge infrastructure、capital allocation reversal。
+- **觀察指標**：segment revenue / margin、external funding、strategic partner orders、cross-sell、competitive share、management focus、FCF、資產出售 / 保留政策變化。
+- **也出現於**：可與「困境反轉 ICU / 外部強心針框架」和「NVLink 圍牆花園 / CPU-GPU 平台化框架」交叉比對。
+- **相關 ticker / 產業**：**INTC**, **NVDA**, **AVGO**, **ERIC**, **NOK**, **9984.T**, **SFTBY**；semiconductor turnaround、networking、edge compute、telecom infrastructure。
+
+## 串流終局 / IP 文化帝國併購框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第19期_AWS_Google_MSTR_Nvidia_Netflix_ALAB_CRDO.md`
+- **一句話定義**：串流平台成熟後，差異化可能從演算法分發與大量 originals，轉向擁有不可替代的經典 IP、角色宇宙與全球文化資產。
+- **適用情境**：Netflix / WBD、Disney / franchise IP、streaming consolidation、advertising tier monetization、content amortization。
+- **觀察指標**：regulatory market definition、subscriber overlap、viewing hours、ad tier revenue、content cost、IP franchise output、integration progress、breakup fee risk。
+- **也出現於**：可與 Netflix 圍牆花園 / IP monetization 框架交叉比對。
+- **相關 ticker / 產業**：**NFLX**, **WBD**, **PARA**, **DIS**, **GOOG**, **GOOGL**；streaming、media M&A、IP franchises、advertising video。
+
+## AI interconnect 敘事輪動 / 光子替代框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第19期_AWS_Google_MSTR_Nvidia_Netflix_ALAB_CRDO.md`
+- **一句話定義**：AI interconnect 估值會在 PCIe retimer、AEC、optical / photonic fabric 之間輪動；直接產品 overlap 很小，也可能因敘事與技術範式轉移而重估。
+- **適用情境**：ALAB vs CRDO、Marvell / Celestial AI、photonic fabric、AI rack architecture、chip-to-chip connectivity。
+- **觀察指標**：AEC adoption、PCIe retimer share、AI rack design、optical interconnect bandwidth / power、customer qualification、commercialization timeline、hyperscaler support。
+- **也出現於**：可與 AI optical interconnect / CPO / scale-up networking 類框架交叉比對。
+- **相關 ticker / 產業**：**CRDO**, **ALAB**, **MRVL**, **AMZN**；AI networking、retimers、active electrical cables、photonic interconnect。

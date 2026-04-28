@@ -4,6 +4,7 @@
 
 | 日期 | 檔案 | 來源 KOL / 來源 | 事件類型 | 主題標籤 | 交會等級 | 一句話結論 |
 |---|---|---|---|---|---|---|
+| 2025-12-06 | `Stocks/INTC/quarterly/INTC_筆記_2025Q4.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第19期_AWS_Google_MSTR_Nvidia_Netflix_ALAB_CRDO.md` | KP / FOMOSoc | Intel NEX retention / network + edge / system integration | #AI基建 #ReRating #競爭風險 #執行風險 #政策風險 | 歷史 L3 | KP 將 Intel 取消 NEX spinoff 解讀為外部資金改善後的戰略反轉：近 `$6B` revenue 的 network / edge business 可與 Xeon、AI server、Nvidia partnership 組成系統方案，但也讓 Intel 在 Foundry / CPU 之外多打一條 networking / edge 戰線 |
 | 2025-10-25 | `Stocks/INTC/quarterly/INTC_筆記_2025Q4.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第13期_OpenAI雲端合縱連橫與財報八題.md` | KP / FOMOSoc | Intel 財報 / 困境反轉 / DCAI / Foundry | #財報 #AI基建 #ReRating #競爭風險 #執行風險 | 歷史 L3 | KP 將 Intel 財報解讀為從 ICU 轉到復健室：連續六季虧損後轉盈、PC demand 回暖、成本紀律奏效、政府 / Nvidia / SoftBank 背書，但 data center share loss 與 Foundry 約 `$2.3B` 虧損仍需驗證 |
 | 2026-04-25 | `Stocks/INTC/quarterly/INTC_筆記_2026Q2.md`；`KOL/Bytc/articles/20260425_macro_data_weekly_20260423.md` | Bytc / Substack 宏觀週報 | AI 基建 / CPU 配比 / 財報後續 | #財報 #AI基建 #ReRating | L2 | Bytc 稱 Intel 財報遠超預期、舊 CPU 庫存賣光，AI Agent 推理將 CPU:GPU 從 1:8 拉向 1:4 / 1:1，並認為保守指引與 EPS 修復使目前股價合理；需用 DCAI / margin / EPS 驗證 |
 | 2026-04-24 | `Stocks/INTC/quarterly/INTC_筆記_2026Q2.md`；`KOL/大叔美股筆記/notes/大叔美股筆記.md` | 大叔美股筆記 / Substack Note | AI 基建 / CPU 供需 / thesis 補強 | #AI基建 | L2 | 大叔轉貼 CPU shortage / CPU supercycle 論點，並說這與自己 CPU 文章一致，屬於對 **INTC** DCAI / Agentic AI CPU 復權 thesis 的短訊號補強 |
