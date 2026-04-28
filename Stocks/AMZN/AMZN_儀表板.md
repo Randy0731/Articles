@@ -1,11 +1,12 @@
 # AMZN 投資儀表板
 
-> 最後更新：2026-04-29（補入 KP / FOMOSoc 2025-12-06 歷史 L2+：AWS + Google Cloud 多雲互連；不改變當前最新立場）
+> 最後更新：2026-04-29（補入 KP / FOMOSoc 2025-12-20 歷史 L2：AI data center 電費政治；不改變當前最新立場）
 
 ## 當前立場快照
 
 - **綜合立場**：正式追蹤；宋分對 **AMZN** 的框架偏正面，核心是市場可能再次把 Amazon 的資本投入誤判為短期 EPS / FCF 壓力，而不是下一輪現金流引擎。
 - **KOL 最新立場**：宋分 2026-04-22 將 Amazon re-rate 的底層拆成 ROIC x Organic Growth；4/25 AMZN 主文留言補充指出 Amazon Leo / Globalstar 重點在 coverage + control，像是 AWS 從 compute + storage 延伸到 connectivity；資產化研發則需追是否轉成 revenue / FCF，而不是只改善 EPS。
+- **本次補入的 KP 2025-12-20 電力政治脈絡**：KP 將參議員調查 Amazon / Google / Microsoft data center 電費轉嫁，解讀為 AI infrastructure 的「誰付電網升級成本」問題升溫。對 AWS 不是停建訊號，而是 Project Rainier / Trainium / AI data center buildout 需加入 utility rate case、special power contracts、居民電費反彈、州級監管與 construction-speed 摩擦成本。
 - **本次補入的 KP 2025Q4 脈絡**：KP 2025-10-25 將 AWS outage 解讀為 IAM / DNS 層級故障，市場冷靜反映 AWS 高轉換成本與基礎設施地位；同篇 Anthropic / Google TPU 不是 AWS thesis 崩壞，而是 training / inference 的多雲分工。KP 2025-11-01 再補 AWS Q3 revenue +`20.2%`、annualized revenue 約 `$132B`、operating profit 約 `$10.2B` 與 Project Rainier / Trainium，將其解讀為 AWS 沒有在 AI 雲端競賽中掉隊。KP 2025-12-06 進一步把 AWS + Google Cloud private multicloud interconnect / open spec 解讀為雲端戰爭從 lock-in 轉向跨平台治理；對 AWS 同時是 resilience / networking 產品化機會，也是傳統 switching-cost moat 被弱化的風險。
 - **KP 歷史補充**：KP 2025-08-03 早期週報已把 AWS 放進 AI 基建軍備競賽，將 AWS margin 下滑解讀成守住龍頭地位的策略性犧牲；此為歷史 L2 脈絡，不覆蓋宋分 2026 年最新 thesis。
 - **依據篇章**：`KOL/宋分/articles/20260422_market_decoding_19_roic_organic_growth_amzn.md`；`KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md`；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q2.md`
@@ -48,6 +49,7 @@
 | Anthropic 對 AWS 的 training workload 是否仍穩固？ | 2025-10-25（補入） | Trainium usage、Anthropic cloud spend split、Google TPU inference allocation、latency、cost per token、AWS AI revenue | KP 思考筆記第13期；`Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 歷史 L2 / 待追蹤 |
 | AWS Q3 再加速是否能延續，而不是單季 relief？ | 2025-11-01（補入） | AWS revenue growth、absolute dollar growth、operating margin、RPO / backlog conversion、Project Rainier utilization、Trainium performance | KP 思考筆記第14期；`Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 歷史 L2 / 待追蹤 |
 | AWS + Google Cloud 多雲互連是 resilience revenue 機會，還是削弱 AWS lock-in？ | 2025-12-06（補入） | multicloud interconnect adoption、enterprise network spend、egress economics、Azure Arc response、AI workload placement、regulated-industry usage | KP 思考筆記第19期；`Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 歷史 L2+ / 待追蹤 |
+| AWS AI data center 電網成本是由 hyperscalers 承擔，還是轉嫁給 ratepayers 引發政治摩擦？ | 2025-12-20（補入） | utility rate cases、special power contracts、PUC rulings、household bill increases、federal AI permitting、data center construction speed、AWS power cost | KP 思考筆記第21期；`Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 歷史 L2 / 待追蹤 |
 
 ## 關鍵風險清單
 
@@ -66,6 +68,7 @@
 | Anthropic / AI workload 分流 | 中高 | Anthropic 或其他 AI lab 將 inference / training spend 分散到 Google TPU、Azure 或 neoclouds，削弱 AWS AI 独佔敘事 | Trainium adoption、TPU deals、AI customer concentration、AWS AI revenue | KP 2025-10-25 |
 | AI 雲端相對掉隊風險 | 中高 | Azure / Google Cloud 在 AI growth、backlog、custom chips 或大型客戶上持續領先，AWS 再加速無法延續 | AWS growth、Project Rainier delivery、Trainium utilization、cloud AI revenue share、capex ROI | KP 2025-11-01 |
 | 多雲互通削弱 lock-in | 中高 | 客戶更容易把 workload 在 AWS、Google Cloud、Azure 之間分配，或由第三方 control plane 接管治理層 | multicloud interconnect adoption、egress pricing、Azure Arc adoption、enterprise churn、AWS networking / resilience revenue | KP 2025-12-06 |
+| AI data center 費率政治 | 中高 | 居民電費反彈、州級 PUC 要求 hyperscalers 承擔更多 grid upgrade cost，或 data center energization / permitting 因地方政治放慢 | utility rate cases、special contracts、household bill increases、power procurement cost、construction timeline、Cloud AI margin | KP 2025-12-20 |
 
 ## 持倉判斷依據（關鍵筆記）
 
@@ -77,3 +80,4 @@
 | `Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 2025-11-01 | KP 補上 AWS Q3 再加速與 Project Rainier / Trainium：AWS 仍在 AI 雲端牌桌上，但需用 workload / margin / capex ROI 驗證 | 中 |
 | `Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 2025-10-25 | KP 補上 AWS outage / Anthropic workload split 的歷史 L2：AWS moat 仍強，但雲端韌性與 AI workload 分工需持續驗證 | 中 |
 | `Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 2025-12-06 | KP 補上 AWS + Google Cloud 多雲互連：雲端競爭從 lock-in 轉向跨平台治理，AWS 需同時驗證 resilience 變現與 switching-cost moat 變化 | 中 |
+| `Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 2025-12-20 | KP 補上 AI data center 電費政治：AWS AI buildout 仍在，但需把 utility rate / grid upgrade cost / 地方監管摩擦納入 capex ROI 檢查 | 中 |

@@ -4,6 +4,87 @@
 
 ---
 
+## KP / FOMOSoc：TorchTPU 讓 TPU 接上 PyTorch，補強 Google TPU 商業化但不等於 CUDA 崩塌
+
+- **source_id**：`KP_FOMOSoc-20251220-kp-thinking-note-21-nvidia-slurm-nemotron-ford-bess-servicenow-oracle-ai-grid-micron-torchtpu-6188f34c`
+- **來源**：KP / FOMOSoc Substack 週報
+- **原文**：https://www.fomosoc.com/p/metacuda-kp21
+- **發文時間**：2025-12-20 03:15 UTC（台北 11:15）
+- **整理日期**：2026-04-29
+- **交會等級**：L3（已追蹤個股歷史補強）
+- **主題 tags**：#AI基建 #雲端基建 #競爭風險 #ReRating #產品節點
+
+### 主旨
+
+KP 在第 21 期將 Google / Meta 的 TorchTPU 視為 Google TPU 商業化路線的重要補強：過去 Google TPU 技術強，但 JAX / XLA 生態太小眾，外部開發者不願重寫 PyTorch 程式碼；TorchTPU 的務實之處，是讓 PyTorch workload 幾乎不改 code 就能跑 TPU。對 **GOOGL**，這使 TPU 更可能從 Google 內部專用工具，變成 cost-sensitive inference / 部分 training 的商業第二選擇。
+
+### 個股觀點
+
+| 面向 | KP 觀點 | 對 **GOOGL** 的資料庫含義 |
+|---|---|---|
+| 生態遷移 | OpenCL、ROCm、JAX 挑戰 CUDA 的共同問題，是要求開發者離開既有習慣；TorchTPU 反過來接住 PyTorch | 補強 Google TPU adoption，降低 external customer / developer migration friction |
+| Meta 動機 | Meta 作為 PyTorch 重要推動者，不想在 GPU 價格與供給上完全受制於 Nvidia | 對 Google 是商業化盟友，也顯示 TPU value proposition 來自供應商 bargaining power |
+| 商業定位 | TorchTPU 不是打倒 Nvidia，而是讓 TPU 成為成本更低、更容易取得的第二選擇 | 與第 15 期 Ironwood、第 18 期 GPU vs TPU 非零和競爭串起來：Google TPU thesis 更完整 |
+| 時間表 | KP 口徑認為 2026-2027 達到 production-usable 的機率相當高 | 需追 product readiness、Cloud customer adoption、TPU revenue visibility，而不是只看技術發布 |
+
+### 延伸追蹤
+
+| 事件 | 追蹤重點 |
+|---|---|
+| TorchTPU roadmap | PyTorch compatibility、developer tooling、debugging / library support、production readiness |
+| Google Cloud / TPU 財報線索 | TPU external adoption、Cloud AI revenue、cost per token、customer workload share、margin |
+| Meta / Google workload allocation | Meta 是否實際把部分 training / inference 移到 TPU；是否形成 Nvidia pricing pressure |
+| Nvidia response | CUDA / NIM / Slurm ecosystem response、pricing、bundling、developer lock-in strength |
+
+### 風險與限制
+
+- KP 的判斷是 TPU 成為第二選擇，不是 Nvidia CUDA moat 已崩塌。
+- Developer inertia 很強；若 TorchTPU technical compatibility 不等於 production reliability，外部 adoption 仍可能低於預期。
+- Google TPU 若仍主要停在 Google Cloud 圍牆花園內，commercial revenue conversion 仍需驗證。
+- 本文不是買賣建議。
+
+---
+
+## KP / FOMOSoc：參議員調查 AI data center 電費轉嫁，Google Cloud / AI 基建摩擦成本上升
+
+- **source_id**：`KP_FOMOSoc-20251220-kp-thinking-note-21-nvidia-slurm-nemotron-ford-bess-servicenow-oracle-ai-grid-micron-torchtpu-6188f34c`
+- **來源**：KP / FOMOSoc Substack 週報
+- **原文**：https://www.fomosoc.com/p/metacuda-kp21
+- **發文時間**：2025-12-20 03:15 UTC（台北 11:15）
+- **整理日期**：2026-04-29
+- **交會等級**：L2（已追蹤個股歷史補強）
+- **主題 tags**：#AI基建 #能源電力 #雲端基建 #政策風險 #估值風險
+
+### 主旨
+
+同篇中，KP 將美國參議員調查 Google、Microsoft、Amazon 等 data center 電費轉嫁問題，解讀為 AI infrastructure 的費率政治升溫。對 **GOOGL**，這與既有 Alphabet capex / energy sovereignty thesis 串接：Google 有 Intersect / Kairos / TPU / Cloud AI 的供電與基建布局，但美國 utility rate、州級監管與居民電費反彈可能提高 data center buildout 的摩擦成本。
+
+### 個股觀點
+
+| 面向 | KP 觀點 | 對 **GOOGL** 的資料庫含義 |
+|---|---|---|
+| 電網成本分攤 | Utilities 為 data centers 升級電網，成本可能透過費率轉嫁給所有居民 | Alphabet AI capex ROI 要把 power procurement、grid interconnection 與 rate politics 納入 |
+| 政策方向 | 聯邦 AI priority 仍支持建設，但地方費率政治可能要求科技巨頭承擔更多成本 | Google 的能源垂直整合可降低部分風險，但不能完全避開 utility / permitting 摩擦 |
+| 中國對照 | KP 認為中國 UHV / grid dispatch 在 AI 基建速度上具制度優勢 | Alphabet / U.S. hyperscalers 的優勢不只看 capex，也看 physical buildout speed |
+| 投資含義 | 監管調查更像 toll / friction cost，不是 AI data center 需求消失 | 對 GOOGL 是 L2 risk map 補強，不覆蓋 Search / Cloud / TPU / energy 主 thesis |
+
+### 延伸追蹤
+
+| 事件 | 追蹤重點 |
+|---|---|
+| Alphabet / Google Cloud 財報 | capex、depreciation、Cloud AI revenue、Cloud margin、power cost commentary |
+| Energy milestones | Intersect / Kairos / grid interconnection、PPA / special contracts、data center energization |
+| Utility / PUC 動態 | rate case、household bill increases、cost allocation、special tariff disclosure |
+| Federal / state AI policy | data center permitting、state opposition、federal override 或 tax / fee proposal |
+
+### 風險與限制
+
+- KP 不是說 **GOOGL** AI data center 停建，而是指出費率政治與物理基建摩擦變成新成本。
+- 電費與 utility rate 資料需要用 official filings / PUC docket / company disclosures 校準。
+- 本文不是買賣建議。
+
+---
+
 ## KP / FOMOSoc：Disney 對 Gemini 揮大棒，AI IP 授權成本進入模型競爭
 
 - **source_id**：`KP_FOMOSoc-20251213-kp-thinking-note-20-disney-openai-ibm-confluent-gev-softbank-meta-lulu-rivian-5eaae5de`

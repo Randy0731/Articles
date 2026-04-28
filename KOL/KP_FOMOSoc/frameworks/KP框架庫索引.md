@@ -15,6 +15,69 @@
 - **相關 ticker / 產業**：
 ```
 
+## AI 工廠調度層 / 開源外城河框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第21期_Nvidia_Ford_ServiceNow_Oracle_Micron_TorchTPU.md`
+- **一句話定義**：AI infrastructure moat 可從 GPU / CUDA 延伸到 cluster workload management、model serving 與 enterprise inference deployment；即使保持 open，也能用最佳化路徑推動硬體偏好。
+- **適用情境**：Nvidia / SchedMD / Slurm、Nemotron 3、NIM microservices、enterprise private AI servers、hardware-agnostic open model competition。
+- **觀察指標**：Slurm adoption、hardware optimization、GPU utilization、NIM / Nemotron deployment、enterprise private AI server demand、AMD / Intel compatibility、open-source community trust。
+- **也出現於**：可與 KP「AI Factory 系統級 TCO / Tokens per Watt 護城河框架」、「推理時代 / 專用晶片帝國框架」及大叔 Nvidia AI Factory / optical interconnect 框架交叉比對。
+- **相關 ticker / 產業**：**NVDA**, **AMD**, **INTC**, **GOOG**, **GOOGL**, **BABA**；SchedMD / DeepSeek 未上市；AI infrastructure、cluster orchestration、enterprise inference。
+
+## EV 止損再定位 / BESS 產能轉用框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第21期_Nvidia_Ford_ServiceNow_Oracle_Micron_TorchTPU.md`
+- **一句話定義**：傳統車廠若在純 EV 燒錢中止損，可把電池與製造能力轉向 EREV、commercial fleet 或 BESS 等更貼近自身能力圈的場景。
+- **適用情境**：Ford EV impairment、EREV pickup、battery JV dissolution、EV factory conversion、AI data center / utility battery storage。
+- **觀察指標**：EV impairment、EREV demand、BESS revenue、LFP licensing、factory conversion timing、utility / data center customers、grid software capability、gross margin。
+- **也出現於**：可與 KP「傳統企業 DNA 覺醒 / 利潤確定性框架」、「AI 基建實體資產 / 電力門票框架」及 Bytc / 大叔能源電力框架交叉比對。
+- **相關 ticker / 產業**：**F**, **TSLA**, **300750.SZ**, **1211.HK**；SK On 未上市；EVs、BESS、AI data center power。
+
+## AI Agent 資產感知 / 數據主權併購框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第21期_Nvidia_Ford_ServiceNow_Oracle_Micron_TorchTPU.md`
+- **一句話定義**：Enterprise AI agent 要可靠執行流程，必須先知道企業內所有設備與資產的即時狀態；agentless asset intelligence 因此可成為 workflow AI 的資料燃料。
+- **適用情境**：ServiceNow / Armis、CMDB、OT / IoT asset visibility、AI workflow automation、enterprise security and operations convergence。
+- **觀察指標**：asset coverage、agentless monitoring adoption、workflow automation attach、ARR retention、security platform competition、margin dilution、integration milestones。
+- **也出現於**：可與 KP「資安可觀測性融合 / AI IT 平台框架」、「高估值 SaaS 預期重設框架」及宋分 / Bytc SaaS AI 壓力框架交叉比對。
+- **相關 ticker / 產業**：**NOW**, **PANW**, **CRWD**；Armis / Veza / Moveworks 未上市；enterprise workflow、cybersecurity、OT / IoT。
+
+## AI 基建表外融資 / 金主風險框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第21期_Nvidia_Ford_ServiceNow_Oracle_Micron_TorchTPU.md`
+- **一句話定義**：AI data center buildout 若依賴 SPV / lease / private credit 金主，真正風險不只在客戶需求，也在 credit spread、refinancing、single-customer exposure 與 guarantee terms。
+- **適用情境**：Oracle / Blue Owl / Blackstone data center financing、OpenAI capacity commitments、private credit liquidity、off-balance-sheet AI infrastructure。
+- **觀察指標**：lease commitments、credit spread / CDS、financier fund flows、customer guarantee、FCF、interest cost、deal terms、refinancing schedule。
+- **也出現於**：延伸 KP「AI 供應商融資 / 真需求過濾框架」、「AI 中央銀行 / 生態融資框架」與「AI 垂直整合帝國 / 電力控制權框架」。
+- **相關 ticker / 產業**：**ORCL**, **OWL**, **BX**；OpenAI 未上市；AI data center financing、private credit。
+
+## AI data center 費率政治 / 物理摩擦成本框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第21期_Nvidia_Ford_ServiceNow_Oracle_Micron_TorchTPU.md`
+- **一句話定義**：AI 基建不只比晶片與資本，也比誰承擔電網升級成本；費率政治與地方審批會把物理摩擦轉成 construction speed 與成本變數。
+- **適用情境**：hyperscaler data center electricity demand、utility rate case、public utility commission、federal AI permitting、US vs China grid comparison。
+- **觀察指標**：electricity rates、utility capex、PUC decisions、special contracts、household rate pushback、permitting delays、federal override、construction timelines。
+- **也出現於**：可與 KP「AI 基建資本開支回報 / 2026 轉折框架」、「AI 基建實體資產 / 電力門票框架」及 Bytc 能源三部曲 / UTILIZE 框架交叉比對。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **AMZN**, **MSFT**；AI data centers、utilities、power policy。
+
+## HBM 價量鎖定 / 記憶體週期鈍化框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第21期_Nvidia_Ford_ServiceNow_Oracle_Micron_TorchTPU.md`
+- **一句話定義**：若 HBM 長約同時鎖量與鎖價，並綑綁 DDR5 / NAND，記憶體公司可降低傳統價格崩盤風險，但仍需檢查供給與庫存週期。
+- **適用情境**：Micron earnings、HBM sold-out capacity、DDR5 / NAND bundling、AI server memory cycle、memory makers capex discipline。
+- **觀察指標**：HBM LTAs、capacity sold out、contract duration、DDR5 / NAND bundling、capex discipline、bit supply、gross margin、customer inventory。
+- **也出現於**：可與 KP「AI server 估值保護傘 / PC 成本暴露框架」、「AI 伺服器價值鏈定價權 / 記憶體週期框架」及宋分「記憶體 PB / Cycle 三階段框架」交叉比對。
+- **相關 ticker / 產業**：**MU**, **005930.KS**, **000660.KS**, **NVDA**；HBM、DRAM、NAND、AI servers。
+
+## PyTorch-TPU 橋接 / CUDA 定價權侵蝕框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第21期_Nvidia_Ford_ServiceNow_Oracle_Micron_TorchTPU.md`
+- **一句話定義**：取代 CUDA 的務實路徑不是要求開發者換框架，而是在既有 PyTorch 習慣下提供成本更低、供應更穩的第二算力來源。
+- **適用情境**：Google / Meta TorchTPU、PyTorch hardware backend、TPU commercialization、hyperscaler bargaining power、CUDA ecosystem competition。
+- **觀察指標**：TorchTPU compatibility、production readiness、TPU external adoption、cost per token、enterprise procurement pressure、developer switching effort、Nvidia CUDA / NIM response。
+- **也出現於**：延伸 KP「推理時代 / 專用晶片帝國框架」、「GPU / ASIC 非零和替代框架」與「科技地緣生態圈 / 垂直整合動機框架」。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **META**, **NVDA**, **AMZN**, **MSFT**；AI accelerators、PyTorch、cloud AI。
+
 ## 私有 IP 數據 / AI 合規成本框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第20期_Disney_IBM_GEV_SoftBank_Meta_LULU_RIVN.md`
