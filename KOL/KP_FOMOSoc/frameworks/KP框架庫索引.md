@@ -78,6 +78,33 @@
 - **也出現於**：本篇為 KP 框架庫首筆。
 - **相關 ticker / 產業**：**INTC**, **TSM**, **NVDA**, **AMD**, **AVGO**；本土半導體製造、foundry、國家戰略資產。
 
+## 串流圍牆花園 / IP 外部變現取捨框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第05期_Netflix圍牆MSTR溢價與美團壕溝戰.md`
+- **一句話定義**：平台型串流若把核心 IP 過度外部變現，可能取得短期票房 / 商品收入，但也可能削弱訂閱平台的唯一性與用戶心智。
+- **適用情境**：Netflix、Disney、串流平台、IP franchise、院線窗口、內容平台 walled garden。
+- **觀察指標**：subscriber growth / churn、viewing hours、theatrical window、merchandising revenue、ad tier engagement、IP licensing、content amortization、member exclusivity perception。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**NFLX**, **DIS**；串流、娛樂內容、IP franchise、訂閱平台。
+
+## Bitcoin Treasury Premium 壓縮框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第05期_Netflix圍牆MSTR溢價與美團壕溝戰.md`
+- **一句話定義**：Bitcoin treasury 公司 premium 的核心不是 BTC 價格，而是 proxy 稀缺性、管理層信任、融資能力與市場願意為槓桿敘事支付的額外倍數。
+- **適用情境**：MSTR / Strategy、Bitcoin treasury companies、spot BTC ETF 替代、NAV premium / discount、crypto proxy equities。
+- **觀察指標**：premium to NAV、BTC holdings、share issuance、debt / preferred stock demand、ETF flows、BTC performance vs proxy performance、governance commitments、imitator supply。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**MSTR**, **BTC**, **IBIT**, **ETH**, **SOL**；Bitcoin treasury、crypto proxy、加密資產。
+
+## 平台補貼壕溝戰 / 成長股轉週期股框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第05期_Netflix圍牆MSTR溢價與美團壕溝戰.md`
+- **一句話定義**：當平台護城河被資本更厚或供應鏈更重的對手反覆補貼攻擊，原本贏家通吃的成長股故事可能轉成利潤率隨競爭週期劇烈波動的週期股。
+- **適用情境**：Meituan、food delivery、local commerce、ride-hailing、e-commerce delivery、補貼戰與重資產閉環競爭。
+- **觀察指標**：core local commerce margin、subsidy intensity、order share、merchant retention、rider cost、heavy-asset investment、overseas expansion pace、competitor funding capacity。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**3690.HK**, **BABA**, **JD**；外賣、本地生活、即時零售、平台競爭。
+
 ## AMD 雙線敘事 / 估值動能博弈框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第02期_AMD_CPU與GPU.md`
