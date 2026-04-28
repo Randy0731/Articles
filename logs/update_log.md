@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `大叔美股筆記-20260426-palisades-nuclear-restart-holtec-8f3516e`：整理大叔美股筆記 Substack Note《Palisades 核電廠重啟：`$1.52B` DOE loan 與核能重啟樣板》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。大叔轉貼 Tickerwire 對 Palisades Nuclear Power Plant 的整理，並標註 **OKLO** / **SMR** / **CCJ** / **UUUU** / **LEU**；Note 口徑稱 Palisades 在 2022 年關閉後準備歷史性重啟，獲 `$1.52B` federal loan backing，容量約 777MW，預計可供電約 800,000 homes，並可能成為美國 retired nuclear plant restart 的 precedent。
+- 更新：同步更新 source/ticker/theme/catalyst indexes。官方 DOE LPO Holtec Palisades page 用於校準：loan guarantee up to `$1.52B`、Covert Township 800-MW electric nuclear generating station、若成功將是美國首例 shut down commercial nuclear plant recommissioning，且 Holtec plans 2 SMR-300 units at Palisades after recommissioning。判定為核能 / AI 電力 / fuel-chain L1-L2 主題訊號，不更新 `Stocks/SMR/`，因 Holtec `SMR-300` 不是 NuScale ticker **SMR**；也不寫成 **OKLO**、**CCJ**、**UUUU** 或 **LEU** 的具名訂單、PPA、fuel contract、revenue 或 project finance。來源為 URL，未另存 raw，OCR 狀態不適用；本文不是買賣建議。
+
 - 入庫 `大叔美股筆記-20260427-poet-celestial-marvell-po-cancellation-9d0c8abe`：整理大叔美股筆記 Substack Note《**POET** Celestial / Marvell 訂單取消：保密義務與接刀風險警示》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。大叔轉貼 POET official purchase order update：Marvell Semiconductor 在 2026-04-23 向 POET 發出書面取消通知，取消 POET 從 Celestial AI 收到的所有 purchase orders，包括 2023-04-25 首次披露的 initial production units；official PR 稱 Marvell 指出的理由是 POET 披露 PO / shipping information，牴觸 confidentiality obligations。
 - 更新：同步更新 source/ticker/theme/catalyst/watchlist indexes。**POET** 判定為 L3 負面候選追蹤，更新既有 watchlist 但不建立 `Stocks/POET/`。大叔明確將事件視為名聲、法務合規與可能連鎖反應，並提醒不要接刀；整理中標註 CFO 財訪、訴訟連鎖反應屬 KOL 判斷 / 待驗證，官方目前只證實 cancellation 與 confidentiality allegation。來源為 URL，未另存 raw，OCR 狀態不適用；本文不是買賣建議。
 
