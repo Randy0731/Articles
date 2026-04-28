@@ -51,6 +51,33 @@
 - **也出現於**：本篇為 KP 框架庫首筆。
 - **相關 ticker / 產業**：**CEG**, **OKLO**, **MSFT**, **GOOG**, **GOOGL**；核能、AI data center power、24/7 carbon-free electricity、PPA。
 
+## 企業 AI 落地 / 場景整合過濾器框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第04期_AI泡沫Chrome入口與Intel國家隊.md`
+- **一句話定義**：AI 是否創造投資價值，不看 demo 或模型本身，而看它能否嵌入企業資料、本體論、營運流程與可量化財務結果。
+- **適用情境**：enterprise AI software、AI app layer、PLTR / data platform / workflow automation、AI ROI 辯論。
+- **觀察指標**：core workflow adoption、ontology / data integration、revenue impact、cost savings、supply-chain automation、gross margin / operating margin、customer expansion、AIP use cases。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**PLTR**；企業 AI、資料平台、軟體 SaaS、AI app layer。
+
+## AI 入口控制權 / Browser Distribution Moat 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第04期_AI泡沫Chrome入口與Intel國家隊.md`
+- **一句話定義**：在 AI 搜尋與 agent 時代，瀏覽器不只是網頁工具，而是模型 / 搜尋 / agent 服務的分發入口；誰控制入口，誰就更接近定義資訊互動方式。
+- **適用情境**：Google Search antitrust、Chrome remedy、AI browser、Perplexity / OpenAI distribution、default search agreements。
+- **觀察指標**：default search agreement terms、Chrome remedy、browser share、AI answer / agent adoption、search query share、TAC、paid clicks、ad load、regulatory timeline。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **AAPL**, **005930.KS**；搜尋、瀏覽器、AI agent distribution、反壟斷。
+
+## 國家隊 Put / 戰略資產下檔鎖定框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第04期_AI泡沫Chrome入口與Intel國家隊.md`
+- **一句話定義**：當公司被政府視為國家戰略資產時，政策入股 / 補助可能降低存續與融資風險，但股東 upside 仍取決於商業執行、稀釋成本與資本回報。
+- **適用情境**：Intel / domestic semiconductor manufacturing、defense industrial base、critical infrastructure、補助轉股、政府 rescue / stake。
+- **觀察指標**：government equity terms、dilution、cash burn、capex funding gap、external customer wins、technology roadmap、gross margin、FCF、policy conditions。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**INTC**, **TSM**, **NVDA**, **AMD**, **AVGO**；本土半導體製造、foundry、國家戰略資產。
+
 ## AMD 雙線敘事 / 估值動能博弈框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第02期_AMD_CPU與GPU.md`
