@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260414-analyst-system-2-income-statement-operating-leverage-rerate-429faebd`：整理宋分 / 美股送分題 Substack 電子報《宋分 | 分析師底層系統 #2》營業槓桿才是股價起漲的真正引擎，並將推廣 Note `宋分-20260414-analyst-system-2-operating-leverage-promo-93f619b2` 作為同組來源，建立 `KOL/宋分/articles/20260414_analyst_system_2_income_statement_operating_leverage_rerate.md`。Substack API / JSON-LD 與推廣 Note JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「損益表價值放大 / 營業槓桿 Re-rate 框架」，並補強「健康投資 vs 惡化分流框架」：分析師不只看 revenue growth / EPS beat，而是看 revenue -> gross profit -> Opex -> operating income -> EPS 過程中價值是否被放大；若高品質營收、毛利邊際改善、健康費用與 operating leverage 一起出現，才更接近 re-rate 起點。Aurora Systems 為假設案例；Nvidia 僅為供應商舉例，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260413-analyst-memo-6-efficiency-security-ai-software-margin-turn-117f1149`：整理宋分 / 美股送分題 Substack 電子報《宋分分析師備忘錄 #6》市場正在切換一個更大的東西｜從效率到安全｜AI 最後可能不是硬體賺錢｜財報季真正要看的不是 EPS，並將推廣 Note `宋分-20260413-analyst-memo-6-promo-efficiency-security-ai-software-84914982` 與產業分流補充 `宋分-20260413-analyst-memo-6-sector-map-supplement-177d3828` 作為同組來源，建立 `KOL/宋分/articles/20260413_analyst_memo_6_efficiency_security_ai_software_margin_turn.md`。Substack 電子報 HTML / JSON-LD、推廣 Note 與補充 Note JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/ticker/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「效率世界 -> 安全世界 / 風險溢價驗證框架」、「AI 基建價值捕捉 / 軟體應用層框架」、「財報季利潤率轉折 / 最壞已過框架」，並補強「單一變數過度定價 / 第二敘事框架」：市場從 lowest cost / fastest growth 轉向 resilience / anti-fragile，AI 革命最後最大利潤可能不在重資本基建，財報季不只看 EPS beat 而要看 margin 是否見底。**ASML**、**TSM** 僅為 L1 財報季觀察點，不更新 watchlist 或 `Stocks/`；本文不是買賣建議。
 
