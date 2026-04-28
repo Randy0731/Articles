@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260205-amd-valuation-thermometer-6dd1d930`：整理宋分 / 美股送分題 Substack Note + Threads 延伸文《AMD 估值溫度計：重挫後進入長線佈局區間》，建立 `KOL/宋分/articles/20260205_amd_valuation_thermometer.md`，並複製使用者提供之 2 頁 Threads 截圖 PDF 至 `KOL/宋分/raw/20260205_宋分_amd_valuation_thermometer_宋分-20260205-amd-valuation-thermometer-6dd1d930.pdf`。Substack Note 正文可讀，Threads PDF 為 image-only；p.1 為核心主貼、延伸貼與留言，p.2 僅留言尾端，OCR / 視讀足以支撐整理。
+- 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes、`KOL/宋分/frameworks/宋分框架庫索引.md` 與 private raw manifest。**AMD** 判定為宋分單篇 L3 候選追蹤：forward PE 由今年 `34x` -> `30x`、明年 `22x` -> `19x`，公司再上一季回購價 `$154` 作估值錨，MI450 下半年出貨、Q3 轉折與 Q4 加速作後續檢查。因 `Stocks/AMD/` 尚未建立且本次是補入舊文，先更新 watchlist，不自動建立正式個股專案；所有「長線佈局區間」與「送分題」語境均為 KOL 個人框架，不是本專案買賣建議。
+
 - 入庫 `大叔美股筆記-20260226-redwire-rdw-2025-q4-fy-0312b320`：整理大叔美股筆記 Substack 付費文章《Redwire Corporation **RDW** 2025 財年第四季與全年財報亮點》，建立 `KOL/大叔美股筆記/articles/20260226_redwire_rdw_2025_q4_fy_uncle.md`，並複製使用者提供之 9 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20260226_大叔美股筆記_redwire_rdw_2025_q4_fy_大叔美股筆記-20260226-redwire-rdw-2025-q4-fy-0312b320.pdf`。公開頁顯示 metadata 與付費 preview，完整內容以 PDF 視讀為主；p.1-p.7 為核心正文、圖表與結論，p.8 為免責聲明 / links / discussion，p.9 為 recommended posts / footer。大叔將 **RDW** Q4 / FY2025 寫成去槓桿化與訂單能見度的轉型驗證：FY2025 revenue `3.354 億美元`、Q4 revenue `1.088 億美元`、Q4 YoY `+56.4%`、backlog `4.112 億美元`、Q4 book-to-bill `1.52x`、2026 guide `4.5-5.0 億美元`，但 FCF、ATM 稀釋、Ann Arbor 產能 ramp 與政府預算仍是主要壓力測試。
 - 更新：同步更新 `Stocks/RDW/quarterly/RDW_筆記_2026Q1.md`、`Stocks/RDW/RDW_儀表板.md`、`Stocks/RDW/RDW_index.md`、`kol_config.yaml`、source/ticker/theme/catalyst/framework indexes 與 private raw manifest。新增「RDW 買 backlog 監控 cash 框架」；大叔 Q4 文中的 DCF / 情境價值 bear `$5.50-$6.50`、base `$12.50-$14.50`、bull `$20+` 與 forward EV/Sales 約 `2.97x` 均記為 KOL 情境，不是本專案買賣建議。
 
