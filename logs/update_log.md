@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260421-market-decoding-18-amzn-capital-cycle-rerate-17d54f26` 與推廣 Note `宋分-20260421-market-decoding-18-amzn-promo-ddbb00af`：整理宋分 / 美股送分題 Substack 電子報《市場解碼深度｜Amazon為什麼可以盤整數年，卻一啟動就是多年大多頭？衛星會讓Amazon再次re-rate嗎？》與 Substack Note `c-246701987`，建立 `KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md`。Substack 電子報 preloads / JSON-LD、推廣 Note JSON-LD 與 Amazon 2026-04-14 Globalstar official PR 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：將既有 watchlist 的 **AMZN** 升級為正式 `Stocks/AMZN/` 專案，建立 `Stocks/AMZN/quarterly/AMZN_筆記_2026Q2.md`、`Stocks/AMZN/AMZN_儀表板.md`、`Stocks/AMZN/AMZN_index.md`，並同步更新 `kol_config.yaml`、source/ticker/theme/framework/catalyst/watchlist indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。升級理由是宋分 2026-02-06 已有 AMZN L3 CAPEX Cycle 3 線索，本篇 2026-04-21 進一步把 AMZN 定義為「現金流 -> 再投資 -> 再爆發」的資本週期股，形成「資本週期 / ROIC x Organic Growth Re-rate 框架」，並把 Globalstar / Amazon Leo 放入 Cycle 3 connectivity 假設。**GSAT** 與 **AAPL** 只記 Amazon official corporate action / service-agreement context，不建立 watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 補充入庫 `宋分-20260420-analyst-memo-7-followup-qa-d18106aa` 與 `宋分-20260426-ai-rerate-value-capture-stage-8f39d286`：兩則 Substack Note / Reply JSON-LD 正文完整可讀，併回 `KOL/宋分/articles/20260420_analyst_memo_7_csp_token_pricing_power.md`，來源為 URL，未另存 raw，OCR 狀態不適用。第一則補強 #7 的 Token 單價、ROI、裁員率、宏觀風險與 workflow lock-in QA；第二則補充 AI re-rate 起點與普及後 value capture 階段分流。
 - 更新：同步更新 source/theme/framework/catalyst indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。Follow-up QA 將 #7 框架轉成 `Price x Usage x Predictability`、Token GDP、ROI 財報化、usage retention 與 workflow 自動化檢查；4/26 補充提醒早期 re-rate 與普及後「誰捕捉最多價值」不同。兩則補充無新增具名 ticker thesis，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
 

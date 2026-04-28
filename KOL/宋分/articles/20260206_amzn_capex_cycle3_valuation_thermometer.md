@@ -16,13 +16,13 @@
 
 宋分把 Amazon 財報後的 CAPEX 恐慌，類比成 AWS 前兩輪建置週期：先大幅投資、現金流和 EPS 被壓，後續才讓 AWS 營收、營益率與 EPS 跳升。他認為市場只看見 CAPEX 暴增與自由現金流轉弱，但忽略 AWS backlog YoY 在 2025Q3-Q4 從 `22%` 跳到 `38%`，因此把 **AMZN** 視為與 **NVDA** 並列的 M7 最便宜標的之一。
 
-這篇對 **AMZN** 是 L3 候選追蹤：文章主體圍繞 **AMZN** 的 forward PE、CAPEX / FCF 壓力、AWS backlog、建置週期與評價溫度計位置；但本專案尚未建立 `Stocks/AMZN/`，因此先更新 ticker / theme / framework / catalyst / watchlist，不新建正式個股專案。文中的「便宜」「不會再錯過」是 KOL 個人框架語境，不是本專案買賣建議。
+這篇對 **AMZN** 是 L3 候選追蹤：文章主體圍繞 **AMZN** 的 forward PE、CAPEX / FCF 壓力、AWS backlog、建置週期與評價溫度計位置。整理當時尚未建立 `Stocks/AMZN/`，因此先更新 ticker / theme / framework / catalyst / watchlist；2026-04-21 宋分新文後已升級為正式 `Stocks/AMZN/` 專案。文中的「便宜」「不會再錯過」是 KOL 個人框架語境，不是本專案買賣建議。
 
 ## Ticker 分流
 
 | Ticker | 文章角色 | 交會等級 | 動作 | 理由 |
 |---|---|---|---|---|
-| **AMZN** | 主角；CAPEX Cycle 3、AWS backlog、forward PE 與評價溫度計 | L3 候選追蹤 | ticker index + theme index + framework index + catalyst index + watchlist；不建立 `Stocks/AMZN/` | 整篇核心是 **AMZN** 財報後因 CAPEX 恐慌而估值下修，但宋分用 AWS backlog 與歷史建置週期判斷現在靠近溫度計左側 |
+| **AMZN** | 主角；CAPEX Cycle 3、AWS backlog、forward PE 與評價溫度計 | L3 候選追蹤 | ticker index + theme index + framework index + catalyst index + watchlist；2026-04-21 後升級 `Stocks/AMZN/` | 整篇核心是 **AMZN** 財報後因 CAPEX 恐慌而估值下修，但宋分用 AWS backlog 與歷史建置週期判斷現在靠近溫度計左側 |
 | **NVDA** | M7 便宜度比較對象 | L1 | ticker index | 只用於「與 **NVDA** 並列 M7 最便宜」的相對估值比較；本篇沒有新增 **NVDA** 單股 thesis |
 
 ## 個股觀點

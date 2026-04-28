@@ -292,6 +292,39 @@ stock_projects:
       - "#執行風險"
       - "#政策風險"
 
+  AMZN:
+    aliases:
+      - "AMZN"
+      - "Amazon"
+      - "Amazon.com"
+      - "Amazon.com, Inc."
+      - "AWS"
+      - "Amazon Web Services"
+      - "Amazon Leo"
+      - "Project Kuiper"
+    root: "Stocks/AMZN"
+    raw_dir: "Stocks/AMZN/raw"
+    notes_dir: "Stocks/AMZN/notes"
+    quarterly_dir: "Stocks/AMZN/quarterly"
+    milestones_dir: "Stocks/AMZN/milestones"
+    longform_dir: "Stocks/AMZN/longform"
+    dashboard: "Stocks/AMZN/AMZN_儀表板.md"
+    stock_index: "Stocks/AMZN/AMZN_index.md"
+    current_quarter_file_pattern: "AMZN_筆記_YYYYQN.md"
+    milestone_file_pattern: "AMZN_里程碑_[文章標題].md"
+    longform_file_pattern: "AMZN_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    theme_tags:
+      - "#AI基建"
+      - "#財報"
+      - "#併購"
+      - "#ReRating"
+      - "#估值風險"
+      - "#執行風險"
+      - "#競爭風險"
+      - "#供應鏈風險"
+
   LRCX:
     aliases:
       - "LRCX"
