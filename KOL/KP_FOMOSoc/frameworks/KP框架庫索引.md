@@ -15,6 +15,87 @@
 - **相關 ticker / 產業**：
 ```
 
+## 反脆弱組合 / 多護城河框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第32期_Copper_CRDO_BRK_CRWD_PrivateCredit_MSFT_NVDA_TTD.md`
+- **一句話定義**：極高不確定環境下，不押單一敘事，而以低槓桿、現金、低信念清理與多類型護城河建立可承受波動的組合。
+- **適用情境**：market drawdown、戰爭 / 通膨 / 流動性壓力、高 beta 組合體檢、portfolio construction。
+- **觀察指標**：leverage、cash ratio、position conviction、thesis diversity、stress correlation、drawdown tolerance、rebalancing discipline。
+- **也出現於**：呼應第31期 HALO / 實體資產預期重置框架與第28期價格影子 / 生意實體框架。
+- **相關 ticker / 產業**：全市場；**PLTR** 作反脆弱例子。
+
+## 光進銅進 / 電氣化銅需求框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第32期_Copper_CRDO_BRK_CRWD_PrivateCredit_MSFT_NVDA_TTD.md`
+- **一句話定義**：光學替代資料線不等於銅需求下滑，因 AI 機架高功耗與電網 / EV / 再生能源擴張才是銅需求主體。
+- **適用情境**：copper demand、AI data center power buildout、optical interconnect vs electrical infrastructure、electrification cycle。
+- **觀察指標**：data center copper intensity、power distribution capex、grid upgrade capex、EV copper demand、renewables copper demand、mine lead time、supply deficit。
+- **也出現於**：延伸第30期銅擴張稅 / 工業權力移轉框架。
+- **相關 ticker / 產業**：copper / AI data center / grid / EV / renewables；**NVDA**, **AVGO** 作 AI infra context。
+
+## 銅線過渡期 / 跨介質可靠性平台框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第32期_Copper_CRDO_BRK_CRWD_PrivateCredit_MSFT_NVDA_TTD.md`
+- **一句話定義**：AEC 仍有商業窗口，連接公司可用現金牛資助光學 DSP、ALC、可靠性與晶片層轉型。
+- **適用情境**：Credo AEC、Broadcom CPO timing、AI rack interconnect、optical transition、MicroLED / ALC。
+- **觀察指標**：AEC revenue / share、CPO adoption timing、ZeroFlap adoption、ALC sampling、optical DSP revenue、OmniConnect design wins、gross margin、customer concentration。
+- **也出現於**：呼應第19期 CRDO / ALAB 互連敘事輪動與第31期 HBF / memory hierarchy 類似的「新樓層」思考。
+- **相關 ticker / 產業**：**CRDO**, **AVGO**, **NVDA**；AI interconnect / optical networking。
+
+## 後巴菲特 / 抗風險系統框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第32期_Copper_CRDO_BRK_CRWD_PrivateCredit_MSFT_NVDA_TTD.md`
+- **一句話定義**：接班後 Berkshire 從 Buffett genius option 轉為 culture、cash、insurance 與資本配置紀律構成的抗風險系統。
+- **適用情境**：Berkshire succession、conglomerate capital allocation、cash-rich holding company、insurance float。
+- **觀察指標**：cash balance、buybacks、large acquisition quality、insider buying、insurance underwriting、subsidiary earnings、legacy asset cleanup、valuation premium。
+- **也出現於**：延伸第23期 Buffett premium 交棒壓力測試與第26期 legacy asset cleanup。
+- **相關 ticker / 產業**：**BRK.A**, **BRK.B**；conglomerate / insurance / capital allocation。
+
+## AI 攻擊面擴張 / 資安數據護城河框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第32期_Copper_CRDO_BRK_CRWD_PrivateCredit_MSFT_NVDA_TTD.md`
+- **一句話定義**：AI adoption 讓攻擊面變大，資安平台若有專有攻防數據與統一平台，可把 AI 威脅轉成需求。
+- **適用情境**：CrowdStrike、AI security、endpoint / model / prompt protection、security platform consolidation。
+- **觀察指標**：ARR、net new ARR、AI product ARR、AI app instances、Threat Graph events、module adoption、Falcon Flex ARR、FCF margin。
+- **也出現於**：呼應第30期 AI 原生資安平台化框架與第17期 PANW / Chronosphere security + observability convergence。
+- **相關 ticker / 產業**：**CRWD**, **PANW**, **CYBR**, **DDOG**；cybersecurity。
+
+## 私募信貸限贖 / 流動性心理戰框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第32期_Copper_CRDO_BRK_CRWD_PrivateCredit_MSFT_NVDA_TTD.md`
+- **一句話定義**：基金限贖未必造成銀行直接 solvency crisis，但會透過信心、credit-line drawdown 與行業集中度引發間接壓力。
+- **適用情境**：private credit funds、BlackRock gating、bank exposure、shadow banking liquidity、regulatory reset。
+- **觀察指標**：redemption requests、gating frequency、bank credit-line commitments、CET1 sensitivity、NAV marks、asset sale discounts、software default rate、fund flows。
+- **也出現於**：延伸第30期半流動性私募信貸錯配框架與第21期 Blue Owl / Oracle AI data center financing risk。
+- **相關 ticker / 產業**：**BLK**；private credit / banks / asset managers。
+
+## Token 節流閥 / AI 軟體治理框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第32期_Copper_CRDO_BRK_CRWD_PrivateCredit_MSFT_NVDA_TTD.md`
+- **一句話定義**：AI 越貴越需要軟體做 token 預算、模型調度、協作與風險治理；軟體從工具升級為 AI 控制層。
+- **適用情境**：Microsoft Copilot、enterprise AI governance、Teams agents、model routing、AI cost management。
+- **觀察指標**：Copilot usage / margin、token budget controls、model routing、MAI / small-model adoption、Teams collaboration、Azure AI revenue、governance attach。
+- **也出現於**：呼應第29期 AI 自給自足 / 混合生態 margin deadlock 框架與第31期 Stateful Runtime / 企業 AI 作業系統框架。
+- **相關 ticker / 產業**：**MSFT**；enterprise software / cloud AI。
+
+## SBC 素顏會計 / 獲利品質標準框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第32期_Copper_CRDO_BRK_CRWD_PrivateCredit_MSFT_NVDA_TTD.md`
+- **一句話定義**：高品質平台可主動把 SBC 納入 non-GAAP，重設同業獲利品質比較標準並壓縮會計美化空間。
+- **適用情境**：Nvidia reporting change、semiconductor peer comparison、software / tech non-GAAP quality、mature platform transition。
+- **觀察指標**：SBC as % revenue / income、EPS impact、share dilution、buyback offset、FCF quality、peer disclosure、valuation multiple。
+- **也出現於**：可與宋分財報品質 / FCF 框架、KP 第31期完美財報消化期框架交叉比對。
+- **相關 ticker / 產業**：**NVDA**, **AVGO**, **AMD**, **MRVL**；semiconductors / high-quality tech earnings。
+
+## AI 廣告新大陸 / Open Internet 重定價框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第32期_Copper_CRDO_BRK_CRWD_PrivateCredit_MSFT_NVDA_TTD.md`
+- **一句話定義**：ChatGPT 類 AI 入口若開放廣告，DSP 可從被 walled gardens 壓縮的 open internet 角色轉向新庫存定價者。
+- **適用情境**：The Trade Desk / OpenAI ads、AI search advertising、DSP / RTB / data clean rooms、retail media split。
+- **觀察指標**：ad product launch、partnership exclusivity、take rate、CPM / ROAS、brand advertiser adoption、data clean room usage、self-build risk、walled-garden response。
+- **也出現於**：呼應第28期 AI Search 擴張 / 商業意圖再商品化框架與第10期 Agentic Commerce / AI 入口抽佣框架。
+- **相關 ticker / 產業**：**TTD**, **CRTO**, **GOOG**, **GOOGL**, **AMZN**；adtech / AI search / open internet。
+
 ## HALO / 實體資產預期重置框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第31期_AMDMeta_IBM_GoogleTPU_Salesforce_HBF_Nvidia_Netflix_AWS.md`
