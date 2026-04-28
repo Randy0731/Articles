@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 補充入庫 `宋分-20260420-analyst-memo-7-followup-qa-d18106aa` 與 `宋分-20260426-ai-rerate-value-capture-stage-8f39d286`：兩則 Substack Note / Reply JSON-LD 正文完整可讀，併回 `KOL/宋分/articles/20260420_analyst_memo_7_csp_token_pricing_power.md`，來源為 URL，未另存 raw，OCR 狀態不適用。第一則補強 #7 的 Token 單價、ROI、裁員率、宏觀風險與 workflow lock-in QA；第二則補充 AI re-rate 起點與普及後 value capture 階段分流。
+- 更新：同步更新 source/theme/framework/catalyst indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。Follow-up QA 將 #7 框架轉成 `Price x Usage x Predictability`、Token GDP、ROI 財報化、usage retention 與 workflow 自動化檢查；4/26 補充提醒早期 re-rate 與普及後「誰捕捉最多價值」不同。兩則補充無新增具名 ticker thesis，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260420-analyst-memo-7-csp-token-pricing-power-85eff2a6`：整理宋分 / 美股送分題 Substack 電子報《宋分分析師備忘錄 #7》CSP 真正的拐點不是 AI，而是「Token 定價權」｜從算力競賽到收費機制，市場即將 re-rate，並將推廣 Note `宋分-20260420-analyst-memo-7-token-pricing-promo-4119ddaf` 作為同組來源，建立 `KOL/宋分/articles/20260420_analyst_memo_7_csp_token_pricing_power.md`。Substack 電子報 HTML / JSON-LD 與推廣 Note JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/ticker/theme/framework/catalyst/watchlist indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「CSP Token 定價權 / 收費機制 Re-rate 框架」：AI 從功能變成 Token 計價單位後，控制算力、電力、低延遲推理與企業 workflow 的 CSP 可能從 CAPEX 燒錢敘事轉成可重複收費系統；**MSFT** 為 L2 framework case，更新 watchlist；**AAPL** 為條件式 AI 生態系收費候選，更新 ticker index；**META**、**NVDA** 僅為對照 / 產品節點語境，不更新 `Stocks/`。本文不是買賣建議。
 
