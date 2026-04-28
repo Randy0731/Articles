@@ -35,6 +35,7 @@
 | 交易價值 | Mistral 合併交易價值 | 約 `$175M` | Ondas 官方新聞稿 | 官方新聞稿數字 |
 | backlog | Mistral contracted backlog | 約 `$264M` | 大叔 Note / Ondas 官方新聞稿 | 截至 2026-04-21 |
 | backlog | Ondas pro forma backlog，含 Mistral 與 World View 調整 | 約 `$457M` | 大叔 Note / Ondas 官方新聞稿 | 截至 2026-03-31 |
+| 具名 Army award | Mistral awarded U.S. Army THOR Group 2 UAS contract | `$20,039,666`；estimated completion 2027-03-17 | 大叔 Note / Mistral PR | 2026-04-27 後續驗證；contract number `W58RGZ-26-G-0026`，但仍需追 delivery / revenue / cash |
 | 股權激勵 | RSU 授予 58 名新聘員工 | 1,245,263 股 | Ondas 官方新聞稿 | 12 個季度等額歸屬，需追稀釋與留才效果 |
 
 ### 風險表
@@ -55,6 +56,12 @@
 | Mistral 是 U.S.-based defense prime contractor | **ONDS** 取得直接主承包商與聯邦合約基礎設施，不只是新增產品線 |
 | 官方新聞稿提到 U.S. Army / Special Operations contract vehicles | 後續要追 task order 與 program-of-record deployment，而不是只看 headline contract vehicle |
 | Mistral backlog 約 `$264M`、pro forma backlog 約 `$457M` | thesis 驗證從敘事轉向 backlog 轉 revenue、毛利率與現金流 |
+
+### 後續驗證
+
+| 日期 | 事件 | 解讀 |
+|---|---|---|
+| 2026-04-27 | Mistral awarded U.S. Army `$20,039,666` firm-fixed-price contract for THOR Group 2 UAS systems and payloads | 這是 Mistral closing 後具名 Army award follow-up，驗證 contract vehicle / defense prime access 的可用性；仍不是 `$1B+` IDIQ 全額轉單，也不是已認列 revenue 或 cash collection。 |
 
 ### 核心概念
 
