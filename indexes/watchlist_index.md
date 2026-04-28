@@ -53,3 +53,4 @@
 | **LAC** | 2026-01-18 | 2026-01-18 | 大叔美股筆記 | 大叔將 LAC 放入成長衛星 7% 權重，定位為美國本土鋰礦與政府貸款受益 | 觀察中 | 若後續出現 Thacker Pass / 政府貸款 / 鋰價驗證、更多 KOL L2+，或使用者要求追蹤，升級為 Stocks 專案 |
 | **UUUU** | 2026-01-18 | 2026-01-18 | 大叔美股筆記 | 大叔將 Energy Fuels 放入成長衛星 8% 權重，定位為鈾、釩與稀土的政策黑馬 | 觀察中 | 若後續出現鈾 / 稀土加工 / 政策合約、更多 KOL L2+，或使用者要求追蹤，升級為 Stocks 專案 |
 | **ABAT** | 2026-01-18 | 2026-01-18 | 大叔美股筆記 | 大叔將 ABAT 放入高風險選擇權 7% 權重，定位為電池回收與去中化供應鏈閉環 | 觀察中 | 若後續出現商業化、回收產能、政府補助、更多 KOL L2+，或使用者要求追蹤，升級為 Stocks 專案 |
+| **PLTR** | 2025-12-27 | 2025-12-27 | 大叔美股筆記 | 大叔在 2026 地緣政治與供應鏈自主清單中將 **PLTR** 標為 `✅`，定位為國防作戰系統與情報 AI、美軍去中化的軟體核心；此前 **PLTR** 多次作為 **ONDS** 政府合約 / 長期持有心法 / Palantir Foundry 類比出現，但未形成正式 `Stocks/PLTR/` 專案 | 觀察中；大叔 L2 ownership / defense AI thematic signal，不建立 Stocks 專案 | 若後續出現更多 KOL L2+ 或 L3+ 的 **PLTR** 單股 thesis、DoD / allied AI contract、AIP / defense software revenue、commercial growth、margin / valuation 可驗證，或使用者要求追蹤，升級為 Stocks 專案 |

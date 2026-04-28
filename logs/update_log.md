@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `大叔美股筆記-20251227-geopolitics-supply-chain-autonomy-41d08e23`：整理大叔美股筆記 Substack 文章《大叔 2026 地緣政治與供應鏈自主(包含國防、太空、無人機、稀土)》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`，並複製使用者提供之 3 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20251227_大叔美股筆記_geopolitics_supply_chain_autonomy_大叔美股筆記-20251227-geopolitics-supply-chain-autonomy-41d08e23.pdf`。公開頁全文可讀；原文標註 2025/12/25 更新版清單，發文時間 2025-12-27 08:56 UTC（台北 16:56）。大叔將 2026 地緣政治與供應鏈自主拆成國防鐵軍與核 / 海霸權、戰術無人機與蜂群、太空天眼與通訊、稀土與能源四籃子。
+- 更新：同步更新 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`、`Stocks/ONDS/ONDS_index.md`、source/ticker/theme/catalyst/framework/watchlist indexes 與 private raw manifest。**ONDS** 判定為已追蹤個股 L2 ownership / C-UAS 主題訊號，只同步季度筆記，不另開 milestone 或更新 dashboard；**PLTR** 因標 `✅` 且定位為國防作戰系統與情報 AI / 美軍去中化軟體核心，新增 watchlist；其餘多數 ticker 只作 broad watchlist / supply-chain map。`✅` 是大叔自述 exposure，`(考慮有)` 是觀察語境，不是本專案買賣建議。
+
 - 入庫 `大叔美股筆記-20260428-msft-openai-partnership-2032-e12919c6`：整理大叔美股筆記 Substack Note《OpenAI / Microsoft partnership：2032 非獨家授權與 IPO 股權選擇權》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。大叔解讀 OpenAI / Microsoft amended agreement 為雙方妥協：OpenAI 換到跨雲分發與 IPO / 估值彈性，Microsoft 雖失去部分 Azure 專屬護城河，但取得 2032 前 OpenAI models/products non-exclusive license、Copilot 技術保單與 OpenAI shareholder upside，並仍會推 MAI 自研模型。
 - 更新：OpenAI official PR 用於校準條款：Microsoft remains primary cloud partner、OpenAI products ship first on Azure unless support unavailable、OpenAI can serve products across any cloud provider、Microsoft license through 2032 and non-exclusive、OpenAI to Microsoft revenue share continues through 2030 subject to cap、Microsoft remains major shareholder。同步更新 source/ticker/theme/catalyst/framework/watchlist indexes；**MSFT** 判定為跨 KOL 多篇 L2+ 候選追蹤並新增 watchlist，不建立 `Stocks/MSFT/`；**AMZN**、**GOOG**、**GOOGL** 只記 OpenAI multi-cloud read-through，不更新 `Stocks/GOOGL/`。來源為 URL，未另存 raw，OCR 狀態不適用；本文不是買賣建議。
 
