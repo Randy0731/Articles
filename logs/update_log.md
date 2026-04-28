@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `大叔美股筆記-20260428-wdc-bofa-495-ai-storage-6824a163`：整理大叔美股筆記 Substack Note《**WDC** BofA 目標價上調至 `$495`：AI storage / nearline HDD re-rating》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。大叔轉述 BofA 將 **WDC** 目標價由 `$415` 上調至 `$495`，並把現價 `~$400` / `$20` EPS 保守情境、TB growth + gross margin expansion、AI data center nearline storage demand 與 AI inference / Data -> Storage 串成 storage infrastructure re-rating thesis。
+- 更新：同步更新 source/ticker/theme/catalyst/framework/watchlist indexes。**WDC** 判定為單篇大叔 L2+ 候選追蹤；`$495` 是 BofA 分析師目標價，不是大叔自身目標價或本專案建議；目前不建立 `Stocks/WDC/`，後續需用 2026-04-30 WDC FY2026 Q3 results、nearline HDD demand、price-per-TB、TB growth、gross margin、EPS / guidance 驗證。來源為 URL，未另存 raw，OCR 狀態不適用。
+
 - 入庫 `大叔美股筆記-20260424-lam-research-lrcx-q3-2026-0726485d`：整理大叔美股筆記 Substack 付費文章《Lam Research #LRCX Q3 2026 財報分析》，建立 `KOL/大叔美股筆記/articles/20260424_lam_research_lrcx_q3_2026_uncle.md`，並複製使用者提供之 8 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20260424_大叔美股筆記_lam_research_lrcx_q3_2026_大叔美股筆記-20260424-lam-research-lrcx-q3-2026-0726485d.pdf`。本篇為 **LRCX** FY2026 Q3 財報 / 半導體設備 / AI 記憶體設備長文，大叔將 revenue `58.4 億美元`、Non-GAAP EPS `$1.47`、Q4 revenue guide midpoint `66 億美元` 解讀為 AI 從 GPU 算力轉向 memory / storage / process intensity 的設備端驗證，核心是 NAND 300+ layers、HBM / TSV、GAA / selective etch / ALD 與先進封裝提升 **LRCX** equipment intensity。
 - 更新：依新追蹤 ticker 回查規則將 **LRCX** 升級為正式 `Stocks/LRCX/` 專案，新增 `Stocks/LRCX/quarterly/LRCX_筆記_2026Q2.md`、`Stocks/LRCX/LRCX_儀表板.md`、`Stocks/LRCX/LRCX_index.md`，同步更新 `kol_config.yaml`、source/ticker/theme/catalyst/framework indexes 與 private raw manifest。歷史回查確認 2026-01-24 Bytc 稅制 / 48D 文章已有 **LRCX** 半導體設備鏈提及，但缺少 Lam-specific 財務、訂單或估值，因此只保留為 policy / capex 背景索引，不補入 `Stocks/LRCX/quarterly/`。PDF 為 image-only，OCR 狀態標「部分」；p.1-p.6 上半為核心正文 / links / 免責聲明，p.6 下半起為 discussion / recommended posts / footer。Lam official PR 用於校準 Q4 guide 與區域營收差異；本文不是買賣建議。
 
