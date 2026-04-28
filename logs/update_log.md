@@ -2,6 +2,9 @@
 
 ## 2026-04-29
 
+- 入庫 `KP_FOMOSoc-20251011-kp-thinking-note-11-openai-dell-japan-nvidia-ferrari-3a60fcd8`：整理 KP / FOMOSoc Substack 公開週報《OpenAI開發者大會的啟示？悶聲發大財的Dell？日本股市怎樣了？- KP思考筆記(第11期)》，建立 `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第11期_OpenAI平台Dell與AI中央銀行.md`。Substack API post id `175696436` / canonical URL `https://www.fomosoc.com/p/openaidell-kp11` 的 `body_html` 完整可讀，`audience=everyone`，正文有開頭、OpenAI DevDay、日本高市早苗、Dell AI server、Nvidia / xAI SPV、Ferrari investor day 五個主題、投票、宣傳與 KP 署名，未偵測截斷；API `wordcount` 明顯偏低，故以 HTML 轉文字後逐段檢查。
+- 更新：同步更新 `KOL/KP_FOMOSoc/notes/KP筆記.md`、`KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`、source/ticker/theme/framework/catalyst/watchlist indexes。本文新增「AI 作業系統 / Agentic Workflow 平台框架」、「政策狂歡三重枷鎖 / Abenomics 2.0 壓力測試框架」、「AI 基建送水人 / 確定性交付框架」、「AI 中央銀行 / 生態融資框架」與「完美定價 / 奢侈品估值正常化框架」；**DELL** 與 **RACE** 判定 KP 單篇 L3 watchlist，不建立 `Stocks/`；**NVDA** 為既有 watchlist 歷史補強，**AMD** / **FIG** 為 OpenAI 平台與供應鏈脈絡，**SPOT**, **Z**, **ZG**, **CRWV** 只作 demo / customer context。本文不是買賣建議。
+
 - 入庫 `KP_FOMOSoc-20251004-kp-thinking-note-10-chatgpt-nike-healthcare-fermi-7796fd2c`：整理 KP / FOMOSoc Substack 公開週報《ChatGPT殺進電商？Nike醒過來了嗎？醫療板塊怎麼反彈了？- KP思考筆記(第10期)》，建立 `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第10期_ChatGPT電商Nike醫療與Fermi.md`。Substack API post id `175075643` / canonical URL `https://www.fomosoc.com/p/chatgptnike-kp10` 的 `body_html` 完整可讀，`audience=everyone`，正文有開頭、Nike、醫療股、Fermi、ChatGPT 電商四個主題、特別鳴謝與 KP 署名，未偵測截斷；API `wordcount` 明顯偏低，故以 HTML 轉文字後逐段檢查。
 - 更新：同步更新 `KOL/KP_FOMOSoc/notes/KP筆記.md`、`KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`、source/ticker/theme/framework/catalyst/watchlist indexes。本文新增「通路修復 / 品牌自我修正框架」、「政策 Relief / 可複製投降範本框架」、「AI 基建故事股 / Faith vs Fact 框架」與「Agentic Commerce / AI 入口抽佣框架」；**NKE**, **PFE**, **FRMI**, **ETSY**, **SHOP** 判定 KP 單篇 L3 watchlist，不建立 `Stocks/`；**LLY**, **MRK**, **AMZN**, **GOOG**, **GOOGL** 只作板塊或競爭脈絡。本文不是買賣建議。
 

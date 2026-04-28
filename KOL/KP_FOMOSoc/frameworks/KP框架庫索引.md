@@ -15,6 +15,51 @@
 - **相關 ticker / 產業**：
 ```
 
+## AI 作業系統 / Agentic Workflow 平台框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第11期_OpenAI平台Dell與AI中央銀行.md`
+- **一句話定義**：當 AI 入口直接呼叫 app、生成工作流並執行任務，平台價值從回答問題升級為控制 workflow、工具入口與部分交易流程。
+- **適用情境**：OpenAI DevDay、ChatGPT apps、AgentKit、Figma / design workflow、enterprise agent automation、傳統 SaaS 被 AI 入口重分配時。
+- **觀察指標**：ChatGPT app ecosystem、AgentKit adoption、developer tools、tool-use frequency、enterprise workflow automation、AI platform fees、app customer relationship ownership、gross margin / inference cost。
+- **也出現於**：延伸 KP「AI 作業系統 / SaaS 啞鈴化框架」；也可與 KP「Agentic Commerce / AI 入口抽佣框架」交叉比對。
+- **相關 ticker / 產業**：**FIG**, **SPOT**, **Z**, **ZG**, **AMD**；OpenAI 未上市；AI platform、enterprise workflow、software SaaS、consumer app distribution。
+
+## 政策狂歡三重枷鎖 / Abenomics 2.0 壓力測試框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第11期_OpenAI平台Dell與AI中央銀行.md`
+- **一句話定義**：政策 re-rating 要同時通過政治可執行性、宏觀約束與估值低基期三關，否則行情容易停在 relief / hype。
+- **適用情境**：新政府上台、財政刺激、股市因政治人物勝選大漲、弱勢聯盟政府、通膨與弱匯率並存的政策交易。
+- **觀察指標**：coalition support、budget vote、fiscal package size、inflation、FX intervention level、JGB yields、equity valuation、earnings growth、foreign flows。
+- **也出現於**：可與 KP「高估值政策信號 / 風險體檢框架」交叉比對。
+- **相關 ticker / 產業**：日本股市、日圓、JGB；宏觀利率、政策風險、金融流動性。
+
+## AI 基建送水人 / 確定性交付框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第11期_OpenAI平台Dell與AI中央銀行.md`
+- **一句話定義**：AI 基建價值不只在 GPU，而在誰能把 GPU、液冷、供電、部署、維運與融資整合成可運作 capacity。
+- **適用情境**：Dell AI server、ODM / OEM AI infrastructure、Neocloud capacity buildout、hyperscaler overflow demand、AI data center project finance。
+- **觀察指標**：AI server backlog、delivery time、rack power、liquid cooling、power availability、deployment speed、financing / lease terms、customer concentration、utilization、gross margin。
+- **也出現於**：可與 KP「Neocloud 產能外包 / 算力確定性框架」及 Bytc「AI 基建總包工頭框架」交叉比對。
+- **相關 ticker / 產業**：**DELL**, **CRWV**, **NVDA**；AI server、liquid cooling、AI data center、infrastructure financing。
+
+## AI 中央銀行 / 生態融資框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第11期_OpenAI平台Dell與AI中央銀行.md`
+- **一句話定義**：上游算力龍頭若同時提供 GPU 與資本，會像發行 AI 生態貨幣的中央銀行，既鎖定 demand 也提高循環融資風險。
+- **適用情境**：Nvidia / xAI SPV、Nvidia / OpenAI investment、supplier financing、GPU lease structures、AI startup capacity financing。
+- **觀察指標**：supplier equity investment、SPV structure、GPU order terms、lease duration、customer revenue / OCF、bad debt / impairment、end demand、related-party exposure、utilization。
+- **也出現於**：延伸 KP「AI 供應商融資 / 真需求過濾框架」；可與 Bytc「Nvidia-compatible 生態系框架」交叉比對。
+- **相關 ticker / 產業**：**NVDA**；xAI / OpenAI 未上市；AI infrastructure、GPU financing、foundation model capacity。
+
+## 完美定價 / 奢侈品估值正常化框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第11期_OpenAI平台Dell與AI中央銀行.md`
+- **一句話定義**：當高品質公司被估值成完美成長故事，普通 guidance、二手價格或轉型疑慮都可能造成 multiple reset。
+- **適用情境**：Ferrari / luxury brands、high-quality compounder de-rating、consumer luxury resale value、EV transition in emotional brands、great company vs great stock 分流。
+- **觀察指標**：P/E vs growth、guidance revision、resale values、repeat-customer mix、brand heat、EV target / adoption、margin、waiting list、pricing power。
+- **也出現於**：可與宋分「假反彈 / 節奏型 / 結構性 re-rate 分流框架」及 KP「高估值政策信號 / 風險體檢框架」交叉比對。
+- **相關 ticker / 產業**：**RACE**；luxury auto、consumer luxury、brand valuation、EV transition。
+
 ## 通路修復 / 品牌自我修正框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第10期_ChatGPT電商Nike醫療與Fermi.md`
