@@ -7,7 +7,7 @@
 | 類型 | 路徑 | 說明 |
 |---|---|---|
 | 儀表板 | `Stocks/GOOGL/GOOGL_儀表板.md` | 當前追蹤摘要、風險、催化劑與持倉判斷依據 |
-| 季度筆記 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md` | KP / FOMOSoc 2025Q3 Google Cloud margin inflection 歷史 L2；KP 2025-08-23 Chrome / antitrust / AI browser distribution 歷史 L3；KP 2025-09-06 Safari Search economics / Ad Tech monopoly 歷史 L3 |
+| 季度筆記 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md`；`Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` | KP / FOMOSoc 2025Q3 Google Cloud margin inflection 歷史 L2；KP 2025-08-23 Chrome / antitrust / AI browser distribution 歷史 L3；KP 2025-09-06 Safari Search economics / Ad Tech monopoly 歷史 L3；KP 2025Q4 Quantum / TPU / Cloud AI 歷史 L2 |
 | 里程碑 | `Stocks/GOOGL/milestones/GOOGL_里程碑_20260221_Alphabet資本支出百年債與AI基建護城河.md` | 大叔 2026-02-21 Alphabet capex / century bond / AI infra thesis |
 | KOL 主整理 | `KOL/大叔美股筆記/articles/20260221_alphabet_2026_capex_century_bond_uncle.md` | 本次升級來源全文整理 |
 
@@ -15,6 +15,7 @@
 
 | 發文日期 | 路徑 | KOL | 主題 | Tags | 交會等級 | 摘要 |
 |---|---|---|---|---|---|---|
+| 2025-11-01 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第14期_Meta債券雲端戰爭與主權AI.md` | KP / FOMOSoc | Google Cloud Q3 growth / operating profit / backlog / Meta and Anthropic AI compute | #雲端基建 #AI基建 #財報 #ReRating #競爭風險 | 歷史 L2 | KP 將 Google Cloud +34%、operating profit 約 `$2.8B`、backlog 約 `$155B`、Meta 約 `$10B` AI compute 與 Anthropic TPU 部署，解讀為 Google Cloud 從追趕者轉成高利潤 AI 雲端挑戰者 |
 | 2025-10-25 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第13期_OpenAI雲端合縱連橫與財報八題.md` | KP / FOMOSoc | Google Quantum Echoes / Willow / Anthropic TPU | #量子運算 #AI基建 #雲端基建 #ReRating | 歷史 L2 | KP 將 Quantum Echoes 解讀為可驗證量子路線圖，不是短期商用；Anthropic 最高約 100 萬顆 TPU 合作則補強 Google TPU / Cloud 在推理 workload 的商業背書 |
 | 2025-08-03 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第01期_AI賭局與諾和諾德.md` | KP / FOMOSoc | KP 思考筆記第1期、Google Cloud growth / margin inflection、AI capex ROI | #AI基建 #財報 #ReRating #估值風險 | 歷史 L2 | KP 將 Google Cloud 寫成雲端三巨頭中的效率亮點：growth `32%`、operating margin `11.3% -> 20.7%`，屬早期 Cloud AI monetization / scale benefit 證據 |
 | 2025-08-23 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第04期_AI泡沫Chrome入口與Intel國家隊.md` | KP / FOMOSoc | Chrome 入口控制權、Google antitrust、AI browser distribution | #AI基建 #監管審批 #政策風險 #競爭風險 | 歷史 L3 | KP 將 Chrome 寫成 Google 搜尋帝國的入口與護城河，Perplexity 喊話收購 Chrome 則揭示 AI 搜尋時代 browser / agent distribution 的戰略價值；需追 Chrome remedy、default search contracts 與 AI Search monetization |

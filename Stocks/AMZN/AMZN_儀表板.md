@@ -1,12 +1,12 @@
 # AMZN 投資儀表板
 
-> 最後更新：2026-04-29（補入 KP / FOMOSoc 2025-10-25 歷史 L2：AWS outage / Anthropic workload split；不改變當前最新立場）
+> 最後更新：2026-04-29（補入 KP / FOMOSoc 2025-11-01 歷史 L2：AWS 再加速 / Project Rainier；不改變當前最新立場）
 
 ## 當前立場快照
 
 - **綜合立場**：正式追蹤；宋分對 **AMZN** 的框架偏正面，核心是市場可能再次把 Amazon 的資本投入誤判為短期 EPS / FCF 壓力，而不是下一輪現金流引擎。
 - **KOL 最新立場**：宋分 2026-04-22 將 Amazon re-rate 的底層拆成 ROIC x Organic Growth；4/25 AMZN 主文留言補充指出 Amazon Leo / Globalstar 重點在 coverage + control，像是 AWS 從 compute + storage 延伸到 connectivity；資產化研發則需追是否轉成 revenue / FCF，而不是只改善 EPS。
-- **本次補入的 KP 2025Q4 脈絡**：KP 2025-10-25 將 AWS outage 解讀為 IAM / DNS 層級故障，市場冷靜反映 AWS 高轉換成本與基礎設施地位；同篇 Anthropic / Google TPU 不是 AWS thesis 崩壞，而是 training / inference 的多雲分工，但需追 AWS Trainium 與 Anthropic workload share。
+- **本次補入的 KP 2025Q4 脈絡**：KP 2025-10-25 將 AWS outage 解讀為 IAM / DNS 層級故障，市場冷靜反映 AWS 高轉換成本與基礎設施地位；同篇 Anthropic / Google TPU 不是 AWS thesis 崩壞，而是 training / inference 的多雲分工。KP 2025-11-01 再補 AWS Q3 revenue +`20.2%`、annualized revenue 約 `$132B`、operating profit 約 `$10.2B` 與 Project Rainier / Trainium，將其解讀為 AWS 沒有在 AI 雲端競賽中掉隊。
 - **KP 歷史補充**：KP 2025-08-03 早期週報已把 AWS 放進 AI 基建軍備競賽，將 AWS margin 下滑解讀成守住龍頭地位的策略性犧牲；此為歷史 L2 脈絡，不覆蓋宋分 2026 年最新 thesis。
 - **依據篇章**：`KOL/宋分/articles/20260422_market_decoding_19_roic_organic_growth_amzn.md`；`KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md`；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q2.md`
 
@@ -46,6 +46,7 @@
 | AWS margin sacrifice 是短期防衛投資，還是雲端競爭力被壓縮？ | 2025-08-03（補入） | AWS operating margin、pricing、market share、Azure / Google Cloud growth gap、AI capex ROI | KP 思考筆記第1期 | 歷史 L2 / 待後續財報驗證 |
 | AWS outage 是可控單點故障，還是雲端集中風險開始改變客戶架構？ | 2025-10-25（補入） | outage scope、SLA credits、enterprise churn、multi-region adoption、resilience revenue、critical infrastructure regulation | KP 思考筆記第13期；`Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 歷史 L2 / 待追蹤 |
 | Anthropic 對 AWS 的 training workload 是否仍穩固？ | 2025-10-25（補入） | Trainium usage、Anthropic cloud spend split、Google TPU inference allocation、latency、cost per token、AWS AI revenue | KP 思考筆記第13期；`Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 歷史 L2 / 待追蹤 |
+| AWS Q3 再加速是否能延續，而不是單季 relief？ | 2025-11-01（補入） | AWS revenue growth、absolute dollar growth、operating margin、RPO / backlog conversion、Project Rainier utilization、Trainium performance | KP 思考筆記第14期；`Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 歷史 L2 / 待追蹤 |
 
 ## 關鍵風險清單
 
@@ -62,12 +63,14 @@
 | AWS 防衛戰成本失控 | 中 | 為守市占持續犧牲 margin，但 growth / backlog / AI revenue 沒有對應補回 | AWS growth、operating margin、RPO / backlog、pricing、cloud share | KP 2025-08-03 |
 | AWS outage / cloud concentration | 中高 | outage 頻率升高、SLA credits 擴大、客戶轉向多雲或監管將 hyperscaler 視為 critical infrastructure | outage reports、churn、multi-region spend、regulatory rules、AWS margin | KP 2025-10-25 |
 | Anthropic / AI workload 分流 | 中高 | Anthropic 或其他 AI lab 將 inference / training spend 分散到 Google TPU、Azure 或 neoclouds，削弱 AWS AI 独佔敘事 | Trainium adoption、TPU deals、AI customer concentration、AWS AI revenue | KP 2025-10-25 |
+| AI 雲端相對掉隊風險 | 中高 | Azure / Google Cloud 在 AI growth、backlog、custom chips 或大型客戶上持續領先，AWS 再加速無法延續 | AWS growth、Project Rainier delivery、Trainium utilization、cloud AI revenue share、capex ROI | KP 2025-11-01 |
 
-## 持倉判斷依據（最近 3 篇關鍵筆記）
+## 持倉判斷依據（關鍵筆記）
 
 | 篇章 | 日期 | 一句話結論 | 權重 |
 |---|---|---|---|
 | `KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md` 留言補充 | 2026-04-22 / 2026-04-25 | 宋分補充資產化研發要追是否轉成 revenue / FCF，並將 Amazon Leo / Globalstar 定位為 coverage + control 的最後一段連線層 | 高 |
 | `KOL/宋分/articles/20260422_market_decoding_19_roic_organic_growth_amzn.md` | 2026-04-22 | 宋分把 **AMZN** re-rate 底層抽象成 ROIC x Organic Growth，並用 PDD 留言補充說明 ROIC 改善斜率比 ROIC 絕對值更重要 | 高 |
 | `KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md` | 2026-04-21 | 宋分將 **AMZN** 從 AWS CAPEX Cycle 3 擴展為資本週期 / ROIC x Organic Growth 框架，並把 Globalstar / Amazon Leo 放入第三輪基礎設施假設 | 高 |
+| `Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 2025-11-01 | KP 補上 AWS Q3 再加速與 Project Rainier / Trainium：AWS 仍在 AI 雲端牌桌上，但需用 workload / margin / capex ROI 驗證 | 中 |
 | `Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md` | 2025-10-25 | KP 補上 AWS outage / Anthropic workload split 的歷史 L2：AWS moat 仍強，但雲端韌性與 AI workload 分工需持續驗證 | 中 |

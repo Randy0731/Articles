@@ -15,6 +15,60 @@
 - **相關 ticker / 產業**：
 ```
 
+## 股債雙語 / AI Capex 現金流壓力框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第14期_Meta債券雲端戰爭與主權AI.md`
+- **一句話定義**：股東看未來成長回報與 capex 黑洞，債主看當下現金流與還本付息能力；同一家公司可同時被股市懲罰、被債市追捧。
+- **適用情境**：hyperscaler AI capex、high-cash-flow platform company issuing debt、stock-bond divergence、large uncertain growth investments。
+- **觀察指標**：capex growth、OCF、FCF、debt issuance demand、credit spread、ads growth、AI monetization、depreciation、shareholder return。
+- **也出現於**：可與 KP「AI 基建資本開支回報 / 2026 轉折框架」及宋分 CSP capex / FCF 類框架交叉比對。
+- **相關 ticker / 產業**：**META**；digital advertising、AI infrastructure、corporate credit。
+
+## 雲端三國 / AI Capex 入場券框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第14期_Meta債券雲端戰爭與主權AI.md`
+- **一句話定義**：雲端 AI 競爭不只比 revenue growth，也比 backlog、operating profit、custom chips、capacity constraint 與 capex endurance。
+- **適用情境**：AWS / Azure / Google Cloud earnings comparison、OpenAI / Anthropic cloud commitments、hyperscaler AI infrastructure arms race。
+- **觀察指標**：cloud revenue growth、operating margin、RPO / backlog、AI customer deals、TPU / Trainium / GPU adoption、capacity constraints、capex、FCF。
+- **也出現於**：延伸 KP「AI 基建資本開支回報 / 2026 轉折框架」、「雲端韌性 / 集中風險變現框架」與「AI 算力分工 / 訓練推理雙雲框架」。
+- **相關 ticker / 產業**：**MSFT**, **AMZN**, **GOOG**, **GOOGL**, **META**；OpenAI / Anthropic 未上市；cloud infrastructure、AI data center。
+
+## GLP-1 搶親 / Pipeline 反壟斷框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第14期_Meta債券雲端戰爭與主權AI.md`
+- **一句話定義**：高成長醫藥市場的併購價值不只在出價，而在 pipeline 稀缺性、專利懸崖、競爭威脅與監管可完成性。
+- **適用情境**：obesity / GLP-1 pipeline M&A、dominant player buying challenger、patent cliff defense、FTC antitrust risk、CVR-heavy acquisition terms。
+- **觀察指標**：bid terms、pipeline data、FTC / antitrust risk、patent cliff、competitor sales、CVR / closing certainty、clinical safety、market-share trend。
+- **也出現於**：延伸 KP「成長故事信任危機 / 估值折價框架」與「政策 Relief / 可複製投降範本框架」的 healthcare / pharma 分支。
+- **相關 ticker / 產業**：**NVO**, **PFE**, **MTSR**, **LLY**, **MRK**；obesity drugs、GLP-1、biotech M&A。
+
+## 管理層誠信 / 製造增長拆彈框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第14期_Meta債券雲端戰爭與主權AI.md`
+- **一句話定義**：公司成長若靠遷移、延後投資或削成本製造，最後會在 churn、guidance reset 和治理風險中還債。
+- **適用情境**：payments / fintech platform migration、customer churn hidden by internal conversion、new CEO kitchen-sink reset、insider exit timing。
+- **觀察指標**：organic growth、migration-driven growth、churn、customer complaints、guidance cuts、insider selling、leadership reset、lawsuits、customer acquisition quality。
+- **也出現於**：可與宋分「現金流品質 / FCF Re-rate 框架」和「健康投資 vs 惡化分流框架」交叉比對。
+- **相關 ticker / 產業**：**FI** / **FISV**, **PNC**, **TOST**；payments、fintech、merchant acquiring、corporate governance。
+
+## 負擔得起的奢侈 / 消費金絲雀框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第14期_Meta債券雲端戰爭與主權AI.md`
+- **一句話定義**：Fast-casual 這類「負擔得起的奢侈」能比宏觀數據更早反映年輕 / 中低收入消費壓力。
+- **適用情境**：consumer discretionary slowdown、fast-casual restaurants、young household budget stress、student loan / inflation squeeze。
+- **觀察指標**：traffic、same-store sales、ticket size、consumer age / income mix、student loans、unemployment、peer read-through、2026 guidance。
+- **也出現於**：可與 KP「預期管理 / 51 分止血框架」與宋分 consumer cost-pressure / margin-turn 類框架交叉比對。
+- **相關 ticker / 產業**：**CMG**, **SG**, **CAVA**；restaurants、fast casual、consumer discretionary。
+
+## 主權 AI 分層主權 / 地緣建築師框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第14期_Meta債券雲端戰爭與主權AI.md`
+- **一句話定義**：國家可能接受底層硬體依賴，但要求資料、演算法、應用與營運主權；Nvidia 因而從晶片商變成 AI 基建外交合夥人。
+- **適用情境**：sovereign AI procurement、national labs supercomputers、ally AI infrastructure deals、country-level GPU clusters、data residency and AI sovereignty。
+- **觀察指標**：sovereign AI orders、government labs、local cloud operators、data residency、ally export policy、hyperscaler concentration、local application ownership。
+- **也出現於**：延伸 KP「主權 AI / 全球智慧發電廠框架」與「主權 AI 輸出 / 本地 Neocloud 冠軍框架」。
+- **相關 ticker / 產業**：**NVDA**, **ORCL**；Samsung / Hyundai / SK Group / NAVER 為客戶脈絡；sovereign AI、AI data center、geopolitics。
+
 ## FOMO 命運共同體 / AI 算力捆綁框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第13期_OpenAI雲端合縱連橫與財報八題.md`

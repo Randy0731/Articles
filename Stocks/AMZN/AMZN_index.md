@@ -4,6 +4,7 @@
 
 | 日期 | 檔案 | 來源 KOL / 來源 | 事件類型 | 主題標籤 | 交會等級 | 一句話結論 |
 |---|---|---|---|---|---|---|
+| 2025-11-01 | `Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第14期_Meta債券雲端戰爭與主權AI.md` | KP / FOMOSoc | AWS Q3 reacceleration / Project Rainier / Trainium for Anthropic | #雲端基建 #AI基建 #財報 #ReRating #競爭風險 | 歷史 L2 | KP 認為 AWS +20.2% 再加速、annualized revenue 約 `$132B`、operating profit 約 `$10.2B` 與 Project Rainier / Trainium，證明 AWS 沒有在 AI 雲端競賽中掉隊，但需追 Trainium workload、capex ROI 與雲端三巨頭相對增長 |
 | 2025-10-25 | `Stocks/AMZN/quarterly/AMZN_筆記_2025Q4.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第13期_OpenAI雲端合縱連橫與財報八題.md` | KP / FOMOSoc | AWS outage / Anthropic workload split / cloud resilience | #雲端基建 #AI基建 #競爭風險 #執行風險 | 歷史 L2 | KP 認為 AWS outage 沒有壓垮市場信心，反映高轉換成本與基礎設施地位，但也提高 multi-region / multi-cloud 檢查權重；Anthropic 使用 Google TPU 則是訓練與推理分工，不等於 AWS 失去核心訓練合作 |
 | 2026-04-22 / 2026-04-25 | `Stocks/AMZN/quarterly/AMZN_筆記_2026Q2.md`；`KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md` | 宋分 / 美股送分題 | AMZN 主文留言補充 / 資產化研發 / satellite connectivity | #ReRating #AI基建 #財報 #估值風險 #併購 | L3 補充 | 宋分補充資產化研發要看是否轉成未來 revenue / FCF，並將 Amazon Leo / Globalstar 定位為 coverage + control 的最後一段連線層 |
 | 2026-04-22 | `Stocks/AMZN/quarterly/AMZN_筆記_2026Q2.md`；`KOL/宋分/articles/20260422_market_decoding_19_roic_organic_growth_amzn.md` | 宋分 / 美股送分題 | 市場解碼 #19 / ROIC x Organic Growth / PDD 對照補充 | #ReRating #財報 #估值風險 #AI基建 | L3 | 宋分把 AMZN re-rate 底層拆成 ROIC x Organic Growth，4/26 PDD 留言補充說明市場看的是 ROIC 是否正在變，而不只是 ROIC 絕對值 |
