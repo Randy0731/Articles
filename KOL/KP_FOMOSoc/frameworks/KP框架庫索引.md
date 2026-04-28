@@ -698,3 +698,57 @@
 - **觀察指標**：EPS CAGR vs peers、forward P/E vs peers、historical multiple discount、management target execution、pipeline / product data、market share、guidance revision。
 - **也出現於**：本篇為 KP 框架庫首筆。
 - **相關 ticker / 產業**：**NVO**；GLP-1、製藥、醫療生技。
+
+## 會計恐慌驗證 / DSO 與存貨結構框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第17期_NVDA_Meta_Dell_PANW_WMT_ADBE.md`
+- **一句話定義**：當高成長公司被指控財報失真時，不能只看單一會計數字，要同時拆趨勢、客戶品質、存貨組成、產品換代與毛利率。
+- **適用情境**：Nvidia channel stuffing accusation、AI hardware high-growth accounting fear、semiconductor inventory cycle、會計噪音辨識。
+- **觀察指標**：DSO QoQ / YoY、customer concentration、customer credit quality、finished goods vs WIP、product transition、gross margin、cash collection、revenue recognition、inventory write-down。
+- **也出現於**：本篇為 KP 框架庫首筆；可與財報閱讀 / 存貨週期類框架交叉比對。
+- **相關 ticker / 產業**：**NVDA**, **AMZN**, **MSFT**, **GOOG**, **GOOGL**, **META**；AI GPU、雲端客戶、半導體財報。
+
+## AI 內容新奇感陷阱 / 工具 vs Feed 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第17期_NVDA_Meta_Dell_PANW_WMT_ADBE.md`
+- **一句話定義**：生成式 AI 內容可以是強工具，但若缺乏人類故事與互動，未必能形成高頻社交 feed。
+- **適用情境**：Meta Vibes、OpenAI Sora、AI video feed、creator tools、社交平台 AI product-market fit。
+- **觀察指標**：DAU / MAU、retention、creation vs consumption split、repeat usage、likes / comments / shares、creator adoption、AI slop perception、distribution advantage、tool attach rate。
+- **也出現於**：本篇為 KP 框架庫首筆；可與 Meta AI 眼鏡 / 物理世界入口框架交叉比對。
+- **相關 ticker / 產業**：**META**；OpenAI / Sora 未上市；社交媒體、AI 影片、創作者工具。
+
+## AI 伺服器價值鏈定價權 / 記憶體週期框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第17期_NVDA_Meta_Dell_PANW_WMT_ADBE.md`
+- **一句話定義**：AI server revenue 增長未必等於整合商利潤增長，若上游 GPU / memory 具定價權，系統商可能被成本週期擠壓。
+- **適用情境**：Dell / HP server and PC hardware、AI server supply chain、DRAM / NAND / HBM supercycle、AI infrastructure integrator margin check。
+- **觀察指標**：DRAM / NAND / HBM pricing、inventory hedge、AI server backlog、gross margin、pass-through pricing、component cost share、supplier mix、value-chain profit pool、customer pricing power。
+- **也出現於**：本篇為 KP 框架庫首筆；可與 Dell「AI 基建送水人 / 確定性交付框架」交叉比對。
+- **相關 ticker / 產業**：**DELL**, **HPQ**, **HPE**, **NVDA**；AI server、PC hardware、Memory、系統整合。
+
+## 資安可觀測性融合 / AI IT 平台框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第17期_NVDA_Meta_Dell_PANW_WMT_ADBE.md`
+- **一句話定義**：AI 應用讓 bug、性能與攻擊邊界模糊，安全平台可能跨入 observability，爭奪企業 IT 統一控制平面。
+- **適用情境**：Palo Alto / Chronosphere、CyberArk integration、security + observability convergence、AI application telemetry、platform consolidation。
+- **觀察指標**：acquisition multiple、ARR retention、integration milestones、cross-sell、telemetry cost、CISO / CTO budget convergence、Datadog / Dynatrace response、platform attach rate、organic growth。
+- **也出現於**：本篇為 KP 框架庫首筆。
+- **相關 ticker / 產業**：**PANW**, **CYBR**, **DDOG**, **DT**；cybersecurity、observability、enterprise IT、AI infrastructure software。
+
+## 零售飛輪再加速 / K 型消費防禦框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第17期_NVDA_Meta_Dell_PANW_WMT_ADBE.md`
+- **一句話定義**：低價供應鏈可在消費壓力中吸引跨收入階層流量，再用廣告、會員、電商與 AI 履約把低毛利零售轉成平台飛輪。
+- **適用情境**：Walmart beat-and-raise、K-shaped economy、retail media、membership and fulfillment flywheel、traditional retail re-rating。
+- **觀察指標**：same-store sales、traffic by income cohort、price gap、ecommerce growth、retail media revenue、membership growth、fulfillment speed、AI shopping conversion、gross margin。
+- **也出現於**：本篇為 KP 框架庫首筆；可與 Agentic Retail / 品牌隱形化框架交叉比對。
+- **相關 ticker / 產業**：**WMT**, **AMZN**, **TGT**, **HD**, **KR**；零售、電商、retail media、消費防禦。
+
+## GEO 品牌可見度 / 後 SEO 入口框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第17期_NVDA_Meta_Dell_PANW_WMT_ADBE.md`
+- **一句話定義**：當消費者從搜尋連結轉向 AI 答案，品牌的關鍵不是排名第一頁，而是能否被模型答案看見、推薦與信任。
+- **適用情境**：Adobe / Semrush、AI search / answer engines、marketing stack top-of-funnel、post-Figma Adobe M&A strategy。
+- **觀察指標**：AI referral traffic、brand mention share、traditional SEO rank、Semrush enterprise adoption、Adobe marketing suite attach、Google / AI answer changes、GEO tooling demand、Creative Cloud churn。
+- **也出現於**：本篇為 KP 框架庫首筆；可與 AI 入口控制權 / Browser Distribution Moat 框架交叉比對。
+- **相關 ticker / 產業**：**ADBE**, **SEMR**, **GOOG**, **GOOGL**, **FIG**；creative software、marketing SaaS、SEO / GEO、AI search。
