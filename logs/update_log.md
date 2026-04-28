@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260221-investment-discipline-3-certainty-repricing-ad32a16d`：整理宋分 / 美股送分題 Substack Note《投資紀律 #3｜分析師流程》與附加免費電子報《為什麼股票抱著都不會漲，賣掉就大噴？》，建立 `KOL/宋分/articles/20260221_investment_discipline_3_certainty_repricing.md`。Substack preloads JSON 正文可讀，只有 URL，未另存 raw，OCR 狀態標「不適用」。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「確定性提升 / 市場信任建立框架」：股價加速常不是因為公司第一次變好，而是市場看到公司連續證明、產業一起證明或 risk regime 改變後，從懷疑轉為比較相信。文中沒有具名 ticker 或單股觀點，因此不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260219-peg-market-decoding-growth-mispricing-ac62ac3f`：整理宋分 / 美股送分題 Substack Note《市場解碼 #3｜分析師視角》PEG 教學，建立 `KOL/宋分/articles/20260219_peg_market_decoding_growth_mispricing.md`。Substack preloads JSON 正文可讀，只有 URL，未另存 raw，OCR 狀態標「不適用」。
 - 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「PEG 成長錯估 / 信任不足框架」：PEG < 1 不是便宜結論，而是市場對成長持續性信任不足的訊號；只有先判斷公司具備多年成長，低 PEG 才可能代表市場把成長股誤當景氣股定價。文中無具名 ticker，原物料股、航運股、記憶體僅作景氣循環反例，因此不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
 

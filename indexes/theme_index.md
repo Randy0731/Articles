@@ -6,6 +6,9 @@
 
 | 主題 tag | 日期 | KOL / 來源 | 標題 | 核心觀點 | 相關 ticker | 框架 / 催化劑 | 筆記檔 |
 |---|---|---|---|---|---|---|---|
+| #ReRating | 2026-02-21 | 宋分 / 美股送分題 | 投資紀律 #3：確定性提升才是定價加速點 | 宋分認為市場不是在公司剛變好時立刻上漲，而是在公司、產業或市場 regime 讓確定性提高後才加速；報酬常來自市場從懷疑轉為比較相信的那段 | 無具名 ticker | 確定性提升 / 市場信任建立框架；company confirmation；industry confirmation；market regime | `KOL/宋分/articles/20260221_investment_discipline_3_certainty_repricing.md`；`indexes/framework_index.md` |
+| #投資與投機 | 2026-02-21 | 宋分 / 美股送分題 | 抱著不漲、賣掉就噴：把等待驗證誤認為沒有發生 | 宋分提醒很多人看對公司卻等不到市場開始定價，原因是低估市場建立信任所需時間；專業投資人會問市場在等什麼訊號，而不是只問公司好不好 | 無具名 ticker | 分析師流程 / 事件等待框架補充；等待驗證；投資耐心 | `KOL/宋分/articles/20260221_investment_discipline_3_certainty_repricing.md`；`indexes/framework_index.md` |
+| #估值風險 | 2026-02-21 | 宋分 / 美股送分題 | 一次性好消息與已定價確定性風險 | 本篇反面提醒是：單季好財報未必代表確定性提升，而市場已經非常確定時價格可能已含樂觀；投資人容易在最懷疑時離開、在最確定時追高 | 無具名 ticker | one-time good news；consensus crowding；regime-driven multiple expansion | `KOL/宋分/articles/20260221_investment_discipline_3_certainty_repricing.md` |
 | #ReRating | 2026-02-19 | 宋分 / 美股送分題 | 市場解碼 #3：PEG 成長錯估與信任不足 | 宋分把 PEG 定位成市場對成長持續性的信任訊號；主升段常不是基本面第一次變好，而是市場從懷疑轉成相信多年成長 | 無具名 ticker | PEG 成長錯估 / 信任不足框架；PE re-rating；growth duration | `KOL/宋分/articles/20260219_peg_market_decoding_growth_mispricing.md`；`indexes/framework_index.md` |
 | #估值風險 | 2026-02-19 | 宋分 / 美股送分題 | PEG < 1 不一定便宜：景氣循環高峰可能是陷阱 | 宋分提醒低 PEG 可能只是市場不相信成長持續，特別是原物料、航運、記憶體在景氣最好一年 EPS 暴增時，低 PEG 不等於投資機會 | 無具名 ticker；原物料 / 航運 / 記憶體僅反例 | cyclical peak vs sustainable growth；valuation trap；PEG misuse | `KOL/宋分/articles/20260219_peg_market_decoding_growth_mispricing.md` |
 | #投資與投機 | 2026-02-19 | 宋分 / 美股送分題 | DCF -> PEG -> Forward PE：目標價是市場理解方式的假設 | 宋分把 buyside 流程寫成：DCF 確認價值存在，PEG 確認市場是否錯估，Forward PE 推估市場終於看懂後願意給的倍數；目標價不是 EPS 自動算出，而是對未來市場看法的預測 | 無具名 ticker | DCF 安全檢查 / PE 交易語言框架補充；target multiple；market expectation revision | `KOL/宋分/articles/20260219_peg_market_decoding_growth_mispricing.md`；`indexes/framework_index.md` |
