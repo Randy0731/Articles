@@ -1,12 +1,12 @@
 # 投資紀律 #10：強勢股抗跌、主動資金承接與 Leader 辨識框架
 
 - **KOL**：宋分 / 美股送分題
-- **來源**：Substack 電子報 + Substack Note
+- **來源**：Substack 電子報 + Substack Note + 留言補充
 - **類型**：Substack 文章 + 推廣 Note / 投資紀律 #10 / 分析師流程 / 強勢股 / relative strength / 主動資金承接
-- **發文時間**：電子報 2026-04-04 05:30 UTC（台北 13:30；Substack HTML / JSON-LD）；推廣 Note 2026-04-04 05:45 UTC（台北 13:45；Substack JSON-LD）
+- **發文時間**：電子報 2026-04-04 05:30 UTC（台北 13:30；Substack HTML / JSON-LD）；推廣 Note 2026-04-04 05:45 UTC（台北 13:45；Substack JSON-LD）；留言補充 2026-04-04 至 2026-04-06
 - **整理日期**：2026-04-28
-- **原始檔案 / URL**：https://openbookandeasypoint.substack.com/p/db3；https://substack.com/@openbookandeasypoint/note/c-237995999
-- **source_id**：宋分-20260404-investment-discipline-10-strong-stock-relative-strength-03908f4e
+- **原始檔案 / URL**：https://openbookandeasypoint.substack.com/p/db3；https://substack.com/@openbookandeasypoint/note/c-237995999；https://openbookandeasypoint.substack.com/p/db3/comment/238006591；https://openbookandeasypoint.substack.com/p/db3/comment/238009612；https://openbookandeasypoint.substack.com/p/db3/comment/238109538；https://openbookandeasypoint.substack.com/p/db3/comment/238869811；https://openbookandeasypoint.substack.com/p/db3/comment/238869867
+- **source_id**：宋分-20260404-investment-discipline-10-strong-stock-relative-strength-03908f4e；宋分-20260404-strong-stock-volume-fund-flow-comments-c0760713
 - **raw 路徑 / URL**：URL（未另存 raw）
 - **OCR 狀態**：不適用（Substack HTML / JSON-LD 文字完整可讀）
 - **相關 ticker**：無具名 ticker
@@ -55,6 +55,17 @@
 
 **進階訊號**：真正強勢股會無視利空，例如利空新聞出來不跌、開低後被拉回、隔天甚至創高。宋分把這解讀成壞消息已被市場消化完，這類股票可能成為下一段行情核心。
 
+### 留言補充：跌深反彈、資金結構與同族群性
+
+4/4 至 4/6 的留言補充把「強勢股」拆得更實務。
+
+| 補充來源 | 核心內容 | 整理者判斷 |
+|---|---|---|
+| `c-238006591`、`c-238009612` | 跌深反彈和真正強勢股不同：前者是被賣最多後的技術性反彈，後者是在市場最差時已有資金累積；機構想在市場認出之前先認出 | 補強「抗跌轉強」比「反彈幅度大」更重要 |
+| `c-238109538` | 流程是先看哪個子產業價格行為異常抗跌，再找直接受益公司，最後用基本面、估值與資金布局驗證 | 將主文三步驟延伸成「產業異常 -> 受益者 -> 基本面 / 籌碼驗證」 |
+| `c-238869811` | 美股沒有台股式每日籌碼透明度，可輔助看 13F、暗池、內部人、回購價格與成交金額；成交金額更適合判斷上漲是資金結構還是短線炒作，不適合單獨過濾強勢股 | 補強量能 / 資金資料的限制與使用方法 |
+| `c-238869867` | 同族群性不只看產品分類，也看市場是否用同一個催化劑定價；跌不下去直接 V 轉，可能來自 ETF / 指數基金被動承接、主動基金怕落後先卡位、或期權造市商對沖買盤 | 補強「同一催化劑」與被動 / 主動資金互動 |
+
 ## 關鍵證據
 
 | 證據 | 來源 | 整理者判斷 |
@@ -64,6 +75,7 @@
 | 原文三步驟：看最醜的盤、建立抗跌名單、反彈看誰先動 | Substack 電子報 / Note | 可重複套用的 Leader 辨識流程 |
 | 原文將 CTA / ETF 無差別賣壓下仍撐住的股票，連到主動型資金接盤 | Substack 電子報 | 補強 3/28 結構性賣壓框架 |
 | 原文說強勢股會無視利空 | Substack 電子報 / Note | 壞消息不再推動下跌，是資金吸收與風險消化訊號 |
+| 4/4 至 4/6 留言補充區分跌深反彈、抗跌轉強、成交金額與同族群性 | Substack comments `c-238006591`、`c-238009612`、`c-238109538`、`c-238869811`、`c-238869867` | 讓本文從相對強弱框架進一步接到資金結構與催化劑一致性 |
 
 ## 風險與反例
 
@@ -71,7 +83,8 @@
 |---|---|---|---|---|---|
 | 把單日抗跌誤判成真強 | 無具名 ticker | 高 | 股票只因流動性低或消息未反映而少跌 | 後續反彈是否領漲、量能、breadth、消息反應 | 本文；整理者判斷 |
 | 把跌深反彈誤判成 Leader | 無具名 ticker | 高 | 高 beta / 補跌股反彈很快，但下跌時沒有抗跌 | 下跌日相對跌幅、反彈 relative strength、是否創高 | 本文 |
-| 只看價格不看基本面 | 無具名 ticker | 中高 | 抗跌來自短線籌碼或題材，沒有財報 / 結構性需求支撐 | revenue / EPS / FCF、產業需求、capex / policy / structural demand | 3/28 框架；整理者判斷 |
+| 只看價格不看基本面 | 無具名 ticker | 中高 | 抗跌來自短線籌碼或題材，沒有財報 / 結構性需求支撐 | revenue / EPS / FCF、產業需求、capex / policy / structural demand | 3/28 框架；`c-238109538`；整理者判斷 |
+| 把成交量 / 暗池 / 13F 當成答案 | 無具名 ticker | 中 | 籌碼資料落後、偏誤或只反映短線交易，卻被當成單股 thesis | 13F 滯後性、暗池脈絡、內部人交易、回購價格、成交金額與基本面是否一致 | `c-238869811` |
 | 將框架直接寫成買點 | 無具名 ticker | 中高 | 看到抗跌就追，而未等反彈確認與風險訊號改善 | 市場是否止跌、反彈確認、VIX / credit / breadth | 本文；既有風險預算框架 |
 
 ## 延伸追蹤
@@ -82,6 +95,8 @@
 | 抗跌名單 | 找出資金偏好 | 跌幅最小、逆勢紅、下影線、承接量 | 本文 |
 | 反彈時先動的股票 | 確認 Leader | 創新高、量能放大、相對大盤領漲 | 本文 |
 | 利空反應 | 判斷壞消息是否消化 | 利空不跌、開低拉回、隔日創高 | 本文 |
+| 成交金額與資金資料 | 判斷資金結構或短線炒作 | 穩步放量、突發爆量、13F / 暗池 / 內部人 / 回購價格 | `c-238869811` |
+| 同族群催化劑 | 判斷資金輪動範圍 | 同一催化劑、上下游 / 系統整合、被動承接與主動卡位 | `c-238869867` |
 
 ## 整理者延伸
 

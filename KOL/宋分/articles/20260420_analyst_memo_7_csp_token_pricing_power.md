@@ -1,12 +1,12 @@
 # 宋分分析師備忘錄 #7：CSP Token 定價權與 AI 收費機制 Re-rate
 
 - **KOL**：宋分 / 美股送分題
-- **來源**：Substack 電子報 + Substack Note 推廣 + Follow-up QA + re-rate 階段補充
+- **來源**：Substack 電子報 + Substack Note 推廣 + Follow-up QA + re-rate 階段補充 + Substack 主文留言補充
 - **類型**：Substack 電子報 / 分析師備忘錄 #7 / CSP / Token 定價權 / AI workflow / 收費機制 re-rate / Follow-up QA / re-rate 階段補充
-- **發文時間**：電子報 2026-04-20 00:30 UTC（台北 08:30；Substack HTML / JSON-LD）；推廣 Note 2026-04-20 00:48 UTC（台北 08:48；Substack JSON-LD）；Follow-up QA 2026-04-20 12:24 UTC（台北 20:24；Substack JSON-LD）；re-rate 階段補充 2026-04-26 09:44 UTC（台北 17:44；Substack JSON-LD）
+- **發文時間**：電子報 2026-04-20 00:30 UTC（台北 08:30；Substack HTML / JSON-LD）；推廣 Note 2026-04-20 00:48 UTC（台北 08:48；Substack JSON-LD）；主文留言補充 2026-04-20 01:54 / 02:13 / 11:28 / 11:45 UTC、2026-04-21 01:49 UTC；Follow-up QA 2026-04-20 12:24 UTC（台北 20:24；Substack JSON-LD）；re-rate 階段補充 2026-04-26 09:44 UTC（台北 17:44；Substack JSON-LD）
 - **整理日期**：2026-04-28
-- **原始檔案 / URL**：https://openbookandeasypoint.substack.com/p/7csp-aitoken-re-rate；https://substack.com/@openbookandeasypoint/note/c-246100445；https://substack.com/@openbookandeasypoint/note/c-246274443；https://substack.com/profile/291548189-7f8e80a19001/note/c-249341160
-- **source_id**：宋分-20260420-analyst-memo-7-csp-token-pricing-power-85eff2a6；宋分-20260420-analyst-memo-7-token-pricing-promo-4119ddaf；宋分-20260420-analyst-memo-7-followup-qa-d18106aa；宋分-20260426-ai-rerate-value-capture-stage-8f39d286
+- **原始檔案 / URL**：https://openbookandeasypoint.substack.com/p/7csp-aitoken-re-rate；https://substack.com/@openbookandeasypoint/note/c-246100445；https://substack.com/@openbookandeasypoint/note/c-246274443；https://substack.com/profile/291548189-7f8e80a19001/note/c-249341160；https://openbookandeasypoint.substack.com/p/7csp-aitoken-re-rate/comment/246121809；https://openbookandeasypoint.substack.com/p/7csp-aitoken-re-rate/comment/246127694；https://openbookandeasypoint.substack.com/p/7csp-aitoken-re-rate/comment/246254320；https://openbookandeasypoint.substack.com/p/7csp-aitoken-re-rate/comment/246260008；https://openbookandeasypoint.substack.com/p/7csp-aitoken-re-rate/comment/246643142
+- **source_id**：宋分-20260420-analyst-memo-7-csp-token-pricing-power-85eff2a6；宋分-20260420-analyst-memo-7-token-pricing-promo-4119ddaf；宋分-20260420-analyst-memo-7-followup-qa-d18106aa；宋分-20260426-ai-rerate-value-capture-stage-8f39d286；宋分-20260420-token-price-roi-productivity-comments-99f5fc29
 - **raw 路徑 / URL**：URL（未另存 raw）
 - **OCR 狀態**：不適用（Substack HTML / JSON-LD；補充 Notes JSON-LD 正文完整可讀）
 - **相關 ticker**：**MSFT** 為 CSP / Azure / Copilot / Token Economics L2 framework case；**AAPL** 為 AI 生態系收費模式 L2 候選；**META** 為對照案例；**NVDA** 僅為 Blackwell / Rubin 供給端產品節點語境；Follow-up QA 與 4/26 補充不新增單股 thesis
@@ -34,7 +34,7 @@
 
 | 框架 | 核心邏輯 | 適用情境 | 觀察指標 | 相關 ticker |
 |---|---|---|---|---|
-| CSP Token 定價權 / 收費機制 Re-rate 框架 | AI 從功能變成 Token 計價單位後，控制算力、電力、低延遲推理與企業 workflow 的 CSP 可能取得收費權；市場從看 CAPEX 轉向看可重複、可提價、可高頻使用的現金流 | CSP / hyperscaler CAPEX 被質疑、AI revenue 尚未完全跟上、企業 AI 從試用走向流程化、投資人想分辨燒錢建置與收費系統時 | Price x Usage x Predictability、Token usage、price per token、Token GDP、inference efficiency、real-time inference premium、agentic AI adoption、workflow integration、enterprise ROI、gross margin、CAPEX / depreciation vs AI revenue、CIO AI budget | **MSFT**；CSP / hyperscalers；**AAPL** 類生態系 AI 收費候選 |
+| CSP Token 定價權 / 收費機制 Re-rate 框架 | AI 從功能變成 Token 計價單位後，控制算力、電力、低延遲推理與企業 workflow 的 CSP 可能取得收費權；市場從看 CAPEX 轉向看可重複、可提價、可高頻使用的現金流 | CSP / hyperscaler CAPEX 被質疑、AI revenue 尚未完全跟上、企業 AI 從試用走向流程化、投資人想分辨燒錢建置與收費系統時 | Price x Usage x Predictability、Token usage、price per token、Token GDP、inference efficiency、real-time inference premium、agentic AI adoption、workflow integration、enterprise ROI、gross margin、CAPEX / depreciation vs AI revenue、CIO AI budget、revenue / employee、SG&A / revenue、R&D / revenue、headcount growth | **MSFT**；CSP / hyperscalers；**AAPL** 類生態系 AI 收費候選 |
 | 使用頻率 x 每次用量非線性成長 | AI 商業化不只靠更多人使用，而是同一家公司把 AI 嵌入流程後，每件事、每次決策、每筆交易都消耗 Token，使收入從線性增長變成跳躍式放大 | Agentic AI、ERP / CRM / 客服 / 財務結帳 / 開發流程自動化 | tasks per user、tokens per task、machine-triggered workflows、enterprise AI seats、workflow automation rate、software budget shift | CSP / enterprise software |
 | 可選支出 -> workflow 必需支出估值切換 | AI 若只是 demo / 工具，CFO 可砍可延後；若進入財報 closing、客服、開發與 ERP / CRM workflow，就會變成類訂閱 / 公用事業式支出，估值模型可能上修 | 企業 AI 從測試期走向正式上線、AI 產品從功能變成流程成本 | AI production rollout、renewal / usage retention、mission-critical workflow share、budget priority、CIO survey、bad-news reaction | **MSFT**, **AAPL**；CSP / SaaS / software |
 
@@ -85,6 +85,17 @@ Apple 不是本文主角，但宋分特別補充：市場對 Apple 的 AI 期待
 | AI 對宏觀消費是否形成風險 | 短期企業 AI CAPEX、IT / software 支出與高 ROI 可能先抵消消費疑慮；長期需拆成生產力提升、工作轉移或就業下降三種情境 | 將宏觀風險列為中長期監控，不直接否定短期 Token 定價權框架 |
 | 為什麼 AI 進入 workflow 後不能砍 | AI 從工具變流程後，會像 ERP / CRM / 發薪系統一樣成為公司運作方式；關掉會牽涉轉換成本、組織重構與流程停擺 | 補強「可選支出 -> 必需支出」估值切換，也提高續約 / usage retention 的追蹤重要性 |
 
+### 5a. 留言補充：Token 單價、AI 生產力與 Apple 收費例子
+
+主文留言區把 Follow-up QA 的幾個抽象問題落成更具體的檢查表。宋分的重點不是「Token 單價一定漲」，而是價格下降時，usage、任務數、收費模式與 workflow 黏著度是否同步上升；AI 生產力也不只看裁員，而要看收入 / 員工、margin、費用率與 headcount 成長是否一起變化。
+
+| 留言 | 補充重點 | 可追蹤指標 |
+|---|---|---|
+| `c-246121809` | Token 變便宜是正常現象，但利潤不必然下降；若從 per-token 升級到 subscription / per-task / per-workflow，收入可能更大且更可預測 | price per token、usage growth、per-task pricing、workflow pricing、usage retention |
+| `c-246127694` | AI ROI 可能先在成本端出現，財報收入確認較晚；前置訊號是 Copilot adoption、管理層擴大投資與 Token 使用量 | Copilot / AI seat adoption、token usage、management AI investment、margin / FCF 後續驗證 |
+| `c-246254320` / `c-246643142` | Token pricing power 上限可用勞動成本錨定；裁員率不是主指標，應看 revenue / employee、operating margin、SG&A / revenue、R&D / revenue、headcount growth 與公司是否明確把 AI 放入 KPI | revenue / employee、operating margin、headcount growth、SG&A / revenue、R&D / revenue、10-Q / 10-K headcount commentary |
+| `c-246260008` | Apple 的 AI 收費可能從 iCloud、Siri Pro / AI assistant、app developer fee 與生態系 lock-in 出發，不必先自己燒完整模型 CAPEX | paid AI subscription、services revenue、developer fee take rate、iCloud / data layer attach、user switching cost |
+
 ### 6. 4/26 補充：re-rate 起點與普及後價值捕捉不同
 
 4/26 補充把同一套 AI re-rate 分成兩段：re-rate 起點通常發生在市場仍懷疑、產品尚未普及時，這一段需要更強判斷；等 AI 開始普及，遊戲規則會變成誰捕捉最多價值，也就是誰能把 AI 用得最賺錢。
@@ -98,6 +109,7 @@ Apple 不是本文主角，但宋分特別補充：市場對 Apple 的 AI 期待
 | Token 成為新計價單位 | 將 AI 從功能 / 模型競賽轉成收費權問題 | 新增 CSP Token 定價權框架 |
 | 企業任務人工成本約 `$55`、AI 成本低於 `$1` | 說明企業 ROI 足以支撐 CSP 提價 | 數字是框架示例，需用實際 enterprise AI pricing / usage 驗證 |
 | `Price x Usage x Predictability` | Follow-up QA 用來反駁「Token 單價下降 = 利潤下降」的直覺 | 新增為核心觀察公式，需同時追 Token price、usage growth 與收入可預測性 |
+| 留言 `c-246121809`、`c-246127694`、`c-246254320`、`c-246260008`、`c-246643142` | 補充 Token 單價、ROI 前置訊號、AI 生產力財報指標與 Apple 收費例子 | 可作本文補充版；重點是追蹤指標，不是新增買賣建議 |
 | Token GDP / usage 非線性成長 | 說明 AI 從每天幾次問答，走向每個任務與每秒流程都消耗 Token | 支持 2026 workflow adoption check，但需要實際 usage / API revenue / seat expansion 驗證 |
 | Copilot adoption、管理層擴大投資、Token 使用量 | 作為 ROI 尚未完全進財報前的前置訊號 | 可作早期觀察，不等於財報已確認 |
 | 裁員是滯後指標 | 宋分不把裁員率當 Token 定價能力直接指標 | 應改看每位員工 Token 使用量、workflow 自動化比例與核心流程導入 |
@@ -116,6 +128,7 @@ Apple 不是本文主角，但宋分特別補充：市場對 Apple 的 AI 期待
 | AI ROI 長期停留在成本端，無法財報化 | CSP / enterprise software | 高 | Copilot adoption、管理層投資與 Token 使用量有聲量，但 margin / FCF 沒有改善 | operating margin、FCF、AI attach rate、seat expansion、usage revenue | Follow-up QA；整理者判斷 |
 | 企業 AI 仍停留在 demo / optional tool | SaaS / enterprise software | 高 | CFO 可砍可延後，未進入 mission-critical workflow | production rollout、renewal、usage retention、CIO budget | 主文 |
 | 用裁員率直接判斷 Token 定價權 | 全市場 / CSP / enterprise software | 中 | 市場把裁員新聞當成 AI ROI 的直接證明或否定 | layoffs、token usage per employee、workflow automation rate、core process adoption | Follow-up QA |
+| Revenue / employee 被單獨誤讀 | 全市場 / enterprise software | 中 | 收入 / 員工改善可能來自價格、產品組合或裁員，而非 AI 生產力本身 | revenue / employee、operating margin、headcount growth、SG&A / revenue、R&D / revenue、management AI KPI | 留言 `c-246643142` |
 | AI 生產力衝擊在中長期轉成就業與消費壓力 | 宏觀 / enterprise demand | 中 | AI 取代速度快於新工作創造，消費端反而削弱企業需求 | unemployment、real consumption、IT budget、software spend、AI CAPEX | Follow-up QA |
 | 把所有 CSP 都視為同等受益 | CSP / hyperscalers | 中高 | compute supply、enterprise distribution、AI product pricing、cloud customer mix 差異很大 | cloud revenue、customer commitments、AI SKU pricing、utilization | 整理者判斷 |
 | Apple AI 收費模型沒有落地 | **AAPL** | 中高 | 用戶不付費、AI 功能被視為內建 commodity、收入無法量化 | paid AI subscription、services revenue、attach rate、user behavior | 主文 |
@@ -128,6 +141,7 @@ Apple 不是本文主角，但宋分特別補充：市場對 Apple 的 AI 期待
 | 2026 / 每季 | CSP Token 定價權是否從框架變成 revenue / margin / predictability 訊號 | **MSFT**；CSP / hyperscalers | 正面若 `Price x Usage x Predictability` 改善、AI usage / pricing / gross margin / FCF 同步改善；負面若 CAPEX / depreciation 吃掉收入 | Azure AI revenue、Copilot pricing / paid seats、token pricing、AI gross margin、CAPEX、depreciation、FCF、usage retention | 主文；Follow-up QA |
 | 2026 | Agentic AI 與 workflow integration 是否使 Token 使用量非線性增加 | CSP / enterprise software | 正面若企業 AI 從 demo 轉 production workflow；負面若仍是低頻工具 | ERP / CRM / customer service / finance closing automation、tokens per task、usage retention | 主文 |
 | 2026 / 財報季 | AI ROI 是否從成本端與 adoption 指標轉成財報訊號 | CSP / enterprise software | 正面若 Copilot adoption、Token usage 與管理層擴大投資後，margin / FCF / usage revenue 開始跟上；負面若只停留敘事 | AI attach rate、management commentary、token usage、operating margin、FCF、AI revenue | Follow-up QA |
+| 每季 | AI 生產力是否同時反映在收入效率、費用率與 headcount | CSP / enterprise software | 正面若 revenue / employee、margin、headcount growth 與 SG&A / R&D ratio 同向支持；負面若只有單一指標改善 | revenue / employee、operating margin、SG&A / revenue、R&D / revenue、headcount growth、10-Q / 10-K headcount text | 留言補充 |
 | 2026-2027 | 企業 AI 預算與 CIO 優先順序是否轉成正式上線與續約 | CSP / SaaS | 正面若 2026 正式上線、2027 普及；負面若 budget 被延後 | CIO survey、software spend vs hardware spend、AI / ML priority、production deployment | 主文 |
 | AI 開始普及後 | re-rate 從「機制被低估」轉向「誰捕捉最多價值」 | CSP / software / AI app layer | 正面若某些公司把 AI usage 轉成高利潤、可預測收入；負面若價值落在使用者端或被競爭吃掉 | value capture、AI revenue mix、gross margin、pricing power、retention | 4/26 補充 |
 | 未定 | Apple 是否推出可量化 AI 收費模式 | **AAPL** | 正面若 AI 變成 services / subscription / usage-based revenue；負面若只是免費功能 | Apple services revenue、paid AI attach rate、iCloud-like bundle、user payment behavior | 主文 |

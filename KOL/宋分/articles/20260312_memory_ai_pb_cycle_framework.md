@@ -1,12 +1,12 @@
 # AI 記憶體熱潮下，為什麼機構還是只看 PB？
 
 - **KOL**：宋分 / 美股送分題
-- **來源**：Substack 文章
+- **來源**：Substack 文章 + Substack 主文留言補充
 - **類型**：Substack 文章 / 市場解碼深度 / AI 記憶體 / PB valuation / cycle framework
-- **發文時間**：2026-03-12 05:56 UTC（台北 13:56；Substack preloads JSON）
+- **發文時間**：2026-03-12 05:56 UTC（台北 13:56；Substack preloads JSON）；留言補充 2026-03-12 至 2026-03-15
 - **整理日期**：2026-04-28
-- **原始檔案 / URL**：https://substack.com/home/post/p-190696035
-- **source_id**：宋分-20260312-memory-ai-pb-cycle-framework-861aa7e5
+- **原始檔案 / URL**：https://substack.com/home/post/p-190696035；https://openbookandeasypoint.substack.com/p/ai-pb/comment/226683343；https://openbookandeasypoint.substack.com/p/ai-pb/comment/227123438；https://openbookandeasypoint.substack.com/p/ai-pb/comment/227227907；https://openbookandeasypoint.substack.com/p/ai-pb/comment/227587240；https://openbookandeasypoint.substack.com/p/ai-pb/comment/228031717
+- **source_id**：宋分-20260312-memory-ai-pb-cycle-framework-861aa7e5；宋分-20260312-memory-cycle-exit-hbm-pe-pb-comments-e13c48d1
 - **raw 路徑 / URL**：`KOL/宋分/raw/20260312_宋分_memory_ai_pb_cycle_framework_home_宋分-20260312-memory-ai-pb-cycle-framework-861aa7e5.pdf`；`KOL/宋分/raw/20260312_宋分_memory_ai_pb_cycle_framework_note_宋分-20260312-memory-ai-pb-cycle-framework-861aa7e5.pdf`
 - **OCR 狀態**：部分（Substack preloads 正文完整可讀；使用者提供兩份 PDF 為 image-only raw 備份，未 OCR）
 - **相關 ticker**：**MU** 為主要框架案例與 watchlist candidate；**005930.KS**、**000660.KS** 為記憶體三大廠 / 供給結構例子；**TSM**、**TXN** 為 PE valuation 對照例子
@@ -33,7 +33,8 @@
 
 | 框架 | 核心邏輯 | 適用情境 | 觀察指標 | 相關 ticker |
 |---|---|---|---|---|
-| 記憶體 PB / Cycle 三階段框架 | 記憶體 EPS 太週期，PE 容易在高點看起來便宜、低點看起來貴；PB 更能觀察市場願意為產能與資產付多少倍 | AI memory、HBM、DRAM / NAND、其他資本密集週期產業 | PB、book value、capacity、capex、DRAM / NAND 報價、bit supply、inventory、HBM capacity、AI server demand | **MU**, **005930.KS**, **000660.KS** |
+| 記憶體 PB / Cycle 三階段框架 | 記憶體 EPS 太週期，PE 容易在高點看起來便宜、低點看起來貴；PB 更能觀察市場願意為產能與資產付多少倍 | AI memory、HBM、DRAM / NAND、其他資本密集週期產業 | PB、book value、capacity、capex、DRAM / NAND 報價、bit supply、inventory、HBM capacity、AI server demand、股價是否早於需求惡化先反應供給 | **MU**, **005930.KS**, **000660.KS** |
+| HBM / 消費記憶體雙結構 re-rating 框架 | HBM 可能因 CSP CAPEX、技術門檻與供給瓶頸取得較長估值週期，但消費 DRAM / NAND 仍受 PC / mobile cycle 牽動；整家公司能否 PE 化取決於 HBM 占比與現金流穩定性 | 投資人想判斷 memory 是否「台積電化」、HBM 是否足以讓整體記憶體廠從 cycle stock 轉成 structural growth 時 | HBM revenue / profit mix、consumer memory capacity shift、CSP CAPEX、PC / mobile demand、capacity allocation、PB range 是否上移 | **MU**, **005930.KS**, **000660.KS** |
 | LTA / 預付款不是 cycle 消失框架 | 長約與預付款多半代表下游客戶要保障供應，不代表價格永久上漲；在資本密集產業，需求被確認後常引發供給擴張 | HBM 長約、CSP 鎖單、預付款、capacity reservation | volume commitment、capacity reservation、pricing reset、floor / ceiling、prepayment、supplier capex | **MU** / memory makers |
 | 定價三階段的記憶體應用 | 估值先因敘事擴張，基本面再追上估值，最後若供給追上需求則 PB 壓縮 | 判斷 AI memory 是第一段、第二段還是第三段 | long-term assumptions、quotes、EPS revision、PB expansion, customer inventory, good-news reaction | **MU** |
 
@@ -94,11 +95,24 @@ PE 在記憶體上容易失真。景氣高點時，DRAM / NAND 價格上漲，EP
 
 文章最重要的提醒是：cycle turn often happens before earnings collapse。股價不一定等需求消失才跌，很多時候是市場開始預期供給會增加，PB 就先壓縮。
 
+## 留言補充：cycle 轉折、台積電化與 HBM / 消費記憶體分流
+
+宋分在主文留言區把本篇的應用條件再補清楚：記憶體 cycle 退出訊號不只看當下 demand，而要同時看 price trend、下游客戶庫存與 memory makers CAPEX。股價常在需求尚未消失前先轉弱，因為市場會先反映供給可能增加、庫存可能累積與未來報價可能反轉。
+
+| 留言 | 補充重點 | 對主文的增量 |
+|---|---|---|
+| `c-226683343` | 判斷 cycle 階段要同看價格趨勢、下游庫存與 memory makers CAPEX；股票常早於需求消失先反應供給 | 補強「第三段估值壓縮」的早期訊號，不把 earnings 還亮眼誤認為 cycle 仍安全 |
+| `c-227123438` | 台積電過去也偏 PB，但因護城河與獲利穩定度提高，後來較常被市場用 PE 看；HBM 是否能有類似變化要看貢獻度是否足夠 | 將「記憶體能否 PE 化」改成條件問題，不是直接否定 HBM re-rating |
+| `c-227227907` | HBM 與消費記憶體需分開看：HBM 跟 CSP CAPEX，消費 DRAM / NAND 跟 PC / mobile cycle；若消費電子需求弱，仍可能拖累公司整體 | 新增「雙結構」檢查，避免把 HBM tightness 外推成整體記憶體永久成長 |
+| `c-227587240` | 半導體整體都有 cycle，但上游如台積電 / 設備因技術與集中度，cycle 更長、獲利更穩 | 將 memory 與半導體上游區分，支撐估值方法差異 |
+| `c-228031717` | 上游集中、產品受限時，漲價可推動 revenue / profit expansion；第一輪主角後才思考供應鏈其他受益者 | 補強先看核心瓶頸，再看外溢供應鏈的順序 |
+
 ## 關鍵證據
 
 | 證據 | 來源 | 整理者判斷 |
 |---|---|---|
 | Substack preloads 提供完整正文，兩份使用者 PDF 為 image-only raw 備份 | Substack / 使用者 PDF | 來源內容完整可整理；PDF 未 OCR，但正文已由網頁 preloads 取得 |
+| 留言 `c-226683343`、`c-227123438`、`c-227227907`、`c-227587240`、`c-228031717` 均可由公開 comment permalink 追溯 | Substack 主文留言 | 可作本文補充版；內容是框架補強，不是新增 **MU** 買賣觀點 |
 | 文章附圖為 `MU PB 20Y.jpg`，以 MU 12M forward PB 作歷史 cycle 案例 | Substack 圖片 / 正文 | **MU** 是本篇主要 ticker 框架案例 |
 | 宋分比較 PE 與 PB，說記憶體盈利太週期，PE 容易誤導 | 正文 | 新增「記憶體 PB / Cycle 三階段框架」 |
 | 文章整理 2006-2008、2017 與目前 AI memory cycle | 正文 | 本篇是定價三階段框架在記憶體產業的延伸應用 |
@@ -111,6 +125,7 @@ PE 在記憶體上容易失真。景氣高點時，DRAM / NAND 價格上漲，EP
 |---|---|---|---|---|---|
 | 把 PB 框架誤讀成看空 AI memory | **MU** / memory makers | 高 | 只看到週期風險，忽略宋分說 AI 可能拉長 cycle | HBM demand、AI server demand、LTA、HBM margin、capacity bottleneck | 正文；整理者判斷 |
 | 把 LTA / 預付款誤寫成永久固定價格 | 記憶體 / HBM | 高 | 長約其實採 quarterly reset、index pricing 或 floor / ceiling | LTA pricing terms、ASP、gross margin、cancellation / adjustment terms | 正文 |
+| 把 HBM tightness 外推成整體記憶體廠全面 PE 化 | **MU** / memory makers | 高 | HBM 占比不足，或消費 DRAM / NAND 因 PC / mobile cycle 下行拖累整體獲利 | HBM revenue / margin mix、consumer memory demand、capacity shift、CSP CAPEX | 留言 `c-227123438`、`c-227227907` |
 | 供給擴張比市場預期更快 | **MU**, **005930.KS**, **000660.KS** | 高 | HBM / DRAM capex 大幅增加，bit supply 超過 demand | memory makers capex、wafer starts、HBM capacity、bit supply growth | 正文 |
 | AI server demand normalizes | memory makers / AI supply chain | 高 | GPU capex 放慢、CSP pull-in 降低、AI ROI 壓力升高 | hyperscaler capex、GPU shipment、server build, CSP inventory | 正文；整理者判斷 |
 | 客戶庫存累積 | memory makers | 中高 | PC / mobile / CSP 客戶提前拉貨後轉為去庫存 | downstream inventory、bookings、lead time、pricing quotes | 正文 |
@@ -121,6 +136,7 @@ PE 在記憶體上容易失真。景氣高點時，DRAM / NAND 價格上漲，EP
 | 日期 / 項目 | 事件 | 相關 ticker | 影響方向 | 追蹤重點 | 出處 |
 |---|---|---|---|---|---|
 | 每季 | AI memory cycle 是否仍處於供不應求 / PB 擴張或 earnings catch-up 階段 | **MU**, **005930.KS**, **000660.KS** | 正面若 HBM demand 續強且供給反應慢；負面若市場開始提前定價供給增加 | PB multiple、DRAM / NAND / HBM pricing、inventory、capex、bit supply、AI server demand | 本篇 |
+| 每季 | HBM 是否足以改變整體記憶體廠估值分類 | **MU** / memory makers | 正面若 HBM revenue / profit mix 提升且現金流更穩；負面若消費記憶體 cycle 仍主導整體波動 | HBM mix、consumer DRAM / NAND demand、CSP CAPEX、capacity allocation、PB range | 留言補充 |
 | 每季 | HBM capacity expansion 是否讓 supply catch up with demand | **MU** / memory makers | 若 capex 快速轉產能，cycle 可能進入晚段 | HBM capacity、advanced packaging bottleneck、yield、supplier capex | 本篇 |
 | 每季 | LTA / 預付款是否轉成可持續 revenue / margin，而非只保供應 | **MU** / memory makers | 正面若 volume、price、margin 同步穩定；負面若價格重設或客戶拉貨放慢 | LTA pricing terms、ASP、gross margin、customer inventory、CSP pull-in | 本篇 |
 | 未定 | 市場是否真的把 memory 從短週期股重估為長週期循環股 | **MU** / memory sector | 正面為 PB 區間抬高；負面為高 PB 後壓縮 | PB range、cycle duration、supply discipline、customer demand visibility | 本篇；`indexes/framework_index.md` |

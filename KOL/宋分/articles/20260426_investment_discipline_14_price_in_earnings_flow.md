@@ -1,16 +1,20 @@
 # 投資紀律 #14：財報後 Price-in、預期驗證定價與資金行情風險
 
 - **來源 KOL**：宋分 / 美股送分題
-- **來源類型**：Substack 電子報 + Substack Note 推廣
+- **來源類型**：Substack 電子報 + Substack Note 推廣 + 留言補充
 - **原始來源**：
   - https://openbookandeasypoint.substack.com/p/price-in
   - https://substack.com/@openbookandeasypoint/note/c-249273067
+  - https://openbookandeasypoint.substack.com/p/price-in/comment/249347793
+  - https://openbookandeasypoint.substack.com/p/price-in/comment/249478903
+  - https://openbookandeasypoint.substack.com/p/price-in/comment/249482916
 - **source_id**：
   - 宋分-20260426-investment-discipline-14-price-in-earnings-flow-313efbef
   - 宋分-20260426-investment-discipline-14-price-in-promo-3d98634d
+  - 宋分-20260426-price-in-volume-expectation-checklist-11709092
 - **raw 路徑 / URL**：URL（未另存 raw）
 - **OCR 狀態**：不適用
-- **發文時間**：電子報 2026-04-26 03:45 UTC（台北 11:45）；推廣 Note 2026-04-26 03:54 UTC（台北 11:54）
+- **發文時間**：電子報 2026-04-26 03:45 UTC（台北 11:45）；推廣 Note 2026-04-26 03:54 UTC（台北 11:54）；留言補充 2026-04-26 10:14 / 15:55 / 16:03 UTC
 - **整理日期**：2026-04-28
 - **相關 ticker**：無具名單股 thesis；AI / 半導體為類別例子
 - **主題 / 母題標籤**：#財報 #估值風險 #金融流動性 #投資與投機 #ReRating
@@ -56,6 +60,16 @@
 | 長線資金重新評估 | 長線資金檢查成長、CAPEX、現金流後，若 thesis 沒壞，可能買回 | 長期成長、資本配置、FCF / cash flow structure |
 | 市場發現錯殺 | 第一時間沒看懂先賣，理解後買回 | 數日 follow-through、同族群反應、sell-side / buyside 解讀是否轉向 |
 
+### 留言補充：成交量與預期清單
+
+4/26 留言補充把主文的「預期 -> 驗證 -> 定價」再落到兩個實務檢查。
+
+| 補充來源 | 核心內容 | 整理者判斷 |
+|---|---|---|
+| `c-249347793` | 成交量可當輔助訊號，但大型科技股因回購使流通股數下降，量能有偏誤；財報後下跌 + 爆量代表市場激烈對答案，下跌 + 量縮較像缺乏承接，先跌後漲 + 放量則可能是長線資金開始回補 | 補強「先跌再漲」的市場反應觀察，但成交量不能單獨定義 thesis 是否成立 |
+| `c-249478903` | 機構和散戶看到的財報 / 法說資料相近，差別在解讀：散戶常看結果，機構看變化；財報前要先記錄市場原本預期、新聞中的數字、法說展望與財報前股價在漲什麼，再回頭對照結果 | 將主文框架轉成財報前 / 財報後檢查清單 |
+| `c-249482916` | 宋分說「預期、驗證、定價」是機構常用語言，他只是用較白話方式整理 | 補充框架來源性質，不新增單股 thesis |
+
 ## 機構的三步流程
 
 宋分把機構在法說後的流程整理成三步：
@@ -95,10 +109,12 @@
 | 股價 / PE / estimates 三者是否同步？ | 判斷 price-in 程度 |
 | 我在賺基本面錢還是資金錢？ | 資金行情下的節奏與風險管理 |
 | 現在是風險報酬比好的位置，還是舒服但昂貴的位置？ | 避免 FOMO 進場 |
+| 財報前市場原本在 price 什麼數字 / 展望？ | 用財報結果對照原本預期，而不是只看 beat / miss |
+| 財報後量價是在激烈對答案、缺乏承接，還是長線資金回補？ | 把成交量當輔助訊號，但仍回到基本面與 thesis |
 
 ## 限制與注意
 
 - 本文無具名單股 thesis，不更新 `Stocks/` 或 watchlist。
 - 文中的 AI / 半導體只是類別例子，不可映射成特定個股看多或看空。
 - 「不動、加碼、保留現金」等語境是宋分描述機構流程與風險管理，不寫成使用者的買賣建議。
-- 來源為 Substack 電子報 HTML / preload 與推廣 Note JSON-LD，正文完整可讀；未另存 raw。
+- 來源為 Substack 電子報 HTML / preload、推廣 Note JSON-LD 與公開留言 API，正文與留言完整可讀；未另存 raw。

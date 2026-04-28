@@ -6,8 +6,8 @@
 - **發文時間**：2026-03-21 05:30 UTC（台北 13:30；Substack preloads JSON）
 - **補充時間**：2026-03-21 至 2026-03-23（Substack Note / 使用者留言截圖）
 - **整理日期**：2026-04-28
-- **原始檔案 / URL**：https://substack.com/home/post/p-191574761；https://substack.com/@openbookandeasypoint/note/c-231066197；https://substack.com/@openbookandeasypoint/note/c-231427946；https://substack.com/@openbookandeasypoint/note/c-231485999
-- **source_id**：宋分-20260321-stop-loss-thesis-certainty-position-sizing-0b192998
+- **原始檔案 / URL**：https://substack.com/home/post/p-191574761；https://substack.com/@openbookandeasypoint/note/c-231066197；https://substack.com/@openbookandeasypoint/note/c-231427946；https://substack.com/@openbookandeasypoint/note/c-231485999；https://openbookandeasypoint.substack.com/p/a14/comment/231047171；https://openbookandeasypoint.substack.com/p/a14/comment/231374316；https://openbookandeasypoint.substack.com/p/a14/comment/231810123
+- **source_id**：宋分-20260321-stop-loss-thesis-certainty-position-sizing-0b192998；宋分-20260321-thesis-check-institutional-time-horizon-comments-3024529d
 - **raw 路徑 / URL**：`KOL/宋分/raw/20260321_宋分_stop_loss_thesis_certainty_position_宋分-20260321-stop-loss-thesis-certainty-position-sizing-0b192998.pdf`
 - **OCR 狀態**：部分（Substack preloads JSON 正文完整可讀；使用者提供 5 頁 Substack 截圖 PDF 作 raw 備份，未 OCR；留言截圖人工辨識）
 - **相關 ticker**：**TSM** 為讀者留言中的成本價 / 檢查範例；**LITE** / **MU** 為讀者提問與反彈階段範例。本文不形成上述 ticker 的新單股 thesis。
@@ -42,11 +42,11 @@
 | 補充來源 | 時間 | 核心內容 | 入庫判斷 |
 |---|---|---|---|
 | `c-231066197` | 2026-03-21 13:06 UTC | 情緒不用先控制，而是先觀察固定模式，再轉成規則；三個訓練是 decision journal、scenario thinking、position sizing | 補強「條件停損」與「風險預算 / 降低動作框架」 |
-| TSM 375 留言截圖 | 2026-03-21（截圖顯示 Mar 21） | 讀者問 **TSM** 買在 375 是否看錯；宋分回覆買在 375 本身不是錯，關鍵是最初假設是否仍成立、下跌是基本面變化 / 資金環境變化 / 市場 re-pricing 哪一種 | 只記為 L1 framework example，不寫成宋分對 **TSM** 的買賣觀點 |
+| `c-231047171` / TSM 375 留言截圖 | 2026-03-21 12:08 UTC | 讀者問 **TSM** 買在 375 是否看錯；宋分回覆買在 375 本身不是錯，關鍵是最初假設是否仍成立、下跌是基本面變化 / 資金環境變化 / 市場 re-pricing 哪一種；若只是因價格緊張，常代表部位太大 | 只記為 L1 framework example，不寫成宋分對 **TSM** 的買賣觀點 |
 | `c-231427946` | 2026-03-22 07:29 UTC | 機構看「敘事 -> 證據 -> 數字」；非財報訊號包括試產到放量、導入到重複下單、短單到拉長能見度、管理層更具體、上下游說法一致、Capex 真投入 | 補強「確定性提升 / 市場信任建立框架」 |
-| `c-231374316` / 使用者截圖 | 2026-03-22 02:36 UTC | 散戶不用比誰第一天知道消息；更實用的是不追第一天、看訊號是否持續、等第二次 / 第三次確認 | 由 `c-231485999` preloads parent comments 與使用者截圖交叉確認 |
+| `c-231374316` / 使用者截圖 | 2026-03-22 02:36 UTC | 散戶不用比誰第一天知道消息；更實用的是不追第一天、看訊號是否持續、等第二次 / 第三次確認；如果機會只在第一天有效，通常不適合一般散戶 | 由公開 comment permalink、`c-231485999` preloads parent comments 與使用者截圖交叉確認 |
 | `c-231485999` | 2026-03-22 12:09 UTC | 反彈分三階段：早期大型股 / 權值股，確認期回到基本面強的成長股，後期才輪到高 beta / 小型股；當時信用利差擴大、VIX 偏緊、利率上升，較接近第一階段到第二階段之間 | 補強「市場風險三指標 / 反彈確認框架」 |
-| 短中長資金留言截圖 | 2026-03-23（截圖顯示 Mar 23） | 同一檔股票，不同機構與同一機構不同部位的時間尺度可差很多：短期資金看事件 / 財報，中期資金看產業循環與基本面發酵，長期資金看方向是否對 | 補強「定價階段 / 視野鎖定紀律框架」與資金時間尺度 |
+| `c-231810123` / 短中長資金留言截圖 | 2026-03-23 01:26 UTC | 同一檔股票，不同機構與同一機構不同部位的時間尺度可差很多：短期資金看事件 / 財報，中期資金看產業循環與基本面發酵，長期資金看方向是否對 | 補強「定價階段 / 視野鎖定紀律框架」與資金時間尺度 |
 
 ## Ticker 分流
 
@@ -64,7 +64,7 @@
 | 原文明確說停損不是價格問題，而是邏輯有沒有壞掉 | 主文 | 本文是投資流程 / 風險管理框架，不是單股觀點 |
 | 原文列出產業方向、公司競爭力、時間節奏三種看錯方式 | 主文 | 可作後續檢查 thesis break 的標準欄位 |
 | `c-231066197`、`c-231427946`、`c-231485999` 均在 Substack preloads 中可讀，且 post_id 皆為 `191574761` | Substack Notes | 三則都是主文下方留言補充，應合併到同一篇主整理 |
-| 使用者提供三張留言截圖，含 TSM 375、第一天反應與短中長資金補充 | 使用者截圖 | 截圖文字可人工辨識；未另存 raw；日期以截圖顯示 Mar 21 / Mar 22 / Mar 23，年份依主文推估為 2026 |
+| `c-231047171`、`c-231374316`、`c-231810123` 補上三張使用者留言截圖對應的公開 comment permalink | Substack 主文留言 / 使用者截圖 | 三則留言已可追溯公開來源；仍只作投資流程框架補充，不寫成 **TSM** / **LITE** / **MU** 單股觀點 |
 
 ## 風險與反例
 

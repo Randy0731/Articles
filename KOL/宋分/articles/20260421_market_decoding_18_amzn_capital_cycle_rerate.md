@@ -1,12 +1,12 @@
 # 市場解碼 #18：Amazon 資本週期、ROIC 轉折與衛星 Re-rate
 
 - **KOL**：宋分 / 美股送分題
-- **來源**：Substack 電子報 + Substack Note 推廣 + Amazon official Globalstar acquisition PR
+- **來源**：Substack 電子報 + Substack Note 推廣 + Substack 主文留言補充 + Amazon official Globalstar acquisition PR
 - **類型**：Substack 文章 / 市場解碼 #18 / AMZN / 資本週期 / ROIC / Amazon Leo / Globalstar / re-rate
-- **發文時間**：電子報 2026-04-21 05:31 UTC（台北 13:31；Substack JSON-LD / preloads）；推廣 Note 2026-04-21 05:32 UTC（台北 13:32；Substack JSON-LD）；Amazon official PR 2026-04-14
+- **發文時間**：電子報 2026-04-21 05:31 UTC（台北 13:31；Substack JSON-LD / preloads）；推廣 Note 2026-04-21 05:32 UTC（台北 13:32；Substack JSON-LD）；留言補充 2026-04-22 09:02 UTC、2026-04-25 14:10 UTC；Amazon official PR 2026-04-14
 - **整理日期**：2026-04-28
-- **原始檔案 / URL**：https://openbookandeasypoint.substack.com/p/amazonamazonre-rate；https://substack.com/@openbookandeasypoint/note/c-246701987；https://press.aboutamazon.com/2026/4/amazon-to-acquire-globalstar-and-expand-amazon-leo-satellite-network
-- **source_id**：宋分-20260421-market-decoding-18-amzn-capital-cycle-rerate-17d54f26；宋分-20260421-market-decoding-18-amzn-promo-ddbb00af
+- **原始檔案 / URL**：https://openbookandeasypoint.substack.com/p/amazonamazonre-rate；https://substack.com/@openbookandeasypoint/note/c-246701987；https://openbookandeasypoint.substack.com/p/amazonamazonre-rate/comment/247287496；https://openbookandeasypoint.substack.com/p/amazonamazonre-rate/comment/248962594；https://press.aboutamazon.com/2026/4/amazon-to-acquire-globalstar-and-expand-amazon-leo-satellite-network
+- **source_id**：宋分-20260421-market-decoding-18-amzn-capital-cycle-rerate-17d54f26；宋分-20260421-market-decoding-18-amzn-promo-ddbb00af；宋分-20260422-amzn-capitalized-rd-satellite-connectivity-b0f48af8
 - **raw 路徑 / URL**：URL（未另存 raw）
 - **OCR 狀態**：不適用（Substack JSON-LD / preloads 與 Amazon official PR 正文完整可讀）
 - **相關 ticker**：**AMZN** 為 L3 主題個股並升級正式 `Stocks/AMZN/`；**GSAT** 為 Amazon official 併購目標 context；**AAPL** 為 Amazon official 衛星服務協議 context
@@ -30,9 +30,9 @@
 
 | 框架 | 核心邏輯 | 適用情境 | 觀察指標 | 相關 ticker |
 |---|---|---|---|---|
-| 資本週期 / ROIC x Organic Growth Re-rate 框架 | 公司用前一輪現金流投入下一層基礎設施，短期 EPS / ROIC 可能被壓低；若市場後來相信 CAPEX 在買未來現金流，且 ROIC 轉升時 organic growth 仍在，估值可能重新上修 | Amazon 型平台、CAPEX-heavy growth、AI / cloud / satellite infrastructure、短期會計利潤與長期現金流錯配時 | ROIC trend、organic growth、CAPEX purpose、FCF visibility、segment profit mix、high-margin revenue mix、market valuation model | **AMZN**；可套用於其他資本密集平台 |
+| 資本週期 / ROIC x Organic Growth Re-rate 框架 | 公司用前一輪現金流投入下一層基礎設施，短期 EPS / ROIC 可能被壓低；若市場後來相信 CAPEX 在買未來現金流，且 ROIC 轉升時 organic growth 仍在，估值可能重新上修 | Amazon 型平台、CAPEX-heavy growth、AI / cloud / satellite infrastructure、短期會計利潤與長期現金流錯配時 | ROIC trend、organic growth、CAPEX purpose、R&D capitalization quality、FCF visibility、segment profit mix、high-margin revenue mix、market valuation model | **AMZN**；可套用於其他資本密集平台 |
 | AMZN 現金流雙層結構 | 低毛利零售負責規模與現金流，高毛利 AWS / advertising / Prime 負責利潤率放大 | 營收結構與利潤結構顛倒，市場只看 consolidated EPS 時 | retail revenue、shipping cost、3P seller services、advertising revenue、Prime membership pricing、segment margin | **AMZN** |
-| 衛星 / 連網能力底層化假設 | Globalstar / Amazon Leo 不是單純新業務，而是 Amazon 往更底層通訊基礎設施走的 Cycle 3 假設 | 市場把 satellite 視為遠期燒錢，但 KOL 想檢查其是否成為下一層現金流引擎 | Globalstar close、regulatory approval、HIBLEO-4 milestones、Amazon Leo D2D rollout、Apple / MNO partners、enterprise / government demand | **AMZN**；**GSAT** context |
+| 衛星 / 連網能力底層化假設 | Globalstar / Amazon Leo 不是單純新業務，而是 Amazon 往更底層通訊基礎設施走的 Cycle 3 假設；留言補充強調重點是 coverage + control，而非取代 4G / 5G | 市場把 satellite 視為遠期燒錢，但 KOL 想檢查其是否成為下一層現金流引擎 | Globalstar close、regulatory approval、HIBLEO-4 milestones、Amazon Leo D2D rollout、Apple / MNO partners、last-mile connectivity、IoT / industrial / emergency demand | **AMZN**；**GSAT** context |
 
 ## 宋分框架拆解
 
@@ -74,6 +74,15 @@
 
 Amazon official 於 2026-04-14 宣布與 Globalstar 簽訂 definitive merger agreement，目標是把 Globalstar 衛星、頻譜與營運能力併入 Amazon Leo，增加 direct-to-device 服務；官方也提到與 Apple 的衛星服務協議、交易預期 2027 年完成且仍需監管批准與 HIBLEO-4 replacement satellite milestones。這些官方資訊支持「事件存在」，但不等於現金流已兌現。
 
+### 5a. 留言補充：資產化研發與最後一段連線
+
+宋分在留言區補了兩個判讀點。第一，資產化與費用化本質上都是公司花出去的錢，差別在於市場要問這筆支出是否能產生未來現金流；若只是把不確定技術支出資產化、拉長攤銷，就可能只是改善短期 EPS。第二，Amazon Leo / Globalstar 的核心不是取代 4G / 5G，而是補上 coverage 與 control，讓 AWS 未來可能變成 compute + storage + connectivity 的底層平台。
+
+| 留言 | 補充重點 | 對 **AMZN** 的增量 |
+|---|---|---|
+| `c-247287496` | 判讀資產化研發時，要看是否對應穩定訂單、可預期收入與現金流；追蹤資產化 R&D 占比、攤銷年限，以及是否轉成 revenue / FCF | 把「費用背後是投資還是成本」落成會計檢查表 |
+| `c-248962594` | 宋分個人觀點：AMZN 要的是最後一段連線與控制權，不是跟 4G / 5G 比速度；D2D 高價值場景包括無死角連線、IoT / industrial 與 emergency / low-frequency high-value use cases | 補強 Cycle 3 的 connectivity thesis；仍需官方里程碑與商業化驗證 |
+
 ### 6. ROIC x Organic Growth 才是股價爆發條件
 
 宋分把核心公式寫成 ROIC x Organic Growth：ROIC 代表資本效率，Organic Growth 代表成長來源。只有高 ROIC 沒有成長，通常只是穩定估值；只有成長沒有 ROIC，則可能變成資本黑洞。Amazon 難懂之處在於它常故意用 CAPEX 壓低短期 ROIC，等新現金流引擎啟動後 ROIC 才突然上升。
@@ -97,9 +106,11 @@ Amazon official 於 2026-04-14 宣布與 Globalstar 簽訂 definitive merger agr
 |---|---|---|
 | Amazon 歷史三輪誤判 | 用電商、AWS、AI + 衛星三輪說明市場常先看錯 Amazon 的投資性支出 | 支持新「資本週期 / ROIC x Organic Growth」框架 |
 | 2025 AWS revenue growth vs backlog growth | 宋分口徑稱 AWS revenue +19.7%、backlog +38%，代表需求強於收入認列 | 需用 Amazon filings / earnings 逐季校準；呼應 2/6 backlog 先行框架 |
+| 留言 `c-247287496` | 將資產化研發拆成未來現金流檢查，而非單純 EPS 美化 | 補強 CAPEX / R&D quality 追蹤 |
 | Shipping expense 2025 約 `$102.7B`、2024 約 `$95.8B` | 宋分用來說明零售成本壓力與高毛利收入覆蓋力 | 是營運成本監控點，不是估值結論 |
 | Advertising + Prime 高毛利層 | 宋分認為這兩者和 AWS 一樣，是低毛利零售流量上的利潤放大器 | 後續要追 high-margin revenue mix、ad growth、Prime pricing / churn |
 | Amazon official Globalstar acquisition | 官方確認 Amazon 將收購 Globalstar，強化 Amazon Leo D2D 與 Apple 衛星服務協議 | 事件已存在，但交易仍需 2027 closing / approval / milestones；不可寫成已兌現收入 |
+| 留言 `c-248962594` | 宋分個人觀點認為 Amazon Leo / Globalstar 重點在 coverage + control，與 AWS / Apple / D2D 生態系可能形成後端連線層 | 可納入 **AMZN** 儀表板 open question；不得寫成衛星現金流已兌現 |
 | ROIC x Organic Growth | 宋分把重點從 EPS 轉到資本效率與內生成長同時成立 | 新增為 **AMZN** 儀表板核心追蹤項目 |
 
 ## 風險與反例
@@ -107,8 +118,10 @@ Amazon official 於 2026-04-14 宣布與 Globalstar 簽訂 definitive merger agr
 | 風險 | 相關 ticker / 類別 | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
 |---|---|---|---|---|---|
 | CAPEX 其實是資本黑洞，不是買未來 | **AMZN** | 高 | AI / satellite / logistics 投資無法轉成 revenue、margin、FCF 或 ROIC 改善 | CAPEX, depreciation, FCF, ROIC, AWS / Amazon Leo revenue | 主文；整理者判斷 |
+| 資產化研發只是延後成本認列 | **AMZN** | 高 | Capitalized R&D 占比過高、攤銷年限拉長，但收入 / FCF 沒跟上 | capitalized R&D ratio、amortization life、R&D to revenue、revenue / FCF conversion | 留言 `c-247287496` |
 | AWS backlog / RPO 未轉成收入與 margin | **AMZN** | 高 | backlog 增長不能轉 revenue，或折舊 / price pressure 壓低 AWS margin | AWS revenue, AWS operating margin, RPO / backlog conversion, utilization | 主文；2/6 框架 |
 | Satellite / Globalstar 交易延後或無法商業化 | **AMZN**, **GSAT** context | 高 | 監管批准、HIBLEO-4 milestones、Apple / MNO 合作或 D2D 技術推進不如預期 | transaction close, regulatory approvals, HIBLEO-4, Amazon Leo D2D rollout, partner commitments | Amazon official；整理者判斷 |
+| Connectivity thesis 被誤讀成取代 4G / 5G | **AMZN** | 中 | 市場把 satellite 成敗簡化成速度競爭，忽略其真正要驗證的是 coverage、control 與高價值低頻場景 | last-mile coverage、IoT / industrial endpoints、emergency use cases、Apple / MNO partnerships | 留言 `c-248962594` |
 | 高毛利層不足以覆蓋零售與物流成本 | **AMZN** | 中高 | advertising / Prime / 3P services 成長放慢，shipping / fulfillment cost 繼續上升 | ad revenue growth, subscription revenue, shipping cost, fulfillment cost, North America margin | 主文 |
 | 市場用錯模型的判斷過度主觀 | **AMZN** | 中 | 投資人把每一次低 EPS 都解讀成未來護城河，忽略真實成本惡化 | segment margins, OCF / FCF, ROIC trend, cost productivity | 整理者判斷 |
 | 估值先行但 ROIC 未轉折 | **AMZN** | 中 | 市場先 re-rate，但後續 ROIC / organic growth 沒有同步改善 | ROIC, organic revenue growth, EPS revision, FCF margin | 主文 |
@@ -120,7 +133,9 @@ Amazon official 於 2026-04-14 宣布與 Globalstar 簽訂 definitive merger agr
 | 每季 | AWS backlog / RPO 是否持續領先 revenue，並轉成 revenue / margin | **AMZN** | 正面若 backlog conversion + margin 穩定；負面若 demand 只在承諾，不進收入 | AWS revenue, AWS operating margin, RPO / backlog, utilization | 主文；2/6 框架 |
 | 每季 | 零售成本與高毛利收入覆蓋力 | **AMZN** | 正面若 shipping / fulfillment efficiency 改善，advertising / Prime / 3P services 占比提高 | shipping cost, fulfillment cost, ads revenue, subscription revenue, 3P services | 主文 |
 | 每季 | ROIC 是否在 organic growth 仍在時開始轉折 | **AMZN** | 正面若 ROIC 回升且收入仍內生成長；負面若 ROIC 回升只是砍投資或成長放慢 | ROIC, NOPAT, invested capital, organic revenue growth, CAPEX | 主文 |
+| 每季 | 資產化研發是否真的轉成未來現金流 | **AMZN** | 正面若 R&D / CAPEX 對應收入、FCF 與 ROIC 改善；負面若只是攤銷年限拉長或 EPS 被美化 | capitalized R&D ratio、amortization life、R&D to revenue、FCF conversion | 留言補充 |
 | 2027（預期） | Amazon / Globalstar 交易是否完成 | **AMZN**；**GSAT** context | 正面若 regulatory approval、HIBLEO-4 milestones 與 integration plan 順利；負面若延後 / 失敗 | regulatory approvals, HIBLEO-4 replacement satellite milestones, transaction terms | Amazon official |
+| 2027-2028 | Amazon Leo / Globalstar 是否形成 coverage + control 的最後一段連線層 | **AMZN** | 正面若 D2D、IoT / industrial、emergency 與 Apple / MNO 夥伴落地；負面若只停留遠期敘事 | D2D rollout、IoT endpoints、emergency usage、MNO / Apple partnerships、connectivity pricing | 留言補充；Amazon official |
 | 2028（官方計畫） | Amazon Leo D2D next-generation system deployment | **AMZN** | 正面若 D2D 服務能取得 Apple / MNO / enterprise / government demand；負面若成本高、使用場景不清 | D2D rollout, Apple agreement, MNO partners, endpoints, service pricing | Amazon official |
 
 ## 整理者延伸
