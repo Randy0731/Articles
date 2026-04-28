@@ -15,6 +15,42 @@
 - **相關 ticker / 產業**：
 ```
 
+## 算力聚合平台 / 客戶邊界框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第22期_Nvidia_DGXCloud_NVO_GoogleIntersect.md`
+- **一句話定義**：上游晶片供應商可嘗試把多家雲端 / neocloud GPU capacity 聚合成平台，但若平台化壓低下游客戶價格權或介入客戶關係，會碰到合作邊界。
+- **適用情境**：Nvidia DGX Cloud 重組、DGX Cloud Lepton、GPU capacity marketplace、neocloud pricing、hyperscaler customer relationship。
+- **觀察指標**：Lepton adoption、neocloud gross margin、GPU utilization、hyperscaler acceptance、Nvidia software fee attach、direct vs marketplace procurement。
+- **也出現於**：可與 KP「Neocloud 關鍵路徑控制 / 交付確定性框架」、「AI 基建送水人 / 確定性交付框架」和「AI 工廠調度層 / 開源外城河框架」交叉比對。
+- **相關 ticker / 產業**：**NVDA**, **AMZN**, **MSFT**, **GOOG**, **GOOGL**, **CRWV**；Lambda 未上市；GPU cloud、neocloud、AI infrastructure marketplace。
+
+## AI 路線時間成本 / Scaling vs World Model 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第22期_Nvidia_DGXCloud_NVO_GoogleIntersect.md`
+- **一句話定義**：AI 技術路線不只比最終理論正確性，也比誰能在資本與產品競賽允許的時間內交付可用能力。
+- **適用情境**：Yann LeCun world models、Demis Hassabis scaling route、frontier AI research organization、AI productization pressure、AGI / agent roadmap debate。
+- **觀察指標**：scaling law progress、world model benchmark、agent reliability、training / inference cost、researcher retention、AI product monetization、frontier model release cadence。
+- **也出現於**：可與 KP「高風險研發外包 / 科學家出走框架」、「開源商品化反噬 / 閉源變現轉向框架」及 Bytc / 宋分 AI agent 框架交叉比對。
+- **相關 ticker / 產業**：**META**, **GOOG**, **GOOGL**；frontier AI labs、AGI research、world models、LLM scaling。
+
+## 口服 GLP-1 價格滲透 / API 產能約束框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第22期_Nvidia_DGXCloud_NVO_GoogleIntersect.md`
+- **一句話定義**：口服減重藥若用低價換大眾滲透，成敗取決於依從性、API 產能、毛利壓力與競品便利性，而不只是臨床效果。
+- **適用情境**：Novo oral Wegovy、Eli Lilly Orforglipron、GLP-1 pricing, obesity drug market access、non-insured patient segment、peptide vs small molecule manufacturing。
+- **觀察指標**：prescription uptake、adherence / discontinuation、API capacity、gross margin、net price、payer coverage、Orforglipron approval / label / pricing。
+- **也出現於**：延伸 KP「成長故事信任危機 / 估值折價框架」、「控股基金會效率治理 / 挑戰者心態重置框架」、「製藥 0/1 臨床開關框架」與「藥價投降 / 市場准入換利潤框架」。
+- **相關 ticker / 產業**：**NVO**, **LLY**；GLP-1、obesity medicine、pharma manufacturing。
+
+## AI 能源熟地 / Behind-the-Meter 時間套利框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第22期_Nvidia_DGXCloud_NVO_GoogleIntersect.md`
+- **一句話定義**：AI data center 的稀缺資源從晶片延伸到已獲許可、可併網、可就地供電的能源項目；買熟地等於買建設時間。
+- **適用情境**：Google / Intersect Power、behind-the-meter energy、AI data center power procurement、renewable + storage co-location、grid interconnection bottleneck。
+- **觀察指標**：GW / GWh pipeline、land leases、permits、interconnection progress、behind-the-meter delivery、dispatch software、capex、power cost、data center energization timeline。
+- **也出現於**：延伸 KP「AI data center 費率政治 / 物理摩擦成本框架」、「AI 基建實體資產 / 電力門票框架」、「AI 垂直整合帝國 / 電力控制權框架」與大叔 Alphabet energy sovereignty thesis。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **FSLR**, **TSLA**；Intersect Power 未上市；AI data centers、renewables、BESS、grid interconnection。
+
 ## AI 工廠調度層 / 開源外城河框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第21期_Nvidia_Ford_ServiceNow_Oracle_Micron_TorchTPU.md`

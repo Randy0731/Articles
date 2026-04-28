@@ -1,6 +1,6 @@
 # GOOGL 投資儀表板
 
-> 最後更新：2026-04-29（補入 KP / FOMOSoc 2025-12-20 歷史 L2-L3：TorchTPU 與 AI data center 電費政治；不改變當前最新立場）
+> 最後更新：2026-04-29（補入 KP / FOMOSoc 2025-12-27 歷史 L3：Google / Intersect Power 能源熟地；不改變當前最新立場）
 
 ## 當前立場快照
 
@@ -17,6 +17,7 @@
 - **本次補入的 KP 2025-12-06 多雲治理補強**：KP 將 Google Cloud 與 AWS private multicloud interconnect / open spec 解讀為雲端競爭從 lock-in 轉向跨平台治理。對 **GOOGL** 是 Google Cloud 以開放互通標準切入 enterprise architecture 的機會，但仍需驗證 adoption、networking revenue、AI workload placement 與 Azure Arc response。
 - **本次補入的 KP 2025-12-13 AI IP 風險**：KP 將 Disney 對 OpenAI 授權、同日對 Google / Gemini 發停止侵權函，解讀為 AI video / creative model 競爭進入 licensed data / guardrails / compliance cost 階段。對 **GOOGL** 是 Gemini / Veo / YouTube AI creation 的 IP 授權與 copyright risk 補強；此段是歷史 L2 風險，不改變最新 Search / Cloud / capex 主 thesis。
 - **本次補入的 KP 2025-12-20 TorchTPU / 電力政治補強**：KP 將 Google / Meta TorchTPU 視為 TPU commercial adoption 的務實路線：不要求開發者離開 PyTorch，而是讓 TPU 成為 cost-sensitive inference / part training 的第二算力來源；同篇參議員調查 hyperscaler data center 電費轉嫁，則補上 Alphabet AI capex / energy thesis 的 utility-rate、grid-cost allocation 與地方建設摩擦。
+- **本次補入的 KP 2025-12-27 Intersect Power 補強**：KP 將 Google 以 47.5 億美元收購 Intersect Power 解讀為 AI data center energy sovereignty 的「買時間」交易：買下 10.8GW 開發 pipeline、土地 / 許可 / 併網權與能源開發團隊，試圖繞過美國公共電網 5-7 年排隊摩擦；對 **GOOGL** 是歷史 L3 能源 / capex 補強，同時提高折舊、ROIC 與 execution risk 檢查權重。
 - **目前研究狀態**：正式追蹤個股；主里程碑為 2026-02-21 大叔 Alphabet capex / century bond / AI infra article。
 
 ## 關鍵價位 / 數字追蹤
@@ -28,7 +29,7 @@
 | 現金流基準 | 2025 OCF 約 `$1,647 億美元`，FCF 約 `$733 億美元` | 大叔文章 | Alphabet 有現金流底座，但 2026 FCF 仍可能承壓 |
 | 債務里程碑 | 約 `$320 億美元` 全球多幣種債券 | 大叔文章 / references | 用長天期資本支撐 AI 基建 capex |
 | 百年債 | `10 億英鎊`、coupon `6.125%`、maturity 2126 | 大叔文章 / references | 市場對 Alphabet 長期現金流與信用的信任票 |
-| 能源資產 | Intersect Power 約 `$47.5 億美元`；約 3.6GW renewable、3.1GWh storage | 大叔文章 | 電力控制權成為 AI data center moat |
+| 能源資產 | Intersect Power 約 47.5 億美元（約 `$4.75B`）；約 3.6GW renewable、3.1GWh storage | 大叔文章 | 電力控制權成為 AI data center moat |
 | AI ROI 門檻 | 到 2030 年需約 `$6,500 億美元` 年化新增 AI revenue 以維持 10% ROI | 大叔引用 JPMorgan 口徑 | AI capex 能否兌現的終極壓力測試 |
 | KP 2025Q2 Cloud margin anchor | Google Cloud growth `32%`、operating margin `11.3% -> 20.7%` | KP / FOMOSoc 2025-08-03 | 歷史 L2：Google Cloud 是否具備規模效益與 AI 服務高毛利轉化能力 |
 | KP Safari Search economics | Apple payment 約 `$20B`、revenue share 約 `36%`、反推 Safari search ad revenue 約 `$55.6B`、net 約 `$35.6B`、約占 Google Search revenue 近 `28%` | KP / FOMOSoc 2025-09-06 | 歷史 L3：default search distribution 的現金流價值與監管風險同時被放大 |
@@ -45,6 +46,7 @@
 | KP Disney / Gemini IP anchor | Disney 與 OpenAI 合作同日向 Google / Gemini 發停止侵權函，KP 認為這是在為 AI video 設定 licensed data 與合規成本 | KP / FOMOSoc 2025-12-13 | 歷史 L2：補上 Gemini / Veo / AI creative model 的 copyright / data licensing risk，需追 legal response、settlement、license deals 與 guardrails |
 | KP TorchTPU anchor | Google / Meta TorchTPU 讓 PyTorch workload 更容易跑在 TPU 上，KP 認為 2026-2027 production-usable 機率較高 | KP / FOMOSoc 2025-12-20 | 歷史 L3：補強 Google TPU 從內部工具走向外部商業第二選擇，但仍需追 compatibility、developer inertia、TPU revenue 與 cost per token |
 | KP AI data center utility-rate anchor | 參議員調查 Google / Microsoft / Amazon data center 電費轉嫁，KP 認為這是 grid upgrade cost allocation 的政治摩擦，而非 AI 基建停止 | KP / FOMOSoc 2025-12-20 | 歷史 L2：補上 Alphabet AI capex / energy thesis 的 utility-rate、PUC、居民電費與 construction-speed risk |
+| KP Intersect Power anchor | Google 以 47.5 億美元（約 `$4.75B`）買 Intersect Power 的開發團隊、土地 / 許可 / 併網權與 10.8GW pipeline，KP 認為核心是用能源熟地跳過 5-7 年等電時間 | KP / FOMOSoc 2025-12-27 | 歷史 L3：補強 Alphabet energy sovereignty / AI data center energization thesis；需追 pipeline delivery、permits、capex / depreciation 與 Cloud AI revenue |
 
 ## 近 30 天催化劑
 
@@ -56,6 +58,7 @@
 
 | 日期 | 事件 | 狀態 | 結果 / 含義 | 來源 |
 |---|---|---|---|---|
+| 2025-12-27 | KP 思考筆記第22期：Google / Intersect Power 能源熟地 | 已整理 / 歷史 L3 | 補上 Google 用 47.5 億美元買能源開發 pipeline、許可與併網權的 thesis；對 GOOGL 是 AI data center 等電時間與 behind-the-meter power 控制權補強，但也增加 capex / depreciation / execution risk | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
 | 2025-09-06 | KP 思考筆記第6期：Safari Search economics 與 Ad Tech monopoly case | 已整理 / 歷史 L3 | 補上 Apple default-search payment / revenue share 與 Ad Manager / AdX / DV360 垂直整合風險；與第 4 期 Chrome / distribution moat 共同構成 antitrust risk map | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md` |
 | 2025-10-25 | KP 思考筆記第13期：Quantum Echoes 與 Anthropic TPU | 已整理 / 歷史 L2 | 補上 Google quantum roadmap validation 與 TPU / Cloud 在 Anthropic inference workload 的商業背書；不改變 2026 最新 capex / Search / Cloud AI 主 thesis | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
 | 2025-11-01 | KP 思考筆記第14期：Google Cloud Q3 growth / profit / backlog | 已整理 / 歷史 L2 | 補上 Google Cloud +34%、operating profit 約 `$2.8B`、backlog 約 `$155B`、Meta / Anthropic AI compute 客戶背書；將 Cloud AI monetization 檢查權重提高 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
@@ -94,6 +97,7 @@
 | Disney / Gemini IP 授權風險是否轉成實際合規成本？ | KP 2025-12-13 認為 Disney 對 OpenAI 授權、對 Google / Gemini 揮法律大棒，是 AI video / creative model 行業的 licensed data cost signal | Disney / Google legal response、settlement / license terms、Gemini / Veo guardrails、YouTube AI creation tools policy、rights-holder partnerships、AI video monetization |
 | TorchTPU 是否能把 TPU 從 Google 內部工具變成外部第二算力來源？ | KP 2025-12-20 認為 TPU 最大採用障礙是 PyTorch / developer inertia；若 TorchTPU 降低遷移成本，Google Cloud AI revenue 與 Nvidia pricing pressure 都可能被重新校準 | TorchTPU production readiness、PyTorch compatibility、developer tooling、TPU external adoption、Cloud AI revenue、cost per token、Meta workload allocation |
 | AI data center 電費政治是否提高 Alphabet power cost 或放慢 buildout？ | KP 2025-12-20 認為參議員調查重點是誰承擔 grid upgrade cost；對 Alphabet 是 AI capex / energy sovereignty thesis 的政策和物理摩擦檢查 | utility rate cases、PUC rulings、special power contracts、household bill increases、Intersect / Kairos / PPA progress、data center energization timeline |
+| Intersect Power 是否能把能源熟地轉成 AI data center 時間優勢？ | KP 2025-12-27 認為 Google 買 Intersect 的核心是 10.8GW pipeline、許可與併網權；若交付順利，可降低等電摩擦，若不順則只是更重的 capex / depreciation | pipeline conversion、permits / interconnection、behind-the-meter projects、storage dispatch、data center energization、power cost、Cloud AI revenue |
 | Waymo 高速公路是否能轉成可量化業務？ | KP 2025-11-15 認為高速公路使 Robotaxi 具備效率，但 Alphabet 仍需證明 rides、revenue、unit economics 與安全紀錄 | Waymo rides、service area、airport / highway routes、safety incidents、insurance cost、regulatory approvals |
 | Berkshire ownership signal 是否擴散成 value-investor re-rating？ | KP 2025-11-15 把 Berkshire 買 Alphabet 視為能力圈演化，但單一 13F 倉位不能保證估值重評 | Berkshire 13F follow-up、institutional holder mix、Search cash flow、YouTube / Cloud durability、AI capex / antitrust risk |
 
@@ -121,6 +125,7 @@
 | Gemini / AI video IP 授權與 copyright litigation | 中高 | Disney 或其他 rights-holders 對 Gemini / Veo / YouTube AI creation 提出訴訟、要求高額授權，或迫使 Google 改變 training / output guardrails | KP 2025-12-13 |
 | TorchTPU adoption 不及預期 | 中高 | TorchTPU technical compatibility 無法轉成 production reliability，或 PyTorch developers / enterprise customers 因 CUDA inertia 不願遷移 | KP 2025-12-20 |
 | AI data center utility-rate / grid-cost 摩擦 | 中高 | PUC 要求 hyperscalers 承擔更多 grid upgrade cost、居民電費反彈升高，或 data center energization / permitting 放慢 | KP 2025-12-20 |
+| Intersect pipeline execution / ROIC 壓力 | 中高 | 10.8GW pipeline 延誤、許可 / 併網不順、behind-the-meter power 成本高於預期，或 Cloud AI revenue 不足以吸收新增 capex / depreciation | KP 2025-12-27 |
 | Ironwood / TPU 圍牆花園限制 | 中高 | TPU 只在 Google Cloud 內有效，developer / customer 遷移成本高，無法撼動 CUDA / Nvidia open ecosystem | KP 2025-11-08 |
 | Gemini-Siri 依賴與監管敘事風險 | 中 | Apple 可能把 Gemini 視為過渡方案，或 privacy / antitrust 敘事讓合作受壓 | KP 2025-11-08 |
 | Waymo 擴張成本與安全 / 監管風險 | 中 | 高速公路事故、城市許可放慢、成本結構過高或無法把 rides 轉成 profitable unit economics | KP 2025-11-15 |
@@ -145,6 +150,7 @@
 | KP 2025-12-06 Google Cloud / AWS 多雲互連 | 中 | 補上 Google Cloud 以 open multicloud interconnect 切入 enterprise governance 的歷史 L2+；需用 adoption、Cloud AI revenue、networking monetization 與 Azure Arc response 驗證 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
 | KP 2025-12-13 Disney / Gemini AI IP | 中 | 補上 Gemini / Veo / AI creative model 的 licensed data / copyright risk；屬風險地圖補強，不覆蓋 Search / Cloud / capex / energy 主 thesis | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
 | KP 2025-12-20 TorchTPU / AI data center 電費政治 | 中高 | 補上 TPU 接入 PyTorch 的 L3 商業化路線與 AI data center utility-rate 的 L2 成本風險；前者強化 Cloud TPU optionality，後者提高 energy / capex friction 檢查權重 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
+| KP 2025-12-27 Google / Intersect Power | 中高 | 補上 Google 用 Intersect Power 的許可、併網權與 10.8GW pipeline 購買 AI data center 時間的 L3 thesis；強化 energy sovereignty，但也提高 capex / depreciation / execution risk 檢查權重 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
 
 ## 索引
 

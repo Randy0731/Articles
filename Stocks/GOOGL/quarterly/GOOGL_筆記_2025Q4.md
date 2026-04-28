@@ -4,6 +4,48 @@
 
 ---
 
+## KP / FOMOSoc：Google 買 Intersect Power，用能源熟地縮短 AI data center 等電時間
+
+- **source_id**：`KP_FOMOSoc-20251227-kp-thinking-note-22-nvidia-dgx-lepton-agi-novo-wegovy-google-intersect-power-259e9726`
+- **來源**：KP / FOMOSoc Substack 週報
+- **原文**：https://www.fomosoc.com/p/nvidia-kp22
+- **發文時間**：2025-12-27 03:00 UTC（台北 11:00）
+- **整理日期**：2026-04-29
+- **交會等級**：L3（已追蹤個股歷史補強）
+- **主題 tags**：#AI基建 #能源電力 #併購 #雲端基建 #ReRating #估值風險 #執行風險
+
+### 主旨
+
+KP 在第 22 期將 Google 收購 Intersect Power 解讀為 Alphabet AI 基建 thesis 的能源底層補強：Google 花 47.5 億美元買的不是既有電廠現金流，而是 Intersect Power 已鎖定的土地、許可、併網權、10.8GW 開發 pipeline 與能源開發團隊。對 **GOOGL**，這延續大叔 2026-02-21 的 AI infrastructure utility / energy sovereignty thesis，也和 KP 第 21 期 AI data center utility-rate politics 串成一條線：Google 必須把 Search 現金流與 Cloud AI revenue 轉成可點亮 data center 的能源與時間優勢。
+
+### 個股觀點
+
+| 面向 | KP 觀點 | 對 **GOOGL** 的資料庫含義 |
+|---|---|---|
+| 買的是時間 | 美國新 AI data center 接入公共電網常要排隊 5-7 年；Intersect 的價值在於熟地、許可與併網權 | Alphabet AI capex ROI 不只看 GPU / TPU，也看 data center energization speed |
+| Behind-the-meter | Intersect 以在地發電、就地使用降低公共電網等待與摩擦 | 補強 Google energy sovereignty；也提供第 21 期 utility-rate politics 的一種對沖方式 |
+| 10.8GW pipeline | Google 買下未來開發 pipeline 與 CEO Sheldon Kimber 團隊，而非現有老電廠現金流 | 對 GOOGL 是長期 buildout optionality；短期是 capex / depreciation and execution risk |
+| Dispatch software | Intersect 的 dispatch optimization 可配合 Tesla Megapack，把太陽能與儲能調度到 data center load | Google 需證明能源與算力同步能降低 power cost、提升 availability 或加速 AI capacity 上線 |
+| 重資產化 | KP 提醒 47.5 億美元投資會讓 Google 越來越像重資產公用事業 | 與 dashboard 的「Search cash flow 轉 AI infrastructure utility moat」一致，但需追 ROIC / FCF 壓力 |
+
+### 延伸追蹤
+
+| 事件 | 追蹤重點 |
+|---|---|
+| Intersect execution | 10.8GW pipeline 是否如期轉成建設、併網與 data center usable power |
+| Energy milestones | land leases、permits、interconnection、behind-the-meter project delivery、Tesla Megapack storage |
+| Alphabet 財報 | capex、depreciation、FCF、Google Cloud AI revenue、Cloud margin、power cost commentary |
+| 政策與電網摩擦 | utility rate cases、PUC rulings、special tariff / PPA、居民電費反彈與 data center permitting |
+
+### 風險與限制
+
+- KP 的判斷是 Intersect Power 強化 Google AI data center 的能源 / 時間控制權，不是說 47.5 億美元已經產生收入或保證 Cloud AI ROI。
+- **FSLR** 和 **TSLA** 在本篇只作 panels / Megapack supply-chain context，不寫成 KP 對兩檔的獨立 thesis。
+- 若 Intersect pipeline 交付延遲、power cost 高於預期或 Cloud AI revenue 無法吸收折舊，energy moat 會反向變成 ROIC 壓力。
+- 本文不是買賣建議。
+
+---
+
 ## KP / FOMOSoc：TorchTPU 讓 TPU 接上 PyTorch，補強 Google TPU 商業化但不等於 CUDA 崩塌
 
 - **source_id**：`KP_FOMOSoc-20251220-kp-thinking-note-21-nvidia-slurm-nemotron-ford-bess-servicenow-oracle-ai-grid-micron-torchtpu-6188f34c`

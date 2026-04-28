@@ -7,7 +7,7 @@
 | 類型 | 路徑 | 說明 |
 |---|---|---|
 | 儀表板 | `Stocks/GOOGL/GOOGL_儀表板.md` | 當前追蹤摘要、風險、催化劑與持倉判斷依據 |
-| 季度筆記 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md`；`Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` | KP / FOMOSoc 2025Q3 Google Cloud margin inflection 歷史 L2；KP 2025-08-23 Chrome / antitrust / AI browser distribution 歷史 L3；KP 2025-09-06 Safari Search economics / Ad Tech monopoly 歷史 L3；KP 2025Q4 Quantum / TPU / Cloud AI 歷史 L2-L3；KP 2025-11-08 Ironwood TPU / Gemini-Siri AIaaS 歷史 L3；KP 2025-11-15 Waymo highway / Berkshire buys Alphabet 歷史 L3；KP 2025-11-29 GPU vs TPU 非零和競爭歷史 L2+；KP 2025-12-06 Google Cloud / AWS 多雲互連歷史 L2+；KP 2025-12-13 Disney / Gemini AI IP 授權成本歷史 L2；KP 2025-12-20 TorchTPU / AI data center 電費政治歷史 L2-L3 |
+| 季度筆記 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md`；`Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` | KP / FOMOSoc 2025Q3 Google Cloud margin inflection 歷史 L2；KP 2025-08-23 Chrome / antitrust / AI browser distribution 歷史 L3；KP 2025-09-06 Safari Search economics / Ad Tech monopoly 歷史 L3；KP 2025Q4 Quantum / TPU / Cloud AI 歷史 L2-L3；KP 2025-11-08 Ironwood TPU / Gemini-Siri AIaaS 歷史 L3；KP 2025-11-15 Waymo highway / Berkshire buys Alphabet 歷史 L3；KP 2025-11-29 GPU vs TPU 非零和競爭歷史 L2+；KP 2025-12-06 Google Cloud / AWS 多雲互連歷史 L2+；KP 2025-12-13 Disney / Gemini AI IP 授權成本歷史 L2；KP 2025-12-20 TorchTPU / AI data center 電費政治歷史 L2-L3；KP 2025-12-27 Intersect Power / behind-the-meter energy 歷史 L3 |
 | 里程碑 | `Stocks/GOOGL/milestones/GOOGL_里程碑_20260221_Alphabet資本支出百年債與AI基建護城河.md` | 大叔 2026-02-21 Alphabet capex / century bond / AI infra thesis |
 | KOL 主整理 | `KOL/大叔美股筆記/articles/20260221_alphabet_2026_capex_century_bond_uncle.md` | 本次升級來源全文整理 |
 
@@ -15,6 +15,7 @@
 
 | 發文日期 | 路徑 | KOL | 主題 | Tags | 交會等級 | 摘要 |
 |---|---|---|---|---|---|---|
+| 2025-12-27 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第22期_Nvidia_DGXCloud_NVO_GoogleIntersect.md` | KP / FOMOSoc | Google / Intersect Power、behind-the-meter energy、AI data center energization | #AI基建 #能源電力 #併購 #雲端基建 #ReRating | 歷史 L3 | KP 認為 Google 以 47.5 億美元（約 `$4.75B`）買 Intersect Power 的重點不是既有電廠現金流，而是 10.8GW 開發 pipeline、土地 / 許可 / 併網權與能源開發團隊；對 **GOOGL** 是 AI data center 等電時間與 energy sovereignty 的歷史 L3 補強，但也提高 capex / depreciation / ROIC 檢查權重 |
 | 2025-12-20 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第21期_Nvidia_Ford_ServiceNow_Oracle_Micron_TorchTPU.md` | KP / FOMOSoc | Google / Meta TorchTPU、PyTorch 接入 TPU、AI data center utility-rate politics | #AI基建 #雲端基建 #能源電力 #政策風險 #競爭風險 #ReRating | 歷史 L2-L3 | KP 認為 TorchTPU 讓 PyTorch workload 更容易跑在 TPU 上，使 Google TPU 更可能成為 cost-sensitive inference / part training 的商業第二選擇；同篇參議員調查 AI data center 電費轉嫁，補上 Google Cloud / Alphabet AI 基建的 utility-rate / grid-cost 摩擦風險 |
 | 2025-12-13 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第20期_Disney_IBM_GEV_SoftBank_Meta_LULU_RIVN.md` | KP / FOMOSoc | Disney / OpenAI / Sora、Google Gemini IP infringement letter、AI licensed data cost | #AI基建 #軟體SaaS #監管審批 #競爭風險 #估值風險 | 歷史 L2 | KP 認為 Disney 對 OpenAI 授權、對 Google / Gemini 發停止侵權函，代表 AI video / creative model 競爭進入 licensed data / guardrails / compliance cost 階段；對 **GOOGL** 補上 Gemini IP / copyright risk，但不改變最新 Search / Cloud / capex 主 thesis |
 | 2025-12-06 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md`；`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第19期_AWS_Google_MSTR_Nvidia_Netflix_ALAB_CRDO.md` | KP / FOMOSoc | Google Cloud + AWS multicloud interconnect / cross-cloud governance | #雲端基建 #AI基建 #競爭風險 #執行風險 | 歷史 L2+ | KP 認為 Google Cloud 與 AWS 推出 private multicloud interconnect / open spec，代表雲端競爭從 lock-in 轉向跨平台治理；對 **GOOGL** 補強 Google Cloud enterprise relevance，但也需驗證 adoption、Cloud AI revenue、networking monetization 與 Azure Arc response |
@@ -41,6 +42,7 @@
 | Chrome / AI browser distribution moat | KP 認為 Chrome 是 Google Search 的核心入口，AI browser / agent 可能改寫下一代資訊互動方式 | KP 2025-08-23 | Chrome remedy、default search economics、browser share、AI answer / agent adoption |
 | Ad Tech 垂直整合 / 平台稅壟斷 | KP 認為 Ad Manager / AdX / DV360 讓 Google 同時控制 publisher、advertiser 與 exchange，若 remedy 嚴厲會打到 ads take rate 和資料優勢 | KP 2025-09-06 | Ad Manager remedy、AdX auction rule、DV360 routing、publisher take rate、Network revenue |
 | 能源與 power sovereignty | 大叔 / Bytc 都把 Google 放進 AI 電力與調度層 | 大叔 2026-02-21；Bytc 2026-03-17 | Intersect、Kairos、VPP / Nest policy |
+| Intersect / AI 能源熟地 | KP 認為 Google 買 Intersect Power 是用資本購買已許可、可併網的能源開發時間，縮短 AI data center 等電摩擦 | KP 2025-12-27 | 10.8GW pipeline、behind-the-meter delivery、permits / interconnection、capex / depreciation、Cloud AI revenue |
 | AI Native capital loop | Google 可透過 Cloud / TPU / Anthropic stake 捕捉 private AI protocol value | Bytc 2026-04-14 Note | Anthropic valuation、Google Cloud AI revenue、equity gains / losses |
 | TPU / Gemini AI-as-a-Service | KP 認為 Google 正用 Ironwood TPU 攻 inference cost / scale，用 Gemini 授權打入 Apple device distribution | KP 2025-11-08 | TPU allocation、cost per token、Gemini licensing revenue、Siri launch、external AIaaS deals |
 | TPU / GPU 非零和 workload split | KP 認為 TPU 對特定 inference workload 具替代力，但 AI TAM 擴張下更像分工而非 Nvidia thesis break | KP 2025-11-29 | Google Cloud AI revenue、TPU utilization、cost per token、external TPU adoption、CUDA / GPU demand resilience、CoWoS / power bottlenecks |
@@ -62,4 +64,5 @@
 - 追第 20 期 Disney / Gemini IP 風險後續：Disney cease-and-desist 是否演變成 formal lawsuit / settlement / license deal，Google 是否調整 Gemini / Veo / YouTube AI creation 的 IP guardrails，AI licensed data cost 是否成為 Cloud / Gemini monetization 的新增壓力。
 - 追第 21 期 TorchTPU 後續：TorchTPU 是否在 2026-2027 達到 production readiness，PyTorch workload 是否真正遷移到 Google TPU，並轉成 TPU external adoption、Cloud AI revenue 或 Nvidia pricing pressure。
 - 追第 21 期 AI data center 電費政治後續：參議員調查是否帶來州級 PUC / utility rate case 壓力，Google 是否需要承擔更多 grid upgrade cost，以及 Intersect / Kairos / PPA / special tariff 是否能降低摩擦。
+- 追第 22 期 Google / Intersect Power 後續：10.8GW pipeline 是否轉成實際 permits / interconnection / behind-the-meter power，Google 是否能用能源熟地縮短 data center energization timeline，且 Cloud AI revenue 是否足以吸收 capex / depreciation。
 - 追 Waymo highway rollout 後續：高速公路服務是否擴大到更多城市 / 機場路線、是否披露 rides / revenue / unit economics，以及安全事故或監管限制是否改變 Robotaxi optionality。
