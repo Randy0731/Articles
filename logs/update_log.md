@@ -2,6 +2,9 @@
 
 ## 2026-04-28
 
+- 入庫 `宋分-20260404-investment-discipline-10-strong-stock-relative-strength-03908f4e`：整理宋分 / 美股送分題 Substack 電子報《投資紀律 #10｜分析師流程》強勢股不是漲出來的，是在下跌中被發現的，機構怎麼在下跌中找強勢股？並將推廣 Note `c-237995999` 作為同組補充來源，建立 `KOL/宋分/articles/20260404_investment_discipline_10_strong_stock_relative_strength.md`。Substack 電子報 HTML / JSON-LD 與推廣 Note JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
+- 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「強勢股抗跌 / 主動資金承接框架」並補強「結構性賣壓 / 訊號對應部位框架」：強勢股不是漲得最多，而是在該跌時跌不下去；機構會刻意看最醜的盤、建立抗跌名單，再等反彈確認誰先創高 / 放量 / 領漲。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
+
 - 入庫 `宋分-20260402-market-decoding-14-inventory-cash-flow-7749d896`：整理宋分 / 美股送分題 Substack Note《市場解碼 #14｜分析師流程》為什麼現金流會突然崩？答案通常藏在「庫存」，建立 `KOL/宋分/articles/20260402_market_decoding_14_inventory_cash_flow.md`。Substack JSON-LD 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用。
 - 更新：同步更新 source/theme/framework indexes 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。本文新增「庫存周轉 / 現金流預警框架」：庫存是尚未變成現金的營收期待，若庫存增速高於營收、周轉率下降、DIO 拉長，現金流會先惡化，後續可能拖累毛利與 EPS；庫存問題常領先 EPS 1-2 季。文中無具名 ticker，不更新 ticker index、watchlist 或 `Stocks/`；本文不是買賣建議。
 
