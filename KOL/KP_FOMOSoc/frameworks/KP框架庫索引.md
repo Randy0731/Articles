@@ -15,6 +15,69 @@
 - **相關 ticker / 產業**：
 ```
 
+## 長線樂觀 / 正確標的研究框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md`
+- **一句話定義**：短線高點與回調很難精準預測，長期報酬更依賴底層資產品質、研究深度與持有時間。
+- **適用情境**：relief rally、FOMO 追價焦慮、錯過反彈後的再進場壓力。
+- **觀察指標**：thesis clarity、business quality、earnings power、position sizing、drawdown tolerance、cash / leverage、錯誤條件。
+- **也出現於**：延伸第38期風平浪靜買保險框架、第36期場景分析 / 反先知框架與第28期價格影子 / 生意實體框架。
+- **相關 ticker / 產業**：全市場；portfolio construction / long-term investing。
+
+## High-NA 延後 / 成本有效摩爾定律框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md`
+- **一句話定義**：leading-edge winner 不只比技術極限，更比良率、成本、ROIC 與供應穩定性；最先進工具若不具經濟性，採用可被延後。
+- **適用情境**：ASML High-NA、TSMC / Intel / Samsung 製程競爭、AI accelerator foundry economics、WFE cycle。
+- **觀察指標**：High-NA order / delivery、low-NA EUV 出貨、multi-patterning / DTCO 能力、CoWoS / SoIC capex、ASML 2030 target、TSMC gross margin / ROIC、Intel 14A yield。
+- **也出現於**：呼應第38期毛利率稀釋 vs 高價值 mix 框架、第35期 Terafab 過程確定性 / WFE 收費站框架與第29期無塵室瓶頸 / 前段技術後段化框架。
+- **相關 ticker / 產業**：**ASML**, **TSM**, **INTC**, **005930.KS**；semiconductor equipment / foundry / leading-edge logic。
+
+## 監管執照 > 單次發射 / 太空執行風險重分類框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md`
+- **一句話定義**：太空通訊公司若已取得核心商業執照，單次發射失敗的投資含義會低於產能、保險、發射多元化與商業化節奏。
+- **適用情境**：AST SpaceMobile、Starlink D2D、衛星星座部署、pre-revenue infrastructure。
+- **觀察指標**：FCC / SCS license、MNO agreements、satellite production cadence、launch provider mix、insurance coverage、commercial revenue、cash burn。
+- **也出現於**：延伸第38期衛星 D2D 頻譜圈地 / Connectivity Control 框架與第29期可轉債換血 / cap table 清理框架。
+- **相關 ticker / 產業**：**ASTS**, **T**, **VZ**；satellite communications / direct-to-device。
+
+## TPU 系統定義者 / 記憶體牆供應鏈控制框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md`
+- **一句話定義**：AI 基建競爭從單顆晶片性能擴大到 HBM / SRAM、互連、封裝、供應商分工、成本與議價權的系統級控制。
+- **適用情境**：Google TPU、hyperscaler custom ASIC、Gemini inference、2nm / HBM / SRAM capacity planning。
+- **觀察指標**：HBM per chip / pod、on-chip SRAM、cost per token、Cloud margin、Broadcom / MediaTek / Marvell split、TSMC 2nm capacity、Gemini latency。
+- **也出現於**：延伸第38期 SRAM LPU / 系統級推理 TCO 框架、第37期 CPU + IPU 平衡系統框架、第35期 TurboQuant / 記憶體牆 Jevons 框架與第29期 OCS 光學神經系統 / HBM 分層框架。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **AVGO**, **2454.TW**, **MRVL**, **TSM**, **INTC**；custom AI silicon / cloud AI infrastructure。
+
+## CPU 現金牛 + Foundry 選擇權 / 轉機股執行階梯框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md`
+- **一句話定義**：Intel 轉機可被拆成 DCAI / CPU 現金流、18A 良率、14A 外部客戶、先進封裝收入與 Foundry 虧損收斂的階梯；敘事升級不等於執行完成。
+- **適用情境**：turnaround semiconductor、IDM / foundry transition、AI inference CPU cycle、advanced packaging optionality。
+- **觀察指標**：DCAI revenue、server CPU shipment、Foundry external revenue、Foundry operating loss、18A yield / tape-out、14A PDK 1.0、Tesla / TeraFab terms、packaging orders / revenue。
+- **也出現於**：延伸第37期 Musk Terafab / 垂直整合供應安全框架、第36期 Fab 34 贖回框架、第35期 Agentic AI CPU 復權框架與第27期政治婚姻 / 非核心代工驗證框架。
+- **相關 ticker / 產業**：**INTC**, **TSLA**, **AMD**, **ARM**, **NVDA**, **TSM**；semiconductor turnaround / foundry / advanced packaging。
+
+## SaaS AI 證明題 / 數據與敘事落差框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md`
+- **一句話定義**：AI 時代的 SaaS 巨頭不能只宣稱自己是 AI 受益者，必須用 cRPO、AI revenue、usage pricing、retention 與 margin 證明 AI 是淨增量。
+- **適用情境**：ServiceNow、Salesforce、SAP、enterprise workflow software、agentic AI disruption。
+- **觀察指標**：subscription growth、cRPO、AI ARR / revenue、consumption mix、retention、op margin、M&A dilution、workflow data moat、model-vendor competition。
+- **也出現於**：呼應第31期數位勞動力稅 / AWU 框架、第27期 AI 有罪推定 / SaaS 再加速框架與第21期 AI Agent 資產感知 / 數據主權併購框架。
+- **相關 ticker / 產業**：**NOW**, **CRM**, **SAP**, **PANW**, **CRWD**, **CYBR**；enterprise SaaS / workflow automation / cybersecurity。
+
+## 銀行回歸私募信貸 / Origination Advantage 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md`
+- **一句話定義**：私募信貸第三波不是所有玩家一起擴張，而是大銀行用商業銀行 origination、機構資金與風控流程，重新取得低成本 deal flow 與 underwriting 優勢。
+- **適用情境**：JPM private credit platform、banks vs private-credit funds、semi-liquid credit funds、retail redemption stress。
+- **觀察指標**：fund AUM、commercial-bank origination、institutional vs retail mix、redemption gates、credit losses、collateral haircuts、PIK exposure、spread / cost of capital。
+- **也出現於**：延伸第33期 Back leverage 去槓桿 / 抵押品折價框架、第32期私募信貸限贖 / 流動性心理戰框架與第30期半流動性私募信貸錯配框架。
+- **相關 ticker / 產業**：**JPM**, **BX**, **APO**, **ARES**, **OWL**, **BLK**；banks / private credit / asset management。
+
 ## 風平浪靜買保險 / Volatility Insurance 框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第38期_TSLA_AI5_Google_Marvell_AMZN_Globalstar_TSMC_CoreWeave_Luxury.md`

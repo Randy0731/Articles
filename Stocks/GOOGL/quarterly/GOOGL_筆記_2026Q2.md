@@ -6,11 +6,65 @@
 
 | 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
 |---|---|---|---|---|---|---|
+| 2026-04-25 03:06 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google TPU 8、HBM / SRAM、供應鏈分工與系統定義者 | KP_FOMOSoc-20260425-kp-thinking-note-39-asml-high-na-asts-tpu8-intel-servicenow-jpm-private-credit-6995e281 | **GOOG**, **GOOGL**, **AVGO**, **2454.TW**, **MRVL**, **TSM**, **INTC** | #AI基建 #雲端基建 #Memory #先進封裝 #競爭風險 #執行風險 #ReRating | L3；Google TPU 8 memory stack / supplier split 將 Google 從 chip designer 升級為 system definer |
 | 2026-04-18 02:45 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Marvell SRAM inference engine、Gemini latency 與 custom silicon second source | KP_FOMOSoc-20260418-kp-thinking-note-38-tsla-ai5-google-marvell-amzn-globalstar-tsmc-coreweave-luxury-1323d111 | **GOOG**, **GOOGL**, **MRVL**, **AVGO**, **TSM** | #AI基建 #雲端基建 #競爭風險 #執行風險 #ReRating | L2；Google Cloud AI inference TCO / memory hierarchy / supplier diversification 補強 |
 | 2026-04-11 02:54 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Intel Xeon + IPU 與 AI balanced system | KP_FOMOSoc-20260411-kp-thinking-note-37-intel-claude-ai-amazon-capex-e8155b80 | **GOOG**, **GOOGL**, **INTC**, **AMD**, **ARM**, **NVDA** | #AI基建 #雲端基建 #競爭風險 #執行風險 #ReRating | L2；Google Cloud AI infrastructure TCO / CPU + IPU 合作補強 |
 | 2026-04-04 03:10 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：平台設計責任、Google Quantum AI 與 crypto PQC 倒數 | KP_FOMOSoc-20260404-kp-thinking-note-36-nvidia-marvell-google-quantum-intel-nike-buffett-11812b9b | **GOOG**, **GOOGL**, **META**, **BTC**, **ETH**, **SOL**, **IBM**, **IONQ** | #監管審批 #政策風險 #量子運算 #加密貨幣 #競爭風險 #執行風險 #估值風險 | L2；平台設計責任 / Section 230 繞道與 Google Quantum AI / PQC 遷移 read-through |
 
 ---
+
+## KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google TPU 8、HBM / SRAM、供應鏈分工與系統定義者
+
+- **來源 KOL**：KP / FOMOSoc
+- **原文主整理**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md`
+- **原始來源**：https://www.fomosoc.com/p/asmlintel-kp39
+- **source_id**：KP_FOMOSoc-20260425-kp-thinking-note-39-asml-high-na-asts-tpu8-intel-servicenow-jpm-private-credit-6995e281
+- **raw 路徑 / URL**：URL（未另存 raw；Jina Reader Markdown 完整可讀）
+- **OCR 狀態**：不適用
+- **類型**：Substack 公開電子報 / KP 思考筆記 / 週報
+- **發文時間**：2026-04-25 03:06 UTC（台北 11:06）
+- **整理日期**：2026-04-29
+- **交會等級**：L3
+- **事件類型**：Google custom AI silicon / TPU 8 / memory hierarchy / supplier split / Cloud AI TCO
+- **主題 / 母題標籤**：#AI基建 #雲端基建 #Memory #先進封裝 #競爭風險 #執行風險 #ReRating
+
+### 對 **GOOGL** 的影響
+
+KP 將 Google TPU 8 解讀為 Google 從「晶片設計者」升級為「系統定義者」的 L3 訊號。重點不是單一 FLOPS，而是 memory wall 下的 HBM / SRAM / interconnect / supplier split：TPU 8t Sunfish 偏 training，TPU 8i Zebrafish 偏 inference / agents，兩者用不同記憶體與供應鏈設計，讓 Google 能依 workload 控制 latency、cost per token、power 與供應鏈風險。
+
+對 **GOOGL** 的投資含義是 Cloud AI infrastructure moat 更完整：Broadcom 負責 8t full package，MediaTek 負責 8i high-volume / lower-cost path，Marvell 做 memory pooling unit，Intel CPU / infrastructure 也在同一 stack 裡。Google 的優勢從單顆 TPU 擴到「定義整套 AI factory」；但仍需用 Google Cloud revenue / margin、external TPU adoption、cost per token 與 workload split 驗證。
+
+### 觀點摘要
+
+| 面向 | 內容 |
+|---|---|
+| **立場** | L3 infrastructure moat 補強；不改變 Search / capex 主 thesis，但提高 TPU / Cloud AI monetization 權重 |
+| **TPU 8t** | Sunfish 偏 training；Superpod 9,600 chips / 121 exaFLOPS；單晶片 216GB HBM，Superpod shared memory 約 2PB |
+| **TPU 8i** | Zebrafish 偏 inference / agents；單晶片 288GB HBM、SRAM 3x；pod HBM 從 49TB 升到 331TB |
+| **供應鏈分工** | Broadcom 做 8t full package；MediaTek 做 8i lower-cost / high-volume path；Marvell 做 MPU；Intel 提供 CPU / infrastructure support |
+| **主要驗證點** | Google Cloud AI revenue / margin、cost per token、Gemini latency、TPU 8 deployment、external customer adoption、Broadcom / MediaTek / Marvell workload split |
+
+### 關鍵證據
+
+| 證據 | 解讀 |
+|---|---|
+| TPU 8t Superpod 9,600 chips / 121 exaFLOPS / 2PB shared memory | Google 把 training cluster 的 bottleneck 從 chip compute 擴到 shared memory / system scale |
+| TPU 8i 288GB HBM、3x SRAM、pod HBM 49TB -> 331TB | Inference / agent workload 的關鍵是 latency、memory bandwidth 與 context handling |
+| Broadcom / MediaTek / Marvell / Intel 各自分工 | Google 不是單純買 ASIC，而是在定義多供應商 AI infrastructure stack |
+| 8t / 8i 分流 | Training 與 inference 的 cost structure 分開管理，可能改善 Google Cloud AI margin 與 Gemini cost per token |
+
+### 風險表
+
+| 風險 | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|
+| TPU 8 系統優勢未轉成 Cloud AI revenue | 中高 | TPU 8 提升內部效率，但外部客戶 / Cloud AI revenue / margin 未同步改善 | Cloud AI revenue、Cloud operating margin、external TPU adoption、cost per token | KP 第39期；整理者判斷 |
+| 多供應商整合複雜度 | 中 | Broadcom / MediaTek / Marvell / Intel 分工提高 roadmap / tooling / yield / integration friction | workload split、supplier guidance、deployment schedule、reliability | KP 第39期；整理者判斷 |
+| Memory stack 成本未下降 | 中 | HBM / SRAM / MPU 提升效能，但 power / capex / depreciation 吃掉 margin | HBM allocation、power cost、capex、depreciation、Cloud margin | KP 第39期 |
+| CUDA / GPU ecosystem inertia | 中 | 外部客戶仍偏好 Nvidia GPU / CUDA，TPU 8 主要留在 Google 內部 | external TPU workloads、TorchTPU adoption、customer wins、developer tooling | KP 第39期；整理者延伸 |
+
+### 呼應連結
+
+> 呼應第38期 Google / Marvell SRAM inference engine、第37期 Google / Intel Xeon + IPU balanced system、第35期 TurboQuant、第29期 Apollo OCS 與第31期 TPU 外部化：KP 對 Google Cloud AI infra 的觀察已從單顆 TPU，擴展成 CPU、IPU、HBM、SRAM、OCS、MPU 與供應鏈分工共同組成的 system-level moat。
 
 ## KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Marvell SRAM inference engine、Gemini latency 與 custom silicon second source
 
