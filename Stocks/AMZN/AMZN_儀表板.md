@@ -1,11 +1,12 @@
 # AMZN 投資儀表板
 
-> 最後更新：2026-04-29（補入 KP / FOMOSoc 2026-04-18 L3：Amazon / Globalstar、Amazon Leo 與 D2D 頻譜圈地；不改變宋分主框架，補強 connectivity control）
+> 最後更新：2026-04-29（補入宋分 / 美股送分題《市場解碼 #20》L2：費用化投資 / 隱形資產檢查表；不改變宋分主框架，補強 AMZN 財報驗證欄位）
 
 ## 當前立場快照
 
 - **綜合立場**：正式追蹤；宋分對 **AMZN** 的框架偏正面，核心是市場可能再次把 Amazon 的資本投入誤判為短期 EPS / FCF 壓力，而不是下一輪現金流引擎。
 - **KOL 最新立場**：宋分 2026-04-22 將 Amazon re-rate 的底層拆成 ROIC x Organic Growth；4/25 AMZN 主文留言補充指出 Amazon Leo / Globalstar 重點在 coverage + control，像是 AWS 從 compute + storage 延伸到 connectivity；資產化研發則需追是否轉成 revenue / FCF，而不是只改善 EPS。
+- **本次補入的宋分 2026-04-29 費用化投資檢查表**：宋分將 logistics、Prime、AWS 初期支出與高毛利收入轉化寫成「會計費用 vs 經濟投資」錯配；對 **AMZN** 的增量不是新價位，而是把 4/21 capital cycle 與 4/22 ROIC x Organic Growth 具體化為 fulfillment vs 3P revenue、Technology & Content vs AWS / high-margin revenue、OCF / CAPEX / FCF、unit economics 與 segment profit mix 檢查。
 - **本次補入的 KP 2026-02-07 AWS 建設模式訊號**：KP 認為市場財報後只看 2026 capex 可能達 2000 億美元與 FCF 壓力，忽略 AWS growth 再加速至約 24%、Bedrock customer spend q/q +60%、Trainium + Graviton annualized revenue 超過 100 億美元，以及 2440 億美元 backlog / +40% 這張「訂單收據」。這補強宋分後續 AMZN capital cycle thesis：關鍵不是花多少，而是 backlog、AI services 與 custom silicon 是否轉成 revenue / margin / FCF。
 - **本次補入的 KP 2026-02-21 OpenAI 融資補強**：KP 將 OpenAI new funding >`$100B`、valuation >`$850B` 解讀為 AI 公用事業預融資；Amazon intent up to `$50B` 讓 AWS 取得 OpenAI 多雲 / 基建聯盟入場券。這補強 AWS 高 capex 需求端，但必須用 AWS contract terms、margin、OpenAI revenue quality 和 circular-financing risk 驗證。
 - **本次補入的 KP 2026-02-28 OpenAI / AWS runtime 補強**：KP 認為 Amazon 對 OpenAI 的真正收穫可能是 Frontier 第三方雲分銷權，以及 Bedrock Stateful Runtime 把 IAM / S3 / agent memory / long-running workflow / Trainium 串成 enterprise AI 作業系統層。這把第30期 funding thesis 推到 distribution / platform control，但仍需追 contract terms、AWS margin、Trainium utilization、Bedrock revenue 與 circular financing risk。
@@ -23,6 +24,7 @@
 
 | 來源 | 目標價 / 價位 | 停損 / 支撐 | 提出時間 | 出處篇章 |
 |---|---|---|---|---|
+| 宋分 2026-04-29 費用化投資檢查表 | 無新股價 / 目標價 | 本文重點是 expense-to-asset 財報驗證，不是價位；追高毛利收入、OCF / FCF、單位經濟與利潤結構 | 2026-04-29 | `KOL/宋分/articles/20260429_market_decoding_20_expensed_investment_framework.md` |
 | 宋分 2026-02-06 估值溫度計口徑 | forward PE 約 `21x` | KOL 用於說明 AMZN 靠近溫度計左側；不是目標價或買點 | 2026-02-06 | `KOL/宋分/articles/20260206_amzn_capex_cycle3_valuation_thermometer.md` |
 | 宋分 2026-04-22 ROIC x Organic Growth 補充 | 無新股價 / 目標價 | 本文重點是 ROIC 斜率與 organic growth，不是價位；PDD / AMZN 分數對照是比喻 | 2026-04-22 / 2026-04-26 | `KOL/宋分/articles/20260422_market_decoding_19_roic_organic_growth_amzn.md` |
 | 宋分 2026-04-22 / 04-25 AMZN 留言補充 | 無新股價 / 目標價 | 本文重點是資產化研發品質與 satellite connectivity，不是價位 | 2026-04-22 / 2026-04-25 | `KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md` |
@@ -58,6 +60,7 @@
 
 | 問題 | 提出時間 | 等待事件 / 數據 | 出處篇章 | 狀態 |
 |---|---|---|---|---|
+| 費用化投資是否真的形成隱形資產，而不是 EPS 難看的壞燒錢？ | 2026-04-29 | fulfillment cost vs 3P revenue、Technology & Content vs AWS / high-margin revenue、OCF、CAPEX、FCF、unit economics、segment profit mix | 宋分 #20；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q2.md` | L2 / 待後續財報驗證 |
 | AWS backlog / RPO 是否會轉成 revenue 與 operating margin？ | 2026-02-06 / 2026-04-21 | AWS revenue、AWS operating margin、RPO / backlog conversion、utilization | 2/6 AMZN；4/21 AMZN | 待追蹤 |
 | KP 所稱 2440 億美元 backlog「收據」是否能支撐 2000 億美元 capex？ | 2026-02-07（補入日 2026-04-29） | AWS RPO / backlog conversion、Bedrock spend、Trainium / Graviton revenue、GW capacity utilization、FCF、depreciation | KP 思考筆記第28期；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` | 歷史 L3 / 待後續財報驗證 |
 | OpenAI / AWS strategic infrastructure intent 是否會轉成高品質 revenue？ | 2026-02-21（補入日 2026-04-29） | AWS contract terms、OpenAI cloud spend、AWS operating margin、OpenAI revenue / OCF、capex / depreciation、supplier equity terms | KP 思考筆記第30期；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q1.md` | 歷史 L2-L3 / 待後續驗證 |
@@ -84,6 +87,7 @@
 
 | 風險 | 追蹤強度 | 觸發條件 | 觀察指標 | 出處篇章 |
 |---|---|---|---|---|
+| 費用化投資誤判 | 高 | 市場或投資人把所有高 Opex / CAPEX 都當成未來資產，但支出沒有轉成護城河、收入品質、OCF / FCF、單位經濟或 ROIC 改善 | expense mix、high-margin revenue growth、3P revenue vs fulfillment cost、OCF、FCF、unit economics、segment profit mix、ROIC | 宋分 #20 |
 | CAPEX 黑洞 | 高 | AI / satellite / logistics 投資無法轉成 revenue、margin、FCF 或 ROIC 改善 | CAPEX, depreciation, FCF, ROIC, AWS / Amazon Leo revenue | 4/21 AMZN |
 | 資產化研發品質不足 | 高 | Capitalized R&D 占比過高、攤銷年限拉長，但收入 / FCF 沒跟上 | capitalized R&D ratio、amortization life、R&D to revenue、FCF conversion | 4/21 AMZN 留言 |
 | AWS backlog 未轉收入 | 高 | backlog / RPO 增長不能轉 revenue，或折舊 / price pressure 壓 AWS margin | AWS revenue, AWS operating margin, RPO / backlog conversion | 2/6 AMZN；4/21 AMZN |
@@ -113,6 +117,7 @@
 
 | 篇章 | 日期 | 一句話結論 | 權重 |
 |---|---|---|---|
+| `KOL/宋分/articles/20260429_market_decoding_20_expensed_investment_framework.md` | 2026-04-29 | 宋分把 **AMZN** 的 logistics / Prime / AWS / 3P / high-margin revenue 放進費用化投資檢查表，提醒 EPS 難看只有在能轉成現金流、單位經濟與 ROIC 時才可能支持 re-rate | 高 |
 | `KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md` 留言補充 | 2026-04-22 / 2026-04-25 | 宋分補充資產化研發要追是否轉成 revenue / FCF，並將 Amazon Leo / Globalstar 定位為 coverage + control 的最後一段連線層 | 高 |
 | `KOL/宋分/articles/20260422_market_decoding_19_roic_organic_growth_amzn.md` | 2026-04-22 | 宋分把 **AMZN** re-rate 底層抽象成 ROIC x Organic Growth，並用 PDD 留言補充說明 ROIC 改善斜率比 ROIC 絕對值更重要 | 高 |
 | `KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md` | 2026-04-21 | 宋分將 **AMZN** 從 AWS CAPEX Cycle 3 擴展為資本週期 / ROIC x Organic Growth 框架，並把 Globalstar / Amazon Leo 放入第三輪基礎設施假設 | 高 |

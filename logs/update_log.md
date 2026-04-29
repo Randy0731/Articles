@@ -2,6 +2,10 @@
 
 ## 2026-04-29
 
+- 入庫 `宋分-20260429-market-decoding-20-expensed-investment-framework-50eceabe`：整理宋分 / 美股送分題 Substack Note《市場解碼 #20：費用化投資、隱形資產與財報錯價》，建立 `KOL/宋分/articles/20260429_market_decoding_20_expensed_investment_framework.md`。Substack JSON-LD 正文完整可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」。
+- 更新：同步追加 `Stocks/AMZN/quarterly/AMZN_筆記_2026Q2.md`，將 **AMZN** 判定為 L2 已追蹤個股 framework case；並更新 `Stocks/AMZN/AMZN_index.md`、`Stocks/AMZN/AMZN_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md` 與 `KOL/宋分/frameworks/宋分框架庫索引.md`。
+- 備註：本文新增「費用化投資 / 隱形資產 Re-rate 框架」與 expense-to-asset 財報檢查表；重點是會計費用若能轉成護城河、現金流可預測性、規模效應、高毛利收入、OCF / FCF、單位經濟與 profit source mix，才可能支持 re-rate。**NFLX** / **MSFT** 只作 L1 成功案例；WeWork 作反例且不更新 ticker。本文沒有新價位或買賣建議，也沒有明確日期型催化劑，因此不更新 `indexes/catalyst_index.md`。
+
 - 入庫 `大叔美股筆記-20260429-tesla-tsla-2026-q1-6c0ee0e0`：整理大叔美股筆記 Substack 文章《Tesla **TSLA** 2026 第一季財報分析》，建立 `KOL/大叔美股筆記/articles/20260429_tesla_tsla_2026_q1_uncle.md`，並複製使用者提供之 11 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20260429_大叔美股筆記_tesla_tsla_2026_q1_大叔美股筆記-20260429-tesla-tsla-2026-q1-6c0ee0e0.pdf`。p.1-p.8 為核心正文，p.9 為免責聲明，p.10-p.11 為 discussion / 推薦文章 / footer；OCR 狀態標「部分」，但核心內容足以可靠判讀。
 - 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`、`indexes/watchlist_index.md` 與 private raw manifest。本文新增「Tesla AI flywheel / Physical AI platform re-rating 框架」；**TSLA** 判定單股 L3 watchlist 補強，不建立 `Stocks/TSLA/`，因使用者尚未明確要求正式追蹤且升級將需要歷史回查。**NVDA**, **AMD**, **TSM**, **GOOG**/**GOOGL**, **UBER**, **LYFT**, **F**, **GM**, **RIVN**, **LCID** 僅作供應鏈、競爭或商業模式 context。
 - 備註：Tesla official Q1 2026 update 校準 revenue `$22.387B`、gross margin `21.1%`、operating income `$941M`、FCF `$1.444B`、deliveries `358,023`、active FSD subscriptions `1.28M`、Dallas / Houston unsupervised Robotaxi、AI5 final chip design 與 SpaceX chip-fab partnership。大叔 DCF `$270-$280` / `$350-$370` / `$498+` 為 KOL 情境估值，不是本專案建議；Q1 energy revenue / deployed GWh 下滑、margin / FCF 品質、AI capex、NHTSA / Robotaxi 與 SpaceX related-party governance 是主要風險。
