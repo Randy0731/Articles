@@ -1,6 +1,6 @@
 # GOOGL 投資儀表板
 
-> 最後更新：2026-04-29（補入 KP / FOMOSoc 2026-04-11 L2：Google / Intel Xeon + IPU 與 AI balanced system；不改變當前最新立場）
+> 最後更新：2026-04-29（補入 KP / FOMOSoc 2026-04-18 L2：Google / Marvell SRAM inference engine 與 Gemini 推理 TCO；不改變當前最新立場）
 
 ## 當前立場快照
 
@@ -26,6 +26,7 @@
 - **本次補入的 KP 2026-03-28 TurboQuant 補強**：KP 將 Google TurboQuant 解讀為記憶體牆的軟體解法：KV cache memory 壓縮 6x+、compute overhead 約 +8%、不需 retraining 且 hardware agnostic。對 **GOOGL** 是 Cloud AI / inference cost per token 的 L2 效率訊號；短期可能壓低 memory demand 預期，長期則要看 Jevons paradox 是否讓 agent / long-context usage 放大。
 - **本次補入的 KP 2026-04-04 平台責任 / 量子補強**：KP 將 Meta / Google 成癮式設計判決視為 Section 230 之外的新平台責任路徑，但短期仍是法律成本，真正風險是 12-24 個月後若 recommendation / infinite scroll / autoplay 被迫改寫而傷到 engagement engine。同篇 Google Quantum AI 白皮書將 ECDSA 量子破解資源估計下修約 20 倍，對 **GOOGL** 是 quantum / security optionality 與 crypto PQC 遷移時鐘，不是短期 revenue thesis。
 - **本次補入的 KP 2026-04-11 Google / Intel infrastructure 補強**：KP 將 Google 導入多代 Intel Xeon 並擴大 custom IPU，解讀為 Agentic AI infrastructure 需要 CPU orchestration、IPU offload 與 TPU / GPU 分層。對 **GOOGL** 是 Cloud AI TCO / infrastructure efficiency 的 L2 補強，不改變 Search / Cloud / capex 主 thesis。
+- **本次補入的 KP 2026-04-18 Google / Marvell 補強**：KP 將 Google / Marvell SRAM-based compute engine 傳聞解讀為 Gemini real-time inference 的 memory hierarchy / latency / power 補位；這不是取代 Broadcom，而是維持 Broadcom 長約同時增加 Marvell second source 與系統級 TCO 選項。對 **GOOGL** 是 Cloud AI infrastructure efficiency 的 L2 補強，需追 design win、cost per token、Cloud AI margin 與 Broadcom / Marvell workload split。
 - **目前研究狀態**：正式追蹤個股；主里程碑為 2026-02-21 大叔 Alphabet capex / century bond / AI infra article。
 
 ## 關鍵價位 / 數字追蹤
@@ -64,6 +65,7 @@
 | KP platform liability anchor | 洛杉磯成癮式設計判決繞過 Section 230，不告使用者內容而告 infinite scroll / autoplay / algorithmic recommendation / notification 等產品設計 | KP / FOMOSoc 2026-04-04 | L2：補上 YouTube / Google engagement engine 的 product-liability 風險；短期仍看訴訟成本，真正風險是 12-24 個月內產品設計被迫改寫 |
 | KP Google Quantum AI / PQC anchor | Google Quantum AI 與 Ethereum Foundation / Stanford 白皮書將 ECDSA 量子破解資源估計下修約 20 倍至約 50 萬 physical qubits，Google PQC internal deadline 提前到 2029 | KP / FOMOSoc 2026-04-04 | L2：補強 Alphabet quantum / security optionality，也提醒 crypto / custody ecosystem 2029-2032 PQC governance clock；不是今日破解或短期收入 thesis |
 | KP Google / Intel Xeon + IPU anchor | Google 承諾未來多代 Intel Xeon，並擴大 custom IPU / Mount Evans lineage；KP 將 CPU orchestration + IPU offload + TPU / GPU compute 寫成 Agentic AI balanced system | KP / FOMOSoc 2026-04-11 | L2：補強 Google Cloud AI infrastructure TCO / network-storage-security offload，但需追 Cloud AI revenue、TPU / GPU / CPU utilization、latency、cost per token 與 Intel dependency |
+| KP Google / Marvell SRAM inference anchor | Google 據供應鏈報告與 Marvell 開發 SRAM-based compute engine，KP 認為重點是 Gemini real-time inference 的 latency / power / memory hierarchy，而非取代 Broadcom | KP / FOMOSoc 2026-04-18 | L2：補強 Google Cloud AI 推理 TCO / custom silicon second-source thesis；需追 Marvell design win、Broadcom / Marvell split、Cloud AI margin、cost per token 與 SRAM / HBM workload split |
 
 ## 近 30 天催化劑
 
@@ -75,6 +77,7 @@
 
 | 日期 | 事件 | 狀態 | 結果 / 含義 | 來源 |
 |---|---|---|---|---|
+| 2026-04-18 | KP 思考筆記第38期：Google / Marvell SRAM inference engine | 已整理 / L2 | 補上 Google Cloud / Gemini inference 的 memory hierarchy 線索：SRAM-based compute engine 可能降低 latency / power，Marvell 是 second source 與系統級 TCO 補位，不是 Broadcom replacement | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md` |
 | 2026-04-11 | KP 思考筆記第37期：Google / Intel Xeon + custom IPU | 已整理 / L2 | 補上 Google Cloud AI infrastructure 的 CPU / IPU 分層脈絡：agentic inference 需要 CPU orchestration，IPU 則把 networking / storage / security offload；對 GOOGL 是 TCO / efficiency 補強，但不改變 Search / Cloud / capex 主 thesis | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md` |
 | 2026-04-04 | KP 思考筆記第36期：平台設計責任與 Google Quantum AI / PQC 倒數 | 已整理 / L2 | 補上 Section 230 之外的 product design liability 風險，以及 Google Quantum AI 對 crypto PQC 遷移時鐘的 L2 read-through；不改變 Search / Cloud / capex 主 thesis，但提高 YouTube engagement risk 與 quantum security roadmap 的追蹤權重 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md` |
 | 2026-03-28 | KP 思考筆記第35期：TurboQuant、記憶體牆與 Jevons paradox | 已整理 / L2 | 補上 Google 用 TurboQuant 壓縮 KV cache 6x+ 的 AI inference efficiency 線索；對 GOOGL 是 Cloud AI cost per token / long-context workload 的 L2 補強，但需追 production rollout、Cloud AI revenue / margin 與 memory demand 長短期分歧 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q1.md` |
@@ -133,6 +136,7 @@
 | 平台設計責任是否真的動到 YouTube / Google engagement engine？ | KP 2026-04-04 認為成癮式設計訴訟短期仍是法律成本，只有當 settlement / court order 迫使 recommendation、autoplay、infinite scroll 改寫時才會動到商業模式 | youth-safety lawsuits、appeal / settlement language、watch time、ad impressions、minor controls、retention |
 | Google Quantum AI 是否能從 deep-tech optionality 變成 security / cloud monetization？ | KP 2026-04-04 將 ECDSA 量子資源估計下修視為 crypto PQC 倒數，但 GOOGL 投資含義仍需商業化和 roadmap 驗證 | physical / logical qubits、error correction、PQC standard adoption、Google Cloud security products、quantum cloud revenue |
 | Google / Intel Xeon + custom IPU 是否能降低 Cloud AI TCO，而不是只增加供應鏈複雜度？ | KP 2026-04-11 將 Google 多代 Xeon 與 IPU 合作視為 Agentic AI balanced system；但 GOOGL 投資含義仍需 revenue / margin / latency 驗證 | Google Cloud AI revenue、cost per token、latency、IPU adoption、CPU utilization、TPU / GPU / CPU workload split、Cloud margin |
+| Google / Marvell SRAM inference engine 是否能降低 Gemini latency / cost per token，而不是只成為供應鏈 second source？ | KP 2026-04-18 認為 Marvell SRAM engine 是 memory hierarchy / low-latency inference 補位，不是 Broadcom replacement；投資含義需等 design win、Cloud margin 與 workload split 驗證 | Marvell custom silicon revenue、Broadcom / Marvell share、Gemini latency、cost per token、Cloud AI margin、SRAM / HBM usage |
 | Waymo 高速公路是否能轉成可量化業務？ | KP 2025-11-15 認為高速公路使 Robotaxi 具備效率，但 Alphabet 仍需證明 rides、revenue、unit economics 與安全紀錄 | Waymo rides、service area、airport / highway routes、safety incidents、insurance cost、regulatory approvals |
 | Berkshire ownership signal 是否擴散成 value-investor re-rating？ | KP 2025-11-15 把 Berkshire 買 Alphabet 視為能力圈演化，但單一 13F 倉位不能保證估值重評 | Berkshire 13F follow-up、institutional holder mix、Search cash flow、YouTube / Cloud durability、AI capex / antitrust risk |
 
@@ -172,6 +176,7 @@
 | Platform design liability / Section 230 繞道 | 中高 | 法院或和解要求 YouTube / Google 改變 recommendation、autoplay、infinite scroll 或未成年人介面，造成 engagement / ad impressions 下滑 | lawsuits、appeals、settlement terms、watch time、ad impressions、product defaults | KP 2026-04-04 |
 | Quantum / PQC roadmap 被過度短線化 | 中 | 市場把 Google Quantum AI 白皮書誤讀為 crypto 今日可破解或 GOOGL 短期收入，導致 thesis 偏離實際商業化時間 | qubit scale、error correction、PQC migration、quantum cloud revenue、security product adoption | KP 2026-04-04；整理者判斷 |
 | CPU / IPU 分層效率未轉成 Cloud AI monetization | 中 | Google 的 Xeon / IPU balanced system 只改善內部架構彈性，未能轉成可見 Cloud AI revenue、margin 或 cost per token 優勢 | Cloud AI revenue、Cloud margin、latency、IPU deployment、TPU / GPU / CPU utilization、Intel supply dependency | KP 2026-04-11；整理者判斷 |
+| SRAM / Marvell second-source 未轉成 Cloud AI monetization | 中 | SRAM engine 只停留在 prototype 或小量內部 workload，沒有改善 Gemini latency / cost per token，也未轉成 Marvell revenue 或 GOOGL margin | Marvell guidance、Cloud AI revenue、cost per token、latency、Broadcom / Marvell workload split、TPU roadmap | KP 2026-04-18；整理者判斷 |
 | Ironwood / TPU 圍牆花園限制 | 中高 | TPU 只在 Google Cloud 內有效，developer / customer 遷移成本高，無法撼動 CUDA / Nvidia open ecosystem | KP 2025-11-08 |
 | Gemini-Siri 依賴與監管敘事風險 | 中 | Apple 可能把 Gemini 視為過渡方案，或 privacy / antitrust 敘事讓合作受壓 | KP 2025-11-08 |
 | Waymo 擴張成本與安全 / 監管風險 | 中 | 高速公路事故、城市許可放慢、成本結構過高或無法把 rides 轉成 profitable unit economics | KP 2025-11-15 |
@@ -205,6 +210,7 @@
 | KP 2026-03-28 TurboQuant | 中 | 補上 Google AI efficiency / memory compression 線索；若 production 化可降低 cost per token 並支撐 long-context / agent workload，但目前仍需用 Cloud AI revenue、margin 與 usage 驗證 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q1.md` |
 | KP 2026-04-04 platform liability / Google Quantum AI | 中 | 補上 YouTube / Google engagement engine 的 product-liability 風險，以及 Google Quantum AI / PQC migration 的 deep-tech optionality；不改寫主 thesis，但提高監管與 security roadmap 檢查權重 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md` |
 | KP 2026-04-11 Google / Intel Xeon + IPU | 中 | 補上 Google Cloud AI balanced system：CPU orchestration、IPU offload 與 TPU / GPU 分層可改善 TCO / latency，但仍需用 Cloud AI revenue、margin 與 workload split 驗證 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md` |
+| KP 2026-04-18 Google / Marvell SRAM inference | 中 | 補上 Google Cloud AI 推理 TCO：SRAM / memory hierarchy / latency / power optimization 與 Marvell second source 可能改善 Gemini inference economics，但需官方或財報驗證 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md` |
 
 ## 索引
 

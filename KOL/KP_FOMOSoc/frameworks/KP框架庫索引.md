@@ -15,6 +15,69 @@
 - **相關 ticker / 產業**：
 ```
 
+## 風平浪靜買保險 / Volatility Insurance 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第38期_TSLA_AI5_Google_Marvell_AMZN_Globalstar_TSMC_CoreWeave_Luxury.md`
+- **一句話定義**：當市場已排除 tail risk、波動率下跌、情緒重新樂觀時，保險成本反而便宜，適合檢查組合是否需要 downside hedge。
+- **適用情境**：war / policy relief rally、VIX 快速回落、投資人重新 risk-on 但基本面驗證未完成。
+- **觀察指標**：VIX、skew、put spread cost、position concentration、cash ratio、earnings calendar、主要持倉的 downside scenario。
+- **也出現於**：延伸第37期 Tail Risk 排除 / 組合韌性框架與第36期場景分析 / 反先知框架。
+- **相關 ticker / 產業**：全市場；portfolio construction / hedging。
+
+## Physical AI 敘事橋樑 / 硬體里程碑框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第38期_TSLA_AI5_Google_Marvell_AMZN_Globalstar_TSMC_CoreWeave_Luxury.md`
+- **一句話定義**：當公司短期財務指標承壓時，關鍵硬體里程碑可延長市場對遠期平台的想像，但仍需轉成產品、收入與 margin。
+- **適用情境**：Tesla AI chips、robotics、autonomy、edge inference、founder-led narrative repair。
+- **觀察指標**：AI5 silicon validation、yield、TSMC tape-out / production schedule、HBM supply、Optimus production、Robotaxi rollout、FSD take rate、auto gross margin、capex / FCF。
+- **也出現於**：延伸第27期後稀缺使命 / Physical AI 重定義框架與第24期推論晶片訓練化 / AI 架構大一統框架。
+- **相關 ticker / 產業**：**TSLA**, **TSM**, **000660.KS**, **NVDA**；Physical AI / robotics / edge inference。
+
+## SRAM LPU / 系統級推理 TCO 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第38期_TSLA_AI5_Google_Marvell_AMZN_Globalstar_TSMC_CoreWeave_Luxury.md`
+- **一句話定義**：AI 推理競爭從 FLOPS 轉向 memory hierarchy、latency、power、interconnect 與 total cost of ownership；SRAM on-chip / near-chip engine 可降低 HBM 依賴。
+- **適用情境**：Gemini inference、custom ASIC、Groq LPU 類架構、hyperscaler supplier diversification。
+- **觀察指標**：Marvell design win、Google TPU / Gemini inference latency、SRAM capacity、HBM attach、Broadcom / Marvell revenue mix、Cloud AI margin、cost per token。
+- **也出現於**：延伸第37期 CPU + IPU 平衡系統 / Agentic AI 調度框架與第29期推理異構化 / 架構奇兵框架。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **MRVL**, **AVGO**, **TSM**；custom silicon / inference infrastructure。
+
+## 衛星 D2D 頻譜圈地 / Connectivity Control 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第38期_TSLA_AI5_Google_Marvell_AMZN_Globalstar_TSMC_CoreWeave_Luxury.md`
+- **一句話定義**：衛星通訊的核心護城河不是衛星數量本身，而是頻譜、落地許可、終端生態與發射 / 補網能力的組合。
+- **適用情境**：Amazon Leo、Starlink D2D、AST SpaceMobile、Apple satellite services、IoT / industrial connectivity。
+- **觀察指標**：deal close、regulatory approvals、HIBLEO / deployment milestones、D2D rollout、Apple / MNO agreements、spectrum rights、satellite count、pricing、Amazon Leo capex / revenue。
+- **也出現於**：呼應第26期太空 Middle-Mile / 發射節奏驗證框架與宋分 AMZN connectivity thesis。
+- **相關 ticker / 產業**：**AMZN**, **GSAT**, **ASTS**, **AAPL**；satellite communications / direct-to-device。
+
+## 毛利率稀釋 vs 高價值 mix / 先進製程投資期框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第38期_TSLA_AI5_Google_Marvell_AMZN_Globalstar_TSMC_CoreWeave_Luxury.md`
+- **一句話定義**：先進製程與海外廠初期會稀釋毛利，但若高價值 HPC / AI mix 與封裝瓶頸同步提升，稀釋是投資期成本而非競爭力惡化。
+- **適用情境**：TSMC earnings、2nm / A16 ramp、CoWoS / CoPoS、AI accelerator foundry。
+- **觀察指標**：HPC revenue mix、advanced node share、gross margin bridge、inventory days、CoWoS monthly capacity、2nm yield / wafer starts、Arizona / Japan / Germany cost gap。
+- **也出現於**：延伸第12期 AI 半導體瓶頸轉移 / 先進封裝定價權框架與第29期無塵室瓶頸 / 前段技術後段化框架。
+- **相關 ticker / 產業**：**TSM**, **AMAT**, **ASML**, OSAT peers；foundry / advanced packaging。
+
+## 算力長約 + 股權對沖 / 客戶即投資人框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第38期_TSLA_AI5_Google_Marvell_AMZN_Globalstar_TSMC_CoreWeave_Luxury.md`
+- **一句話定義**：當算力成為稀缺生產資料，大客戶會同時成為資本提供者，以股權或預付款換產能優先權，並用持股對沖未來算力成本。
+- **適用情境**：neocloud、AI labs、quant trading、hyperscaler supplier financing、GPU capacity scarcity。
+- **觀察指標**：customer concentration、contract duration、GPU generation allocation、equity dilution、debt cost、capex funding、utilization、gross margin、FCF。
+- **也出現於**：延伸第31期客戶 warrants / 命運共同體框架與第33期 AI 基建循環經濟 / 供應商背書框架。
+- **相關 ticker / 產業**：**CRWV**, **NVDA**, **META**, Anthropic / Jane Street；neocloud / AI infrastructure finance。
+
+## 地緣傳導 / Luxury Demand Multiplier 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第38期_TSLA_AI5_Google_Marvell_AMZN_Globalstar_TSMC_CoreWeave_Luxury.md`
+- **一句話定義**：地緣風險可透過旅遊、跨境高淨值消費、心理預期與旗艦店流量非線性傳導到看似無關的消費品類。
+- **適用情境**：luxury、travel retail、Middle East high-net-worth demand、tourist spending。
+- **觀察指標**：Middle East sales、Europe flagship traffic、tourist spending、organic growth、F&LG margin、inventory / discounting、travel confidence、conflict duration。
+- **也出現於**：延伸第12期預期管理 / 51 分止血框架與第35期商品趨勢 / 礦業股槓桿分流框架的非線性傳導精神。
+- **相關 ticker / 產業**：**MC.PA**, **RMS.PA**, **KER.PA**；luxury / travel retail。
+
 ## Tail Risk 排除 / 組合韌性框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第37期_INTC_Claude_Mythos_Meta_MuseSpark_AMZN.md`

@@ -6,8 +6,54 @@
 
 | 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
 |---|---|---|---|---|---|---|
+| 2026-04-18 02:45 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Marvell SRAM inference engine、Gemini latency 與 custom silicon second source | KP_FOMOSoc-20260418-kp-thinking-note-38-tsla-ai5-google-marvell-amzn-globalstar-tsmc-coreweave-luxury-1323d111 | **GOOG**, **GOOGL**, **MRVL**, **AVGO**, **TSM** | #AI基建 #雲端基建 #競爭風險 #執行風險 #ReRating | L2；Google Cloud AI inference TCO / memory hierarchy / supplier diversification 補強 |
 | 2026-04-11 02:54 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Intel Xeon + IPU 與 AI balanced system | KP_FOMOSoc-20260411-kp-thinking-note-37-intel-claude-ai-amazon-capex-e8155b80 | **GOOG**, **GOOGL**, **INTC**, **AMD**, **ARM**, **NVDA** | #AI基建 #雲端基建 #競爭風險 #執行風險 #ReRating | L2；Google Cloud AI infrastructure TCO / CPU + IPU 合作補強 |
 | 2026-04-04 03:10 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：平台設計責任、Google Quantum AI 與 crypto PQC 倒數 | KP_FOMOSoc-20260404-kp-thinking-note-36-nvidia-marvell-google-quantum-intel-nike-buffett-11812b9b | **GOOG**, **GOOGL**, **META**, **BTC**, **ETH**, **SOL**, **IBM**, **IONQ** | #監管審批 #政策風險 #量子運算 #加密貨幣 #競爭風險 #執行風險 #估值風險 | L2；平台設計責任 / Section 230 繞道與 Google Quantum AI / PQC 遷移 read-through |
+
+---
+
+## KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Marvell SRAM inference engine、Gemini latency 與 custom silicon second source
+
+- **來源 KOL**：KP / FOMOSoc
+- **原文主整理**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第38期_TSLA_AI5_Google_Marvell_AMZN_Globalstar_TSMC_CoreWeave_Luxury.md`
+- **原始來源**：https://www.fomosoc.com/p/ai5-kp38
+- **source_id**：KP_FOMOSoc-20260418-kp-thinking-note-38-tsla-ai5-google-marvell-amzn-globalstar-tsmc-coreweave-luxury-1323d111
+- **raw 路徑 / URL**：URL（未另存 raw；Jina Reader Markdown 完整可讀）
+- **OCR 狀態**：不適用
+- **類型**：Substack 公開電子報 / KP 思考筆記 / 週報
+- **發文時間**：2026-04-18 02:45 UTC（台北 10:45）
+- **整理日期**：2026-04-29
+- **交會等級**：L2
+- **事件類型**：Google custom AI silicon / Marvell SRAM engine / inference TCO / supply chain diversification
+- **主題 / 母題標籤**：#AI基建 #雲端基建 #競爭風險 #執行風險 #ReRating
+
+### 對 **GOOGL** 的影響
+
+KP 將 Google 與 Marvell 的 SRAM-based compute engine 傳聞，解讀為 Google Cloud / Gemini 在 inference latency、memory hierarchy 與 cost per token 上的 L2 補強。這不是 Google 拋棄 Broadcom；KP 反而強調 Broadcom / Google 長約仍到 2031，Marvell 更像第二供應商與架構補位，用 2nm custom SRAM、SerDes、optics / interconnect 能力降低 HBM latency / power bottleneck。
+
+對 **GOOGL** 的投資含義是：Google 的 AI infrastructure moat 不只在 TPU FLOPS，也在系統級 TCO。若 Gemini real-time inference 越來越重，SRAM / LPU-like engine、IPU offload、OCS、TurboQuant 這些分層技術會共同決定 Cloud AI margin 與 latency。但目前來源仍是供應鏈報告，需要後續官方、財報或產品化訊號驗證。
+
+### 觀點摘要
+
+| 面向 | 內容 |
+|---|---|
+| **立場** | L2 infrastructure efficiency 補強；不改變 Search / Cloud / capex 主 thesis |
+| **核心訊號** | Google 可能與 Marvell 開發 SRAM-based compute engine，用於 Gemini real-time inference 的低延遲 / 低功耗需求 |
+| **基本面含義** | Google 維持 Broadcom 主供應鏈，同時用 Marvell 做 memory hierarchy / second source / system TCO 補位 |
+| **驗證點** | Gemini latency、Cloud AI margin、cost per token、Marvell custom silicon / optics revenue、Broadcom / Marvell split、TPU roadmap |
+| **主要風險** | 供應鏈報告未轉官方 design win；second source revenue 小；架構複雜度未轉成 Cloud AI monetization |
+
+### 風險表
+
+| 風險 | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|
+| SRAM engine 未產品化 | 中 | 供應鏈傳聞沒有進入 Gemini / Cloud production workload | Marvell guidance、Google TPU roadmap、latency / cost disclosure | KP 第38期 |
+| Second source 經濟性有限 | 中 | Marvell 只做小量 prototype 或補位，無法影響 GOOGL margin / MRVL revenue | custom silicon revenue、design win size、Broadcom share、gross margin | KP 第38期；整理者判斷 |
+| Broadcom / Marvell 多供應商複雜度 | 中 | 多晶片 / 多供應商增加 integration cost 或 roadmap friction | workload split、tooling、yield / schedule、Google Cloud margin | KP 第38期；整理者判斷 |
+
+### 呼應連結
+
+> 呼應第37期 Google / Intel Xeon + IPU balanced system、第35期 TurboQuant、第29期 Apollo OCS：KP 對 Google Cloud AI infra 的觀察逐步從單顆 TPU 擴到 CPU、IPU、memory hierarchy、optical switching 和 inference cost stack。
 
 ---
 
