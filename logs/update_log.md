@@ -2,6 +2,10 @@
 
 ## 2026-04-29
 
+- 入庫 `Bytc-20260429-world-cup-onds-sentrycs-chat-2e8510a5`：整理使用者提供的 Bytc Substack chat 截圖《World Cup C-UAS 聊天室：**ONDS** 現場層、**PLTR** / **BBAI** 大腦層》，追加至 `KOL/Bytc/notes/bytc筆記.md`。來源為 Substack chat target reply URL 與對話內嵌截圖，未另存 raw；OCR 狀態標「部分」，因截圖文字足以判讀 Bytc 回覆，但未顯示完整聊天室時間 / PDF 頁碼。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q2.md`，並更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。**ONDS** 判定 L2：Bytc 明確說「ONDS 繼續拿著」，並將 **PLTR** / **BBAI** 定位為大腦、**ONDS** 定位為現場撐人；**PLTR** / **BBAI** 僅作 L1-L2 安檢 / AI brain layer 語境。
+- 備註：Ondas official PR 校準 Sentrycs selected to deploy counter-drone protection for 2026 FIFA World Cup，contracts worth several million dollars；但不可外推成 all-host-city capture、exclusive supplier、recognized revenue 或買賣建議。截圖底部提到 Sentry / 任務 / 無線電調度的訊息未顯示明確說話者，本次不列為 Bytc 明確觀點。
+
 - 入庫 `KP_FOMOSoc-20260424-ai-infrastructure-operating-leverage-oracle-coreweave-nebius-9022dd61`：整理 KP / FOMOSoc Substack Note《AI 基建中游營運槓桿：Oracle / CoreWeave / Nebius 重估框架》，追加至 `KOL/KP_FOMOSoc/notes/KP筆記.md`。Substack Note 文字完整可讀，結尾有 KP 署名，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」；並以 Oracle Q3 FY2026 official results、CoreWeave FY2025 official results 與 Nebius Q2 2025 official results 交叉校準。
 - 更新：同步更新 `KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md` 與 `indexes/watchlist_index.md`。本文新增「AI 基建營運槓桿 / 中游 re-rating 框架」；**ORCL**, **CRWV**, **NBIS** 判定 L2-L3 watchlist 補強，不建立 `Stocks/`；**NVDA**, **TSM**, **AMZN** 只作上游 / AWS 歷史類比 context。
 - 備註：Oracle official 校準 Q3 FY2026 RPO `$553B`、OCI revenue `$4.9B`、FY2026 capex `$50B` 與 customer-funded / customer-owned GPU 結構；CoreWeave official 校準 FY2025 revenue `$5.131B`、revenue backlog `$66.8B`、current debt `$6.708B`、non-current debt `$14.665B` 與 FY2025 property/equipment purchases `$10.309B`；Nebius official 校準 Q2 revenue `$105.1M`、ARR guidance `$900M-$1.1B` 與 1GW power by end-2026 plan。本文是公開短 Note / 深度文導流，沒有完整單股模型、價位或操作；不是買賣建議。
