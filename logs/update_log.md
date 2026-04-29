@@ -2,6 +2,11 @@
 
 ## 2026-04-29
 
+- 入庫 `大叔美股筆記-20260428-ondas-sbi-securities-13f-increase-bf7231cc`：整理大叔美股筆記 Substack Note《**ONDS** SBI Securities 2026Q1 13F：持股增至 191,542 股》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。Substack Note 文字可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」；並以 SBI Securities 2026Q1 / 2025Q4 SEC 13F-HR information table 交叉核對。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q2.md`，將本篇判定為 **ONDS** L2 manager-level institutional ownership / holder-base 訊號；SEC 2026Q1 13F 顯示 **ONDS** `191,542` 股，較 2025Q4 `118,636` 股增加 `72,906` 股 / +61.45%。
+- 更新：同步更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`。
+- 備註：13F 是 2026-03-31 quarter-end snapshot，不是 2026-04-28 即時買盤；SEC value 與 Substack / X 平均成本 `9.53~9.54`、current value `2,097,385` 美元不寫成 SBI 真實成本或本專案買賣建議。
+
 - 入庫 `大叔美股筆記-20260428-intel-glass-substrate-correction-1f53ca95`：整理大叔美股筆記 Substack Note《**INTC** 玻璃基板更正：目前仍是有機基板，18A 才可能踏入玻璃》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。Substack Note 文字可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」。
 - 更新：同步追加 `Stocks/INTC/quarterly/INTC_筆記_2026Q2.md`，將本篇判定為 **INTC** L2 技術時點校準；重點為大叔更正 Intel 目前仍是有機基板，尚未踏入玻璃基板，玻璃基板預計要到 18A，避免把第三方 Clearwater Forest / glass-core headline 寫成已兌現 milestone。
 - 更新：同步更新 `Stocks/INTC/INTC_index.md`、`Stocks/INTC/INTC_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`。
