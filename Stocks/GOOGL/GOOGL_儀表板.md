@@ -1,6 +1,6 @@
 # GOOGL 投資儀表板
 
-> 最後更新：2026-04-29（補入 KP / FOMOSoc 2026-03-14 L3：Google `$32B` 收購 Wiz、CNAPP 與 Cloud security 補課；不改變當前最新立場）
+> 最後更新：2026-04-29（補入 KP / FOMOSoc 2026-03-28 L2：TurboQuant、記憶體牆與 Jevons paradox；不改變當前最新立場）
 
 ## 當前立場快照
 
@@ -23,6 +23,7 @@
 - **本次補入的 KP 2026-02-21 Google / Ormat 地熱補強**：KP 將 Google / Ormat up to 150MW geothermal deal 解讀為 AI data center 從年度綠電採購走向 24/7 clean baseload 的訊號。Clean Transition Tariff 讓 Google 自付 clean power premium，NV Energy 協調 PPA / grid / balancing，PUCN 監管保護一般居民；這和 Intersect Power、百年債、Apollo OCS 一起補強 Alphabet AI infrastructure utility thesis。
 - **本次補入的 KP 2026-02-28 TPU 外部化補強**：KP 認為 Google 正用 FluidStack investment / lease guarantee、Meta TPU lease 與 neocloud 通路，把 TPU 從 Google Cloud 內部成本中心推向外部利潤中心。這補強 TorchTPU / OCS / AI data center energy thesis，但需追 CUDA inertia、CoWoS allocation、external TPU supply、neocloud leverage 與 Cloud AI revenue / margin。
 - **本次補入的 KP 2026-03-14 Google / Wiz 補強**：KP 將 Google `$32B` 全現金收購 Wiz 解讀為 Google Cloud security 補課：Wiz 補上 proactive CNAPP、agentless scanning 與 multicloud visibility，讓雲端安全成為 enterprise cloud trust 的門票。此段同步 `Stocks/GOOGL/`；**AMZN** / **MSFT** 只作 AWS / Azure security peer context。
+- **本次補入的 KP 2026-03-28 TurboQuant 補強**：KP 將 Google TurboQuant 解讀為記憶體牆的軟體解法：KV cache memory 壓縮 6x+、compute overhead 約 +8%、不需 retraining 且 hardware agnostic。對 **GOOGL** 是 Cloud AI / inference cost per token 的 L2 效率訊號；短期可能壓低 memory demand 預期，長期則要看 Jevons paradox 是否讓 agent / long-context usage 放大。
 - **目前研究狀態**：正式追蹤個股；主里程碑為 2026-02-21 大叔 Alphabet capex / century bond / AI infra article。
 
 ## 關鍵價位 / 數字追蹤
@@ -57,6 +58,7 @@
 | KP Google / Ormat geothermal anchor | Google / Ormat long-term geothermal deal up to 150MW；Clean Transition Tariff 由 Google 支付 premium，NV Energy 協調，PUCN 監管保護 ratepayer | KP / FOMOSoc 2026-02-21 | 歷史 L3：補強 24/7 clean baseload 與 AI data center power procurement；需追 CTT approval、MW delivery、capacity factor、power cost 與 Cloud AI capacity |
 | KP TPU externalization anchor | Google / FluidStack investment KP 口徑約 `$100M`、FluidStack valuation 約 `$7.5B`、lease guarantee example `$3.2B`；Meta multibillion TPU lease；2026 TPU shipments 310-360 萬片 | KP / FOMOSoc 2026-02-28 | 歷史 L3：補強 TPU outside the wall / external monetization thesis；需追 Meta TPU workload、TorchTPU production readiness、Cloud AI revenue、CoWoS allocation 與 neocloud financing |
 | KP Google / Wiz security anchor | Wiz acquisition KP 口徑 `$32B` all-cash，retention bonus `$1B`；Wiz 提供 CNAPP / agentless / multicloud visibility | KP / FOMOSoc 2026-03-14 | L3：補強 Google Cloud security / enterprise trust layer；需追 deal close、Wiz neutrality、Mandiant / Chronicle integration、security revenue 與 CNAPP customer retention |
+| KP TurboQuant anchor | TurboQuant 將 KV cache memory 壓縮 6x+、compute overhead 約 +8%，且不需 retraining / hardware agnostic；KP 用 DeepSeek MLA 作 Jevons paradox 對照 | KP / FOMOSoc 2026-03-28 | L2：補強 Google Cloud AI efficiency / cost per token；短期壓 memory sentiment，長期需追 agent / long-context usage 是否放大 |
 
 ## 近 30 天催化劑
 
@@ -68,6 +70,7 @@
 
 | 日期 | 事件 | 狀態 | 結果 / 含義 | 來源 |
 |---|---|---|---|---|
+| 2026-03-28 | KP 思考筆記第35期：TurboQuant、記憶體牆與 Jevons paradox | 已整理 / L2 | 補上 Google 用 TurboQuant 壓縮 KV cache 6x+ 的 AI inference efficiency 線索；對 GOOGL 是 Cloud AI cost per token / long-context workload 的 L2 補強，但需追 production rollout、Cloud AI revenue / margin 與 memory demand 長短期分歧 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q1.md` |
 | 2026-03-14 | KP 思考筆記第33期：Google / Wiz 收購與 Cloud security 補課 | 已整理 / L3 | 補上 Google 用 `$32B` 全現金收購 Wiz，補齊 proactive CNAPP / agentless / multicloud security 能力；對 GOOGL 是 Google Cloud enterprise trust 的 L3 補強，但需追 deal close、Wiz neutrality、retention、integration 與競品轉單風險 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q1.md` |
 | 2025-12-27 | KP 思考筆記第22期：Google / Intersect Power 能源熟地 | 已整理 / 歷史 L3 | 補上 Google 用 47.5 億美元買能源開發 pipeline、許可與併網權的 thesis；對 GOOGL 是 AI data center 等電時間與 behind-the-meter power 控制權補強，但也增加 capex / depreciation / execution risk | `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` |
 | 2026-02-14 | KP 思考筆記第29期：百年債、Apollo OCS 與 HBM 分層 | 已整理 / L3 | 補上 Alphabet 百年債作 AI infrastructure utility 資本結構訊號，以及 Google Apollo OCS / TPU / HBM memory hierarchy；與 2026-02-21 大叔 L4 capex / century bond 里程碑同方向 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q1.md` |
@@ -119,6 +122,7 @@
 | Google / Ormat geothermal 與 CTT 是否能形成可複製 clean baseload 模板？ | KP 2026-02-21 認為 AI data center 用電正在走向 24/7 clean baseload；若 CTT 成功，Google 可用自付 premium 換 capacity speed 與社會許可 | PUCN / NV Energy filings、CTT approval、Ormat MW delivery、capacity factor、power cost、data center uptime / Cloud AI capacity |
 | Google TPU 外部化是否能轉成外部 Cloud AI revenue？ | KP 2026-02-28 認為 FluidStack / Meta TPU lease 是 TPU 從內部工具轉向利潤中心的訊號；若只是 lease guarantee 或低毛利 capacity，re-rate 力度有限 | FluidStack financing、Meta TPU lease / purchase、TorchTPU production readiness、TPU utilization、Cloud AI revenue、CoWoS allocation、developer adoption |
 | Google / Wiz 是否能轉成 Google Cloud security moat？ | KP 2026-03-14 認為 Wiz 補上 Google Cloud 缺少的事前 CNAPP / multicloud security layer；若 Google 維持 Wiz neutrality，可能提升 enterprise trust，若破壞 neutrality 則可能流失客戶 | deal close、Wiz standalone brand、AWS / Azure support、Mandiant / Chronicle integration、CNAPP adoption、security revenue、customer churn |
+| TurboQuant 是否能把 KV cache 壓縮轉成 Cloud AI revenue / margin，而不只是 paper efficiency？ | KP 2026-03-28 認為 TurboQuant 壓縮 memory bottleneck 可降低 inference cost，但真正投資含義要看 production adoption、cost per token 和 usage expansion | production rollout、Cloud AI revenue、gross margin、cost per token、long-context usage、TPU / GPU utilization、HBM / DRAM demand |
 | Waymo 高速公路是否能轉成可量化業務？ | KP 2025-11-15 認為高速公路使 Robotaxi 具備效率，但 Alphabet 仍需證明 rides、revenue、unit economics 與安全紀錄 | Waymo rides、service area、airport / highway routes、safety incidents、insurance cost、regulatory approvals |
 | Berkshire ownership signal 是否擴散成 value-investor re-rating？ | KP 2025-11-15 把 Berkshire 買 Alphabet 視為能力圈演化，但單一 13F 倉位不能保證估值重評 | Berkshire 13F follow-up、institutional holder mix、Search cash flow、YouTube / Cloud durability、AI capex / antitrust risk |
 
@@ -154,6 +158,7 @@
 | Geothermal / CTT delivery and regulatory risk | 中高 | Ormat geothermal project 延誤、CTT 未獲監管核准，或 Google clean baseload premium 未能轉成 Cloud AI capacity / revenue | KP 2026-02-21；整理者判斷 |
 | TPU externalization / neocloud financing risk | 中高 | Google 外部 TPU demand 依賴 FluidStack / neocloud leverage、lease guarantees 或少數大客戶，若 delivery / utilization / margin 不佳，可能只是低毛利 capacity financing | KP 2026-02-28；整理者判斷 |
 | Wiz multicloud neutrality / integration risk | 中高 | Google 收購後若弱化 Wiz 的 AWS / Azure support 或讓客戶擔心 lock-in，可能引發客戶轉向 Orca / Prisma / CrowdStrike / Zscaler；若整合 Mandiant / Chronicle 不順，也會降低 security moat | KP 2026-03-14；整理者判斷 |
+| TurboQuant efficiency 未轉成 monetization | 中 | KV cache 壓縮降低單次推理成本，但沒有轉成 Cloud AI revenue、margin 或更高 usage；或短期 memory demand 壓力大於長期 Jevons expansion | production rollout、Cloud AI revenue、cost per token、agent / long-context usage、HBM / DRAM pricing | KP 2026-03-28；整理者判斷 |
 | Ironwood / TPU 圍牆花園限制 | 中高 | TPU 只在 Google Cloud 內有效，developer / customer 遷移成本高，無法撼動 CUDA / Nvidia open ecosystem | KP 2025-11-08 |
 | Gemini-Siri 依賴與監管敘事風險 | 中 | Apple 可能把 Gemini 視為過渡方案，或 privacy / antitrust 敘事讓合作受壓 | KP 2025-11-08 |
 | Waymo 擴張成本與安全 / 監管風險 | 中 | 高速公路事故、城市許可放慢、成本結構過高或無法把 rides 轉成 profitable unit economics | KP 2025-11-15 |
@@ -184,6 +189,7 @@
 | KP 2026-02-21 Google / Ormat geothermal | 中高 | 補上 clean baseload / CTT power procurement 模板；與 Intersect Power、百年債、大叔 capex / energy moat thesis 相互校準 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q1.md` |
 | KP 2026-02-28 TPU externalization / FluidStack | 中高 | 補上 TPU outside the wall / neocloud financing / Meta TPU lease 的商業化路線；強化 Cloud AI monetization optionality，但需追供應規模、developer tooling 與 margin quality | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q1.md` |
 | KP 2026-03-14 Google / Wiz | 中高 | 補上 Google Cloud security / CNAPP / multicloud trust layer；與 TPU externalization、OCS、clean baseload 一起構成 Cloud AI enterprise execution moat，但需追 deal close、Wiz neutrality 與 integration | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q1.md` |
+| KP 2026-03-28 TurboQuant | 中 | 補上 Google AI efficiency / memory compression 線索；若 production 化可降低 cost per token 並支撐 long-context / agent workload，但目前仍需用 Cloud AI revenue、margin 與 usage 驗證 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q1.md` |
 
 ## 索引
 

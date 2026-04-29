@@ -15,6 +15,69 @@
 - **相關 ticker / 產業**：
 ```
 
+## 風暴前組合體檢 / 防禦部署框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第35期_AMZN_Bedrock_ARM_Terafab_TurboQuant_OpenAI_Sora_CLARITY.md`
+- **一句話定義**：極端波動前先檢查槓桿、集中度、信念與流動性，確保任何單一敘事不會毀掉組合。
+- **適用情境**：market drawdown、high beta portfolio review、position sizing、投資與投機分流。
+- **觀察指標**：leverage、cash ratio、position size、thesis clarity、unknown exposure、drawdown tolerance、liquidity、stop-review discipline。
+- **也出現於**：延伸第32期反脆弱組合 / 多護城河框架與第34期投資圖書館 / 認知複利框架。
+- **相關 ticker / 產業**：全市場；portfolio construction / risk management。
+
+## Bedrock 造代理工廠 / SaaS 背景板框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第35期_AMZN_Bedrock_ARM_Terafab_TurboQuant_OpenAI_Sora_CLARITY.md`
+- **一句話定義**：雲端平台若能把 agents、企業資料、permissions 與 workflow 串成工廠，傳統 SaaS seat model 會被 AI background labor 壓縮。
+- **適用情境**：AWS Bedrock、enterprise agents、SaaS de-rating、agent marketplace、workflow automation。
+- **觀察指標**：Bedrock usage、agent marketplace GMV、AWS AI revenue、SaaS NRR / seat growth、customer ROI、security incidents、workflow completion。
+- **也出現於**：延伸第31期 Stateful Runtime / 企業 AI 作業系統框架、第34期 Stateless API 合約邊界 / 算力主權框架與第32期 Token 節流閥 / AI 軟體治理框架。
+- **相關 ticker / 產業**：**AMZN**, **IGV**；enterprise AI / SaaS / cloud infrastructure。
+
+## Agentic AI CPU 復權 / Arm 戰國框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第35期_AMZN_Bedrock_ARM_Terafab_TurboQuant_OpenAI_Sora_CLARITY.md`
+- **一句話定義**：AI agents 放大 orchestration / scheduling / context workload，使 CPU demand 回來，但增量會在 x86、Arm、Nvidia / custom CPU 間重分配。
+- **適用情境**：AI inference architecture、server CPU share、Arm AGI CPU、Intel / AMD / Nvidia CPU competition。
+- **觀察指標**：CPU:GPU ratio、CPU attach rate、Xeon / EPYC / Arm share、Arm AGI CPU shipments、Grace / Vera adoption、DCAI revenue、server CPU margin。
+- **也出現於**：延伸第2期 AI 推論 CPU / GPU 利用率框架、第30期全棧綁定 / 算力主權換時間框架與第24期系統級協同設計 / AI Factory 機櫃平台框架。
+- **相關 ticker / 產業**：**INTC**, **ARM**, **AMD**, **NVDA**, **META**, **QCOM**, **TSM**；server CPU / AI inference。
+
+## Terafab 過程確定性 / WFE 收費站框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第35期_AMZN_Bedrock_ARM_Terafab_TurboQuant_OpenAI_Sora_CLARITY.md`
+- **一句話定義**：超大型晶圓廠終局成敗未定，但先進製程嘗試前必須先採購 lithography、metrology、deposition、etch 等設備。
+- **適用情境**：Musk Terafab、advanced-node fabs、AI compute super-factory、semiconductor equipment capex。
+- **觀察指標**：EUV / High-NA orders、metrology / inspection backlog、deposition / etch orders、fab permits、power PPAs、tool move-in、WFE outlook。
+- **也出現於**：呼應第33期 Lab-to-Fab / 半導體設備共同設計框架、第29期無塵室瓶頸 / 前段技術後段化框架。
+- **相關 ticker / 產業**：**LRCX**, **ASML**, **AMAT**, **KLAC**；semiconductor equipment / WFE。
+
+## TurboQuant / 記憶體牆 Jevons 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第35期_AMZN_Bedrock_ARM_Terafab_TurboQuant_OpenAI_Sora_CLARITY.md`
+- **一句話定義**：Memory efficiency improvement 短期可能壓 headline demand，長期若降低成本並放大可行 workload，反而推高總需求。
+- **適用情境**：KV cache compression、memory wall、HBM / DRAM demand、long-context agents、AI inference cost。
+- **觀察指標**：KV cache cost、context length、agent workload volume、HBM / DRAM pricing、memory bit demand、Cloud AI margin、deployment growth。
+- **也出現於**：延伸第31期 HBF 記憶體新樓層框架、第34期 SCA / 記憶體結構化成長框架，也可與 DeepSeek MLA 對照。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **MU**, **000660.KS**, **005930.KS**, **NVDA**；memory / AI infrastructure。
+
+## AI 煙火 vs 印鈔機 / Focus Era 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第35期_AMZN_Bedrock_ARM_Terafab_TurboQuant_OpenAI_Sora_CLARITY.md`
+- **一句話定義**：AI 產品要從高聲量 demo 轉成可持續資源配置，必須證明付費、retention、workflow value 與 compute cost economics。
+- **適用情境**：OpenAI Sora、consumer AI apps、developer tools、enterprise AI product prioritization。
+- **觀察指標**：compute cost、revenue / IAP、retention、enterprise conversion、developer usage、gross margin、product cuts、capital allocation。
+- **也出現於**：可與第34期數位學徒制 / 專精模型框架、第31期數位勞動力稅 / AWU 框架交叉比對。
+- **相關 ticker / 產業**：OpenAI 未上市；**MSFT**, **DIS** context；enterprise AI / developer tools。
+
+## Stablecoin 支付軌道 vs 數位儲蓄帳戶框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第35期_AMZN_Bedrock_ARM_Terafab_TurboQuant_OpenAI_Sora_CLARITY.md`
+- **一句話定義**：Stablecoin 若被禁止被動付息，儲蓄帳戶敘事受限，但支付、結算、DeFi activity 與 liquidity rails 仍可保留需求。
+- **適用情境**：CLARITY Act、USDC / Circle、Coinbase rewards、stablecoin regulation、RWA / DeFi yield。
+- **觀察指標**：final bill language、USDC supply、reserve income、Coinbase revenue share、rewards policy、payment volume、active wallets、DeFi activity yield。
+- **也出現於**：可與 Bytc stablecoin / RWA / Circle 框架交叉比對；KP 第8期 IPO 價格發現中也曾用 Circle 作 crypto infrastructure case。
+- **相關 ticker / 產業**：**CRCL**, **COIN**；stablecoins / crypto infrastructure / payments。
+
 ## 投資圖書館 / 認知複利框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第34期_Grok_MU_MSFT_OpenAI_AMZN_OCI_NVDA_OpenClaw.md`

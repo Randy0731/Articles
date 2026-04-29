@@ -6,11 +6,72 @@
 
 | 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
 |---|---|---|---|---|---|---|
+| 2026-03-28 03:02 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：TurboQuant、記憶體牆與 Jevons paradox | KP_FOMOSoc-20260328-kp-thinking-note-35-amazon-bedrock-arm-terafab-turboquant-sora-clarity-7b606408 | **GOOG**, **GOOGL**, **MU**, **000660.KS**, **005930.KS**, **NVDA** | #AI基建 #雲端基建 #Memory #競爭風險 #ReRating #執行風險 | L2；TurboQuant KV cache 6x+ 壓縮 / Cloud AI efficiency / memory Jevons |
 | 2026-03-14 03:10 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Wiz 收購與 Cloud security 補課 | KP_FOMOSoc-20260314-kp-thinking-note-33-meta-moltbook-msft-e7-oracle-wiz-nebius-amat-jpm-6016d1e2 | **GOOG**, **GOOGL**, **AMZN**, **MSFT**, **PANW**, **CRWD**, **ZS** | #雲端基建 #軟體SaaS #併購 #競爭風險 #執行風險 #ReRating | L3；Wiz `$32B` all-cash / CNAPP / Google Cloud security moat |
 | 2026-02-28 03:51 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google TPU 外部化、FluidStack 與 Meta TPU lease | KP_FOMOSoc-20260228-kp-thinking-note-31-amd-meta-ibm-google-tpu-salesforce-hbf-nvidia-netflix-openai-aws-5e901705 | **GOOG**, **GOOGL**, **META**, **NVDA**, **CRWV**, **NBIS**, **HUT**, **WULF** | #AI基建 #雲端基建 #競爭風險 #ReRating #執行風險 #金融流動性 | L3；TPU outside the wall / FluidStack lease guarantee / Meta TPU lease / neocloud distribution |
 | 2026-02-21 03:22 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Ormat 地熱、CTT 與 AI data center clean baseload | KP_FOMOSoc-20260221-kp-thinking-note-30-meta-nvidia-google-geothermal-anthropic-panw-walmart-druckenmiller-copper-blueowl-openai-tariffs-55e23889 | **GOOG**, **GOOGL**, **ORA**, **DUK** | #AI基建 #能源電力 #雲端基建 #政策風險 #監管審批 #執行風險 #ReRating | L3；Google / Ormat 150MW geothermal / Clean Transition Tariff / AI data center 24/7 clean baseload |
 | 2026-02-14 02:30 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：百年債、Apollo OCS 與 AI 基建公用事業化 | KP_FOMOSoc-20260214-kp-thinking-note-29-alphabet-century-bond-ai-disruption-google-ocs-hbm4-amat-openai-cerebras-msft-asts-cc671a80 | **GOOG**, **GOOGL**, **LITE**, **MU**, **005930.KS**, **000660.KS** | #AI基建 #雲端基建 #Memory #金融流動性 #增發融資 #ReRating #執行風險 | L3；Alphabet century bond / AI capex financing / Google Apollo OCS / TPU v8 HBM rumor calibration |
 | 2026-02-07 02:45 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：AI 沒有殺死搜尋，而是擴張搜尋與商業意圖 | KP_FOMOSoc-20260207-kp-thinking-note-28-amazon-google-amd-nvo-mstr-nvidia-openai-spacex-xai-fe4e3d99 | **GOOG**, **GOOGL**, **AMZN** | #AI基建 #軟體SaaS #財報 #ReRating #競爭風險 #估值風險 | L3；AI Search expansion / ads intent quality / Direct Offers / UCP / capex justification |
+
+---
+
+## KP / FOMOSoc 對 **GOOGL** 的觀點摘要：TurboQuant、記憶體牆與 Jevons paradox
+
+- **來源 KOL**：KP / FOMOSoc
+- **原文主整理**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第35期_AMZN_Bedrock_ARM_Terafab_TurboQuant_OpenAI_Sora_CLARITY.md`
+- **原始來源**：https://www.fomosoc.com/p/arm-kp35
+- **source_id**：KP_FOMOSoc-20260328-kp-thinking-note-35-amazon-bedrock-arm-terafab-turboquant-sora-clarity-7b606408
+- **raw 路徑 / URL**：URL（未另存 raw；Jina Reader Markdown）
+- **OCR 狀態**：不適用
+- **類型**：Substack 公開週報 / Google TurboQuant / KV cache / AI memory efficiency
+- **發文時間**：2026-03-28 03:02 UTC（台北 11:02）
+- **整理日期**：2026-04-29
+- **交會等級**：L2
+- **事件類型**：TurboQuant memory compression / KV cache optimization / AI inference economics
+- **主題 / 母題標籤**：#AI基建 #雲端基建 #Memory #競爭風險 #ReRating #執行風險
+
+### 對 **GOOGL** 的影響
+
+KP 第35期把 Google TurboQuant 放在「記憶體牆」與 Jevons paradox 之間理解。TurboQuant 將 KV cache memory 壓縮 6x+，compute overhead 約 +8%，且不用 retraining、可跨硬體使用；這對 **GOOGL** 是 Cloud AI / inference economics 的 L2 技術效率訊號，而不是新的獨立財報 thesis。
+
+短期看，這種效率提升會讓市場擔心 HBM / DRAM / memory capex demand 被壓縮，因此對 **MU**、SK Hynix、Samsung 等記憶體鏈有負面 read-through。KP 的長期判斷則偏向 Jevons paradox：當 memory bottleneck 被壓低，AI agent / long-context / inference workload 成本下降，使用量可能放大，最後反而提高總體算力與 memory demand。KP 用 DeepSeek V3 / R1 MLA 先壓低 KV cache、後續部署爆發又推高 HBM 需求作對照。
+
+整理者判定為 **GOOGL** L2：它補強 Google 在 TPU / Cloud AI / Search AI capex 的效率工具箱，但尚未證明能轉成 Cloud AI revenue、margin 或 capex ROI。後續要追 TurboQuant 是否進入 production、是否改善 cost per token、是否支撐更長 context / agent workload，以及 memory 需求是否出現短期壓力後再擴張。
+
+### 觀點摘要
+
+| 面向 | 內容 |
+|---|---|
+| **交會等級** | L2；Google AI efficiency / memory wall 技術訊號，不是 GOOGL 獨立財報驗證 |
+| **正面訊號** | TurboQuant 壓縮 KV cache 6x+，可降低 inference memory bottleneck 與 cost per token |
+| **短期 read-through** | 記憶體需求可能被市場下修，對 **MU** / HBM / DRAM sentiment 形成壓力 |
+| **長期 read-through** | Jevons paradox：效率提升降低使用成本，可能讓 AI agents / long-context workload 爆量 |
+| **關鍵驗證** | production adoption、Cloud AI margin、cost per token、TPU / GPU utilization、HBM / DRAM demand、long-context usage |
+
+### 催化劑與追蹤數字
+
+| 類型 | 內容 | 日期 / 數字 | 來源 | 備註 |
+|---|---|---|---|---|
+| TurboQuant | KV cache memory 壓縮 6x+、compute overhead 約 +8% | 2026 | KP 文章口徑 | 需追 Google official paper / deployment |
+| Deployment property | 不需 retraining、hardware agnostic | 2026 | KP 文章口徑 | 有利跨 TPU / GPU / cloud stack 推廣 |
+| DeepSeek analogy | DeepSeek V3 / R1 MLA 曾將 KV cache memory 大幅降低，後續部署放大推高 HBM demand | 2025-2026 | KP 文章口徑 | 作 Jevons paradox 對照，不直接等同 Google 成果 |
+
+### 風險表
+
+| 風險 | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|
+| 效率未轉收入 | 中高 | TurboQuant 降低成本，但 Cloud AI revenue / margin 沒改善 | Cloud AI revenue、gross margin、cost per token、customer usage | KP 文章 / 整理者判斷 |
+| 記憶體需求短期被壓縮 | 中高 | KV cache 壓縮造成市場下修 HBM / DRAM 需求預期 | HBM orders、MU / SK Hynix / Samsung guidance、memory pricing | KP 文章 |
+| Jevons paradox 未發生 | 中 | 成本下降未帶來足夠 agent / long-context usage 增量 | token volume、long-context adoption、agent workload、Cloud AI utilization | 整理者判斷 |
+| 技術部署摩擦 | 中 | TurboQuant paper / prototype 難以在 production workload 穩定落地 | production rollout、latency、accuracy、developer adoption | 整理者判斷 |
+
+### 呼應連結
+
+| 既有篇章 | 關係 |
+|---|---|
+| 本檔 KP 2026-02-14 百年債 / Apollo OCS / HBM 分層 | 第29期討論 TPU / OCS / HBM memory hierarchy；第35期補軟體層 memory compression |
+| 本檔 KP 2026-02-28 TPU 外部化 | TurboQuant 若能降低 cost per token，可補強 TPU externalization / Cloud AI margin thesis |
+| `indexes/watchlist_index.md` 的 **MU** | 本篇對 **MU** 是記憶體短期壓力與長期 Jevons demand 的雙向 watchlist 更新，不同步正式 `Stocks/MU/` |
 
 ---
 
