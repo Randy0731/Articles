@@ -15,6 +15,69 @@
 - **相關 ticker / 產業**：
 ```
 
+## Tail Risk 排除 / 組合韌性框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第37期_INTC_Claude_Mythos_Meta_MuseSpark_AMZN.md`
+- **一句話定義**：當毀滅性劇本被排除後，市場底部邏輯可能成立，但仍要保留二次探底與正常波動情境。
+- **適用情境**：戰爭、政策、流動性危機後的市場反彈；relief rally 被誤讀成無風險上漲時。
+- **觀察指標**：tail risk probability、談判意願、VIX、現金比例、槓桿、部位集中度、每個標的的買入邏輯與離場條件。
+- **也出現於**：延伸第36期場景分析 / 反先知框架與第35期風暴前組合體檢 / 防禦部署框架。
+- **相關 ticker / 產業**：全市場；portfolio construction / risk management。
+
+## Musk Terafab / 垂直整合供應安全框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第37期_INTC_Claude_Mythos_Meta_MuseSpark_AMZN.md`
+- **一句話定義**：當 AI 算力成為戰略生命線，需求方不只買晶片，而是向上游滲透到設計、產能規劃與製造控制。
+- **適用情境**：AI empire、robotics、autonomy、hyperscaler / mega-user 自建供應鏈、foundry turnaround。
+- **觀察指標**：fab site / permits、capex funding、Intel process node、yield ramp、tool orders、power procurement、customer take-or-pay terms、2027-2028 volume ramp。
+- **也出現於**：延伸第35期 Terafab 過程確定性 / WFE 收費站框架與第36期 Fab 34 贖回框架。
+- **相關 ticker / 產業**：**INTC**, **TSLA**, **TSM**；semiconductor manufacturing / AI infrastructure / supply security。
+
+## CPU + IPU 平衡系統 / Agentic AI 調度框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第37期_INTC_Claude_Mythos_Meta_MuseSpark_AMZN.md`
+- **一句話定義**：AI cluster 的效率不只取決於 GPU，而取決於 CPU orchestration、IPU offload、networking、storage、安全與 energy TCO 的平衡。
+- **適用情境**：Agentic AI、推理調度、hyperscaler infrastructure、server CPU share、smart NIC / IPU / DPU。
+- **觀察指標**：Xeon / EPYC / Arm share、CPU:GPU ratio、CPU attach rate、IPU adoption、CPU offload percentage、inference latency、TCO、DCAI revenue、Google Cloud capex / margin。
+- **也出現於**：延伸第35期 Agentic AI CPU 復權 / Arm 戰國框架、第30期全棧綁定 / 算力主權換時間框架。
+- **相關 ticker / 產業**：**INTC**, **GOOG**, **GOOGL**, **AMD**, **ARM**, **NVDA**, **AMZN**, **MSFT**；server CPU / AI infrastructure。
+
+## MA 政策水龍頭 / 監管槓桿框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第37期_INTC_Claude_Mythos_Meta_MuseSpark_AMZN.md`
+- **一句話定義**：高度依賴政府支付的行業，估值不只看營運效率，也看公司管理支付規則、風險模型與政治壓力的能力。
+- **適用情境**：Medicare Advantage、managed care、health insurance reimbursement、政策初稿到最終稿大幅轉向。
+- **觀察指標**：MA final rate、risk adjustment model、coding audit、MLR、membership retention、benefit cuts、premium changes、lobbying / litigation。
+- **也出現於**：呼應第27期醫保套利終結 / 政策水龍頭框架。
+- **相關 ticker / 產業**：**UNH**, **HUM**；managed care / Medicare Advantage。
+
+## AI 矛盾 / Project Glasswing 即時防禦框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第37期_INTC_Claude_Mythos_Meta_MuseSpark_AMZN.md`
+- **一句話定義**：前沿 AI 同時是漏洞挖掘的矛與即時修補的盾；勝負取決於防禦者能否先拿到模型、資料和部署權限。
+- **適用情境**：cybersecurity、open-source infrastructure、critical software、AI code agents、zero-day discovery。
+- **觀察指標**：AI-discovered CVEs、patch velocity、CRWD / PANW AI security ARR、open-source funding、cloud security products、enterprise adoption、model access governance。
+- **也出現於**：延伸第32期 AI 攻擊面擴張 / 資安數據護城河框架與第30期 AI 原生資安平台化框架。
+- **相關 ticker / 產業**：**CRWD**, **PANW**, **GOOG**, **GOOGL**, **MSFT**, **AMZN**, **AAPL**, **NVDA**, **AVGO**, **CSCO**, **JPM**；cybersecurity / AI safety。
+
+## 閉源個人化 / 社交商業大腦框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第37期_INTC_Claude_Mythos_Meta_MuseSpark_AMZN.md`
+- **一句話定義**：社交平台的 AI 模型不必成為最強通用大腦，只要能以低成本深度嵌入用戶資料、廣告、推薦與創作者工作流，就能強化核心商業引擎。
+- **適用情境**：social AI、ads automation、recommendation systems、creator tools、closed-source model strategy。
+- **觀察指標**：ad CTR / ROAS、engagement minutes、AI content creation、model cost per interaction、external model spend avoided、Reality Labs / smart glasses AI usage、capex / depreciation。
+- **也出現於**：呼應第20期 Meta Avocado / 開源商品化反噬、第33期 AI Agent 身分 / 通訊層框架。
+- **相關 ticker / 產業**：**META**；social platforms / digital ads / consumer AI。
+
+## AWS AI Capex 預售 / 自研晶片外販期權框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第37期_INTC_Claude_Mythos_Meta_MuseSpark_AMZN.md`
+- **一句話定義**：超大 capex 若已有 AI services revenue、custom silicon demand、長約與外售晶片 optionality 支撐，就更像產能預售而非盲目擴張。
+- **適用情境**：AWS capex cycle、custom silicon、Trainium / Graviton、AI cloud contracts、hyperscaler external chip monetization。
+- **觀察指標**：AWS AI revenue、Trainium / Graviton revenue、RPO / backlog conversion、OpenAI contract economics、rack sales、AWS operating margin、capex / depreciation / FCF。
+- **也出現於**：延伸第28期 AWS 建設模式 / backlog 收據框架、第31期 Stateful Runtime / 企業 AI 作業系統框架與第35期 Bedrock 造代理工廠框架。
+- **相關 ticker / 產業**：**AMZN**, **NVDA**, **GOOG**, **GOOGL**, **AVGO**；cloud infrastructure / custom silicon。
+
 ## 場景分析 / 反先知框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第36期_NVDA_MRVL_GOOGL_INTC_NKE_Buffett.md`
