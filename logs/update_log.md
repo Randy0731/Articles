@@ -2,6 +2,10 @@
 
 ## 2026-04-29
 
+- 入庫 `大叔美股筆記-20260428-uae-opec-exit-hormuz-fujairah-5b3b5274`：整理大叔美股筆記 Substack Note《UAE 正式退出 OPEC：Fujairah 繞道與 Hormuz 籌碼重估》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。Substack Note 文字可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」；並以 AP News 與 EIA Hormuz chokepoint 文章交叉核對。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。本文判定為宏觀能源 / 地緣政治 L0，原文沒有 ticker、公司、ETF 或買賣操作，因此不更新 `Stocks/` 或 `indexes/ticker_index.md`。
+- 備註：AP 校準 UAE 退出 OPEC / OPEC+ 於 2026-05-01 生效；EIA 校準 Hormuz 2024 油流約 `20M b/d` 與 UAE Fujairah pipeline 約 `1.8M b/d`。大叔稱增產約 200 萬桶記為 KOL framing / read-through，不寫成已實現增產；Fujairah 繞道不可誤寫為 UAE 完全免疫 Hormuz 風險。本文不是買賣建議。
+
 - 入庫 `大叔美股筆記-20260428-ondas-sbi-securities-13f-increase-bf7231cc`：整理大叔美股筆記 Substack Note《**ONDS** SBI Securities 2026Q1 13F：持股增至 191,542 股》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。Substack Note 文字可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」；並以 SBI Securities 2026Q1 / 2025Q4 SEC 13F-HR information table 交叉核對。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q2.md`，將本篇判定為 **ONDS** L2 manager-level institutional ownership / holder-base 訊號；SEC 2026Q1 13F 顯示 **ONDS** `191,542` 股，較 2025Q4 `118,636` 股增加 `72,906` 股 / +61.45%。
 - 更新：同步更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`。
