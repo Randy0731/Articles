@@ -1,11 +1,11 @@
 # INTC 投資儀表板
 
-> 最後更新：2026-04-29（觸發來源：`Stocks/INTC/quarterly/INTC_筆記_2026Q2.md`；補入 KP / FOMOSoc 2026-04-25 Q1 beat / 18A / 14A / Tesla TeraFab / advanced packaging L3；不改變「正面補強仍需外部客戶與毛利驗證」的立場）
+> 最後更新：2026-04-29（觸發來源：`Stocks/INTC/quarterly/INTC_筆記_2026Q2.md`；補入大叔 2026-04-28 玻璃基板更正 L2；將 glass substrate 從「已兌現」改為 18A 待驗證，不改變「CPU 復權 / Foundry 正面補強仍需外部客戶與毛利驗證」的立場）
 
 ## 當前立場快照
 
 - **綜合立場**：大叔觀點為隱含偏多 / 轉型重估，但估值與執行風險高，不能把財報 beat 直接等同追價理由。
-- **KOL 最新立場**：大叔 2026-04-24 長文認為 **INTC** 2026Q1 是 Lip-Bu Tan「執行之年」的第一個財務驗證；同日短 Note 又轉貼 CPU shortage / CPU supercycle 論點，稱 Agentic AI 讓 CPU 活過來。這強化 DCAI / CPU 復權 thesis，但未新增價位或操作，`$70` 附近嚴禁追價的紀律仍以長文為準。
+- **KOL 最新立場**：大叔 2026-04-28 更正 Intel 目前仍是有機基板，尚未踏入玻璃基板；玻璃基板預計要到 18A 製程。這是技術時點校準，不推翻 2026-04-24 長文的 CPU 復權 / Foundry / 先進封裝框架，但要求把 glass substrate 從「已量產兌現」改回「18A 待驗證」。
 - **本次補入的 Bytc 訊號**：Bytc 2026-04-25 宏觀週報稱 Intel 財報遠超預期、舊 CPU 庫存賣光，並把 Lip-Bu Tan 關於 AI infrastructure CPU / GPU pairing 的說法寫成 CPU 復權增量：CPU:GPU 可能從 1:8 走向 1:4，未來甚至接近 1:1。這補強 DCAI / Xeon demand thesis，但仍需用 DCAI revenue、server CPU backlog、gross margin 與 EPS 驗證。
 - **本次補入的 KP 2026-04-25 財報 / 製程訊號**：KP 第39期將 Intel Q1 beat、DCAI 年增 `22%`、18A yield ahead 3-6 months、14A PDK / High-NA / RibbonFET / PowerDirect、Tesla TeraFab 與 advanced packaging revenue optionality 合在一起，解讀為 Intel 敘事從「能不能做」升級為「什麼時候做到」。但 Foundry external customer revenue 只有 `$174M`、operating loss 約 `$2.4B`，代表外部客戶、毛利與封裝收入仍是硬驗證。
 - **上一筆 Bytc 補強訊號**：Bytc 2026-04-05 宏觀週報將 Intel 以 142 億美元買回 Fab 34 49% 股權解讀為 IDM 2.0 收網期與全球算力基建沒有停止；這補強 foundry / 製造控制權 thesis，但仍需用外部客戶、utilization、毛利與 FCF 驗證。
@@ -57,6 +57,7 @@
 
 | 問題 | 提出時間 | 等待事件 / 數據 | 出處篇章 | 狀態 |
 |---|---|---|---|---|
+| 玻璃基板是否真的到 18A 才導入，且能否轉成商業封裝優勢？ | 2026-04-28 | Intel official 18A package / material disclosure、glass substrate / glass core 商用導入、客戶產品規格、Foundry gross margin、external design wins | `KOL/大叔美股筆記/notes/大叔美股筆記.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q2.md` | L2 / 待 18A 路線驗證 |
 | KP 所說 Intel 敘事從「能不能做」升級為「什麼時候做到」是否能被後續季度驗證？ | 2026-04-25 | DCAI revenue、Q2 / Q3 guide、18A yield / cost、gross margin、EPS revision、FCF | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q2.md` | L3 / 待後續財報驗證 |
 | 14A / Tesla TeraFab 是否能從外部背書轉成正式 foundry revenue？ | 2026-04-25 | 14A PDK 1.0、risk production、Tesla / Intel disclosure、tool orders、external customer revenue、Foundry gross margin | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q2.md` | L3 / 待 2027-2029 roadmap 驗證 |
 | Q2 指引是否兌現，還是 Q1 只是一次性 beat？ | 2026-04-24 | Q2 營收 `$13.8B` 至 `$14.8B`、EPS `$0.20`、毛利率 `39.0%` | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md` | 待追蹤 |
@@ -91,6 +92,7 @@
 
 | 風險 | 追蹤強度 | 觸發條件 | 觀察指標 | 出處篇章 |
 |---|---|---|---|---|
+| 玻璃基板時點被過早寫成已量產 | 中高 | 第三方 Clearwater Forest / glass-core headline 被市場寫成 Intel 已正式商用玻璃基板，但大叔更正目前仍是有機基板 | Intel official roadmap、18A product / package disclosure、客戶規格、供應鏈驗證、Foundry gross margin | `KOL/大叔美股筆記/notes/大叔美股筆記.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q2.md` |
 | 外部 foundry 客戶不足 | 高 | Foundry 成長主要來自內部需求，外部大客戶未落地 | 外部客戶比例、18A design win、先進封裝訂單 | `KOL/大叔美股筆記/articles/20260424_intc_2026_q1_uncle.md` |
 | Foundry 虧損與低外部 revenue 抵銷製程進展 | 高 | 18A / 14A 工程進展被市場提前定價，但 Foundry external customer revenue 和 gross margin 沒有同步改善 | external customer revenue、Foundry operating loss、gross margin、design wins、backlog | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md` |
 | 14A / Tesla TeraFab 訊號被過度外推 | 高 | 市場把 Musk / Tesla TeraFab 與 14A PDK 進度寫成大客戶量產勝利，但正式合約、site、tool order、volume ramp 尚未驗證 | Tesla / Intel disclosure、14A PDK 1.0、risk production、tool order、Foundry revenue | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md`；整理者判斷 |
@@ -123,6 +125,7 @@
 
 | 篇章 | 日期 | 一句話結論 | 權重 |
 |---|---|---|---|
+| `KOL/大叔美股筆記/notes/大叔美股筆記.md` | 2026-04-28 | 大叔更正 Intel 目前仍是有機基板，玻璃基板預計要到 18A；這把 glass substrate headline 從已兌現改回待驗證，屬先進封裝時點校準 | 中 |
 | `Stocks/INTC/quarterly/INTC_筆記_2026Q2.md` | 2026-04-25 | KP 第39期將 Intel Q1 beat、DCAI +22%、18A ahead、14A / Tesla TeraFab 與 advanced packaging 寫成轉機股執行階梯上移；但 Foundry external revenue `$174M` 與 loss `$2.4B` 仍是主要驗證門檻 | 高 |
 | `KOL/Bytc/articles/20260425_macro_data_weekly_20260423.md` | 2026-04-25 | Bytc 稱 Intel 財報遠超預期、舊 CPU 庫存賣光，AI Agent 推理時代可能使 CPU:GPU 配比從 1:8 走向 1:4 / 1:1；這補強 CPU 復權 thesis，但 EPS `$1-$1.2` 屬 KOL 推估，需後續財報驗證 | 中 |
 | `KOL/大叔美股筆記/notes/大叔美股筆記.md` | 2026-04-24 | 大叔轉貼 CPU shortage / CPU supercycle 論點，明確說 Agentic AI 讓 CPU thesis 活過來，補強 **INTC** DCAI / CPU 復權框架；未新增價位或操作 | 中 |

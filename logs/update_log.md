@@ -2,6 +2,11 @@
 
 ## 2026-04-29
 
+- 入庫 `大叔美股筆記-20260428-intel-glass-substrate-correction-1f53ca95`：整理大叔美股筆記 Substack Note《**INTC** 玻璃基板更正：目前仍是有機基板，18A 才可能踏入玻璃》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。Substack Note 文字可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」。
+- 更新：同步追加 `Stocks/INTC/quarterly/INTC_筆記_2026Q2.md`，將本篇判定為 **INTC** L2 技術時點校準；重點為大叔更正 Intel 目前仍是有機基板，尚未踏入玻璃基板，玻璃基板預計要到 18A，避免把第三方 Clearwater Forest / glass-core headline 寫成已兌現 milestone。
+- 更新：同步更新 `Stocks/INTC/INTC_index.md`、`Stocks/INTC/INTC_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`。
+- 備註：本篇沒有價位、目標價或操作；不是買賣建議。參考連結只作被更正的原始敘事來源，不作 Intel 已量產玻璃基板的確認證據。
+
 - 入庫 `KP_FOMOSoc-20260425-kp-thinking-note-39-asml-high-na-asts-tpu8-intel-servicenow-jpm-private-credit-6995e281`：整理 KP / FOMOSoc Substack 公開週報《台積電不買ASML新機？Intel皇者歸來？- KP思考筆記(第39期)》，建立 `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md`。整理時以 Jina Reader public Markdown / canonical URL `https://www.fomosoc.com/p/asmlintel-kp39` 入庫；正文開頭列出 TSMC / ASML High-NA、ASTS、Google TPU 8、Intel、ServiceNow、JPM private credit 六個主題，六個主題均完整展開，結尾有宣傳段落與 KP 署名，未偵測截斷。
 - 更新：同步更新 `KOL/KP_FOMOSoc/notes/KP筆記.md`、`KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`、source/ticker/theme/framework/catalyst/watchlist indexes，並補入 `Stocks/INTC/quarterly/INTC_筆記_2026Q2.md`、`Stocks/INTC/INTC_index.md`、`Stocks/INTC/INTC_儀表板.md`、`Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md`、`Stocks/GOOGL/GOOGL_index.md` 與 `Stocks/GOOGL/GOOGL_儀表板.md`。本文新增「長線樂觀 / 正確標的研究框架」、「High-NA 延後 / 成本有效摩爾定律框架」、「監管執照 > 單次發射 / 太空執行風險重分類框架」、「TPU 系統定義者 / 記憶體牆供應鏈控制框架」、「CPU 現金牛 + Foundry 選擇權 / 轉機股執行階梯框架」、「SaaS AI 證明題 / 數據與敘事落差框架」與「銀行回歸私募信貸 / Origination Advantage 框架」；**INTC** 與 **GOOG**/**GOOGL** 判定已追蹤個股 L3 並同步，**ASML**, **TSM**, **ASTS**, **NOW**, **JPM** 更新 watchlist / ticker / catalyst 脈絡。本文不是買賣建議。
 

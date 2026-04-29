@@ -6,6 +6,7 @@
 
 | 主題 tag | 日期 | KOL / 來源 | 標題 | 核心觀點 | 相關 ticker | 框架 / 催化劑 | 筆記檔 |
 |---|---|---|---|---|---|---|---|
+| #先進封裝 | 2026-04-28 | 大叔美股筆記 | **INTC** 玻璃基板更正：目前仍是有機基板，18A 才可能踏入玻璃 | 大叔更正參考連結中的 Intel glass-core 敘事：Intel 目前尚未踏入玻璃基板，仍是有機基板；玻璃基板時點應移到 18A 待驗證 | **INTC** | 玻璃基板時點校準 / 18A 驗證；需追 Intel official roadmap、材料 / 封裝 disclosure、external customers 與 foundry margin | `KOL/大叔美股筆記/notes/大叔美股筆記.md`；`Stocks/INTC/quarterly/INTC_筆記_2026Q2.md` |
 | #投資與投機 | 2026-04-25 | KP / FOMOSoc | 18 連漲後仍回到正確標的 | KP 認為停戰後市場反彈速度不可預測，糾結短線高點是捨本逐末；長期核心仍是選對底層資產與深化產業研究 | 全市場 | 長線樂觀 / 正確標的研究框架；thesis clarity / position sizing check | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md` |
 | #半導體設備 | 2026-04-25 | KP / FOMOSoc | TSMC 不買 High-NA：摩爾定律轉向成本有效 | KP 認為台積電不在 A16 / A14 / A13 量產使用 High-NA，代表 leading-edge 製程競爭從最酷工具轉向良率、ROIC、低成本夠用電晶體；ASML High-NA growth slope 需重估 | **ASML**, **TSM**, **INTC**, **005930.KS** | High-NA 延後 / 成本有效摩爾定律框架；ASML High-NA adoption / Intel 14A check | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md`；`indexes/watchlist_index.md` |
 | #太空通訊 | 2026-04-25 | KP / FOMOSoc | ASTS：一顆衛星失敗小於 FCC 商業執照 | KP 認為 BlueBird 7 損失因保險、生產線和發射備援而影響有限；FCC SCS commercial license 才是讓 ASTS 從 demo 走向正式商業化的關鍵 | **ASTS**, **T**, **VZ** | 監管執照 > 單次發射 / 太空執行風險重分類框架；45 satellites / revenue check | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md`；`indexes/watchlist_index.md` |
