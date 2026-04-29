@@ -1,5 +1,5 @@
 version: 1
-updated: "2026-04-28"
+updated: "2026-04-29"
 language: "zh-Hant"
 
 global:
@@ -419,6 +419,38 @@ stock_projects:
       - "#ReRating"
       - "#估值風險"
       - "#執行風險"
+      - "#政策風險"
+      - "#供應鏈風險"
+
+  GLW:
+    aliases:
+      - "GLW"
+      - "Corning"
+      - "Corning Incorporated"
+      - "康寧"
+    root: "Stocks/GLW"
+    raw_dir: "Stocks/GLW/raw"
+    notes_dir: "Stocks/GLW/notes"
+    quarterly_dir: "Stocks/GLW/quarterly"
+    milestones_dir: "Stocks/GLW/milestones"
+    longform_dir: "Stocks/GLW/longform"
+    dashboard: "Stocks/GLW/GLW_儀表板.md"
+    stock_index: "Stocks/GLW/GLW_index.md"
+    current_quarter_file_pattern: "GLW_筆記_YYYYQN.md"
+    milestone_file_pattern: "GLW_里程碑_[文章標題].md"
+    longform_file_pattern: "GLW_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    theme_tags:
+      - "#財報"
+      - "#AI基建"
+      - "#先進封裝"
+      - "#能源電力"
+      - "#產品節點"
+      - "#ReRating"
+      - "#估值風險"
+      - "#執行風險"
+      - "#競爭風險"
       - "#政策風險"
       - "#供應鏈風險"
 
