@@ -1,0 +1,74 @@
+# GOOGL 筆記 2026Q2
+
+此檔用於收錄 2026Q2 的一般 **GOOGL** / **GOOG** 筆記。里程碑事件放 `Stocks/GOOGL/milestones/`，長文深度分析放 `Stocks/GOOGL/longform/`。
+
+## 文章索引（按發文時間倒序）
+
+| 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
+|---|---|---|---|---|---|---|
+| 2026-04-04 03:10 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：平台設計責任、Google Quantum AI 與 crypto PQC 倒數 | KP_FOMOSoc-20260404-kp-thinking-note-36-nvidia-marvell-google-quantum-intel-nike-buffett-11812b9b | **GOOG**, **GOOGL**, **META**, **BTC**, **ETH**, **SOL**, **IBM**, **IONQ** | #監管審批 #政策風險 #量子運算 #加密貨幣 #競爭風險 #執行風險 #估值風險 | L2；平台設計責任 / Section 230 繞道與 Google Quantum AI / PQC 遷移 read-through |
+
+---
+
+## KP / FOMOSoc 對 **GOOGL** 的觀點摘要：平台設計責任、Google Quantum AI 與 crypto PQC 倒數
+
+- **來源 KOL**：KP / FOMOSoc
+- **原文主整理**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第36期_NVDA_MRVL_GOOGL_INTC_NKE_Buffett.md`
+- **原始來源**：https://www.fomosoc.com/p/nvidiamarvellgoogleintel-kp36
+- **source_id**：KP_FOMOSoc-20260404-kp-thinking-note-36-nvidia-marvell-google-quantum-intel-nike-buffett-11812b9b
+- **raw 路徑 / URL**：URL（未另存 raw；Jina Reader Markdown 完整可讀）
+- **OCR 狀態**：不適用
+- **類型**：Substack 公開電子報 / KP 思考筆記 / 週報
+- **發文時間**：2026-04-04 03:10 UTC（台北 11:10）
+- **整理日期**：2026-04-29
+- **交會等級**：L2
+- **事件類型**：平台責任 / 監管訴訟 / 量子運算 / 加密貨幣安全
+- **主題 / 母題標籤**：#監管審批 #政策風險 #量子運算 #加密貨幣 #競爭風險 #執行風險 #估值風險
+
+### 對 **GOOGL** 的影響
+
+這篇對 **GOOGL** 有兩個 L2 增量。第一，KP 將洛杉磯成癮式設計判決視為平台責任風險的新路徑：原告繞過 Section 230，不告使用者內容，而告 infinite scroll、autoplay、algorithmic recommendation、notification 等平台設計。短期仍像法律成本，但若 12-24 個月內後續案件迫使 YouTube / Google 等平台調整 engagement engine，才會成為廣告 monetization 風險。
+
+第二，Google Quantum AI 白皮書把 ECDSA quantum attack 的資源估計下修約 20 倍，KP 將其寫成 crypto PQC 遷移倒數。這不是 **GOOGL** 當前 revenue thesis，而是 deep-tech optionality / security roadmap / crypto ecosystem read-through：Google 仍是量子路線圖的重要技術節點，但商業化和可投資含義要等 logical qubits、PQC adoption 與 quantum cloud / security product 化驗證。
+
+### 觀點摘要
+
+| 面向 | 內容 |
+|---|---|
+| **立場** | L2 風險與選擇權補強；不改變目前 Search / Cloud / AI infra 主 thesis |
+| **平台責任** | KP 認為 600 萬美元判賠本身不重要，重點是 product design liability 可能繞過 Section 230 |
+| **量子運算** | Google Quantum AI 與 Ethereum Foundation / Stanford 共同白皮書，KP 記錄 ECDSA 量子破解資源估計降至約 50 萬 physical qubits |
+| **關鍵時間窗** | 平台訴訟追 12-24 個月；PQC 遷移追 2029-2032 |
+| **催化劑 / 風險** | 訴訟是否要求改變 recommendation / infinite scroll；量子路線圖是否轉成 security / cloud 商業化；crypto governance 是否能完成 PQC migration |
+
+### 關鍵證據
+
+| 證據 | 解讀 |
+|---|---|
+| 洛杉磯陪審團判賠 600 萬美元，並接受產品設計疏忽論點 | 金額小，法律路徑重要：平台責任從內容免責轉向產品設計責任 |
+| KP 提到無限滾動、自動播放、演算法推薦和通知提醒 | 這些功能直接連到 engagement time / ad impressions / ad revenue |
+| Google Quantum AI 白皮書將 ECDSA 所需 physical qubits 估計下修約 20 倍至約 50 萬 | 量子威脅時間表從「十年後」變成「數年尺度」的治理問題 |
+| Google Willow 105 qubits、IBM Heron 133-156 qubits | KP 同時校準：離 50 萬 physical qubits 仍有數千倍差距，不是今日破解 |
+| Google 將內部 PQC 遷移 deadline 提前到 2029 | 對 Alphabet 是 security / infra hygiene 訊號，也提示 crypto / custody ecosystem 的遷移時鐘 |
+
+### 風險表
+
+| 風險 | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|
+| 平台設計責任擴散 | 中高 | 類似案件勝訴或和解要求平台改變 recommendation / infinite scroll / autoplay | youth-safety lawsuits、settlement language、YouTube engagement、ad impressions、product redesign | KP 第36期 |
+| 廣告 engagement engine 被削弱 | 中高 | 監管或法院要求限制未成年人推薦、自動播放或通知 | YouTube watch time、ad load、ad revenue growth、retention | KP 第36期；整理者延伸 |
+| 量子路線圖被過度短線化 | 中 | 市場把 Google 白皮書誤讀為 crypto 今日可被破解或 GOOGL 立即變現 | physical / logical qubits、error correction、quantum cloud revenue、security product disclosure | KP 第36期 |
+| PQC governance delay | 中 | Bitcoin / crypto ecosystem 無法在 2029-2032 前完成安全遷移 | Ethereum / Solana upgrades、Bitcoin BIP、custody migration, dormant coins exposure | KP 第36期 |
+
+### 後續追蹤
+
+| 時間 / 頻率 | 事件 | 追蹤重點 |
+|---|---|---|
+| 12-24 個月 | 平台成癮式設計訴訟 | 上訴、class action、settlement、未成年人產品限制、YouTube engagement impact |
+| 每季 / 每次產品更新 | YouTube / Google youth safety product changes | family controls、autoplay / recommendation defaults、watch time / ad impressions |
+| 2029 前 | Google PQC internal migration | Google security blog / cloud security disclosure、PQC standards adoption |
+| 2029-2032 | Crypto PQC migration | Ethereum Foundation roadmap、Solana Winternitz vault、Bitcoin BIP / wallet migration、custody policy |
+
+### 呼應連結
+
+> 呼應 `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q3.md` 的 Google antitrust / Chrome / Ad Tech 監管風險，也呼應 `Stocks/GOOGL/quarterly/GOOGL_筆記_2025Q4.md` 的 Quantum Echoes / Willow deep-tech optionality；本篇新增的是 platform design liability 與 PQC governance clock，不改寫 Search / Cloud / capex 主 thesis。

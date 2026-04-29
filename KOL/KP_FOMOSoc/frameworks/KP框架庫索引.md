@@ -15,6 +15,78 @@
 - **相關 ticker / 產業**：
 ```
 
+## 場景分析 / 反先知框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第36期_NVDA_MRVL_GOOGL_INTC_NKE_Buffett.md`
+- **一句話定義**：不追求精準預測拐點，而是基於資料、商業邏輯與風險條件建立可調整的情境樹。
+- **適用情境**：戰爭 / 政策 / 財報 / 流動性造成的高波動市場；KOL 或社群大量宣稱精準抄底 / 清倉時。
+- **觀察指標**：推論鏈、錯誤條件、部位大小、現金 / 槓桿 / 集中度、drawdown tolerance、thesis clarity。
+- **也出現於**：延伸第35期風暴前組合體檢 / 防禦部署框架與第32期反脆弱組合 / 多護城河框架。
+- **相關 ticker / 產業**：全市場；portfolio construction / risk management。
+
+## 平台設計責任 / Section 230 繞道框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第36期_NVDA_MRVL_GOOGL_INTC_NKE_Buffett.md`
+- **一句話定義**：平台風險從使用者內容責任轉成產品設計責任，監管和訴訟可直接攻擊 engagement engine。
+- **適用情境**：social media、short video、YouTube / Reels / TikTok、未成年人保護、平台產品責任訴訟。
+- **觀察指標**：class action 數量、上訴判決、settlement language、minor safety controls、engagement minutes、ad impressions、product redesign。
+- **也出現於**：呼應第6期 Google Ad Tech 垂直整合 / 平台稅壟斷框架與第4期 Chrome / AI browser distribution moat。
+- **相關 ticker / 產業**：**META**, **GOOG**, **GOOGL**；digital ads / social platforms / platform regulation。
+
+## 全球模板 vs 本土化手術框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第36期_NVDA_MRVL_GOOGL_INTC_NKE_Buffett.md`
+- **一句話定義**：全球品牌的通用 turnaround playbook 只能修復渠道與庫存，若當地消費文化 / 供應鏈 / 價格帶改變，必須重新做本土化產品與品牌語言。
+- **適用情境**：global consumer brands、China / emerging market turnaround、品牌老化、local champions 擠壓。
+- **觀察指標**：regional revenue、local product mix、inventory、wholesale recovery、brand heat、local competitor share、gross margin / tariff drag。
+- **也出現於**：延伸第23期內部人集群買入 / 轉型中局框架與第10期通路修復 / 品牌自我修正框架。
+- **相關 ticker / 產業**：**NKE**, **ADDYY**, **ANPDY**, **2331.HK**；consumer brands / athletic apparel。
+
+## NVLink Fusion / 開放式收編框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第36期_NVDA_MRVL_GOOGL_INTC_NKE_Buffett.md`
+- **一句話定義**：平台 leader 表面開放第三方晶片進入，實際上用互連、授權與軟體 stack 把 heterogenous compute 收進自家控制層。
+- **適用情境**：AI rack architecture、custom ASIC、GPU vs XPU、hyperscaler self-build、interconnect standards。
+- **觀察指標**：NVLink Fusion design wins、third-party XPU attach、Nvidia component attach、CUDA / NCCL usage、UALink competitive response、hyperscaler custom ASIC adoption。
+- **也出現於**：延伸第24期系統級協同設計 / AI Factory 機櫃平台框架、第34期 Full-stack ownership / 公司晶片組織框架。
+- **相關 ticker / 產業**：**NVDA**, **MRVL**, **AVGO**, **AMZN**, **MSFT**, **GOOG**, **GOOGL**, **META**, **QCOM**；AI accelerators / custom ASIC / networking。
+
+## 矽光子垂直整合 / 光學供應鏈收編框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第36期_NVDA_MRVL_GOOGL_INTC_NKE_Buffett.md`
+- **一句話定義**：AI cluster 放大後，互連功耗、距離與頻寬密度成為瓶頸，leader 會投資 optical components、DSP、silicon photonics 和 custom silicon 來控制下一代 data center fabric。
+- **適用情境**：1.6T / 3.2T optics、CPO、silicon photonics、NVLink / Ethernet scale-up networking、AI-RAN。
+- **觀察指標**：optical DSP revenue、1.6T+ design wins、Rubin reference design、CPO timing、**LITE** / **COHR** / **MRVL** qualification、component margin。
+- **也出現於**：呼應第34期 OCI 光互連標準化 / 矽晶中心框架、第32期銅線過渡期 / 跨介質可靠性平台框架與第29期 OCS 光學神經系統 / HBM 分層框架。
+- **相關 ticker / 產業**：**MRVL**, **NVDA**, **LITE**, **COHR**, **AVGO**, **CRDO**；optical interconnect / silicon photonics / AI networking。
+
+## Fab 34 贖回 / 從斷臂求生到利潤收回框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第36期_NVDA_MRVL_GOOGL_INTC_NKE_Buffett.md`
+- **一句話定義**：公司在資金壓力高點出售核心資產求生，若後續願意溢價買回，代表管理層認為該資產進入收割期且內部資金狀況足以承擔控制權。
+- **適用情境**：semiconductor fabs、sale-leaseback / joint venture unwind、capital-intensive turnaround。
+- **觀察指標**：Fab utilization、Intel 3 / Intel 4 margin、DCAI / CCG demand、EPS accretion、new debt cost、FCF、Foundry external customers。
+- **也出現於**：呼應第26期 Hand-to-Mouth 製造 / 產能真空框架、第24期 18A 止血 / 外部客戶驗證框架。
+- **相關 ticker / 產業**：**INTC**, **APO**；semiconductor manufacturing / capital allocation。
+
+## Quantum Countdown / PQC 治理遷移框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第36期_NVDA_MRVL_GOOGL_INTC_NKE_Buffett.md`
+- **一句話定義**：量子威脅的投資含義不在今天被破解，而在可預期時間窗內，誰能完成 cryptographic migration、governance consensus 與使用者遷移。
+- **適用情境**：Bitcoin / Ethereum / Solana、PQC migration、quantum security、digital asset custody。
+- **觀察指標**：logical qubits roadmap、error correction progress、PQC standards adoption、Ethereum / Solana upgrades、Bitcoin BIP progress、exchange / custody migration policy、dormant coins exposure。
+- **也出現於**：呼應第13期可驗證量子 / 路線圖驗證框架與 Bytc 量子 / ECDSA 風險文章。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **BTC**, **ETH**, **SOL**, **IBM**, **IONQ**；quantum computing / crypto security。
+
+## 大教堂 vs 賭場 / 自我認知定力框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第36期_NVDA_MRVL_GOOGL_INTC_NKE_Buffett.md`
+- **一句話定義**：長期投資的優勢不是預測短線，而是能分辨財富創造引擎與交易誘惑，並選擇符合自身資源和心理條件的策略。
+- **適用情境**：market drawdown、value investing、portfolio turnover、brokerage gamification、FOMO / regret management。
+- **觀察指標**：turnover、cost basis、holding period、business quality、cashflow cushion、drawdown tolerance、margin of safety、strategy fit。
+- **也出現於**：延伸第32期後巴菲特 / 抗風險系統框架、第23期創辦人溢價交棒 / 現金部署壓力框架。
+- **相關 ticker / 產業**：**BRK.A**, **BRK.B**, **AAPL**；long-term investing / brokerage behavior / value investing。
+
 ## 風暴前組合體檢 / 防禦部署框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第35期_AMZN_Bedrock_ARM_Terafab_TurboQuant_OpenAI_Sora_CLARITY.md`
