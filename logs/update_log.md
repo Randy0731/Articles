@@ -2,6 +2,10 @@
 
 ## 2026-04-29
 
+- 入庫 `Bytc-20260428-uae-opec-exit-new-energy-critical-materials-dad8e8a8`：整理 Bytc Substack Note《UAE 退出 OPEC：傳統產油國分裂與新能源關鍵材料時代》，追加至 `KOL/Bytc/notes/bytc筆記.md`。Substack HTML / JSON-LD 文字完整可讀，未偵測截斷；附件圖為新聞標題截圖，已人工檢視但未另存 raw；OCR 狀態標「不適用」；並以 AP News 與 IEA Hormuz 資料交叉校準。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。本文判定為宏觀能源 / 地緣政治 L0，原文沒有 ticker、公司、ETF 或買賣操作，因此不更新 `Stocks/`、`indexes/ticker_index.md` 或 watchlist。
+- 備註：AP 校準 UAE 退出 OPEC / OPEC+ 於 2026-05-01 生效；IEA 校準 Hormuz 2025 約 `20 mb/d` crude oil and oil products 通過、替代路線約 `3.5-5.5 mb/d`、UAE ADCOP current capacity 接近 `1.8 mb/d` 且額外繞道空間有限。Bytc 的增量 framing 是遭伊朗攻擊後的安全 / 外資信心壓力、OPEC 產油國集團分裂，以及新能源 / 關鍵材料時代切換；不寫成短期無限制增產，也不寫成買賣建議。
+
 - 入庫 `大叔美股筆記-20260429-corning-glw-2026-q1-ai-optical-2eb7af1a`：整理大叔美股筆記 Substack 文章《Corning **GLW** 2026 第一季財報分享》，建立 `KOL/大叔美股筆記/articles/20260429_corning_glw_2026_q1_ai_optical_uncle.md`。Substack 公開 HTML 完整可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」；並以 Corning 2026Q1 official PR、earnings presentation 與 financials 交叉校準。
 - 更新：正式建立 `Stocks/GLW/` 專案，新增 `Stocks/GLW/quarterly/GLW_筆記_2026Q2.md`、`Stocks/GLW/GLW_index.md`、`Stocks/GLW/GLW_儀表板.md`，並更新 `kol_config.yaml`、`Stocks/README.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md` 與 `indexes/catalyst_index.md`。本文新增「AI 光學神經網路 / Photonics MAP re-rating 框架」與「Hyperscaler 風險分擔 CapEx / 長約鎖產能框架」。
 - 備註：**GLW** 判定單股 L3，核心證據為 Corning Q1 core sales `$4.35B`、core EPS `$0.70`、Optical Communications sales `$1.846B` / net income `$387M`、two additional hyperscaler agreements 與 Q2 guide `$4.6B` / `$0.73-$0.77`。大叔推測的新增 hyperscaler 客戶名稱、約 `$20B` 合約總量與 DCF `$125-$135` / `$145-$158` / `$180+` 均記為 KOL 推論 / 情境估值，不寫成本專案建議。歷史回查 `rg "GLW|Corning|康寧"` 未發現已入庫 GLW / Corning 單股資料，僅有其他「glass」材料背景，故無舊文補入 `Stocks/GLW/`。
