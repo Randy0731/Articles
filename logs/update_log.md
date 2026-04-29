@@ -2,6 +2,10 @@
 
 ## 2026-04-29
 
+- 入庫 `KP_FOMOSoc-20260428-marvell-broadcom-alternative-poet-polariton-ai-network-9824c3d8`：整理 KP / FOMOSoc Substack Note《Marvell 不再只是 Broadcom alternative：POET / Polariton / Google / Nvidia 線索》，追加至 `KOL/KP_FOMOSoc/notes/KP筆記.md`。Substack Note 文字可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」；並以 Marvell 2026-04-22 Polariton official PR、POET 2026-04-27 purchase-order update 與 Reuters / The Information Google-Marvell report mirror 交叉校準。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md`、`indexes/watchlist_index.md` 與 `KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`。**MRVL** 判定 L3 watchlist 補強，新增 / 補強「Broadcom alternative 退役 / 平台型 AI 基建框架」；**POET** 判定 L2-L3 negative watchlist 補強；**GOOG**/**GOOGL**、**AVGO**、**NVDA** 僅作供應鏈 / ecosystem context。
+- 備註：Google / Marvell two-chip talks 仍是 Reuters / The Information reported context，Reuters mirror 明確標註未即時獨立驗證；Marvell 因 Polariton / vertical integration 而不再需要 POET 屬 KP 推論，official sources 只確認 acquisition 與 cancellation / confidentiality allegation。GOOGL 既有 2026-04-18 與 2026-04-25 KP entries 已同步 `Stocks/GOOGL/`，本篇不重複同步 `Stocks/`。本文不是買賣建議。
+
 - 入庫 `大叔美股筆記-20260428-uae-opec-exit-hormuz-fujairah-5b3b5274`：整理大叔美股筆記 Substack Note《UAE 正式退出 OPEC：Fujairah 繞道與 Hormuz 籌碼重估》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。Substack Note 文字可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」；並以 AP News 與 EIA Hormuz chokepoint 文章交叉核對。
 - 更新：同步更新 `indexes/source_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`。本文判定為宏觀能源 / 地緣政治 L0，原文沒有 ticker、公司、ETF 或買賣操作，因此不更新 `Stocks/` 或 `indexes/ticker_index.md`。
 - 備註：AP 校準 UAE 退出 OPEC / OPEC+ 於 2026-05-01 生效；EIA 校準 Hormuz 2024 油流約 `20M b/d` 與 UAE Fujairah pipeline 約 `1.8M b/d`。大叔稱增產約 200 萬桶記為 KOL framing / read-through，不寫成已實現增產；Fujairah 繞道不可誤寫為 UAE 完全免疫 Hormuz 風險。本文不是買賣建議。

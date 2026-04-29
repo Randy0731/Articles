@@ -8,6 +8,7 @@
 
 | 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
 |---|---|---|---|---|---|---|
+| 2026-04-28 10:23（Substack 頁面顯示；時區未確認） | 2026-04-29 | Marvell 不再只是 Broadcom alternative：POET / Polariton / Google / Nvidia 線索 | KP_FOMOSoc-20260428-marvell-broadcom-alternative-poet-polariton-ai-network-9824c3d8 | **MRVL**, **POET**, **GOOG**, **GOOGL**, **AVGO**, **NVDA** | #AI基建 #雲端基建 #先進封裝 #併購 #競爭風險 #執行風險 #ReRating #產品節點 | 短 Note；**MRVL** 判定 L3 watchlist 補強，**POET** 判定 L2-L3 negative watchlist 補強；**GOOG**/**GOOGL** 的 Google / Marvell supplier-diversification context 已在 2026-04-18 與 2026-04-25 KP entries 補入 `Stocks/GOOGL/`，本次不重複同步 `Stocks/` |
 | 2026-04-25 03:06 UTC | 2026-04-29 | 台積電不買ASML新機？Intel皇者歸來？- KP思考筆記(第39期) | KP_FOMOSoc-20260425-kp-thinking-note-39-asml-high-na-asts-tpu8-intel-servicenow-jpm-private-credit-6995e281 | **ASML**, **TSM**, **INTC**, **005930.KS**, **ASTS**, **T**, **VZ**, **GOOG**, **GOOGL**, **AVGO**, **2454.TW**, **MRVL**, **TSLA**, **AMD**, **ARM**, **NVDA**, **NOW**, **PANW**, **CRWD**, **CYBR**, **JPM**, **BX**, **APO**, **ARES**, **OWL**, **BLK** | #投資與投機 #AI基建 #雲端基建 #半導體設備 #先進封裝 #太空通訊 #軟體SaaS #金融流動性 #財報 #競爭風險 #執行風險 #估值風險 #ReRating #產品節點 | 週報獨立成文：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md`；**INTC** 判定已追蹤個股 L3 並同步 `Stocks/INTC/`；**GOOG**/**GOOGL** 判定已追蹤個股 L3 並同步 `Stocks/GOOGL/`；**ASML**, **TSM**, **ASTS**, **NOW**, **JPM** 更新 watchlist / ticker；AT&T / Verizon、MediaTek、Samsung、private credit peers 為 context |
 | 2026-04-18 02:45 UTC | 2026-04-29 | 台積電財報有甚麼啟示？AI5能拯救特斯拉？華爾街也搶芯片？- KP思考筆記(第38期) | KP_FOMOSoc-20260418-kp-thinking-note-38-tsla-ai5-google-marvell-amzn-globalstar-tsmc-coreweave-luxury-1323d111 | **TSLA**, **TSM**, **000660.KS**, **NVDA**, **GOOG**, **GOOGL**, **MRVL**, **AVGO**, **AMZN**, **GSAT**, **ASTS**, **AAPL**, **AMAT**, **ASML**, **CRWV**, **META**, **MC.PA**, **RMS.PA**, **KER.PA** | #投資與投機 #AI基建 #雲端基建 #先進封裝 #太空通訊 #消費成長 #地緣政治 #併購 #競爭風險 #執行風險 #估值風險 #ReRating #產品節點 | 週報獨立成文：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第38期_TSLA_AI5_Google_Marvell_AMZN_Globalstar_TSMC_CoreWeave_Luxury.md`；**AMZN** 判定已追蹤個股 L3 並同步 `Stocks/AMZN/`；**GOOG**/**GOOGL** 判定已追蹤個股 L2 並同步 `Stocks/GOOGL/`；**TSLA**, **MRVL**, **TSM**, **CRWV**, **ASTS**, **MC.PA**, **RMS.PA**, **KER.PA** 更新 watchlist / ticker；Globalstar / Jane Street / SpaceX / Starlink / Anthropic 未上市或非本專案 ticker |
 | 2026-04-11 02:54 UTC | 2026-04-29 | Intel連放大招？Claude新模型AI準備覺醒？亞馬遜資本支出有理？ - KP思考筆記(第37期) | KP_FOMOSoc-20260411-kp-thinking-note-37-intel-claude-ai-amazon-capex-e8155b80 | **INTC**, **TSLA**, **TSM**, **GOOG**, **GOOGL**, **AMD**, **ARM**, **NVDA**, **UNH**, **HUM**, **MSFT**, **AMZN**, **AAPL**, **AVGO**, **CRWD**, **PANW**, **CSCO**, **JPM**, **META** | #投資與投機 #AI基建 #雲端基建 #軟體SaaS #生技醫療 #監管審批 #政策風險 #競爭風險 #執行風險 #估值風險 #ReRating #產品節點 | 週報獨立成文：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第37期_INTC_Claude_Mythos_Meta_MuseSpark_AMZN.md`；**INTC** 判定已追蹤個股 L3 並同步 `Stocks/INTC/`；**AMZN** 判定已追蹤個股 L3 並同步 `Stocks/AMZN/`；**GOOG**/**GOOGL** 判定已追蹤個股 L2 並同步 `Stocks/GOOGL/`；**UNH**, **HUM**, **META**, **CRWD**, **PANW**, **TSLA** 更新 watchlist / ticker；Anthropic、SpaceX、xAI 未上市或非本專案 ticker |
@@ -52,3 +53,75 @@
 ---
 
 ## 內文（append-only）
+
+---
+
+## 2026-04-28｜Marvell 不再只是 Broadcom alternative：POET / Polariton / Google / Nvidia 線索
+
+- **source_id**：KP_FOMOSoc-20260428-marvell-broadcom-alternative-poet-polariton-ai-network-9824c3d8
+- **KOL / 來源**：KP / FOMOSoc
+- **發文時間**：2026-04-28 10:23（Substack 頁面顯示；時區未確認）
+- **整理日期**：2026-04-29
+- **原文 URL**：https://substack.com/@fomosoc/note/c-250376110
+- **raw / OCR**：URL（未另存 raw）；OCR 不適用
+- **相關 ticker**：**MRVL**, **POET**, **GOOG**, **GOOGL**, **AVGO**, **NVDA**
+- **主題 tags**：#AI基建 #雲端基建 #先進封裝 #併購 #競爭風險 #執行風險 #ReRating #產品節點
+
+### 核心整理
+
+KP 將 POET / Marvell 訂單取消事件放進 Marvell 過去一年 AI 網絡版圖重組來看：表面是 POET 失去 Celestial AI / Marvell purchase orders，深層則是 Marvell 透過 Celestial AI、Polariton、custom ASIC、optical interconnect 與 Nvidia / Google 生態連結，把自己從「Broadcom alternative」推向 AI infrastructure platform。
+
+本文對 **MRVL** 是 L3 watchlist 補強：KP 認為市場正在重新評估 Marvell，重點不只 custom ASIC，也包括 silicon photonics / optical interconnect、hyperscaler customer mix、Nvidia NVLink Fusion 與 Google inference chip talks。對 **POET** 是 L2-L3 negative watchlist：若 Marvell 能把 Photonic Fabric、Polariton modulator、DSP / ASIC 與系統架構內化，POET 的 Optical Interposer 故事會被 customer concentration 和 vertical integration 壓力重新定價。
+
+### Ticker 分流
+
+| Ticker | 判定 | 入庫動作 |
+|---|---|---|
+| **MRVL** | L3 watchlist 補強；平台化 / silicon photonics / custom ASIC re-rating 線索 | 更新 ticker / watchlist / theme / framework / catalyst；不建立 `Stocks/MRVL/` |
+| **POET** | L2-L3 negative watchlist；Celestial AI / Marvell 線斷裂後，技術護城河與客戶黏性需重估 | 更新 ticker / watchlist / catalyst；不建立 `Stocks/POET/` |
+| **GOOG**/**GOOGL** | Google / Marvell second-source 與 inference chip talks 屬既有 tracked-stock context | 只在 ticker / theme cross-reference；2026-04-18、2026-04-25 KP entries 已同步 `Stocks/GOOGL/`，本篇不重複追加 |
+| **AVGO** | Broadcom incumbent / 長約對照；KP 認為 Marvell 不是單純 Broadcom 替代品 | ticker / theme context |
+| **NVDA** | NVLink Fusion / AI factory ecosystem 背景；KP 用 Nvidia 背書解釋 Marvell platform value | ticker / catalyst context |
+
+### 外部校準
+
+| 來源 | 校準重點 | 入庫口徑 |
+|---|---|---|
+| Marvell official PR（2026-04-22） | Marvell 宣布收購 Polariton Technologies，強化 plasmonics-based silicon photonics、3.2T+ optical roadmap、electro-optics / photonics / switching / custom silicon portfolio | 官方確認 acquisition 與 optical roadmap；不能直接寫成 POET cancellation 原因 |
+| POET official PR（2026-04-27） | POET 公告 Marvell 在 2026-04-23 書面取消 Celestial AI 相關所有 purchase orders，理由是 PO / shipping information disclosure 被指違反 confidentiality obligations；POET 另稱仍有其他 customer deliveries 與約 `$5M` technology-company PO | 官方確認 cancellation / allegation；法律責任與實際商業替代仍待後續 filings |
+| Reuters / The Information 報導（2026-04-19；Investing.com mirror） | Google reportedly in talks with Marvell for two AI chips：memory processing unit + inference-oriented TPU；Reuters 同時標註未能即時獨立驗證，Google / Marvell 未立即回應 | 只作 reported context，不寫成 design win 或 revenue |
+| Nvidia official NVLink Fusion PR | Marvell 是首批 NVLink Fusion custom AI silicon partners 之一 | 官方確認 ecosystem role；Nvidia `20 億美元投資`仍按 KP / market reporting 口徑處理 |
+
+### 框架 / 心法
+
+- **Broadcom alternative 退役 / 平台型 AI 基建框架**：Marvell 的估值敘事若只寫成 Broadcom backup，會低估它同時碰到電、光、custom silicon 和系統架構的可能性。
+- **矽光子垂直整合 / 光學供應鏈收編框架**：AI cluster 擴大後，optical interconnect 不再是零件，而是平台控制層的一部分。
+- **平台型供應商被垂直整合風險**：POET 類平台若最大故事依賴單一 tier-one customer / acquired customer，客戶一旦 internalize / bypass，技術敘事會快速變成客戶黏性與收入替代問題。
+
+### 風險與反例
+
+| 風險 | 說明 |
+|---|---|
+| Google / Marvell 仍是報導口徑 | 目前不是 official design win，需等 Marvell / Alphabet filings、guidance 或 supply-chain validation。 |
+| Polariton synergy 仍待整合 | Marvell official PR 也提醒 employee retention、technology integration、roadmap execution 等交易風險。 |
+| POET 並非歸零式判斷 | POET official 仍提到 other customer deliveries 與約 `$5M` purchase order；需看是否能轉 revenue、backlog 與新 design wins。 |
+| Broadcom moat 仍強 | KP 認為不是 zero-sum；Broadcom 的 Google TPU 長約、scale 和 execution visibility 短期仍是高門檻。 |
+| Nvidia / Google 生態依賴也會形成集中風險 | Marvell 若 re-rate 成 platform partner，也需要把 ecosystem attention 轉成 revenue、margin 和 cash flow。 |
+
+### 後續追蹤
+
+| 追蹤項 | 觀察指標 |
+|---|---|
+| Marvell platformization | Polariton / Celestial AI 技術整合、1.6T / 3.2T optical roadmap、optical DSP / custom silicon revenue、gross margin |
+| POET recovery path | customer replacement、backlog / revenue guidance、legal / disclosure follow-up、other `$5M` PO shipment / revenue recognition |
+| Google / Marvell talks | design finalization、test production、TPU / memory processing unit confirmation、Google Cloud AI margin / cost per token |
+| Nvidia ecosystem | NVLink Fusion reference design、Marvell semi-custom adoption、Rubin / AI factory optical attach、UALink / Ethernet competitive response |
+
+### 呼應既有資料
+
+- KP 2026-04-04 第36期：Nvidia / Marvell / NVLink Fusion 與矽光子垂直整合框架。
+- KP 2026-04-18 第38期：Google / Marvell SRAM inference engine、Broadcom second-source framing。
+- KP 2026-04-25 第39期：Google TPU 8 supplier split 與 system-definer thesis。
+- 大叔 2026-04-27：POET purchase order cancellation、Marvell / Polariton vertical integration read-through。
+
+> 本文不是買賣建議。

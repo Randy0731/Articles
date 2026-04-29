@@ -246,8 +246,17 @@
 - **一句話定義**：AI cluster 放大後，互連功耗、距離與頻寬密度成為瓶頸，leader 會投資 optical components、DSP、silicon photonics 和 custom silicon 來控制下一代 data center fabric。
 - **適用情境**：1.6T / 3.2T optics、CPO、silicon photonics、NVLink / Ethernet scale-up networking、AI-RAN。
 - **觀察指標**：optical DSP revenue、1.6T+ design wins、Rubin reference design、CPO timing、**LITE** / **COHR** / **MRVL** qualification、component margin。
-- **也出現於**：呼應第34期 OCI 光互連標準化 / 矽晶中心框架、第32期銅線過渡期 / 跨介質可靠性平台框架與第29期 OCS 光學神經系統 / HBM 分層框架。
+- **也出現於**：呼應第34期 OCI 光互連標準化 / 矽晶中心框架、第32期銅線過渡期 / 跨介質可靠性平台框架、第29期 OCS 光學神經系統 / HBM 分層框架，以及 2026-04-28 KP Note 對 Marvell / Polariton / POET 的 platformization 補強。
 - **相關 ticker / 產業**：**MRVL**, **NVDA**, **LITE**, **COHR**, **AVGO**, **CRDO**；optical interconnect / silicon photonics / AI networking。
+
+## Broadcom alternative 退役 / 平台型 AI 基建框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/notes/KP筆記.md`
+- **一句話定義**：當 second-source design house 同時取得 custom ASIC、optical interconnect、silicon photonics、hyperscaler customers 和 platform ecosystem 入口時，市場敘事可能從「替代品」轉成「平台型基建夥伴」。
+- **適用情境**：Marvell vs Broadcom、hyperscaler supplier diversification、custom ASIC / TPU / memory processor、NVLink Fusion、optical interconnect platformization。
+- **觀察指標**：Google / Marvell design wins、Nvidia ecosystem attach、optics / custom silicon revenue mix、Broadcom contract durability、gross margin、customer concentration、POET / Polariton integration。
+- **也出現於**：延伸第36期 NVLink Fusion / 開放式收編框架、第36期矽光子垂直整合 / 光學供應鏈收編框架與第38期 SRAM LPU / 系統級推理 TCO 框架。
+- **相關 ticker / 產業**：**MRVL**, **AVGO**, **GOOG**, **GOOGL**, **NVDA**, **POET**；AI networking / custom silicon / silicon photonics。
 
 ## Fab 34 贖回 / 從斷臂求生到利潤收回框架
 
