@@ -2,6 +2,10 @@
 
 ## 2026-04-29
 
+- 入庫 `KP_FOMOSoc-20260427-howard-marks-unbuying-cognitive-dissonance-confluence-60c4bfce`：整理 KP / FOMOSoc Substack Note《Howard Marks：反向買入、認知失調與壞消息匯流》，追加至 `KOL/KP_FOMOSoc/notes/KP筆記.md`。Substack HTML / JSON-LD 文字完整可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」；並以 Wharton Howard Marks Investor Series official page / YouTube link 與 Oaktree `Selling Out` memo 交叉校準。
+- 更新：同步更新 `KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`、`indexes/source_index.md`、`indexes/theme_index.md` 與 `indexes/framework_index.md`。本文新增「反向買入 / 持倉歸零測試框架」與「認知失調 / 壞消息匯流框架」；原文沒有具名 ticker、公司、ETF 或交易操作，因此不更新 `Stocks/`、`indexes/ticker_index.md` 或 watchlist。
+- 備註：Wharton official 確認 Howard Marks 於 2026-03-25 進行 fireside chat，官方頁提供影片 `https://www.youtube.com/watch?v=Nac62xsvk0I`；Oaktree official 顯示 `Selling Out` memo 發布於 2022-01-13，相關賣出思考部分源自 2015 年 `Liquidity`，因此 KP 文中「十年前」記為寬鬆口語而非 official date。本文不是買賣建議。
+
 - 入庫 `Bytc-20260428-uae-opec-exit-new-energy-critical-materials-dad8e8a8`：整理 Bytc Substack Note《UAE 退出 OPEC：傳統產油國分裂與新能源關鍵材料時代》，追加至 `KOL/Bytc/notes/bytc筆記.md`。Substack HTML / JSON-LD 文字完整可讀，未偵測截斷；附件圖為新聞標題截圖，已人工檢視但未另存 raw；OCR 狀態標「不適用」；並以 AP News 與 IEA Hormuz 資料交叉校準。
 - 更新：同步更新 `indexes/source_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。本文判定為宏觀能源 / 地緣政治 L0，原文沒有 ticker、公司、ETF 或買賣操作，因此不更新 `Stocks/`、`indexes/ticker_index.md` 或 watchlist。
 - 備註：AP 校準 UAE 退出 OPEC / OPEC+ 於 2026-05-01 生效；IEA 校準 Hormuz 2025 約 `20 mb/d` crude oil and oil products 通過、替代路線約 `3.5-5.5 mb/d`、UAE ADCOP current capacity 接近 `1.8 mb/d` 且額外繞道空間有限。Bytc 的增量 framing 是遭伊朗攻擊後的安全 / 外資信心壓力、OPEC 產油國集團分裂，以及新能源 / 關鍵材料時代切換；不寫成短期無限制增產，也不寫成買賣建議。

@@ -15,6 +15,24 @@
 - **相關 ticker / 產業**：
 ```
 
+## 反向買入 / 持倉歸零測試框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/notes/KP筆記.md`
+- **一句話定義**：賣出前先把「我已經持有」歸零，改問如果今天拿現金，是否仍願意以現價重新買入；若答案是否定，代表原持有理由、風險報酬或 opportunity cost 需要重估。
+- **適用情境**：持股大漲後怕賣太早、持股下跌後不敢重估、成本價錨定、帳面獲利焦慮、估值擴張後的賣出紀律、portfolio review。
+- **觀察指標**：current expected return、valuation vs thesis、business quality / growth durability、opportunity cost、position concentration、cost basis anchoring、tax / liquidity constraints、exit condition。
+- **也出現於**：呼應大叔 Howard Marks 價格優先與 Un-buy 框架、宋分獲利了結 / 三段式賣出框架，以及 KP 第39期長線樂觀 / 正確標的研究框架。
+- **相關 ticker / 產業**：全市場；portfolio construction / sell discipline / market psychology。
+
+## 認知失調 / 壞消息匯流框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/notes/KP筆記.md`
+- **一句話定義**：樂觀共識會把一兩個壞消息消化成噪音；真正的 regime shift 通常出現在多個負面訊號累積成 confluence，讓投資人心理防線從無懈可擊切換成幻滅。
+- **適用情境**：牛市後段、估值偏高但壞消息被忽略、公司或宏觀負面訊號連續出現、投資人想分辨噪音與 thesis 破壞。
+- **觀察指標**：earnings revisions、credit spreads、market breadth、fund flows / positioning、VIX / skew、利空數量與同源性、narrative shift、liquidity stress、bad-news price reaction。
+- **也出現於**：呼應 KP 第36期場景分析 / 反先知框架、第38期風平浪靜買保險框架，以及全域 Howard Marks 價格優先與 Un-buy 框架中的市場心理段落。
+- **相關 ticker / 產業**：全市場；market psychology / valuation risk / risk management。
+
 ## 長線樂觀 / 正確標的研究框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md`

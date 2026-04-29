@@ -9,6 +9,7 @@
 | 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
 |---|---|---|---|---|---|---|
 | 2026-04-28 10:23（Substack 頁面顯示；時區未確認） | 2026-04-29 | Marvell 不再只是 Broadcom alternative：POET / Polariton / Google / Nvidia 線索 | KP_FOMOSoc-20260428-marvell-broadcom-alternative-poet-polariton-ai-network-9824c3d8 | **MRVL**, **POET**, **GOOG**, **GOOGL**, **AVGO**, **NVDA** | #AI基建 #雲端基建 #先進封裝 #併購 #競爭風險 #執行風險 #ReRating #產品節點 | 短 Note；**MRVL** 判定 L3 watchlist 補強，**POET** 判定 L2-L3 negative watchlist 補強；**GOOG**/**GOOGL** 的 Google / Marvell supplier-diversification context 已在 2026-04-18 與 2026-04-25 KP entries 補入 `Stocks/GOOGL/`，本次不重複同步 `Stocks/` |
+| 2026-04-27 11:24 UTC（台北 19:24；Substack JSON-LD） | 2026-04-29 | Howard Marks：反向買入、認知失調與壞消息匯流 | KP_FOMOSoc-20260427-howard-marks-unbuying-cognitive-dissonance-confluence-60c4bfce | 無具名 ticker | #投資與投機 #估值風險 | 短 Note；純投資紀律 / 市場心理框架，無單一公司 thesis；新增反向買入 / 持倉歸零測試框架與認知失調 / 壞消息匯流框架，不更新 `Stocks/` 或 `indexes/ticker_index.md` |
 | 2026-04-25 03:06 UTC | 2026-04-29 | 台積電不買ASML新機？Intel皇者歸來？- KP思考筆記(第39期) | KP_FOMOSoc-20260425-kp-thinking-note-39-asml-high-na-asts-tpu8-intel-servicenow-jpm-private-credit-6995e281 | **ASML**, **TSM**, **INTC**, **005930.KS**, **ASTS**, **T**, **VZ**, **GOOG**, **GOOGL**, **AVGO**, **2454.TW**, **MRVL**, **TSLA**, **AMD**, **ARM**, **NVDA**, **NOW**, **PANW**, **CRWD**, **CYBR**, **JPM**, **BX**, **APO**, **ARES**, **OWL**, **BLK** | #投資與投機 #AI基建 #雲端基建 #半導體設備 #先進封裝 #太空通訊 #軟體SaaS #金融流動性 #財報 #競爭風險 #執行風險 #估值風險 #ReRating #產品節點 | 週報獨立成文：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第39期_ASML_HighNA_ASTS_TPU8_INTC_ServiceNow_JPM_PrivateCredit.md`；**INTC** 判定已追蹤個股 L3 並同步 `Stocks/INTC/`；**GOOG**/**GOOGL** 判定已追蹤個股 L3 並同步 `Stocks/GOOGL/`；**ASML**, **TSM**, **ASTS**, **NOW**, **JPM** 更新 watchlist / ticker；AT&T / Verizon、MediaTek、Samsung、private credit peers 為 context |
 | 2026-04-18 02:45 UTC | 2026-04-29 | 台積電財報有甚麼啟示？AI5能拯救特斯拉？華爾街也搶芯片？- KP思考筆記(第38期) | KP_FOMOSoc-20260418-kp-thinking-note-38-tsla-ai5-google-marvell-amzn-globalstar-tsmc-coreweave-luxury-1323d111 | **TSLA**, **TSM**, **000660.KS**, **NVDA**, **GOOG**, **GOOGL**, **MRVL**, **AVGO**, **AMZN**, **GSAT**, **ASTS**, **AAPL**, **AMAT**, **ASML**, **CRWV**, **META**, **MC.PA**, **RMS.PA**, **KER.PA** | #投資與投機 #AI基建 #雲端基建 #先進封裝 #太空通訊 #消費成長 #地緣政治 #併購 #競爭風險 #執行風險 #估值風險 #ReRating #產品節點 | 週報獨立成文：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第38期_TSLA_AI5_Google_Marvell_AMZN_Globalstar_TSMC_CoreWeave_Luxury.md`；**AMZN** 判定已追蹤個股 L3 並同步 `Stocks/AMZN/`；**GOOG**/**GOOGL** 判定已追蹤個股 L2 並同步 `Stocks/GOOGL/`；**TSLA**, **MRVL**, **TSM**, **CRWV**, **ASTS**, **MC.PA**, **RMS.PA**, **KER.PA** 更新 watchlist / ticker；Globalstar / Jane Street / SpaceX / Starlink / Anthropic 未上市或非本專案 ticker |
 | 2026-04-11 02:54 UTC | 2026-04-29 | Intel連放大招？Claude新模型AI準備覺醒？亞馬遜資本支出有理？ - KP思考筆記(第37期) | KP_FOMOSoc-20260411-kp-thinking-note-37-intel-claude-ai-amazon-capex-e8155b80 | **INTC**, **TSLA**, **TSM**, **GOOG**, **GOOGL**, **AMD**, **ARM**, **NVDA**, **UNH**, **HUM**, **MSFT**, **AMZN**, **AAPL**, **AVGO**, **CRWD**, **PANW**, **CSCO**, **JPM**, **META** | #投資與投機 #AI基建 #雲端基建 #軟體SaaS #生技醫療 #監管審批 #政策風險 #競爭風險 #執行風險 #估值風險 #ReRating #產品節點 | 週報獨立成文：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第37期_INTC_Claude_Mythos_Meta_MuseSpark_AMZN.md`；**INTC** 判定已追蹤個股 L3 並同步 `Stocks/INTC/`；**AMZN** 判定已追蹤個股 L3 並同步 `Stocks/AMZN/`；**GOOG**/**GOOGL** 判定已追蹤個股 L2 並同步 `Stocks/GOOGL/`；**UNH**, **HUM**, **META**, **CRWD**, **PANW**, **TSLA** 更新 watchlist / ticker；Anthropic、SpaceX、xAI 未上市或非本專案 ticker |
@@ -123,5 +124,73 @@ KP 將 POET / Marvell 訂單取消事件放進 Marvell 過去一年 AI 網絡版
 - KP 2026-04-18 第38期：Google / Marvell SRAM inference engine、Broadcom second-source framing。
 - KP 2026-04-25 第39期：Google TPU 8 supplier split 與 system-definer thesis。
 - 大叔 2026-04-27：POET purchase order cancellation、Marvell / Polariton vertical integration read-through。
+
+> 本文不是買賣建議。
+
+---
+
+## 2026-04-27｜Howard Marks：反向買入、認知失調與壞消息匯流
+
+- **source_id**：KP_FOMOSoc-20260427-howard-marks-unbuying-cognitive-dissonance-confluence-60c4bfce
+- **KOL / 來源**：KP / FOMOSoc
+- **發文時間**：2026-04-27 11:24 UTC（台北 19:24；Substack JSON-LD）
+- **整理日期**：2026-04-29
+- **原文 URL**：https://substack.com/@fomosoc/note/c-249859080
+- **raw / OCR**：URL（未另存 raw；Substack JSON-LD 正文完整可讀；附件圖未另存）；OCR 不適用
+- **相關 ticker**：無具名 ticker
+- **主題 tags**：#投資與投機 #估值風險
+
+### 核心整理
+
+KP 將 Howard Marks 在 Wharton 訪談與 `Selling Out` memo 的賣出紀律，整理成兩個心理校準工具：第一，賣出不是因為股票漲了或跌了，而是把「要不要賣」改寫成「如果今天空手，還會不會用現價重新買入」。這個 `un-buying` / 反向買入測試，用來拔掉成本價、帳面獲利與「我的股票」造成的錨定。
+
+第二，市場在樂觀狀態下容易用認知失調過濾壞消息：單一負面訊號會被解讀成噪音，但當通膨、地緣政治、公司暴雷或其他利空累積到匯流點時，投資人情緒可能從「無懈可擊」快速切換到「毫無希望」。KP 的結論是，兩個框架都在處理同一件事：投資人要定期對抗自己的大腦，而不是讓成本錨、帳面勝利或群體共識替自己做判斷。
+
+本文沒有單一公司或 ticker thesis，判定為 L0 投資紀律 / 市場心理框架；不更新 `Stocks/`、`indexes/ticker_index.md` 或 watchlist。
+
+### Ticker 分流
+
+| Ticker / 範圍 | 判定 | 入庫動作 |
+|---|---|---|
+| 無具名 ticker / 全市場 | L0 framework；持倉檢查、賣出紀律與市場心理 | 更新 KP 筆記、source/theme/framework indexes 與 KP 框架庫；不更新 `Stocks/` 或 ticker index |
+
+### 外部校準
+
+| 來源 | 校準重點 | 入庫口徑 |
+|---|---|---|
+| Wharton Howard Marks Investor Series 官方頁 | Wharton 確認 Howard Marks 於 2026-03-25 與 Professor Chris Geczy 進行 fireside chat，主題涵蓋 Marks memos，並提供 YouTube 影片連結 | 官方確認訪談事件與影片來源；本文未取得逐字稿逐句核對 KP 摘錄 |
+| Wharton YouTube 影片 | 官方頁連到 `https://www.youtube.com/watch?v=Nac62xsvk0I` | 作為訪談原始影音來源；認知失調段落仍按 KP 摘錄 / 翻譯入庫 |
+| Oaktree `Selling Out` memo | Oaktree 官方頁顯示 `Selling Out` 發布於 2022-01-13，並說明其賣出思考部分源自 2015 年 `Liquidity` memo；memo 重點包含長期持有、相對選擇與 opportunity cost | KP 稱「十年前寫過 `Selling Out`」需視為寬鬆口語；官方日期是 2022-01-13，相關思考可追溯到 2015 年 `Liquidity` |
+
+### 框架 / 心法
+
+| 框架 | 一句話 | 使用方式 |
+|---|---|---|
+| 反向買入 / 持倉歸零測試框架 | 賣出前先假裝自己空手，重新問現價是否仍值得買入 | 用來處理成本錨、帳面獲利焦慮、錯把「已持有」當成繼續持有理由 |
+| 認知失調 / 壞消息匯流框架 | 牛市中單一壞消息常被忽略，重點是負面訊號是否累積成匯流點 | 用來檢查市場是否把多個基本面、宏觀或流動性壓力全都當成噪音 |
+
+### 風險與反例
+
+| 風險 | 說明 |
+|---|---|
+| 反向買入不是機械賣出規則 | 「今天不會新增買入」不等於一定立刻清倉；還需看稅務、流動性、替代機會、部位大小與原 thesis 是否破壞。 |
+| 壞消息匯流容易事後歸因 | 事後看起來很清楚的 confluence，當下可能只是噪音；需要用可觀察指標避免把每個利空都放大成崩盤預言。 |
+| 訪談逐字稿未完整核對 | Wharton 官方確認訪談與影片，但本次未逐句核對 cognitive dissonance 原句；因此該段記為 KP 摘錄 / 詮釋。 |
+| `Selling Out` 日期需校準 | Oaktree 官方顯示 memo 發布於 2022-01-13，不是字面「十年前」；本專案採 official date。 |
+
+### 後續追蹤
+
+| 追蹤項 | 觀察指標 |
+|---|---|
+| 持倉歸零測試 | 現價 expected return、valuation vs thesis、business quality 是否變差、替代機會、部位集中度、cost-basis anchoring |
+| 壞消息匯流 | earnings revisions、credit spreads、market breadth、fund flows、VIX / skew、流動性壓力、同一 thesis 的反證是否連續出現 |
+| 心理防線 | 是否因已賺很多而拒絕賣、是否因已跌很多而不敢重估、是否把共識忽略利空誤判成利空不存在 |
+
+### 呼應既有資料
+
+- 大叔 2026-04-23 Howard Marks / Wharton 訪談整理：同樣記錄 `un-buy`、價格優先與市場心理，並已在全域框架庫建立 Howard Marks 價格優先與 Un-buy 框架。
+- KP 2026-04-25 第39期：長線樂觀 / 正確標的研究框架，提醒短線高點與回調很難精準預測。
+- KP 2026-04-04 第36期：場景分析 / 反先知框架，用可調整情境取代精準預測崇拜。
+- 宋分 2026-04-19 投資紀律 #13：獲利了結 / 三段式賣出框架，可與 KP 的反向買入測試交叉比對。
 
 > 本文不是買賣建議。
