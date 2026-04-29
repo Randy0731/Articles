@@ -96,6 +96,15 @@
 - **也出現於**：延伸第33期 Back leverage 去槓桿 / 抵押品折價框架、第32期私募信貸限贖 / 流動性心理戰框架與第30期半流動性私募信貸錯配框架。
 - **相關 ticker / 產業**：**JPM**, **BX**, **APO**, **ARES**, **OWL**, **BLK**；banks / private credit / asset management。
 
+## AI 基建營運槓桿 / 中游 re-rating 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/notes/KP筆記.md`
+- **一句話定義**：高固定成本 AI infrastructure 一旦 demand visibility 從泡沫疑慮轉向需求驗證，增量 revenue 可能以高毛利流入利潤預期並放大 re-rating；若 utilization / contract quality 失敗，也會反向放大 downside。
+- **適用情境**：Oracle OCI、CoreWeave、Nebius、neocloud、GPU cloud、AI data center operators、high-capex fixed-cost infrastructure。
+- **觀察指標**：RPO / backlog conversion、customer prepayments、GPU / MW online、utilization、gross margin、operating margin、capex、FCF、debt maturity、interest cost、power contracts、customer concentration。
+- **也出現於**：呼應第16期 Neocloud 關鍵路徑控制框架、第21期 AI 基建表外融資 / 金主風險框架、第33期 BYOG / 客戶資助型雲端擴張與 AI 基建循環經濟框架、第38期算力長約 + 股權對沖框架。
+- **相關 ticker / 產業**：**ORCL**, **CRWV**, **NBIS**, **NVDA**, **TSM**, **AMZN**；AI data center / neocloud / cloud infrastructure financing。
+
 ## 風平浪靜買保險 / Volatility Insurance 框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第38期_TSLA_AI5_Google_Marvell_AMZN_Globalstar_TSMC_CoreWeave_Luxury.md`

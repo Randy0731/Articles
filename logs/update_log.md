@@ -2,6 +2,10 @@
 
 ## 2026-04-29
 
+- 入庫 `KP_FOMOSoc-20260424-ai-infrastructure-operating-leverage-oracle-coreweave-nebius-9022dd61`：整理 KP / FOMOSoc Substack Note《AI 基建中游營運槓桿：Oracle / CoreWeave / Nebius 重估框架》，追加至 `KOL/KP_FOMOSoc/notes/KP筆記.md`。Substack Note 文字完整可讀，結尾有 KP 署名，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」；並以 Oracle Q3 FY2026 official results、CoreWeave FY2025 official results 與 Nebius Q2 2025 official results 交叉校準。
+- 更新：同步更新 `KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md` 與 `indexes/watchlist_index.md`。本文新增「AI 基建營運槓桿 / 中游 re-rating 框架」；**ORCL**, **CRWV**, **NBIS** 判定 L2-L3 watchlist 補強，不建立 `Stocks/`；**NVDA**, **TSM**, **AMZN** 只作上游 / AWS 歷史類比 context。
+- 備註：Oracle official 校準 Q3 FY2026 RPO `$553B`、OCI revenue `$4.9B`、FY2026 capex `$50B` 與 customer-funded / customer-owned GPU 結構；CoreWeave official 校準 FY2025 revenue `$5.131B`、revenue backlog `$66.8B`、current debt `$6.708B`、non-current debt `$14.665B` 與 FY2025 property/equipment purchases `$10.309B`；Nebius official 校準 Q2 revenue `$105.1M`、ARR guidance `$900M-$1.1B` 與 1GW power by end-2026 plan。本文是公開短 Note / 深度文導流，沒有完整單股模型、價位或操作；不是買賣建議。
+
 - 入庫 `KP_FOMOSoc-20260427-howard-marks-unbuying-cognitive-dissonance-confluence-60c4bfce`：整理 KP / FOMOSoc Substack Note《Howard Marks：反向買入、認知失調與壞消息匯流》，追加至 `KOL/KP_FOMOSoc/notes/KP筆記.md`。Substack HTML / JSON-LD 文字完整可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」；並以 Wharton Howard Marks Investor Series official page / YouTube link 與 Oaktree `Selling Out` memo 交叉校準。
 - 更新：同步更新 `KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`、`indexes/source_index.md`、`indexes/theme_index.md` 與 `indexes/framework_index.md`。本文新增「反向買入 / 持倉歸零測試框架」與「認知失調 / 壞消息匯流框架」；原文沒有具名 ticker、公司、ETF 或交易操作，因此不更新 `Stocks/`、`indexes/ticker_index.md` 或 watchlist。
 - 備註：Wharton official 確認 Howard Marks 於 2026-03-25 進行 fireside chat，官方頁提供影片 `https://www.youtube.com/watch?v=Nac62xsvk0I`；Oaktree official 顯示 `Selling Out` memo 發布於 2022-01-13，相關賣出思考部分源自 2015 年 `Liquidity`，因此 KP 文中「十年前」記為寬鬆口語而非 official date。本文不是買賣建議。
