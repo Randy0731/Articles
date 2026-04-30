@@ -9,6 +9,7 @@
 | 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
 |---|---|---|---|---|---|---|
 | 2026-04-30 16:16 UTC（台北 2026-05-01 00:16；Substack JSON-LD） | 2026-05-01 | 加密貨幣卡消費與穩定幣支付：Visa 結算佔 90% | Bytc-20260430-crypto-card-stablecoin-visa-settlement-9a5a0d6a | **V** / crypto cards | #加密貨幣, #金融流動性 | 新入庫；短 Note；穩定幣卡與 Visa 結算網路 L1 語境，不更新 Stocks |
+| 2026-04-29 23:32 UTC（台北 2026-04-30 07:32；Substack JSON-LD） | 2026-05-01 | 全球軍費新高與再武裝：國防工業本土化長期趨勢 | Bytc-20260429-global-military-spending-rearmament-7ea31e0f | 無 / global defense contractors basket | #國防科技, #地緣政治, #政策風險 | 新入庫；短 Note；宏觀國防 / 全球再武裝框架，無單一 ticker，不更新 Stocks |
 | 2026-04-29（推估；聊天室截圖未顯示時間） | 2026-04-29 | World Cup C-UAS 聊天室：**ONDS** 現場層、**PLTR** / **BBAI** 大腦層 | Bytc-20260429-world-cup-onds-sentrycs-chat-2e8510a5 | **ONDS**, **PLTR**, **BBAI** | #國防科技, #訂單合約, #DualUse, #空地一體, #執行風險 | 新入庫；Substack chat 截圖；**ONDS** L2 同步 `Stocks/ONDS/`，**PLTR** / **BBAI** 只作安檢 / AI brain layer 語境 |
 | 2026-04-28 21:54 UTC（台北 2026-04-29 05:54） | 2026-04-29 | UAE 退出 OPEC：傳統產油國分裂與新能源關鍵材料時代 | Bytc-20260428-uae-opec-exit-new-energy-critical-materials-dad8e8a8 | 無 / energy macro | #大宗商品, #地緣政治, #能源電力, #政策風險 | 新入庫；短 Note；宏觀能源 / OPEC / critical materials framing，不更新 Stocks |
 | 2026-04-28 07:34 UTC（台北 15:34） | 2026-04-28 | 半導體指數估值修復後的倉位風控：不急加倉、先降槓桿 | Bytc-20260428-sox-valuation-risk-reduce-leverage-3aaa6218 | 無（SOX Index） | #半導體設備, #估值風險, #投資與投機 | 新入庫；短 Note；SOX 指數 / 板塊語境，不更新 Stocks |
@@ -475,5 +476,56 @@ Bytc 這則短 Note 把加密貨幣卡消費成長視為 stablecoin payment rail
 | 監管與合規風險 | stablecoin payments | 中高 | KYC / AML、消費者保護、跨境支付、chargeback 或 issuer reserve rules 收緊 | bill text、regulator enforcement、card program terms、fraud rate | 整理者延伸 |
 
 本文只記錄 Bytc 對 stablecoin card spending / Visa settlement 的資料點，不提供買賣建議。
+
+---
+
+## 全球軍費新高與再武裝：國防工業本土化長期趨勢
+
+- **來源**：[Bytc Substack Note](https://substack.com/@btyc/note/c-251289792)；[SIPRI 2026-04-27 press release](https://www.sipri.org/media/press-release/2026/global-military-spending-rise-continues-european-and-asian-expenditures-surge)
+- **類型**：Substack Note / 國防科技 / 全球軍費 / 再武裝 / 供應鏈本土化
+- **發文時間**：2026-04-29 23:32 UTC（台北 2026-04-30 07:32；Substack JSON-LD）
+- **整理日期**：2026-05-01
+- **source_id**：Bytc-20260429-global-military-spending-rearmament-7ea31e0f
+- **raw 路徑 / URL**：https://substack.com/@btyc/note/c-251289792（未另存 raw）；attachment: https://substack-post-media.s3.amazonaws.com/public/images/e1c85e74-db23-4bc5-a56a-eb9e71d6bcd5_894x524.png
+- **OCR 狀態**：不適用
+- **相關 ticker**：無 / global defense contractors basket
+- **主題 tags**：#國防科技, #地緣政治, #政策風險
+
+### 主旨
+
+Bytc 以 SIPRI 2025 全球軍費資料為基礎，將全球軍事支出連續創高解讀為「全球再武裝」進入長期化，而不是單一戰爭或短期新聞。投資語境上，重點是政府財政重心從社福 / 基建部分轉向國防工業，提升國防承包商與本土化供應鏈的訂單可見度；本文未提出單一 ticker thesis。
+
+### 核心概念
+
+- **軍費成為宏觀新常態**：Bytc 記錄 2025 全球軍費約 `$2.887T`、年增 2.9%，全球 military burden 升到 2.5%；SIPRI official press release 校準相同大方向，並指出這是連續第 11 年上升。
+- **歐洲與亞太再武裝同步加速**：Bytc 強調歐洲軍費增加 14% 至約 `$864B`，亞洲與大洋洲增加 8.1%；SIPRI 將歐洲列為 2025 全球增量主因，Asia / Oceania 也創 2009 年以來最快年度增速。
+- **國防供應鏈本土化與必需需求化**：Bytc 認為美國領先優勢被多國自主軍備擴張稀釋，國防工業不再只是週期性板塊，而是國安、供應鏈安全與政府採購綁定的長期結構性需求。
+
+### 關鍵證據
+
+| 證據 | 出處 | 解讀 |
+|---|---|---|
+| 2025 global military expenditure reached `$2887B`，real terms +2.9%；global military burden 2.5% | SIPRI 2026-04-27 press release | 校準 Bytc 引用的核心數字，支撐「軍費上行不是單年雜訊」 |
+| Europe spending +14% to `$864B`；Asia and Oceania +8.1% to `$681B` | SIPRI 2026-04-27 press release | 歐洲與亞太同時再武裝，讓需求更像多區域政策趨勢，而非單一戰場補庫存 |
+| Bytc 將新一代無人機、飛彈系統、AI defense、space security 與本土化供應商列為受益方向 | Bytc Substack Note | 這是板塊框架，不是對特定公司營收、backlog 或估值的確認 |
+| Bytc 寫 23 個 NATO 成員已達 GDP 2% 軍費目標；SIPRI 方法下為 22 個歐洲 NATO 成員達至少 2.0% | Bytc Substack Note；SIPRI 2026-04-27 press release | NATO 達標數字需保留口徑差異，不把 Bytc 口語數字與 SIPRI methodology 混用 |
+
+### 延伸追蹤
+
+| 日期 | 事件 | 相關 ticker | 影響方向 | 追蹤重點 | 出處 |
+|---|---|---|---|---|---|
+| 2026-04-27 | SIPRI 發布 2025 world military expenditure data | 無 / global defense contractors basket | 正面若轉成正式採購與 backlog | 各國 budget request、appropriation、procurement awards、backlog、localization rules | SIPRI；Bytc Substack Note |
+| 未定 | 國防本土化供應商是否取得 drone / missile / AI defense / space security 訂單 | 無 / defense tech basket | 未定 | contract awards、framework agreements、funded backlog、交付與收入認列 | Bytc Substack Note |
+
+### 風險與反例
+
+| 風險 | 相關 ticker | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|---|
+| 軍費 headline 不等於上市公司營收 | 全體國防板塊 | 高 | budget increase 未轉成 procurement awards / funded backlog | contract awards、backlog、book-to-bill、revenue recognition | 整理者延伸 |
+| 財政排擠與政治反彈 | 全體國防板塊 | 中高 | 社福、基建或赤字壓力迫使軍費增速放緩 | budget deficit、election polling、defense appropriation votes | Bytc Substack Note；整理者延伸 |
+| 本土化可能分散美國 prime 受益 | global defense contractors basket | 中 | 歐亞國家優先扶植本國供應鏈或合資生產 | localization rules、offset requirements、JV / licensed production | Bytc Substack Note |
+| 估值提前反映長單可見度 | 全體國防板塊 | 中 | 市場先行重估，但訂單 / margin / cash flow 跟不上 | EV/Sales、P/E、gross margin、cash conversion、guidance revisions | 整理者延伸 |
+
+本文只記錄 Bytc 對全球軍費與國防工業本土化的框架性觀點，不提供買賣建議。
 
 ---

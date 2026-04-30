@@ -2,6 +2,10 @@
 
 ## 2026-05-01
 
+- 入庫 `Bytc-20260429-global-military-spending-rearmament-7ea31e0f`：整理 Bytc Substack Note《全球軍費新高與再武裝：國防工業本土化長期趨勢》，追加至 `KOL/Bytc/notes/bytc筆記.md`。Substack Note 正文完整可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」；並以 SIPRI 2026-04-27 official press release 校準 2025 global military expenditure `$2887B`、+2.9%、global military burden 2.5%、Europe +14% 至 `$864B`、Asia and Oceania +8.1%。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/theme_index.md` 與 `indexes/framework_index.md`。本文判定為宏觀國防 / 全球再武裝 / 國防供應鏈本土化短 Note，新增「全球再武裝 / 國防必需需求框架」；無單一 ticker thesis，不更新 `Stocks/`、`indexes/ticker_index.md`、`indexes/catalyst_index.md` 或 watchlist。
+- 備註：Bytc 將全球軍費上升解讀為國防工業從週期性板塊轉向長期結構性必需需求，尤其關注新一代無人機、飛彈系統、AI defense、space security 與本土化供應商。Bytc 文中寫 23 個 NATO 成員達標，SIPRI 方法下為 22 個歐洲 NATO 成員，本次筆記保留口徑差異；本文不是買賣建議。
+
 - 入庫 `Bytc-20260430-crypto-card-stablecoin-visa-settlement-9a5a0d6a`：整理 Bytc Substack Note《加密貨幣卡消費與穩定幣支付：Visa 結算佔 90%》，追加至 `KOL/Bytc/notes/bytc筆記.md`。Substack JSON-LD 正文完整可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」；附件圖為 Paymentscan Monthly Crypto Card Volumes by chain，人工檢視可讀。
 - 更新：同步更新 `indexes/source_index.md`、`indexes/theme_index.md` 與 `indexes/ticker_index.md`。本文判定為加密貨幣支付 / stablecoin card payment rails 的短 Note；**V** 只作 Visa 支付網路 L1 語境，不建立 `Stocks/V/`，不更新 watchlist，也不更新 `indexes/catalyst_index.md`。
 - 備註：Bytc 記錄 crypto card spending 自 2024-07 以來約 +500%，最高單月約 `$600M`，stablecoin cards 成長最快，約 90% transaction volume 在 Visa 結算。原文未指名 **CRCL** / USDC / USDT / **COIN** 或任何 issuer，不把其他 stablecoin 筆記觀點回填成本篇；本文不是買賣建議。
