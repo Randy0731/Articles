@@ -6,6 +6,7 @@
 
 | 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
 |---|---|---|---|---|---|---|
+| 2026-04-29 21:29 UTC | 2026-05-01 | Bytc 對 **GOOGL** 的觀點摘要：Google Cloud、四巨頭財報與 AI capex 泡沫論校驗 | Bytc-20260429-four-giants-cloud-ai-capex-4b825039 | **GOOG**, **GOOGL**, **AMZN**, **MSFT**, **META**, **NVDA** | #AI基建 #財報 #ReRating #估值風險 | L2；Google Cloud / backlog 數字按 Bytc Note 口徑入庫，待 official filing 校準 |
 | 2026-04-25 03:06 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google TPU 8、HBM / SRAM、供應鏈分工與系統定義者 | KP_FOMOSoc-20260425-kp-thinking-note-39-asml-high-na-asts-tpu8-intel-servicenow-jpm-private-credit-6995e281 | **GOOG**, **GOOGL**, **AVGO**, **2454.TW**, **MRVL**, **TSM**, **INTC** | #AI基建 #雲端基建 #Memory #先進封裝 #競爭風險 #執行風險 #ReRating | L3；Google TPU 8 memory stack / supplier split 將 Google 從 chip designer 升級為 system definer |
 | 2026-04-18 02:45 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Marvell SRAM inference engine、Gemini latency 與 custom silicon second source | KP_FOMOSoc-20260418-kp-thinking-note-38-tsla-ai5-google-marvell-amzn-globalstar-tsmc-coreweave-luxury-1323d111 | **GOOG**, **GOOGL**, **MRVL**, **AVGO**, **TSM** | #AI基建 #雲端基建 #競爭風險 #執行風險 #ReRating | L2；Google Cloud AI inference TCO / memory hierarchy / supplier diversification 補強 |
 | 2026-04-11 02:54 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Intel Xeon + IPU 與 AI balanced system | KP_FOMOSoc-20260411-kp-thinking-note-37-intel-claude-ai-amazon-capex-e8155b80 | **GOOG**, **GOOGL**, **INTC**, **AMD**, **ARM**, **NVDA** | #AI基建 #雲端基建 #競爭風險 #執行風險 #ReRating | L2；Google Cloud AI infrastructure TCO / CPU + IPU 合作補強 |
@@ -218,3 +219,58 @@ Google 已有 TPU、AMD EPYC、自研 Arm Axion，仍公開承諾未來多代 In
 ### 呼應連結
 
 > 呼應 `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q1.md` 的 TPU externalization、Google OCS、TurboQuant 與 Google Cloud security thesis：本篇補上的不是單一產品，而是 Google Cloud AI infrastructure 中 CPU / IPU / TPU / GPU 分層設計的另一塊。
+
+---
+
+## Bytc 對 **GOOGL** 的觀點摘要：Google Cloud、四巨頭財報與 AI capex 泡沫論校驗
+
+- **來源 KOL**：Bytc
+- **原文主整理**：`KOL/Bytc/notes/bytc筆記.md`
+- **原始來源**：https://substack.com/@btyc/note/c-251237472
+- **source_id**：Bytc-20260429-four-giants-cloud-ai-capex-4b825039
+- **raw 路徑 / URL**：URL（未另存 raw）
+- **OCR 狀態**：不適用
+- **類型**：Substack Note / 四大科技財報 / Google Cloud / AI capex / cloud demand
+- **發文時間**：2026-04-29 21:29 UTC（台北 2026-04-30 05:29）
+- **整理日期**：2026-05-01
+- **交會等級**：L2
+- **事件類型**：Q1 earnings / Google Cloud growth / AI capex validation
+- **主題 / 母題標籤**：#AI基建 #財報 #ReRating #估值風險 #執行風險
+
+### 對 **GOOGL** 的影響
+
+Bytc 將 Google 放進四大科技財報橫向比較，核心是 Google Cloud revenue 與 cloud backlog 被用來反證 AI capex 泡沫論。這篇對 **GOOGL** 是 L2 增量：它補強 Google Cloud / TPU / AI infrastructure 的需求端，與既有 KP TPU 8、Google / Marvell inference TCO、大叔 Alphabet capex / energy moat thesis 相互呼應，但沒有改寫單股主框架。
+
+資料限制：本次未抓到可直接校準的 Alphabet official Q1 2026 URL，因此 Google revenue、EPS、Google Cloud revenue 與 backlog 數字按 Bytc Note 口徑入庫。後續若取得 Alphabet 10-Q / earnings release，需回頭校準 cloud backlog / RPO 定義與數字。
+
+### 觀點摘要
+
+| 面向 | 內容 |
+|---|---|
+| **立場** | 偏正面 L2；Bytc 認為 Google Cloud 與四巨頭財報資料讓他很難相信 AI 泡沫論 |
+| **核心訊號** | Bytc 記錄 total revenue `$109.9B`、EPS `$5.11`、operating profit `$39.7B`、Google Cloud revenue `$20.0B`、cloud backlog `$460B` / +63% |
+| **基本面含義** | Google Cloud 若持續高增且 backlog 夠大，可支撐 Alphabet AI capex / TPU / data center investment，不只是短期費用壓力 |
+| **驗證點** | Google Cloud revenue / margin、backlog / RPO conversion、capex、depreciation、FCF、AI Search monetization、TPU external adoption |
+| **主要風險** | 數字需 official filing 校準；Cloud growth 若無法轉 operating margin / FCF，仍可能被 capex 和 depreciation 抵銷 |
+
+### 關鍵證據
+
+| 證據 | 解讀 |
+|---|---|
+| Bytc 記錄 Google Cloud revenue `$20.0B`、cloud backlog `$460B` / +63% | 支撐 Google Cloud demand 與 AI infrastructure utilization 仍強，但待 official filing 校準 |
+| Bytc 將 Google Cloud +63% YoY 與 Azure / AWS / Meta growth 並列 | Google 不是孤立財報 beat，而是 hyperscaler cloud demand mosaic 的一部分 |
+| H100 rental price `$1.70` -> `$2.35` / +40% | 算力稀缺仍在定價，間接支撐 Cloud AI capacity 供不應求；不是 **GOOGL** 單獨收入 |
+
+### 風險表
+
+| 風險 | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|
+| Google 數字口徑需校準 | 高 | Alphabet official filing 與 Bytc Note 數字、backlog 定義或 growth rate 不一致 | Alphabet 10-Q、earnings release、Google Cloud RPO / backlog definition | Bytc Note；整理者判斷 |
+| Cloud demand 未轉 monetization | 高 | Google Cloud revenue / backlog 增長無法轉成 operating margin / FCF | Cloud operating income、capex、depreciation、FCF、utilization | Bytc Note；整理者判斷 |
+| AI Search / capex cannibalization | 中高 | AI Mode / AI answers 增加 compute cost，但 ads / transaction monetization 跟不上 | paid clicks、RPM / CPC / CPA、AI query cost、Search margin | 既有 Bytc / KP thesis |
+
+### 呼應連結
+
+> 呼應 KP 2026-04-25 Google TPU 8、KP 2026-04-18 Google / Marvell SRAM inference，以及大叔 2026-02-21 Alphabet capex / century bond thesis：Bytc 這篇補的是最新 cloud demand 橫向財報檢查點。
+
+---

@@ -1,11 +1,12 @@
 # AMZN 投資儀表板
 
-> 最後更新：2026-04-29（補入宋分 / 美股送分題《市場解碼 #20》L2：費用化投資 / 隱形資產檢查表；不改變宋分主框架，補強 AMZN 財報驗證欄位）
+> 最後更新：2026-05-01（補入 Bytc 2026-04-29《四巨頭段考成績單》L2：AWS / cloud demand 反證 AI capex 泡沫論；不改變 AMZN 主框架，補強 Q1 財報與雲端需求驗證）
 
 ## 當前立場快照
 
 - **綜合立場**：正式追蹤；宋分對 **AMZN** 的框架偏正面，核心是市場可能再次把 Amazon 的資本投入誤判為短期 EPS / FCF 壓力，而不是下一輪現金流引擎。
-- **KOL 最新立場**：宋分 2026-04-22 將 Amazon re-rate 的底層拆成 ROIC x Organic Growth；4/25 AMZN 主文留言補充指出 Amazon Leo / Globalstar 重點在 coverage + control，像是 AWS 從 compute + storage 延伸到 connectivity；資產化研發則需追是否轉成 revenue / FCF，而不是只改善 EPS。
+- **KOL 最新立場**：Bytc 2026-04-29 用四巨頭財報 beat 與 AWS +28% 反駁 AI capex 泡沫論；宋分 2026-04-22 將 Amazon re-rate 的底層拆成 ROIC x Organic Growth，4/25 AMZN 主文留言補充 Amazon Leo / Globalstar 的 coverage + control。
+- **本次補入的 Bytc 2026-04-29 四巨頭財報檢查**：Bytc 將 **AMZN** 放進 Amazon / Google / Microsoft / Meta 橫向財報 beat 裡，認為 AWS +28% 與四巨頭 cloud demand 讓「AI capex 全是泡沫」的說法變難成立。對 AMZN 的增量是補強 AWS demand receipt，不是新目標價；仍需追 AWS margin、RPO / backlog conversion、capex、depreciation 與 FCF。
 - **本次補入的宋分 2026-04-29 費用化投資檢查表**：宋分將 logistics、Prime、AWS 初期支出與高毛利收入轉化寫成「會計費用 vs 經濟投資」錯配；對 **AMZN** 的增量不是新價位，而是把 4/21 capital cycle 與 4/22 ROIC x Organic Growth 具體化為 fulfillment vs 3P revenue、Technology & Content vs AWS / high-margin revenue、OCF / CAPEX / FCF、unit economics 與 segment profit mix 檢查。
 - **本次補入的 KP 2026-02-07 AWS 建設模式訊號**：KP 認為市場財報後只看 2026 capex 可能達 2000 億美元與 FCF 壓力，忽略 AWS growth 再加速至約 24%、Bedrock customer spend q/q +60%、Trainium + Graviton annualized revenue 超過 100 億美元，以及 2440 億美元 backlog / +40% 這張「訂單收據」。這補強宋分後續 AMZN capital cycle thesis：關鍵不是花多少，而是 backlog、AI services 與 custom silicon 是否轉成 revenue / margin / FCF。
 - **本次補入的 KP 2026-02-21 OpenAI 融資補強**：KP 將 OpenAI new funding >`$100B`、valuation >`$850B` 解讀為 AI 公用事業預融資；Amazon intent up to `$50B` 讓 AWS 取得 OpenAI 多雲 / 基建聯盟入場券。這補強 AWS 高 capex 需求端，但必須用 AWS contract terms、margin、OpenAI revenue quality 和 circular-financing risk 驗證。
@@ -24,6 +25,7 @@
 
 | 來源 | 目標價 / 價位 | 停損 / 支撐 | 提出時間 | 出處篇章 |
 |---|---|---|---|---|
+| Bytc 2026-04-29 四巨頭段考 | 無股價 / 目標價；Amazon official 校準 Q1 net sales `$181.5B`、EPS `$2.78`、AWS sales `$37.6B` / +28%，Q2 net sales guide `$194B-$199B` | Bytc 用於反駁 AI capex 泡沫論，不是 AMZN 買賣點；追 AWS margin、capex、depreciation、FCF | 2026-04-29 | `KOL/Bytc/notes/bytc筆記.md`；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q2.md` |
 | 宋分 2026-04-29 費用化投資檢查表 | 無新股價 / 目標價 | 本文重點是 expense-to-asset 財報驗證，不是價位；追高毛利收入、OCF / FCF、單位經濟與利潤結構 | 2026-04-29 | `KOL/宋分/articles/20260429_market_decoding_20_expensed_investment_framework.md` |
 | 宋分 2026-02-06 估值溫度計口徑 | forward PE 約 `21x` | KOL 用於說明 AMZN 靠近溫度計左側；不是目標價或買點 | 2026-02-06 | `KOL/宋分/articles/20260206_amzn_capex_cycle3_valuation_thermometer.md` |
 | 宋分 2026-04-22 ROIC x Organic Growth 補充 | 無新股價 / 目標價 | 本文重點是 ROIC 斜率與 organic growth，不是價位；PDD / AMZN 分數對照是比喻 | 2026-04-22 / 2026-04-26 | `KOL/宋分/articles/20260422_market_decoding_19_roic_organic_growth_amzn.md` |
@@ -117,6 +119,7 @@
 
 | 篇章 | 日期 | 一句話結論 | 權重 |
 |---|---|---|---|
+| `KOL/Bytc/notes/bytc筆記.md`；`Stocks/AMZN/quarterly/AMZN_筆記_2026Q2.md` | 2026-04-29 | Bytc 用四巨頭財報 beat、AWS +28% 與 cloud demand 反駁 AI capex 泡沫論；對 AMZN 是 L2 demand receipt 補強，但仍需用 AWS margin、RPO conversion、capex / depreciation / FCF 驗證 | 中 |
 | `KOL/宋分/articles/20260429_market_decoding_20_expensed_investment_framework.md` | 2026-04-29 | 宋分把 **AMZN** 的 logistics / Prime / AWS / 3P / high-margin revenue 放進費用化投資檢查表，提醒 EPS 難看只有在能轉成現金流、單位經濟與 ROIC 時才可能支持 re-rate | 高 |
 | `KOL/宋分/articles/20260421_market_decoding_18_amzn_capital_cycle_rerate.md` 留言補充 | 2026-04-22 / 2026-04-25 | 宋分補充資產化研發要追是否轉成 revenue / FCF，並將 Amazon Leo / Globalstar 定位為 coverage + control 的最後一段連線層 | 高 |
 | `KOL/宋分/articles/20260422_market_decoding_19_roic_organic_growth_amzn.md` | 2026-04-22 | 宋分把 **AMZN** re-rate 底層抽象成 ROIC x Organic Growth，並用 PDD 留言補充說明 ROIC 改善斜率比 ROIC 絕對值更重要 | 高 |

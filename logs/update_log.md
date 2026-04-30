@@ -2,6 +2,10 @@
 
 ## 2026-05-01
 
+- 入庫 `Bytc-20260429-four-giants-cloud-ai-capex-4b825039`：整理 Bytc Substack Note《四巨頭段考成績單：雲端需求反證 AI 泡沫論》，追加至 `KOL/Bytc/notes/bytc筆記.md`。Substack Note 正文完整可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」；並以 Amazon official Q1 2026 results、Microsoft official FY26 Q3 results、Meta official Q1 2026 results 交叉校準主要財報數字。
+- 更新：同步追加 `Stocks/AMZN/quarterly/AMZN_筆記_2026Q2.md` 與 `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md`，並更新 `Stocks/AMZN/AMZN_index.md`、`Stocks/AMZN/AMZN_儀表板.md`、`Stocks/GOOGL/GOOGL_index.md`、`Stocks/GOOGL/GOOGL_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md` 與 `indexes/theme_index.md`。**AMZN** / **GOOGL** 判定正式追蹤個股 L2；**MSFT** / **META** 記為 L2 ticker / watchlist 語境但不建立 `Stocks/`；**NVDA** 只作 H100 產品 read-through。
+- 備註：Bytc 用四巨頭 Q1 EPS / 核心收入 beat、cloud demand、Google Cloud / Azure / AWS / Meta growth 與 H100 租金 `$1.70` -> `$2.35` / 約 +40% 反駁 AI capex 泡沫論。Amazon official 校準 Q1 net sales `$181.5B`、EPS `$2.78`、AWS sales `$37.6B` / +28%；Microsoft official 校準 revenue `$82.9B`、EPS `$4.27`、Azure +40% / +39% constant currency、commercial RPO `$627B` / +99%；Meta official 校準 revenue `$56.31B`、EPS `$10.44`、2026 capex guide `$125B-$145B`。Alphabet / Google 數字本次按 Bytc Note 口徑入庫，後續需 official filing 校準；本文不是買賣建議。
+
 - 入庫 `Bytc-20260429-global-military-spending-rearmament-7ea31e0f`：整理 Bytc Substack Note《全球軍費新高與再武裝：國防工業本土化長期趨勢》，追加至 `KOL/Bytc/notes/bytc筆記.md`。Substack Note 正文完整可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」；並以 SIPRI 2026-04-27 official press release 校準 2025 global military expenditure `$2887B`、+2.9%、global military burden 2.5%、Europe +14% 至 `$864B`、Asia and Oceania +8.1%。
 - 更新：同步更新 `indexes/source_index.md`、`indexes/theme_index.md` 與 `indexes/framework_index.md`。本文判定為宏觀國防 / 全球再武裝 / 國防供應鏈本土化短 Note，新增「全球再武裝 / 國防必需需求框架」；無單一 ticker thesis，不更新 `Stocks/`、`indexes/ticker_index.md`、`indexes/catalyst_index.md` 或 watchlist。
 - 備註：Bytc 將全球軍費上升解讀為國防工業從週期性板塊轉向長期結構性必需需求，尤其關注新一代無人機、飛彈系統、AI defense、space security 與本土化供應商。Bytc 文中寫 23 個 NATO 成員達標，SIPRI 方法下為 22 個歐洲 NATO 成員，本次筆記保留口徑差異；本文不是買賣建議。

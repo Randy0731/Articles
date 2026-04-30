@@ -10,6 +10,7 @@
 |---|---|---|---|---|---|---|
 | 2026-04-30 16:16 UTC（台北 2026-05-01 00:16；Substack JSON-LD） | 2026-05-01 | 加密貨幣卡消費與穩定幣支付：Visa 結算佔 90% | Bytc-20260430-crypto-card-stablecoin-visa-settlement-9a5a0d6a | **V** / crypto cards | #加密貨幣, #金融流動性 | 新入庫；短 Note；穩定幣卡與 Visa 結算網路 L1 語境，不更新 Stocks |
 | 2026-04-29 23:32 UTC（台北 2026-04-30 07:32；Substack JSON-LD） | 2026-05-01 | 全球軍費新高與再武裝：國防工業本土化長期趨勢 | Bytc-20260429-global-military-spending-rearmament-7ea31e0f | 無 / global defense contractors basket | #國防科技, #地緣政治, #政策風險 | 新入庫；短 Note；宏觀國防 / 全球再武裝框架，無單一 ticker，不更新 Stocks |
+| 2026-04-29 21:29 UTC（台北 2026-04-30 05:29；Substack JSON-LD） | 2026-05-01 | 四巨頭段考成績單：雲端需求反證 AI 泡沫論 | Bytc-20260429-four-giants-cloud-ai-capex-4b825039 | **AMZN**, **GOOG**, **GOOGL**, **MSFT**, **META**, **NVDA** | #AI基建, #財報, #ReRating, #估值風險 | 新入庫；短 Note；**AMZN** / **GOOGL** L2 同步 Stocks，**MSFT** / **META** / **NVDA** 只更新 ticker 語境 |
 | 2026-04-29（推估；聊天室截圖未顯示時間） | 2026-04-29 | World Cup C-UAS 聊天室：**ONDS** 現場層、**PLTR** / **BBAI** 大腦層 | Bytc-20260429-world-cup-onds-sentrycs-chat-2e8510a5 | **ONDS**, **PLTR**, **BBAI** | #國防科技, #訂單合約, #DualUse, #空地一體, #執行風險 | 新入庫；Substack chat 截圖；**ONDS** L2 同步 `Stocks/ONDS/`，**PLTR** / **BBAI** 只作安檢 / AI brain layer 語境 |
 | 2026-04-28 21:54 UTC（台北 2026-04-29 05:54） | 2026-04-29 | UAE 退出 OPEC：傳統產油國分裂與新能源關鍵材料時代 | Bytc-20260428-uae-opec-exit-new-energy-critical-materials-dad8e8a8 | 無 / energy macro | #大宗商品, #地緣政治, #能源電力, #政策風險 | 新入庫；短 Note；宏觀能源 / OPEC / critical materials framing，不更新 Stocks |
 | 2026-04-28 07:34 UTC（台北 15:34） | 2026-04-28 | 半導體指數估值修復後的倉位風控：不急加倉、先降槓桿 | Bytc-20260428-sox-valuation-risk-reduce-leverage-3aaa6218 | 無（SOX Index） | #半導體設備, #估值風險, #投資與投機 | 新入庫；短 Note；SOX 指數 / 板塊語境，不更新 Stocks |
@@ -527,5 +528,66 @@ Bytc 以 SIPRI 2025 全球軍費資料為基礎，將全球軍事支出連續創
 | 估值提前反映長單可見度 | 全體國防板塊 | 中 | 市場先行重估，但訂單 / margin / cash flow 跟不上 | EV/Sales、P/E、gross margin、cash conversion、guidance revisions | 整理者延伸 |
 
 本文只記錄 Bytc 對全球軍費與國防工業本土化的框架性觀點，不提供買賣建議。
+
+---
+
+## 四巨頭段考成績單：雲端需求反證 AI 泡沫論
+
+- **來源**：[Bytc Substack Note](https://substack.com/@btyc/note/c-251237472)；[Amazon Q1 2026 results](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-First-Quarter-Results/default.aspx)；[Microsoft FY26 Q3 results](https://news.microsoft.com/source/2026/04/29/microsoft-cloud-and-ai-strength-fuels-third-quarter-results/)；[Meta Q1 2026 results](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-First-Quarter-2026-Results/default.aspx)
+- **類型**：Substack Note / 四大科技財報 / AI capex / cloud demand / H100 租金
+- **發文時間**：2026-04-29 21:29 UTC（台北 2026-04-30 05:29；Substack JSON-LD）
+- **整理日期**：2026-05-01
+- **source_id**：Bytc-20260429-four-giants-cloud-ai-capex-4b825039
+- **raw 路徑 / URL**：https://substack.com/@btyc/note/c-251237472（未另存 raw）
+- **OCR 狀態**：不適用
+- **相關 ticker**：**AMZN**, **GOOG**, **GOOGL**, **MSFT**, **META**, **NVDA**
+- **主題 tags**：#AI基建, #財報, #ReRating, #估值風險
+
+### 主旨
+
+Bytc 將 Amazon、Google、Microsoft、Meta 的最新財報放在同一張「四巨頭段考成績單」裡，結論是四家公司 Q1 EPS 與核心收入普遍高於市場預期，雲端需求仍在爆發。這篇的投資含義不是單一公司喊價，而是用 AWS / Google Cloud / Azure / Meta revenue、cloud backlog / RPO 與 H100 租金上漲，反駁「AI capex 全是泡沫」的簡化敘事。
+
+### Ticker 分流
+
+| Ticker | 文章角色 | 交會等級 | 動作 | 理由 |
+|---|---|---|---|---|
+| **AMZN** | AWS / AI capex 需求驗證 | L2 | KOL 主整理 + `Stocks/AMZN/` + ticker index | Bytc 記錄 AWS revenue、Q2 guide 與 2026 capex 語境；Amazon official 校準 Q1 net sales `$181.5B`、EPS `$2.78`、AWS sales `$37.6B` / +28% |
+| **GOOG**, **GOOGL** | Google Cloud / backlog / AI capex 需求驗證 | L2 | KOL 主整理 + `Stocks/GOOGL/` + ticker index | Bytc 記錄 Google Cloud revenue `$20.0B`、cloud backlog `$460B` / +63%；本次未另抓到 Alphabet official Q1 URL，故 Google 數字按 Bytc Note 口徑入庫，後續需 official filing 校準 |
+| **MSFT** | Azure / commercial RPO 對照 | L2 | ticker index | Microsoft official 校準 FY26 Q3 revenue `$82.9B`、EPS `$4.27`、Azure +40% / +39% constant currency、commercial RPO `$627B` / +99%；本 repo 尚未建立 `Stocks/MSFT/` |
+| **META** | AI capex / advertising demand 對照 | L2 | ticker index | Meta official 校準 Q1 revenue `$56.31B`、EPS `$10.44`、2026 capex guide `$125B-$145B`；本 repo 尚未建立 `Stocks/META/` |
+| **NVDA** | H100 租金與 GPU 供需 read-through | L1 | ticker index | Bytc 只提 H100 租賃價格，未直接分析 Nvidia 營收、毛利或估值；只作 AI compute scarcity 產品語境 |
+
+### 核心概念
+
+- **四巨頭財報共同驗證需求**：Bytc 認為四家公司 Q1 EPS 與核心收入均超預期，說明大型科技公司不是只有 capex headline，仍有 cloud / ads / AI demand 的收入端支撐。
+- **AI capex 有需求端理由**：Bytc 的核心句意是「上調資本支出不是沒有原因」，因為全世界仍在搶雲端服務；Google Cloud、Microsoft Azure、Amazon AWS 與 Meta revenue growth 被放在同一條 cloud demand 線上。
+- **GPU 稀缺仍在定價**：Bytc 記錄 H100 租金過去 6 個月由每小時 `$1.70` 升到 `$2.35`，約 +40%，並預期未來 6 個月仍上漲；這是 AI compute 供需仍緊的 read-through，不是 **NVDA** 單股模型。
+
+### 關鍵證據
+
+| 證據 | 出處 | 解讀 |
+|---|---|---|
+| Amazon Q1 net sales `$181.5B`，diluted EPS `$2.78`，AWS segment sales `$37.6B` / +28%，Q2 net sales guide `$194B-$199B` | Amazon official Q1 2026 results | 校準 Bytc 對 **AMZN** / AWS 的財報 beat 與 cloud demand 口徑 |
+| Microsoft FY26 Q3 revenue `$82.9B`，EPS `$4.27`，Azure +40% / +39% constant currency，commercial RPO `$627B` / +99% | Microsoft official FY26 Q3 results | 支撐 Bytc 將 Azure 與 commercial RPO 放進 AI / cloud demand 持續爆發敘事 |
+| Meta Q1 revenue `$56.31B`，EPS `$10.44`，2026 capex guide `$125B-$145B` | Meta official Q1 2026 results | 支撐 Meta 一方面 revenue / EPS beat，另一方面繼續提高 AI infrastructure capex |
+| Google Cloud `$20.0B`、cloud backlog `$460B` / +63%，H100 rental `$1.70` -> `$2.35` / +40% | Bytc Substack Note | Google 與 H100 數字按 Bytc Note 口徑入庫；後續查詢需再用 Alphabet / GPU rental data source 校準 |
+
+### 延伸追蹤
+
+| 日期 | 事件 | 相關 ticker | 影響方向 | 追蹤重點 | 出處 |
+|---|---|---|---|---|---|
+| 未定 | 四巨頭 Q2 / next-quarter cloud demand check | **AMZN**, **GOOG**, **GOOGL**, **MSFT**, **META** | 正面若 cloud growth / RPO / backlog 續強 | AWS revenue / margin、Google Cloud revenue / backlog、Azure growth、MSFT commercial RPO、Meta ad revenue / capex | Bytc Note；company official results |
+| 未定 | H100 / GPU rental pricing 是否維持上行 | **NVDA** / AI compute market | 正面若代表 utilization / scarcity 續強 | H100 / B200 / GB200 rental price、GPU utilization、cloud GPU availability、hyperscaler capex | Bytc Note |
+
+### 風險與反例
+
+| 風險 | 相關 ticker | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|---|
+| 財報 beat 不能自動證明 capex ROI | **AMZN**, **GOOGL**, **MSFT**, **META** | 高 | cloud revenue / RPO 增長無法覆蓋折舊、電力與資料中心成本 | capex、depreciation、FCF、cloud operating margin、utilization | 整理者延伸 |
+| Google 數字需 official filing 校準 | **GOOG**, **GOOGL** | 中 | Bytc Note 與後續 Alphabet filing / transcript 口徑不一致 | Alphabet 10-Q、earnings release、Google Cloud RPO / backlog definition | 整理者延伸 |
+| H100 租金不是 Nvidia revenue 模型 | **NVDA** | 中 | 租金上漲反映短期供需或二級市場稀缺，但不等於 Nvidia ASP / margin 直接上升 | GPU rental price、NVDA data center revenue、gross margin、cloud GPU pricing | 整理者延伸 |
+| Capex 上調壓縮自由現金流 | **AMZN**, **GOOGL**, **MSFT**, **META** | 中高 | AI data center / GPU / power capex 超過收入轉化速度 | FCF, capex-to-revenue, ROIC, data center utilization | Bytc Note；company official results |
+
+本文不提供買賣建議；四巨頭財報資料是 AI capex / cloud demand 框架的證據，不等於任何單股目標價或操作。
 
 ---
