@@ -10,6 +10,7 @@
 |---|---|---|---|---|---|---|
 | 2026-04-30 16:16 UTC（台北 2026-05-01 00:16；Substack JSON-LD） | 2026-05-01 | 加密貨幣卡消費與穩定幣支付：Visa 結算佔 90% | Bytc-20260430-crypto-card-stablecoin-visa-settlement-9a5a0d6a | **V** / crypto cards | #加密貨幣, #金融流動性 | 新入庫；短 Note；穩定幣卡與 Visa 結算網路 L1 語境，不更新 Stocks |
 | 2026-04-29 23:32 UTC（台北 2026-04-30 07:32；Substack JSON-LD） | 2026-05-01 | 全球軍費新高與再武裝：國防工業本土化長期趨勢 | Bytc-20260429-global-military-spending-rearmament-7ea31e0f | 無 / global defense contractors basket | #國防科技, #地緣政治, #政策風險 | 新入庫；短 Note；宏觀國防 / 全球再武裝框架，無單一 ticker，不更新 Stocks |
+| 2026-04-29 22:53 UTC（台北 2026-04-30 06:53；Substack JSON-LD） | 2026-05-01 | 四巨頭 capex 上修至 7100 億：AI 基建需求再加碼 | Bytc-20260429-four-giants-capex-710b-ai-infra-9c630e13 | **AMZN**, **GOOG**, **GOOGL**, **MSFT**, **META** | #AI基建, #財報, #ReRating, #估值風險 | 新入庫；短 Note；**AMZN** / **GOOGL** L2 同步 Stocks，**MSFT** / **META** 只更新 ticker 語境 |
 | 2026-04-29 21:29 UTC（台北 2026-04-30 05:29；Substack JSON-LD） | 2026-05-01 | 四巨頭段考成績單：雲端需求反證 AI 泡沫論 | Bytc-20260429-four-giants-cloud-ai-capex-4b825039 | **AMZN**, **GOOG**, **GOOGL**, **MSFT**, **META**, **NVDA** | #AI基建, #財報, #ReRating, #估值風險 | 新入庫；短 Note；**AMZN** / **GOOGL** L2 同步 Stocks，**MSFT** / **META** / **NVDA** 只更新 ticker 語境 |
 | 2026-04-29（推估；聊天室截圖未顯示時間） | 2026-04-29 | World Cup C-UAS 聊天室：**ONDS** 現場層、**PLTR** / **BBAI** 大腦層 | Bytc-20260429-world-cup-onds-sentrycs-chat-2e8510a5 | **ONDS**, **PLTR**, **BBAI** | #國防科技, #訂單合約, #DualUse, #空地一體, #執行風險 | 新入庫；Substack chat 截圖；**ONDS** L2 同步 `Stocks/ONDS/`，**PLTR** / **BBAI** 只作安檢 / AI brain layer 語境 |
 | 2026-04-28 21:54 UTC（台北 2026-04-29 05:54） | 2026-04-29 | UAE 退出 OPEC：傳統產油國分裂與新能源關鍵材料時代 | Bytc-20260428-uae-opec-exit-new-energy-critical-materials-dad8e8a8 | 無 / energy macro | #大宗商品, #地緣政治, #能源電力, #政策風險 | 新入庫；短 Note；宏觀能源 / OPEC / critical materials framing，不更新 Stocks |
@@ -589,5 +590,67 @@ Bytc 將 Amazon、Google、Microsoft、Meta 的最新財報放在同一張「四
 | Capex 上調壓縮自由現金流 | **AMZN**, **GOOGL**, **MSFT**, **META** | 中高 | AI data center / GPU / power capex 超過收入轉化速度 | FCF, capex-to-revenue, ROIC, data center utilization | Bytc Note；company official results |
 
 本文不提供買賣建議；四巨頭財報資料是 AI capex / cloud demand 框架的證據，不等於任何單股目標價或操作。
+
+---
+
+## 四巨頭 capex 上修至 7100 億：AI 基建需求再加碼
+
+- **來源**：[Bytc Substack Note](https://substack.com/@btyc/note/c-251274427)；[Amazon Q4 2025 results](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/default.aspx)；[Microsoft FY26 Q3 earnings call](https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q3)；[Alphabet Q1 2026 results / SEC exhibit](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000043/googexhibit991q12026.htm)；[Meta Q1 2026 results](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-First-Quarter-2026-Results/default.aspx)
+- **類型**：Substack Note / 四大科技 capex / AI infrastructure / hyperscaler demand
+- **發文時間**：2026-04-29 22:53 UTC（台北 2026-04-30 06:53；Substack JSON-LD）
+- **整理日期**：2026-05-01
+- **source_id**：Bytc-20260429-four-giants-capex-710b-ai-infra-9c630e13
+- **raw 路徑 / URL**：https://substack.com/@btyc/note/c-251274427（未另存 raw）
+- **OCR 狀態**：不適用
+- **相關 ticker**：**AMZN**, **GOOG**, **GOOGL**, **MSFT**, **META**
+- **主題 tags**：#AI基建, #財報, #ReRating, #估值風險
+
+### 主旨
+
+Bytc 在前一則四巨頭財報檢查後，補上 2026 年大型科技資本支出估計的上修：原本合計約 `$665B`，目前合計約 `$710B`。這篇的重點不是單一公司買賣訊號，而是 hyperscaler 在財報後仍繼續擴大 AI / cloud infrastructure capex，強化「需求仍吃緊、更多基礎設施還要被建出來」的框架。
+
+### Ticker 分流
+
+| Ticker | 文章角色 | 交會等級 | 動作 | 理由 |
+|---|---|---|---|---|
+| **AMZN** | 四巨頭 capex 基準 / AWS AI infrastructure | L2 | KOL 主整理 + `Stocks/AMZN/` + ticker index | Bytc 記錄 Amazon 2026 capex `$200B` 維持不變；Amazon official Q4 2025 已校準 Jassy 對 2026 約 `$200B` capex 的表述 |
+| **GOOG**, **GOOGL** | Google / Alphabet capex 上修與 Cloud AI demand | L2 | KOL 主整理 + `Stocks/GOOGL/` + ticker index | Bytc 記錄 Google capex 從約 `$165B` 上修至 `$185B`；Alphabet Q1 official release 校準 Q1 capex `$35.7B`，但 full-year capex range 仍需用 official transcript / 10-Q 持續校準 |
+| **MSFT** | Azure / AI cloud capacity capex 上修 | L2 | ticker index | Bytc 記錄 Microsoft 從約 `$175B` 上修至 `$190B`；Microsoft FY26 Q3 call 校準 calendar 2026 capex 約 `$190B`，含約 `$25B` component pricing impact |
+| **META** | AI infra / component pricing capex 上修 | L2 | ticker index | Bytc 記錄 Meta 從 `$125B` 上修至 `$135B`；Meta official Q1 2026 guide 為 `$125B-$145B`，較先前 `$115B-$135B` 上修 |
+
+### 核心概念
+
+- **Capex 上修是同一條需求曲線**：Bytc 將 Amazon、Microsoft、Google、Meta 合計 2026 capex 從約 `$665B` 上修至約 `$710B`，視為 AI / cloud infrastructure 需求繼續拉高，而不是財報後降溫。
+- **上修集中在 Microsoft、Google、Meta**：Amazon 維持 `$200B`，Microsoft +`$15B`、Google +`$20B`、Meta +`$10B`；這讓前一則「四巨頭財報 beat + cloud demand」的結論更偏向需求端驗證。
+- **Capex 仍是雙面訊號**：更多基礎設施代表 demand visibility / compute scarcity，但也會提高折舊、電力、資料中心、component pricing 與 FCF 壓力；後續必須用 revenue conversion 和 margin 驗證。
+
+### 關鍵證據
+
+| 項目 | Bytc 原估 | Bytc 最新估計 | 變化 | 校準 / 限制 |
+|---|---:|---:|---:|---|
+| Amazon | `$200B` | `$200B` | 維持 | Amazon official Q4 2025 校準 Jassy 2026 capex 約 `$200B` |
+| Microsoft | 約 `$175B` | `$190B` | +`$15B` | Microsoft FY26 Q3 call 校準 calendar 2026 capex 約 `$190B`，含約 `$25B` component pricing impact |
+| Google / Alphabet | 約 `$165B` | `$185B` | +`$20B` | Bytc 口徑；Alphabet Q1 official release 校準 Q1 capex `$35.7B`，full-year guide 需後續 official transcript / 10-Q 校準 |
+| Meta | `$125B` | `$135B` | +`$10B` | Meta official Q1 guide 為 `$125B-$145B`，較先前 `$115B-$135B` 上修 |
+| 合計 | 約 `$665B` | 約 `$710B` | +約 `$45B` | Bytc 估計口徑；用於追蹤 hyperscaler AI infrastructure capex trend |
+
+### 延伸追蹤
+
+| 日期 / 頻率 | 事件 | 相關 ticker | 影響方向 | 追蹤重點 | 出處 |
+|---|---|---|---|---|---|
+| 每季 | 四巨頭 capex 是否繼續上修，且是否轉成 cloud / AI revenue | **AMZN**, **GOOG**, **GOOGL**, **MSFT**, **META** | 正面若 revenue / backlog / utilization 同步走強 | capex、depreciation、FCF、cloud revenue、RPO / backlog、data center utilization | Bytc Note；company official results |
+| 2026 年內 | Component pricing / memory / GPU / power 是否推高 capex | **AMZN**, **GOOGL**, **MSFT**, **META** | 未定 | component pricing、memory cost、GPU supply、power procurement、finance leases | Microsoft / Meta official commentary；整理者延伸 |
+| 後續 Alphabet filing | Google capex range 與 backlog / Cloud 口徑校準 | **GOOG**, **GOOGL** | 未定 | 10-Q、IR transcript、CapEx range、Google Cloud revenue / backlog definition | Bytc Note；Alphabet official filing |
+
+### 風險與反例
+
+| 風險 | 相關 ticker | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|---|
+| Capex headline 被過度樂觀解讀 | **AMZN**, **GOOGL**, **MSFT**, **META** | 高 | 市場只看建設額上修，忽略收入轉化、折舊、電力與 FCF | capex-to-revenue、depreciation、FCF、ROIC、cloud margin | 整理者延伸 |
+| Component pricing / memory inflation | **AMZN**, **GOOGL**, **MSFT**, **META** | 中高 | 上修主要來自零組件漲價而非實體 capacity 增加 | memory price、GPU / server ASP、Microsoft / Meta component pricing commentary | Microsoft / Meta official commentary |
+| Google full-year capex 口徑需校準 | **GOOG**, **GOOGL** | 中 | Bytc `$185B` 與後續 official transcript / 10-Q 口徑不同 | Alphabet 10-Q、IR transcript、earnings release | Bytc Note；整理者判斷 |
+| Capex crowding-out FCF | **AMZN**, **GOOGL**, **MSFT**, **META** | 高 | AI infrastructure 建設速度快於 cloud / ads / AI product monetization | operating cash flow、FCF、depreciation、cloud operating income、utilization | 整理者延伸 |
+
+本文不提供買賣建議；此 Note 是 AI 基建 capex trend 的資料點，不能單獨替代任何公司財報模型。
 
 ---

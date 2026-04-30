@@ -6,6 +6,7 @@
 
 | 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
 |---|---|---|---|---|---|---|
+| 2026-04-29 22:53 UTC | 2026-05-01 | Bytc 對 **GOOGL** 的觀點摘要：Google capex 上修至 1850 億與四巨頭 AI 基建加碼 | Bytc-20260429-four-giants-capex-710b-ai-infra-9c630e13 | **GOOG**, **GOOGL**, **AMZN**, **MSFT**, **META** | #AI基建 #財報 #ReRating #估值風險 | L2；Google `$185B` 為 Bytc 口徑，Alphabet official release 校準 Q1 capex `$35.7B`，full-year range 待 official transcript / 10-Q 校準 |
 | 2026-04-29 21:29 UTC | 2026-05-01 | Bytc 對 **GOOGL** 的觀點摘要：Google Cloud、四巨頭財報與 AI capex 泡沫論校驗 | Bytc-20260429-four-giants-cloud-ai-capex-4b825039 | **GOOG**, **GOOGL**, **AMZN**, **MSFT**, **META**, **NVDA** | #AI基建 #財報 #ReRating #估值風險 | L2；Google Cloud / backlog 數字按 Bytc Note 口徑入庫，待 official filing 校準 |
 | 2026-04-25 03:06 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google TPU 8、HBM / SRAM、供應鏈分工與系統定義者 | KP_FOMOSoc-20260425-kp-thinking-note-39-asml-high-na-asts-tpu8-intel-servicenow-jpm-private-credit-6995e281 | **GOOG**, **GOOGL**, **AVGO**, **2454.TW**, **MRVL**, **TSM**, **INTC** | #AI基建 #雲端基建 #Memory #先進封裝 #競爭風險 #執行風險 #ReRating | L3；Google TPU 8 memory stack / supplier split 將 Google 從 chip designer 升級為 system definer |
 | 2026-04-18 02:45 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Marvell SRAM inference engine、Gemini latency 與 custom silicon second source | KP_FOMOSoc-20260418-kp-thinking-note-38-tsla-ai5-google-marvell-amzn-globalstar-tsmc-coreweave-luxury-1323d111 | **GOOG**, **GOOGL**, **MRVL**, **AVGO**, **TSM** | #AI基建 #雲端基建 #競爭風險 #執行風險 #ReRating | L2；Google Cloud AI inference TCO / memory hierarchy / supplier diversification 補強 |
@@ -272,5 +273,61 @@ Bytc 將 Google 放進四大科技財報橫向比較，核心是 Google Cloud re
 ### 呼應連結
 
 > 呼應 KP 2026-04-25 Google TPU 8、KP 2026-04-18 Google / Marvell SRAM inference，以及大叔 2026-02-21 Alphabet capex / century bond thesis：Bytc 這篇補的是最新 cloud demand 橫向財報檢查點。
+
+---
+
+## Bytc 對 **GOOGL** 的觀點摘要：Google capex 上修至 1850 億與四巨頭 AI 基建加碼
+
+- **來源 KOL**：Bytc
+- **原文主整理**：`KOL/Bytc/notes/bytc筆記.md`
+- **原始來源**：https://substack.com/@btyc/note/c-251274427；https://www.sec.gov/Archives/edgar/data/1652044/000165204426000043/googexhibit991q12026.htm
+- **source_id**：Bytc-20260429-four-giants-capex-710b-ai-infra-9c630e13
+- **raw 路徑 / URL**：URL（未另存 raw）
+- **OCR 狀態**：不適用
+- **類型**：Substack Note / 四大科技 capex / Google AI infrastructure / hyperscaler demand
+- **發文時間**：2026-04-29 22:53 UTC（台北 2026-04-30 06:53）
+- **整理日期**：2026-05-01
+- **交會等級**：L2
+- **事件類型**：AI capex guidance / Google Cloud AI infrastructure / hyperscaler spending
+- **主題 / 母題標籤**：#AI基建 #財報 #ReRating #估值風險 #執行風險
+
+### 對 **GOOGL** 的影響
+
+Bytc 將 Google 2026 capex 從約 `$165B` 上修至約 `$185B`，並把它放進四巨頭合計 capex 約 `$710B` 的 AI infrastructure spending map。對 **GOOGL** 的增量是 L2：這補強大叔 2026-02-21 Alphabet capex / 百年債 / energy moat thesis，以及 KP TPU / Cloud AI infrastructure 系列脈絡，但仍不是單篇改寫 Search / Cloud 主 thesis 的 L3 / L4 事件。
+
+資料限制：Bytc 的 Google `$185B` 是本次 Note 口徑；Alphabet Q1 official release 已可校準 Q1 purchases of property and equipment 約 `$35.7B`，但 full-year guidance range 仍需等 official transcript / 10-Q 或後續 IR 文件校準。本筆記先記為 Bytc 口徑，不把 `$185B` 寫成已完成 official filing 驗證的唯一數字。
+
+### 觀點摘要
+
+| 面向 | 內容 |
+|---|---|
+| **立場** | 偏正面但需驗證；Bytc 認為四巨頭 capex 持續上修代表 AI 基建仍需要更多建設 |
+| **關鍵數字** | Google capex Bytc 口徑從約 `$165B` 上修至 `$185B`；四巨頭合計約 `$710B` |
+| **基本面含義** | 若 Google Cloud / TPU / AI Search 能消化 capex，這支持 Alphabet AI infrastructure utility thesis；若 monetization 不及，折舊與 FCF 壓力會加重 |
+| **驗證點** | capex、depreciation、FCF、Google Cloud revenue / margin、AI Search monetization、TPU external adoption、energy milestones |
+| **主要風險** | Full-year capex 口徑待 official 校準；上修可能是 demand 強，也可能是 component pricing / power / data center 成本上升 |
+
+### 關鍵證據
+
+| 證據 | 解讀 |
+|---|---|
+| Bytc 記錄 Google 從約 `$165B` 上修至 `$185B` | Google 在四巨頭 capex 上修中是主要增量之一，對 GOOGL AI infra thesis 是需求端 / 建設端補強 |
+| Bytc 記錄四巨頭合計從約 `$665B` 上修至約 `$710B` | Alphabet 不只是單家公司提高 AI capex，而是身處整個 hyperscaler infrastructure upcycle |
+| Alphabet Q1 2026 official release 記錄 Q1 purchases of property and equipment 約 `$35.7B` | 官方可校準當季 capex run-rate，但 full-year `$185B` 仍需後續 official 文件 / transcript 校準 |
+
+### 風險表
+
+| 風險 | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|
+| Full-year capex 口徑需校準 | 高 | Bytc `$185B` 與後續 official transcript / 10-Q / IR 文件不一致 | Alphabet 10-Q、IR transcript、capex guide、PPE purchases | Bytc Note；整理者判斷 |
+| Capex / depreciation 壓縮 FCF | 高 | Google Cloud / AI Search / TPU monetization 無法吸收新增 capex | depreciation、FCF、Cloud operating margin、AI Search margin | Bytc Note；既有大叔 / KP thesis |
+| Component pricing / power cost 上升 | 中高 | 上修來自 memory、GPU、server、data center power 成本上升，而非可售 capacity 同比增加 | component pricing、power procurement、data center cost、capex efficiency | Microsoft / Meta official commentary；整理者延伸 |
+| Hyperscaler 同步擴產壓 pricing | 中 | Microsoft / Amazon / Meta 同步擴建 capacity，未來 AI compute pricing 或 utilization 壓力上升 | cloud pricing、utilization、reserved capacity、GPU rental price | Bytc Note；整理者判斷 |
+
+### 呼應連結
+
+> 呼應 Bytc 2026-04-29《四巨頭段考成績單》：前一則補 Google Cloud / backlog 的 demand check，本篇補 Google capex 上修與四巨頭 spending map。
+
+> 呼應大叔 2026-02-21 Alphabet capex / 百年債 / energy moat thesis，以及 KP TPU 8 / Google Cloud AI infrastructure 系列：capex 上修會提高 moat 的可能性，也同時提高折舊、FCF 與 ROIC 的驗證壓力。
 
 ---
