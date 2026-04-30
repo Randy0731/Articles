@@ -260,6 +260,37 @@ stock_projects:
       - "#競爭風險"
       - "#併購"
 
+  FCX:
+    aliases:
+      - "FCX"
+      - "Freeport-McMoRan"
+      - "Freeport-McMoRan Inc."
+      - "Freeport"
+      - "PT Freeport Indonesia"
+      - "Grasberg"
+    root: "Stocks/FCX"
+    raw_dir: "Stocks/FCX/raw"
+    notes_dir: "Stocks/FCX/notes"
+    quarterly_dir: "Stocks/FCX/quarterly"
+    milestones_dir: "Stocks/FCX/milestones"
+    longform_dir: "Stocks/FCX/longform"
+    dashboard: "Stocks/FCX/FCX_儀表板.md"
+    stock_index: "Stocks/FCX/FCX_index.md"
+    current_quarter_file_pattern: "FCX_筆記_YYYYQN.md"
+    milestone_file_pattern: "FCX_里程碑_[文章標題].md"
+    longform_file_pattern: "FCX_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    theme_tags:
+      - "#財報"
+      - "#大宗商品"
+      - "#AI基建"
+      - "#能源電力"
+      - "#ReRating"
+      - "#估值風險"
+      - "#執行風險"
+      - "#地緣政治"
+
   GOOGL:
     aliases:
       - "GOOGL"

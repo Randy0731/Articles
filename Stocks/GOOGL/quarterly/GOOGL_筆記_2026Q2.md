@@ -6,12 +6,59 @@
 
 | 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
 |---|---|---|---|---|---|---|
+| 2026-04-30 05:34（Substack 頁面顯示；時區未確認） | 2026-05-01 | 大叔美股筆記 對 **GOOGL** 的觀點摘要：Search 查詢創高、Cloud +63%、Gemini / Waymo momentum | 大叔美股筆記-20260430-google-q1-search-cloud-gemini-waymo-8f5e7392 | **GOOG**, **GOOGL** | #AI基建 #財報 #ReRating #競爭風險 | L3；大叔回顧 170 以下開始接 Google，並以 Q1 Search / Cloud / Gemini / Waymo 數據補強 Search not dead thesis；無新買點或目標價 |
 | 2026-04-29 22:53 UTC | 2026-05-01 | Bytc 對 **GOOGL** 的觀點摘要：Google capex 上修至 1850 億與四巨頭 AI 基建加碼 | Bytc-20260429-four-giants-capex-710b-ai-infra-9c630e13 | **GOOG**, **GOOGL**, **AMZN**, **MSFT**, **META** | #AI基建 #財報 #ReRating #估值風險 | L2；Google `$185B` 為 Bytc 口徑，Alphabet official release 校準 Q1 capex `$35.7B`，full-year range 待 official transcript / 10-Q 校準 |
 | 2026-04-29 21:29 UTC | 2026-05-01 | Bytc 對 **GOOGL** 的觀點摘要：Google Cloud、四巨頭財報與 AI capex 泡沫論校驗 | Bytc-20260429-four-giants-cloud-ai-capex-4b825039 | **GOOG**, **GOOGL**, **AMZN**, **MSFT**, **META**, **NVDA** | #AI基建 #財報 #ReRating #估值風險 | L2；Google Cloud / backlog 數字按 Bytc Note 口徑入庫，待 official filing 校準 |
 | 2026-04-25 03:06 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google TPU 8、HBM / SRAM、供應鏈分工與系統定義者 | KP_FOMOSoc-20260425-kp-thinking-note-39-asml-high-na-asts-tpu8-intel-servicenow-jpm-private-credit-6995e281 | **GOOG**, **GOOGL**, **AVGO**, **2454.TW**, **MRVL**, **TSM**, **INTC** | #AI基建 #雲端基建 #Memory #先進封裝 #競爭風險 #執行風險 #ReRating | L3；Google TPU 8 memory stack / supplier split 將 Google 從 chip designer 升級為 system definer |
 | 2026-04-18 02:45 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Marvell SRAM inference engine、Gemini latency 與 custom silicon second source | KP_FOMOSoc-20260418-kp-thinking-note-38-tsla-ai5-google-marvell-amzn-globalstar-tsmc-coreweave-luxury-1323d111 | **GOOG**, **GOOGL**, **MRVL**, **AVGO**, **TSM** | #AI基建 #雲端基建 #競爭風險 #執行風險 #ReRating | L2；Google Cloud AI inference TCO / memory hierarchy / supplier diversification 補強 |
 | 2026-04-11 02:54 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Intel Xeon + IPU 與 AI balanced system | KP_FOMOSoc-20260411-kp-thinking-note-37-intel-claude-ai-amazon-capex-e8155b80 | **GOOG**, **GOOGL**, **INTC**, **AMD**, **ARM**, **NVDA** | #AI基建 #雲端基建 #競爭風險 #執行風險 #ReRating | L2；Google Cloud AI infrastructure TCO / CPU + IPU 合作補強 |
 | 2026-04-04 03:10 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：平台設計責任、Google Quantum AI 與 crypto PQC 倒數 | KP_FOMOSoc-20260404-kp-thinking-note-36-nvidia-marvell-google-quantum-intel-nike-buffett-11812b9b | **GOOG**, **GOOGL**, **META**, **BTC**, **ETH**, **SOL**, **IBM**, **IONQ** | #監管審批 #政策風險 #量子運算 #加密貨幣 #競爭風險 #執行風險 #估值風險 | L2；平台設計責任 / Section 230 繞道與 Google Quantum AI / PQC 遷移 read-through |
+
+---
+
+## 大叔美股筆記 對 **GOOGL** 的觀點摘要：Search 查詢創高、Cloud +63%、Gemini / Waymo momentum
+
+- **來源 KOL**：大叔美股筆記
+- **原文主整理**：`KOL/大叔美股筆記/notes/大叔美股筆記.md`
+- **原始來源**：https://substack.com/@unclestocknotes/note/c-251398779；https://io.google/2026/
+- **source_id**：大叔美股筆記-20260430-google-q1-search-cloud-gemini-waymo-8f5e7392
+- **raw 路徑 / URL**：URL（未另存 raw；Substack Note 文字可讀）
+- **OCR 狀態**：不適用
+- **類型**：Substack Note / Google CEO Q1 statement / Search / Cloud / Gemini / Waymo
+- **發文時間**：2026-04-30 05:34（Substack 頁面顯示；時區未確認）
+- **整理日期**：2026-05-01
+- **交會等級**：L3
+- **事件類型**：Google Q1 Search / Cloud / AI usage / Waymo / Google I/O
+- **主題 / 母題標籤**：#AI基建 #財報 #ReRating #競爭風險
+
+### 對 **GOOGL** 的影響
+
+大叔回顧一年前市場擔心 Google Search 被 OpenAI 取代時，他從 170 以下開始接 Google，並把這筆操作視為自己的「驕傲之舉」之一。這是大叔對 **GOOGL** / **GOOG** 的持倉 conviction 補強；頁面當前可讀內容沒有新買點、目標價或加碼指令。
+
+這則 Note 的增量在於 Q1 口徑：Search queries reached all-time high、Google Cloud revenue +63%、Gemini / AI subscriptions / AI Mode engagement 創高、Search daily AI interactions 超過 5B，以及 Waymo fully autonomous miles `2.1M`、y/y +300%。這些資料共同補強「AI 沒有殺死 Search，反而可能擴大 engagement 與 Cloud / Gemini monetization」的 thesis；仍需用 Alphabet official filing / transcript 校準 Cloud 口徑、Search monetization 與 capex / FCF 壓力。
+
+### 觀點摘要
+
+| 面向 | 內容 |
+|---|---|
+| **立場** | 偏多 / conviction 補強；大叔歷史買入語境是 170 以下開始接，非當前買賣建議 |
+| **Search** | CEO 口徑稱 Search queries 創歷史新高，反駁 Search 被 AI 直接替代的敘事 |
+| **Cloud / Gemini** | Google Cloud revenue +63%；Gemini momentum、consumer AI subscriptions 與 AI Mode engagement 創高 |
+| **Waymo** | fully autonomous miles `2.1M`、y/y +300%，補強 Alphabet real-world AI optionality |
+| **近程催化** | Google I/O 2026 官方日期為 2026-05-19 至 2026-05-20，需追 AI Search / Gemini / Cloud roadmap 與 monetization 線索 |
+
+### 風險表
+
+| 風險 | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|
+| Search engagement 不等於 monetization | 高 | AI Mode / AI answers 提升 usage，但 ad load、paid clicks、conversion 或 RPM 下降 | Search revenue、paid clicks、TAC、AI ad formats、conversion attribution | 大叔 Note / 既有 Bytc thesis |
+| Cloud +63% 需 official 口徑校準 | 高 | Note / CEO excerpt 與 10-Q / transcript 定義或 growth base 不一致 | Google Cloud revenue、operating margin、RPO / backlog、capex | 大叔 Note / 整理者判斷 |
+| Capex / depreciation 壓力 | 高 | Search / Cloud AI usage 成長但 FCF / margin 被 compute cost 吃掉 | capex、depreciation、FCF、Cloud margin、cost per query | 大叔 / Bytc / KP 既有 thesis |
+| Waymo optionality 尚未變成可量化 earnings | 中 | autonomous miles 成長但 unit economics / revenue 未披露 | rides、revenue、cost per mile、insurance / safety incidents、regulatory approvals | 大叔 Note / 整理者判斷 |
+
+### 呼應連結
+
+> 呼應大叔 2026-02-21 Alphabet capex / 百年債 / AI 基建護城河 thesis，以及 Bytc 2026-04-29 Google Cloud demand / capex 上修：大叔這則補上自身持倉 conviction 與 Q1 後 Search / Cloud / Gemini / Waymo engagement 驗證。
 
 ---
 

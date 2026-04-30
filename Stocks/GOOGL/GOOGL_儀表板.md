@@ -1,11 +1,12 @@
 # GOOGL 投資儀表板
 
-> 最後更新：2026-05-01（補入 Bytc 2026-04-29 L2：Google capex 上修至 `$185B` 與四巨頭 AI infrastructure spending map；Google full-year 口徑待 official transcript / 10-Q 校準）
+> 最後更新：2026-05-01（補入大叔 2026-04-30 L3：Google Q1 Search / Cloud / Gemini / Waymo conviction；Bytc 2026-04-29 L2：Google capex 上修至 `$185B` 與四巨頭 AI infrastructure spending map；Google full-year 口徑待 official transcript / 10-Q 校準）
 
 ## 當前立場快照
 
 - **綜合立場**：**GOOGL** / **GOOG** 目前的追蹤核心是「Search / Services 現金流 + Google Cloud / AI monetization + AI 基建資本成本 moat」。大叔把 2026 capex、百年債與能源垂直整合視為 Alphabet 從輕資產軟體巨頭轉向 AI infrastructure utility 的里程碑。
 - **大叔最新立場**：長線隱含偏多，但短期必須用 capex、depreciation、FCF、Cloud AI revenue、AI Search monetization 與 energy milestones 來驗證。
+- **本次補入的大叔 2026-04-30 Google Q1 Note**：大叔回顧一年前市場擔心 Search 被 OpenAI 取代時，他從 170 以下開始接 Google，並把這筆操作視為「驕傲之舉」之一；這是 L3 conviction 補強，非當前買點或目標價。Note 轉述 Q1 口徑：Search queries ATH、Google Cloud +63%、Search daily AI interactions >5B、Waymo autonomous miles `2.1M` / +300%，另把 2026-05-19 至 05-20 Google I/O 放進近程催化劑。
 - **本次補入的 Bytc 2026-04-29 四巨頭財報檢查**：Bytc 將 Google Cloud `$20.0B`、cloud backlog `$460B` / +63% 放進四巨頭財報 beat 與 cloud demand mosaic，認為這讓 AI capex 泡沫論變難成立。對 **GOOGL** 的增量是 L2 demand validation；但 Google 數字本次按 Bytc Note 口徑入庫，需後續用 Alphabet official filing 校準 backlog / RPO 定義。
 - **本次補入的 Bytc 2026-04-29 capex 上修檢查**：Bytc 將 Google 2026 capex 從約 `$165B` 上修至 `$185B`，並把四巨頭合計 capex 從約 `$665B` 上修至約 `$710B`。對 **GOOGL** 的增量是 AI 基建 spending map 繼續擴大，正面支持 Cloud / TPU / AI Search infrastructure moat，但也提高 depreciation、FCF、power cost、component pricing 與 ROIC 檢查強度；`$185B` 先記為 Bytc 口徑，待 official transcript / 10-Q 校準。
 - **Bytc 歷史脈絡**：Bytc 先把 **GOOG** / **GOOGL** 放入 UTILIZE / Nest / VPP、AI Native 底層協議資本閉環與 AI Search 印鈔機變貴框架；大叔這篇補上資本結構與能源底層。2026-01-24 大美麗法案 VI 又補一個政策限制：data center 是服務基礎設施，不是先進製造，不能拿 §48D；海外 R&D 仍需 15 年攤銷，可能影響 Google 全球研發配置。
@@ -36,6 +37,7 @@
 
 | 類型 | 數字 | 來源 | 解讀 |
 |---|---|---|---|
+| 大叔 2026-04-30 Google Q1 anchors | Search queries ATH；Google Cloud revenue +63%；Search daily AI interactions >5B；Waymo fully autonomous miles `2.1M` / +300%；Google I/O 2026 為 2026-05-19 至 05-20 | 大叔 Substack Note；Google I/O official page | L3 conviction 補強；170 以下是大叔歷史買入語境，非當前買點；需追 Search monetization、Cloud margin、capex / FCF 與 I/O roadmap |
 | Bytc 2026-04-29 Google capex update | Google capex Bytc 口徑從約 `$165B` 上修至 `$185B`；四巨頭合計約 `$710B`、原估約 `$665B` | Bytc Substack Note；Alphabet Q1 official release 校準 Q1 PPE purchases `$35.7B` | L2 spending validation；full-year `$185B` 仍待 official transcript / 10-Q 校準，不能直接替代 Alphabet official guidance |
 | Bytc 2026-04-29 Google Cloud demand check | Google Cloud revenue `$20.0B`、cloud backlog `$460B` / +63%；total revenue `$109.9B`、EPS `$5.11` | Bytc Substack Note | L2 demand validation；待 Alphabet official filing 校準，不能直接替代 10-Q / earnings release |
 | Capex guidance anchor | 2026 capex 約 `$1,750 億-$1,850 億美元` | 大叔文章 / references | AI infrastructure thesis 的核心壓力測試 |
@@ -77,12 +79,14 @@
 
 | 日期 | 事件 | 狀態 | 追蹤重點 | 來源 |
 |---|---|---|---|---|
+| 2026-05-19 至 2026-05-20 | Google I/O 2026 | 待發生 | AI Search / AI Mode、Gemini、Cloud AI / TPU、developer adoption、Waymo / Android roadmap 是否轉成 monetization 線索 | Google official I/O page；大叔 2026-04-30 Note |
 | 2026-04-29 | Microsoft、Meta、Amazon、Google 財報，檢查 AI capex 是否轉成 real profit | 待確認 / KOL 預告 | Alphabet capex / depreciation、Cloud revenue、AI product revenue、margin、FCF 與 guidance | `KOL/Bytc/articles/20260425_macro_data_weekly_20260423.md` |
 
 ## 已兌現 / 歷史里程碑
 
 | 日期 | 事件 | 狀態 | 結果 / 含義 | 來源 |
 |---|---|---|---|---|
+| 2026-04-30 | 大叔 Google Q1 Note：Search 查詢創高、Cloud +63%、Gemini / Waymo momentum | 已整理 / L3 | 補上大叔持倉 conviction：170 以下開始接 Google是歷史買入語境；Q1 口徑補強 Search not dead、Cloud / Gemini / Waymo momentum，但需用官方 filings 校準 monetization、margin、capex / FCF | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md` |
 | 2026-04-25 | KP 思考筆記第39期：Google TPU 8 / HBM + SRAM / system-definer 供應鏈分工 | 已整理 / L3 | 補上 Google TPU 8t / 8i 的 training vs inference 分流、HBM / SRAM / MPU memory stack 與 Broadcom / MediaTek / Marvell / Intel 分工；對 GOOGL 是 Cloud AI TCO / TPU moat 補強，仍需 revenue / margin / external adoption 驗證 | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md` |
 | 2026-04-18 | KP 思考筆記第38期：Google / Marvell SRAM inference engine | 已整理 / L2 | 補上 Google Cloud / Gemini inference 的 memory hierarchy 線索：SRAM-based compute engine 可能降低 latency / power，Marvell 是 second source 與系統級 TCO 補位，不是 Broadcom replacement | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md` |
 | 2026-04-11 | KP 思考筆記第37期：Google / Intel Xeon + custom IPU | 已整理 / L2 | 補上 Google Cloud AI infrastructure 的 CPU / IPU 分層脈絡：agentic inference 需要 CPU orchestration，IPU 則把 networking / storage / security offload；對 GOOGL 是 TCO / efficiency 補強，但不改變 Search / Cloud / capex 主 thesis | `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md` |

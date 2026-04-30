@@ -10,6 +10,7 @@
 - **INTC**
 - **TXN**
 - **IBM**
+- **FCX**
 - **GOOGL**
 - **AMZN**
 - **LRCX**

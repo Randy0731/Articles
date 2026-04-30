@@ -2,6 +2,18 @@
 
 ## 2026-05-01
 
+- 入庫 `大叔美股筆記-20260430-freeport-mcmoran-fcx-2026-q1-copper-grasberg-abe5d406`：整理大叔美股筆記 Substack 文章《Freeport-McMoRan **FCX** 2026 Q1財報分享》，建立 `KOL/大叔美股筆記/articles/20260430_freeport_mcmoran_fcx_2026_q1_uncle.md`，並複製使用者提供之 10 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20260430_大叔美股筆記_freeport_mcmoran_fcx_2026_q1_大叔美股筆記-20260430-freeport-mcmoran-fcx-2026-q1-copper-grasberg-abe5d406.pdf`。PDF 為 image-only，p.1-p.7 為核心正文 / 免責聲明，p.8-p.10 為 comments / 推薦文章 / footer；OCR 狀態標「部分」，核心內容可可靠判讀，未偵測截斷。
+- 更新：正式建立 `Stocks/FCX/` 專案，新增 `Stocks/FCX/quarterly/FCX_筆記_2026Q2.md`、`Stocks/FCX/quarterly/FCX_筆記_2026Q1.md`、`Stocks/FCX/FCX_index.md`、`Stocks/FCX/FCX_儀表板.md`，並更新 `kol_config.yaml`、`Stocks/README.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/watchlist_index.md`、`indexes/catalyst_index.md`、`indexes/framework_index.md` 與 private raw manifest。歷史回查補入大叔 2026-01-18 能源獨立籃子與 Bytc 2026-04-23 銅長文，將 **FCX** watchlist 狀態改為已升級。
+- 備註：Freeport official Q1 2026 release 校準 revenue `$6.234B`、adjusted EPS `$0.57`、copper sales `662M lbs`、realized copper price `$5.78/lb`、unit net cash cost `$1.91/lb`、Grasberg wet muck ramp、Indonesia extension MoU、El Abra EIS 與 leaching initiatives。本文新增「Price over Volume / 銅價現金流放大器框架」與「礦權延長 / Terminal Value Unlock 框架」；大叔 DCF / 情境估值均為 KOL 口徑，不是本專案建議。
+
+- 入庫 `大叔美股筆記-20260430-google-q1-search-cloud-gemini-waymo-8f5e7392`：整理大叔美股筆記 Substack Note《**GOOGL** Q1：Search 查詢創高、Cloud +63%、Gemini / Waymo momentum》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。Substack Note 當前可讀內容完整，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」。
+- 更新：同步追加 `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md`，並更新 `Stocks/GOOGL/GOOGL_index.md`、`Stocks/GOOGL/GOOGL_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。**GOOG** / **GOOGL** 判定 L3 tracked stock 補強。
+- 備註：大叔回顧自己在 170 以下開始接 Google，並轉述 Q1 口徑：Search queries ATH、Google Cloud +63%、Gemini / AI subscriptions / AI Mode engagement ATH、Search daily AI interactions >5B、Waymo autonomous miles `2.1M` / +300%。Google I/O official 校準 2026-05-19 至 05-20；170 以下為歷史買入語境，非當前買點或建議。
+
+- 入庫 `大叔美股筆記-20260429-aaoi-texas-tsif-sugar-land-optical-expansion-beb050de`：整理大叔美股筆記 Substack Note《**AAOI** 德州 TSIF grant：Sugar Land AI optical transceiver 產能擴張》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。Substack Note 當前可讀內容完整，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/watchlist_index.md` 與 `indexes/catalyst_index.md`。**AAOI** 判定 L2 AI optical transceiver / domestic manufacturing expansion watchlist，不建立 `Stocks/AAOI/`。
+- 備註：Texas Governor / AOI official PR 校準 TSIF grant `$20,852,518`、> `$279M` capital investment、210,000 sq ft additional manufacturing facility 與 500+ jobs。產能 / grant 不等於已確認訂單、revenue 或 margin thesis；本文不是買賣建議。
+
 - 入庫 `大叔美股筆記-20260430-samsung-union-memory-supply-risk-sndk-mu-wdc-3b46d028`：整理大叔美股筆記 Substack Note《三星工會集會與供給風險：**SNDK** / **MU** / **WDC** 記憶體鏈短評》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。Substack JSON-LD / feedData 正文完整可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」。
 - 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/watchlist_index.md` 與 `indexes/catalyst_index.md`。**SNDK**, **MU**, **WDC** 均判定 L2 watchlist / ticker supply-risk read-through；未建立 `Stocks/MU/`、`Stocks/SNDK/` 或 `Stocks/WDC/`。
 - 備註：大叔轉述 SemiAnalysis 對 Samsung 工會集會 / 潛在罷工的供給影響，記錄一次集會已使 memory plant output -18.4%、foundry line output -58.1%，且工會威脅若談判未解決，自 2026-05-21 起連續 18 天集會。產量與獎金數字尚未以 Samsung official 校準；本文不是買賣建議。
