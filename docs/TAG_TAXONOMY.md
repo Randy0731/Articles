@@ -27,6 +27,7 @@
 | `#消費成長` | 餐飲、零售、品牌、會員與同店銷售 | CAVA、BROS、CELH |
 | `#生技醫療` | 臨床、FDA、藥物數據、醫療設備 | VKTX、LNTH、ALMU |
 | `#金融流動性` | CTA、暗池、VIX、資金流、positioning | 宏觀週報、量化資金流 |
+| `#金融科技` | 數位銀行、fintech platform、loan marketplace、payments / banking infrastructure、金融服務 app | SOFI、HOOD、COIN、支付與借貸平台 |
 | `#地緣政治` | 戰爭、關稅、供應鏈重組、國防政策 | 中東、台海、澳洲國防支出 |
 | `#宏觀利率` | Fed、通膨、就業、殖利率、美元 | CPI、FOMC、NFP |
 | `#大宗商品` | 原物料、金屬、能源商品與 commodity cycle 供需 | 銅、黃金、原油、鈾、鋰、稀土 |
@@ -54,6 +55,7 @@
 | `#現金流風險` | 現金不足、burn rate、營運現金流轉弱 |
 | `#執行風險` | 量產、交付、整合、成本控制不確定 |
 | `#競爭風險` | 對手、替代技術、價格戰 |
+| `#信用風險` | 借款人違約、NCO、delinquency、loan buyer liquidity、金融機構承銷品質 |
 | `#政策風險` | 補助、關稅、監管、政府採購變動 |
 | `#供應鏈風險` | 零組件、產能、材料、供應商瓶頸 |
 | `#稀釋風險` | 增發、warrant、可轉債、授權股 |

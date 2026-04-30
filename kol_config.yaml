@@ -1,5 +1,5 @@
 version: 1
-updated: "2026-04-29"
+updated: "2026-05-01"
 language: "zh-Hant"
 
 global:
@@ -290,6 +290,37 @@ stock_projects:
       - "#估值風險"
       - "#執行風險"
       - "#地緣政治"
+
+  SOFI:
+    aliases:
+      - "SOFI"
+      - "SoFi"
+      - "SoFi Technologies"
+      - "SoFi Technologies, Inc."
+      - "Social Finance"
+      - "Galileo"
+      - "Technisys"
+    root: "Stocks/SOFI"
+    raw_dir: "Stocks/SOFI/raw"
+    notes_dir: "Stocks/SOFI/notes"
+    quarterly_dir: "Stocks/SOFI/quarterly"
+    milestones_dir: "Stocks/SOFI/milestones"
+    longform_dir: "Stocks/SOFI/longform"
+    dashboard: "Stocks/SOFI/SOFI_儀表板.md"
+    stock_index: "Stocks/SOFI/SOFI_index.md"
+    current_quarter_file_pattern: "SOFI_筆記_YYYYQN.md"
+    milestone_file_pattern: "SOFI_里程碑_[文章標題].md"
+    longform_file_pattern: "SOFI_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    theme_tags:
+      - "#財報"
+      - "#金融科技"
+      - "#ReRating"
+      - "#信用風險"
+      - "#估值風險"
+      - "#執行風險"
+      - "#競爭風險"
 
   GOOGL:
     aliases:

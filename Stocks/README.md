@@ -11,6 +11,7 @@
 - **TXN**
 - **IBM**
 - **FCX**
+- **SOFI**
 - **GOOGL**
 - **AMZN**
 - **LRCX**
