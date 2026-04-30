@@ -2,6 +2,10 @@
 
 ## 2026-05-01
 
+- 入庫 `大叔美股筆記-20260430-samsung-union-memory-supply-risk-sndk-mu-wdc-3b46d028`：整理大叔美股筆記 Substack Note《三星工會集會與供給風險：**SNDK** / **MU** / **WDC** 記憶體鏈短評》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。Substack JSON-LD / feedData 正文完整可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/watchlist_index.md` 與 `indexes/catalyst_index.md`。**SNDK**, **MU**, **WDC** 均判定 L2 watchlist / ticker supply-risk read-through；未建立 `Stocks/MU/`、`Stocks/SNDK/` 或 `Stocks/WDC/`。
+- 備註：大叔轉述 SemiAnalysis 對 Samsung 工會集會 / 潛在罷工的供給影響，記錄一次集會已使 memory plant output -18.4%、foundry line output -58.1%，且工會威脅若談判未解決，自 2026-05-21 起連續 18 天集會。產量與獎金數字尚未以 Samsung official 校準；本文不是買賣建議。
+
 - 入庫 `Bytc-20260429-four-giants-capex-710b-ai-infra-9c630e13`：整理 Bytc Substack Note《四巨頭 capex 上修至 7100 億：AI 基建需求再加碼》，追加至 `KOL/Bytc/notes/bytc筆記.md`。Substack JSON-LD 正文完整可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」。
 - 更新：同步追加 `Stocks/AMZN/quarterly/AMZN_筆記_2026Q2.md` 與 `Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md`，並更新 `Stocks/AMZN/AMZN_index.md`、`Stocks/AMZN/AMZN_儀表板.md`、`Stocks/GOOGL/GOOGL_index.md`、`Stocks/GOOGL/GOOGL_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md` 與 `indexes/theme_index.md`。**AMZN** / **GOOGL** 判定正式追蹤個股 L2；**MSFT** / **META** 記為 L2 ticker 語境但不建立 `Stocks/`。
 - 備註：Bytc 將四巨頭 2026 capex 合計從約 `$665B` 上修至約 `$710B`：Amazon `$200B` 維持、Microsoft `$190B`、Google `$185B`、Meta `$135B`。Amazon Q4 official 校準 2026 capex about `$200B`；Microsoft FY26 Q3 call 校準 calendar 2026 capex about `$190B`；Meta official Q1 guide 校準 `$125B-$145B`；Alphabet official Q1 release 校準 Q1 PPE purchases `$35.7B`，但 Google full-year `$185B` 仍按 Bytc 口徑記錄，待 official transcript / 10-Q 校準。本文不是買賣建議。
