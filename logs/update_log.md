@@ -1,5 +1,11 @@
 # Update Log
 
+## 2026-05-01
+
+- 入庫 `Bytc-20260430-crypto-card-stablecoin-visa-settlement-9a5a0d6a`：整理 Bytc Substack Note《加密貨幣卡消費與穩定幣支付：Visa 結算佔 90%》，追加至 `KOL/Bytc/notes/bytc筆記.md`。Substack JSON-LD 正文完整可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」；附件圖為 Paymentscan Monthly Crypto Card Volumes by chain，人工檢視可讀。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/theme_index.md` 與 `indexes/ticker_index.md`。本文判定為加密貨幣支付 / stablecoin card payment rails 的短 Note；**V** 只作 Visa 支付網路 L1 語境，不建立 `Stocks/V/`，不更新 watchlist，也不更新 `indexes/catalyst_index.md`。
+- 備註：Bytc 記錄 crypto card spending 自 2024-07 以來約 +500%，最高單月約 `$600M`，stablecoin cards 成長最快，約 90% transaction volume 在 Visa 結算。原文未指名 **CRCL** / USDC / USDT / **COIN** 或任何 issuer，不把其他 stablecoin 筆記觀點回填成本篇；本文不是買賣建議。
+
 ## 2026-04-29
 
 - 入庫 `宋分-20260429-market-decoding-20-expensed-investment-framework-50eceabe`：整理宋分 / 美股送分題 Substack Note《市場解碼 #20：費用化投資、隱形資產與財報錯價》，建立 `KOL/宋分/articles/20260429_market_decoding_20_expensed_investment_framework.md`。Substack JSON-LD 正文完整可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」。
