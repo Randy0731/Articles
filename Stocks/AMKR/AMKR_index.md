@@ -4,4 +4,5 @@
 
 | 日期 | 檔案 | 來源 KOL / 來源 | 事件類型 | 主題標籤 | 交會等級 | 一句話結論 |
 |---|---|---|---|---|---|---|
+| 2026-04-30 | `Stocks/AMKR/quarterly/AMKR_筆記_2026Q2.md`；`KOL/大叔美股筆記/notes/大叔美股筆記.md` | 大叔美股筆記 / Substack Note；Amkor Business Wire pricing PR | convertible notes / advanced packaging capex funding / CoWoS overflow | #AI基建 #先進封裝 #增發融資 #稀釋風險 #ReRating #估值風險 | L3 | 大叔把 **AMKR** `$1B` 可轉債拆成短期賣壓與先進封裝擴產資金兩面；Business Wire 後續定價校準 conversion price 約 `$106.37`、cap price `$139.50`，屬官方條款而非大叔目標價 |
 | 2026-04-28 | `Stocks/AMKR/quarterly/AMKR_筆記_2026Q2.md`；`KOL/大叔美股筆記/articles/20260428_amkor_technology_amkr_q1_2026_uncle.md` | 大叔美股筆記 / Substack；Amkor official results / deck | 2026Q1 earnings / advanced packaging / Peoria capex / valuation risk | #財報 #AI基建 #先進封裝 #ReRating #估值風險 #執行風險 #政策風險 #供應鏈風險 | L3 | 大叔把 **AMKR** 2026Q1 財報解讀為 OSAT 從低 P/E 後段封測走向 AI infrastructure / 先進封裝稀缺產能的估值重構候選；但 30x+ P/E 與 `$2.5B-$3.0B` 2026 capex 讓風險報酬需要等合理價值，正式建立 **AMKR** 專案 |
