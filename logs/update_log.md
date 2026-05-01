@@ -2,6 +2,10 @@
 
 ## 2026-05-02
 
+- 入庫 `美股老司機-20251106-meta-tsla-se-celh-vktx-cava-onds-one-share-unsold-5cf46cd8`：整理使用者提供的 Facebook Reel / 截圖《歷史與未來成長股名單：**ONDS** 一股未賣》，追加至 `KOL/美股老司機/notes/美股老司機投資筆記.md`。來源為 Facebook Reel URL `https://www.facebook.com/reel/2266223263877979` 與一張使用者截圖，未另存 raw；OCR 狀態標「部分」，主貼文核心文字可讀，未取得完整留言串 / 原始影片 raw，但不影響主旨、日期、KOL 與 ticker 語境判讀。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，並更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md` 與 `indexes/theme_index.md`。**ONDS** 判定 L2 tracked-stock conviction 補強：作者明確寫「老司機的 ONDS 一股未賣」。
+- 備註：**META** / **TSLA** / **SE** / **CELH** 只記為歷史正面清單；**VKTX** / **CAVA** 只記為「包括未來的」清單。這些 ticker 沒有獨立 thesis、價位、風險或催化劑，不建立 `Stocks/`，不寫成目標價、買點或本專案買賣建議。
+
 - 入庫 `美股老司機-20260405-openai-ownership-msft-still-bullish-97d08573`：整理使用者提供的 Facebook permalink / 截圖《OpenAI 所有權結構：**MSFT** 依舊看好與 OpenAI 股權選擇權》，追加至 `KOL/美股老司機/notes/美股老司機投資筆記.md`。來源為 Facebook permalink URL 與三張使用者截圖，未另存 raw；OCR 狀態標「部分」，主貼文、ownership infographic 主要欄位與作者留言回覆可讀。發文時間以截圖「4月5日下午12:35」推估為 2026-04-05 12:35。
 - 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/watchlist_index.md`。**MSFT** 判定 L2 watchlist 補強：作者在留言回覆「MSFT 依舊看好」；**AMZN**, **NVDA**, **9984.T**/**SFTBY** 只作 OpenAI strategic investor ownership context，不建立或同步 `Stocks/`。
 - 備註：附圖表格標示 estimated / reconstructed / not official disclosure，因此 OpenAI ownership 百分比只記為截圖口徑與市場敘事，不作官方 cap table。本文與 Bytc 2026-04-05 對 **MSFT** 的 MAI 自研模型 + OpenAI 股權雙軌 optionality 是不同 KOL 來源；不合併成同一觀點，也不是買賣建議。
