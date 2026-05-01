@@ -12,6 +12,7 @@
 - **IBM**
 - **FCX**
 - **SOFI**
+- **GS**
 - **GOOGL**
 - **AMZN**
 - **LRCX**

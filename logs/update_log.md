@@ -2,6 +2,10 @@
 
 ## 2026-05-01
 
+- 入庫 `大叔美股筆記-20260501-goldman-sachs-gs-2026-q1-capital-flow-hub-198c8c4f`：整理大叔美股筆記 Substack 文章《Goldman Sachs **GS** 2026 Q1 財報：投行王者迎來 M&A 週期》，建立 `KOL/大叔美股筆記/articles/20260501_goldman_sachs_gs_2026_q1_uncle.md`，並複製使用者提供之 10 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20260501_大叔美股筆記_goldman_sachs_gs_2026_q1_大叔美股筆記-20260501-goldman-sachs-gs-2026-q1-capital-flow-hub-198c8c4f.pdf`。PDF 為 image-only，p.1-p.8 為標題、核心正文、連結與免責聲明起始，p.9-p.10 為免責聲明續頁、comments / 推薦文章 / footer；OCR 狀態標「部分」，核心內容可可靠判讀，未偵測截斷。
+- 更新：正式建立 `Stocks/GS/` 專案，新增 `Stocks/GS/quarterly/GS_筆記_2026Q2.md`、`Stocks/GS/GS_index.md`、`Stocks/GS/GS_儀表板.md`，並更新 `kol_config.yaml`、`Stocks/README.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/catalyst_index.md`、`indexes/framework_index.md` 與 private raw manifest。歷史回查 `GS|Goldman Sachs|高盛|Goldman` 只發現 KP Apple Card transfer 與 Bytc earnings schedule 等 L1 context，沒有既有 **GS** L2+ thesis，因此沒有舊文補入 `Stocks/GS/`。
+- 備註：Goldman Sachs official Q1 2026 release 校準 net revenues `$17.23B`、net earnings `$5.63B`、diluted EPS `$17.55`、ROE `19.8%`、ROTE `21.3%`、GBM revenue `$12.74B`、AWM revenue `$4.08B`、capital returned `$6.38B`。本文新增「全球資本流動中樞 / 進可攻退可守框架」與「私募股權堰塞湖 / 退出壓力催化框架」；大叔 forward P/E 與 DCF 情境估值均為 KOL 口徑，不是本專案買賣建議。
+
 - 入庫 `Bytc-20260501-nasdaq-valuation-msft-patience-80b52140`：整理 Bytc Substack Note《納指估值仍不算貴，**MSFT** 需要耐心》，追加至 `KOL/Bytc/notes/bytc筆記.md`。Substack JSON-LD / feedData 正文完整可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」；兩張附件圖已人工檢視，其中 **MSFT** Best P/E Ratio 約 `21.378`，Nasdaq Composite `CCMP Index` Best P/E Ratio 約 `24.6770`。
 - 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md` 與 `indexes/theme_index.md`。本文判定為估值 / 倉位節奏短 Note：Nasdaq 為市場估值溫度計，**MSFT** 為 L2 watchlist valuation patience context；不建立 `Stocks/MSFT/`，也不新增 catalyst。本文不是買賣建議。
 
