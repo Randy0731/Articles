@@ -1,5 +1,11 @@
 # Update Log
 
+## 2026-05-02
+
+- 入庫 `美股老司機-20260110-onds-future-volatility-10-under-62c43de9`：整理使用者提供的 Facebook Reel / 截圖《**ONDS** 未來看法：早買、再漲更高、劇烈波動與 `$10` 以下回覆》，追加至 `KOL/美股老司機/notes/美股老司機投資筆記.md`。來源為 Facebook Reel URL `https://www.facebook.com/reel/896309332913779` 與兩張使用者截圖，未另存 raw；OCR 狀態標「部分」，核心文字與作者留言可讀，未取得完整留言串 / 原始影片 raw，但不影響主旨、日期、KOL、ticker 與價位語境判讀。
+- 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，並更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md` 與 `indexes/theme_index.md`。**ONDS** 判定 L2：美股老司機 3.0 明確表示長期仍看更高，但提醒劇烈波動、不要 FOMO，並在留言中說有機會看到 `$10` 以下。
+- 備註：`$10` 以下只記為作者留言中的風險情境 / 可能回落區間，不是買點、支撐、目標價或本專案買賣建議。本篇與同日大叔美股筆記 **ONDS** SEC 文件 / `$28` 權證 L4 是不同 KOL、不同來源，不合併成同一觀點。
+
 ## 2026-05-01
 
 - 入庫 `大叔美股筆記-20260501-sandisk-sndk-2026-q3-ai-storage-nbm-cash-machine-f0cd3935`：整理大叔美股筆記 Substack 文章《SanDisk **SNDK** 2026 Q3 財報分析：78.4% 毛利率的硬體奇蹟與 NBM 帶來的估值重構》，建立 `KOL/大叔美股筆記/articles/20260501_sandisk_sndk_2026_q3_uncle.md`，並複製使用者提供之 10 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20260501_大叔美股筆記_sandisk_sndk_2026_q3_大叔美股筆記-20260501-sandisk-sndk-2026-q3-ai-storage-nbm-cash-machine-f0cd3935.pdf`。PDF 為 image-only，p.1-p.7 為標題、核心正文、links 與免責聲明起始，p.8-p.10 為 disclaimer / comments / footer；OCR 狀態標「部分」，核心內容可可靠判讀，未偵測截斷。

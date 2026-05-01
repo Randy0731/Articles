@@ -1,6 +1,6 @@
 # ONDS 投資儀表板
 
-> 最後更新：2026-04-29（觸發來源：Bytc Substack chat / Ondas official PR；新增 Bytc 對 **ONDS** World Cup C-UAS / Sentrycs 現場層的 L2 聊天室立場訊號，並保留 SBI Securities 2026Q1 13F ownership 訊號。聊天室時間以使用者提供日推估，官方 PR 只能校準 Sentrycs World Cup deployment / 多個數百萬美元級合約本身；最新 L4 基本面里程碑仍是 Mistral THOR U.S. Army `$20,039,666` 合約）
+> 最後更新：2026-05-02（觸發來源：美股老司機 Facebook Reel；補入 2026-01-10 **ONDS** 長期偏多 / 高波動 / `$10` 以下風險情境短評。這是 L2 補入舊文，不改變最新 L4 基本面里程碑；前次更新仍保留 Bytc World Cup C-UAS / Sentrycs 聊天室立場與 SBI Securities 2026Q1 13F ownership 訊號，最新 L4 基本面里程碑仍是 Mistral THOR U.S. Army `$20,039,666` 合約）
 
 ## 當前立場快照
 
@@ -110,6 +110,7 @@
 | Stifel / 2026-01-11 研報（大叔 2026-01-13 解讀） | `$17` 為 Stifel 分析師目標價，由 `$13` 上調；不是大叔自身 target、公司 guidance 或本專案建議 | `$13.69` 是 report price，`$16.45` 是 Jan 2026 offering price，`$28` 是 common warrant exercise price；約 `$3.4B` 是 warrants 全數現金行權的 potential proceeds，不是已入帳現金 | 2026-01-13 | `KOL/大叔美股筆記/articles/20260113_onds_stifel_17_big_boy_pants_uncle.md`；`Stocks/ONDS/milestones/ONDS_里程碑_20260110_SEC文件毒債清除與28權證.md` |
 | 大叔 / 2026-01-11 X 權證套利爭議 | 無正式目標價；`$30` 是 Jan 28 call strike，`$5.55` 是 Andy Constan 模型引用的 call premium，`$1.22` 是模型中的 warrant cost，不是目標價、買點或本專案建議 | `$16.45` 是 Jan 2026 offering price；大叔反駁重點是 options liquidity / execution friction；仍需追 options OI、borrow、short interest、warrant terms、1/14 / 1/16 disclosure | 2026-01-11 | `KOL/大叔美股筆記/articles/20260111_x_onds_warrant_arbitrage_uncle.md`；`Stocks/ONDS/milestones/ONDS_里程碑_20260110_SEC文件毒債清除與28權證.md` |
 | 大叔 / 2026-01-10 SEC 文件揭密 | `$28.00` 是 2026-01-09 common warrant exercise price；大叔解讀為新機構中期獲利錨，但不是公司或本專案正式目標價 | `$16.45` 是 Jan 2026 offering / pre-funded warrant + common warrant combined price，較 2026-01-08 收盤約溢價 17.5%；`$14.00` 是原文圖中的事件現價；`$11.50` / `$20.00` 分別為 2025-10 offering price / warrant exercise price | 2026-01-10 | `Stocks/ONDS/milestones/ONDS_里程碑_20260110_SEC文件毒債清除與28權證.md` |
+| 美股老司機 3.0 / 2026-01-10 Facebook Reel | 無正式目標價；「會再漲更高」是方向性看法，`$10` 以下是作者留言回覆中的可能風險情境 / 回落區間，不是買點、支撐或本專案建議 | 作者同時提醒會有劇烈波動、沒有好心態不要 FOMO；需和公司基本面、量價、稀釋 / warrant、後續 KOL 觀點一起追 | 2026-01-10 | `KOL/美股老司機/notes/美股老司機投資筆記.md`；`Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md` |
 | 大叔 / 2026-01-05 BVLOS 法規時間線 | 無目標價；`2026-01-16` 是 Reginfo RIN `2120-AL82` statutory final deadline，不是股價支撐、目標價或 final rule 已生效訊號 | 支撐不是價格，而是 FAA final rule / Part 108 條文、BVLOS authorization、Optimus / Drone-in-a-Box deployment、task order、OAS revenue 與 gross margin 是否跟上 | 2026-01-05 | `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`；`indexes/catalyst_index.md` |
 | 大叔 / 2026-01-03 West Palm Beach / Ondas Inc. 解讀 | 無目標價；總部遷移、更名與 Q1 2026 expected effectiveness 都是公司身份 / 時程資訊，不是價位訊號 | 支撐不是價格，而是 institutional ownership 是否提升、13F / 13G 是否出現、integrated platform 是否轉成 revenue / margin / task order | 2026-01-03 | `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md` |
 | 大叔 / 2026-01-02 Sentrycs 羅馬尼亞 C-UAS 解讀 | 無目標價；20 km detection / tracking 與 RF Cyber 是 Sentrycs bulletin 的產品能力資訊，不是價位訊號 | 支撐不是價格，而是 Romania / Bucharest airport case 是否轉成正式採購、部署驗收、second-country replication、OAS / Sentrycs revenue 與 gross margin | 2026-01-02 | `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md` |
