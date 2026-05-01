@@ -2,6 +2,10 @@
 
 ## 2026-05-02
 
+- 入庫 `美股老司機-20260405-openai-ownership-msft-still-bullish-97d08573`：整理使用者提供的 Facebook permalink / 截圖《OpenAI 所有權結構：**MSFT** 依舊看好與 OpenAI 股權選擇權》，追加至 `KOL/美股老司機/notes/美股老司機投資筆記.md`。來源為 Facebook permalink URL 與三張使用者截圖，未另存 raw；OCR 狀態標「部分」，主貼文、ownership infographic 主要欄位與作者留言回覆可讀。發文時間以截圖「4月5日下午12:35」推估為 2026-04-05 12:35。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/watchlist_index.md`。**MSFT** 判定 L2 watchlist 補強：作者在留言回覆「MSFT 依舊看好」；**AMZN**, **NVDA**, **9984.T**/**SFTBY** 只作 OpenAI strategic investor ownership context，不建立或同步 `Stocks/`。
+- 備註：附圖表格標示 estimated / reconstructed / not official disclosure，因此 OpenAI ownership 百分比只記為截圖口徑與市場敘事，不作官方 cap table。本文與 Bytc 2026-04-05 對 **MSFT** 的 MAI 自研模型 + OpenAI 股權雙軌 optionality 是不同 KOL 來源；不合併成同一觀點，也不是買賣建議。
+
 - 入庫 `美股老司機-20260410-tech-growth-five-tests-almu-rbrk-add-07e088cb`：整理使用者提供的 Facebook Reel / 截圖《科技成長股五大考驗：風吹草動、永久損害與暫時噪音》，追加至 `KOL/美股老司機/notes/美股老司機投資筆記.md`。來源為 Facebook Reel URL `https://www.facebook.com/reel/975737508300683` 與兩張使用者截圖，未另存 raw；OCR 狀態標「部分」，主貼文核心文字與作者留言回覆可讀，未取得完整留言串 / 原始影片 raw。
 - 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md` 與 `indexes/watchlist_index.md`。本文新增「科技成長股五大考驗 / 無人之境框架」：競爭對手一句話、未來展望小幅下修、一季財報異常、高管離職，都可能觸發高估值成長股的敘事與倍數重估；核心是分辨永久性損害與暫時性噪音。
 - 備註：留言中使用者詢問 **ALMU** / **RBRK** 是否加碼，作者回覆「今天全加了」，判定兩檔為 L2 watchlist stance，不建立 `Stocks/ALMU/` 或 `Stocks/RBRK/`。提問中的「价位很美」只記為提問者語境，不寫成 KOL 目標價、買點、支撐、完整 thesis 或本專案買賣建議。
