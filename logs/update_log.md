@@ -2,6 +2,9 @@
 
 ## 2026-05-01
 
+- 入庫 `Bytc-20260501-nasdaq-valuation-msft-patience-80b52140`：整理 Bytc Substack Note《納指估值仍不算貴，**MSFT** 需要耐心》，追加至 `KOL/Bytc/notes/bytc筆記.md`。Substack JSON-LD / feedData 正文完整可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」；兩張附件圖已人工檢視，其中 **MSFT** Best P/E Ratio 約 `21.378`，Nasdaq Composite `CCMP Index` Best P/E Ratio 約 `24.6770`。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md` 與 `indexes/theme_index.md`。本文判定為估值 / 倉位節奏短 Note：Nasdaq 為市場估值溫度計，**MSFT** 為 L2 watchlist valuation patience context；不建立 `Stocks/MSFT/`，也不新增 catalyst。本文不是買賣建議。
+
 - 入庫 `大叔美股筆記-20260430-amkr-convertible-notes-ai-packaging-e7e7098e`：整理大叔美股筆記 Substack Note《**AMKR** 可轉債：短期賣壓 vs 先進封裝擴產資金》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。Substack JSON-LD / HTML 正文完整可讀，未偵測截斷；來源為 URL，未另存 raw，OCR 狀態標「不適用」。
 - 更新：同步追加 `Stocks/AMKR/quarterly/AMKR_筆記_2026Q2.md`，並更新 `Stocks/AMKR/AMKR_index.md`、`Stocks/AMKR/AMKR_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/catalyst_index.md`。**AMKR** 已為 L3 tracked stock，本篇判定為既有 AMKR thesis 的融資 / 先進封裝產能後續追蹤，不重複複製整篇 KOL 主整理。
 - 備註：大叔將 `$1B` 可轉債拆成短期 convertible-arbitrage / 放空賣壓與長期 capex funding 兩面，重點追資金是否轉成 equipment / production lines 以承接 TSMC CoWoS overflow。Amkor official pricing release 校準 0.00% convertible senior notes due 2031、initial conversion price 約 `$106.37`、cap price 約 `$139.50`、last sale `$69.75`、expected settlement 2026-05-05；上述均為融資條件或整理日補充，不是目標價或買賣建議。

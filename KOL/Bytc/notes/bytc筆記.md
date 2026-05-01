@@ -8,6 +8,7 @@
 
 | 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
 |---|---|---|---|---|---|---|
+| 2026-05-01 05:56 UTC（台北 2026-05-01 13:56；Substack JSON-LD） | 2026-05-01 | 納指估值仍不算貴，**MSFT** 需要耐心 | Bytc-20260501-nasdaq-valuation-msft-patience-80b52140 | **MSFT** / Nasdaq Composite `CCMP Index` | #估值風險, #投資與投機, #ReRating | 新入庫；短 Note；納指為市場估值溫度計，**MSFT** L2 估值 / 耐心語境，不建立 Stocks |
 | 2026-04-30 16:16 UTC（台北 2026-05-01 00:16；Substack JSON-LD） | 2026-05-01 | 加密貨幣卡消費與穩定幣支付：Visa 結算佔 90% | Bytc-20260430-crypto-card-stablecoin-visa-settlement-9a5a0d6a | **V** / crypto cards | #加密貨幣, #金融流動性 | 新入庫；短 Note；穩定幣卡與 Visa 結算網路 L1 語境，不更新 Stocks |
 | 2026-04-29 23:32 UTC（台北 2026-04-30 07:32；Substack JSON-LD） | 2026-05-01 | 全球軍費新高與再武裝：國防工業本土化長期趨勢 | Bytc-20260429-global-military-spending-rearmament-7ea31e0f | 無 / global defense contractors basket | #國防科技, #地緣政治, #政策風險 | 新入庫；短 Note；宏觀國防 / 全球再武裝框架，無單一 ticker，不更新 Stocks |
 | 2026-04-29 22:53 UTC（台北 2026-04-30 06:53；Substack JSON-LD） | 2026-05-01 | 四巨頭 capex 上修至 7100 億：AI 基建需求再加碼 | Bytc-20260429-four-giants-capex-710b-ai-infra-9c630e13 | **AMZN**, **GOOG**, **GOOGL**, **MSFT**, **META** | #AI基建, #財報, #ReRating, #估值風險 | 新入庫；短 Note；**AMZN** / **GOOGL** L2 同步 Stocks，**MSFT** / **META** 只更新 ticker 語境 |
@@ -652,5 +653,62 @@ Bytc 在前一則四巨頭財報檢查後，補上 2026 年大型科技資本支
 | Capex crowding-out FCF | **AMZN**, **GOOGL**, **MSFT**, **META** | 高 | AI infrastructure 建設速度快於 cloud / ads / AI product monetization | operating cash flow、FCF、depreciation、cloud operating income、utilization | 整理者延伸 |
 
 本文不提供買賣建議；此 Note 是 AI 基建 capex trend 的資料點，不能單獨替代任何公司財報模型。
+
+---
+
+## 納指估值仍不算貴，**MSFT** 需要耐心
+
+- **來源**：[Bytc Substack Note](https://substack.com/@btyc/note/c-251938612)；附件圖 1：`MSFT US Equity Best P/E Ratio 1BF`；附件圖 2：`CCMP Index Best P/E Ratio 1BF`
+- **類型**：Substack Note / 納指估值 / Microsoft valuation / 倉位耐心
+- **發文時間**：2026-05-01 05:56 UTC（台北 2026-05-01 13:56；Substack JSON-LD）
+- **整理日期**：2026-05-01
+- **source_id**：Bytc-20260501-nasdaq-valuation-msft-patience-80b52140
+- **raw 路徑 / URL**：https://substack.com/@btyc/note/c-251938612（未另存 raw；附件圖人工檢視可讀）
+- **OCR 狀態**：不適用
+- **相關 ticker**：**MSFT** / Nasdaq Composite `CCMP Index`
+- **主題 tags**：#估值風險, #投資與投機, #ReRating
+
+### 主旨
+
+Bytc 這則短 Note 是市場估值溫度計更新：他認為納指「真的還不算貴」，但 **MSFT** 還需要一點耐心。附圖用 Bloomberg 的 Best P/E Ratio 5 年區間輔助判斷，重點不是宣告買點，而是把「大型科技 / 納指估值是否過熱」與 **MSFT** 單股等待區間分開。
+
+### Ticker 分流
+
+| Ticker | 文章角色 | 交會等級 | 動作 | 理由 |
+|---|---|---|---|---|
+| **MSFT** | 單股估值與等待語境 | L2 | KOL 主筆記 + ticker index | Bytc 明確說 Microsoft 還需要耐心，附件圖顯示 **MSFT** Best P/E Ratio 約 `21.378`，屬估值 / 倉位節奏觀點；本 repo 尚未建立 `Stocks/MSFT/`。 |
+| Nasdaq Composite `CCMP Index` | 市場估值溫度計 | L0 / 指數語境 | theme index | 原文主句是納指不算貴，屬市場 / 指數估值脈絡，不是單一 ticker thesis。 |
+
+### 核心概念
+
+- **納指未到極端貴區**：附件圖 2 顯示 `CCMP Index` Best P/E Ratio 約 `24.6770`，在 5 年圖上低於 2021、2023 與 2025 若干高點；Bytc 因此說納指還不算貴。
+- **Microsoft 需要耐心**：附件圖 1 顯示 **MSFT** Best P/E Ratio 約 `21.378`，接近近 5 年偏低區，但 Bytc 沒有把它寫成立即買點，只說還需要耐心。
+- **估值便宜不等於催化劑已到**：本篇沒有新的 Microsoft 財報、產品、訂單或明確日期型催化劑；後續仍要回到 Azure / Copilot / AI capex ROI / FCF 驗證。
+
+### 關鍵證據
+
+| 證據 | 解讀 |
+|---|---|
+| Bytc 正文：「納指真的還不算貴呀」 | 對市場估值的明確偏正面 / 不過熱判斷，但不是對任一 ETF 或指數的買賣建議。 |
+| Bytc 正文：「微軟還需要點耐心」 | 對 **MSFT** 的節奏判斷偏觀望，不是看空，也不是立即買點。 |
+| 附件圖 1：**MSFT** Best P/E Ratio 約 `21.378` | Microsoft forward valuation 已落到 5 年偏低位置，支持「不貴但等催化」的解讀。 |
+| 附件圖 2：`CCMP Index` Best P/E Ratio 約 `24.6770` | Nasdaq Composite 估值未回到圖上多個歷史高估區，支持「納指不算貴」的市場溫度計。 |
+
+### 延伸追蹤
+
+| 日期 / 頻率 | 事件 | 相關 ticker | 影響方向 | 追蹤重點 | 出處 |
+|---|---|---|---|---|---|
+| 每季 | Microsoft valuation 是否由基本面重新接棒 | **MSFT** | 正面若 Azure / Copilot / AI software revenue 接住估值 | Azure growth、commercial RPO、Copilot paid seats / usage、AI capex、depreciation、FCF、operating margin | Bytc Note；整理者延伸 |
+| 每週 / 每月 | Nasdaq 估值溫度是否從「不貴」轉向過熱 | Nasdaq Composite `CCMP Index` | 未定 | Best P/E Ratio、EPS revision、breadth、mega-cap concentration、rates / real yield | Bytc Note；整理者延伸 |
+
+### 風險與反例
+
+| 風險 | 相關 ticker | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|---|
+| 只看 P/E 忽略 earnings revision | Nasdaq / **MSFT** | 高 | EPS estimates 下修，使看似不貴的 P/E 被動上升 | forward EPS revision、revenue guide、margin guide、analyst revisions | 整理者延伸 |
+| **MSFT** AI capex ROI 尚未完全財報化 | **MSFT** | 中高 | Azure / Copilot / AI workload growth 無法抵消折舊與 data center 投資 | capex、depreciation、FCF、Azure growth、Copilot gross margin | 既有 MSFT watchlist 脈絡 |
+| 納指估值受 mega-cap concentration 影響 | Nasdaq Composite | 中 | 少數巨頭撐住指數，breadth 轉弱 | equal-weight Nasdaq、advance / decline、mega-cap weight、sector contribution | 整理者延伸 |
+
+本文不提供買賣建議；這則 Note 是 Bytc 對納指與 **MSFT** 估值位置的節奏更新，不能替代財報模型或風險控管。
 
 ---
