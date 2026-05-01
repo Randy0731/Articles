@@ -2,6 +2,10 @@
 
 ## 2026-05-02
 
+- 入庫 `美股老司機-20260410-tech-growth-five-tests-almu-rbrk-add-07e088cb`：整理使用者提供的 Facebook Reel / 截圖《科技成長股五大考驗：風吹草動、永久損害與暫時噪音》，追加至 `KOL/美股老司機/notes/美股老司機投資筆記.md`。來源為 Facebook Reel URL `https://www.facebook.com/reel/975737508300683` 與兩張使用者截圖，未另存 raw；OCR 狀態標「部分」，主貼文核心文字與作者留言回覆可讀，未取得完整留言串 / 原始影片 raw。
+- 更新：同步更新 `indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md` 與 `indexes/watchlist_index.md`。本文新增「科技成長股五大考驗 / 無人之境框架」：競爭對手一句話、未來展望小幅下修、一季財報異常、高管離職，都可能觸發高估值成長股的敘事與倍數重估；核心是分辨永久性損害與暫時性噪音。
+- 備註：留言中使用者詢問 **ALMU** / **RBRK** 是否加碼，作者回覆「今天全加了」，判定兩檔為 L2 watchlist stance，不建立 `Stocks/ALMU/` 或 `Stocks/RBRK/`。提問中的「价位很美」只記為提問者語境，不寫成 KOL 目標價、買點、支撐、完整 thesis 或本專案買賣建議。
+
 - 入庫 `美股老司機-20260110-onds-future-volatility-10-under-62c43de9`：整理使用者提供的 Facebook Reel / 截圖《**ONDS** 未來看法：早買、再漲更高、劇烈波動與 `$10` 以下回覆》，追加至 `KOL/美股老司機/notes/美股老司機投資筆記.md`。來源為 Facebook Reel URL `https://www.facebook.com/reel/896309332913779` 與兩張使用者截圖，未另存 raw；OCR 狀態標「部分」，核心文字與作者留言可讀，未取得完整留言串 / 原始影片 raw，但不影響主旨、日期、KOL、ticker 與價位語境判讀。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2026Q1.md`，並更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md` 與 `indexes/theme_index.md`。**ONDS** 判定 L2：美股老司機 3.0 明確表示長期仍看更高，但提醒劇烈波動、不要 FOMO，並在留言中說有機會看到 `$10` 以下。
 - 備註：`$10` 以下只記為作者留言中的風險情境 / 可能回落區間，不是買點、支撐、目標價或本專案買賣建議。本篇與同日大叔美股筆記 **ONDS** SEC 文件 / `$28` 權證 L4 是不同 KOL、不同來源，不合併成同一觀點。
