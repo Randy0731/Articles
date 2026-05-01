@@ -13,6 +13,7 @@
 - **FCX**
 - **SOFI**
 - **GS**
+- **SNDK**
 - **GOOGL**
 - **AMZN**
 - **LRCX**
