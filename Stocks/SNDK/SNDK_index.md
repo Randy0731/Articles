@@ -6,6 +6,7 @@
 
 | 日期 | KOL / 來源 | 標題 | 等級 | 立場 / 重點 | 檔案 |
 |---|---|---|---|---|---|
+| 2026-05-02 | 大叔美股筆記 / Wccftech / SanDisk official | NVIDIA 拒絕 4TB HBF？AI 記憶體樓層分工與 SNDK HBF optionality | L3 follow-up | 偏正面後續追蹤；大叔認為 HBF 不是 HBM 替代，而是 HBM 與 SSD 之間的大容量 AI memory tier。NVIDIA 不感興趣不等於 HBF thesis 破裂，Google reportedly first customer 需標未確認；對 SNDK 是 HBF optionality 的 product / customer catalyst | `KOL/大叔美股筆記/articles/20260502_nvidia_4tb_hbf_uncle.md`；`Stocks/SNDK/quarterly/SNDK_筆記_2026Q2.md`；`Stocks/SNDK/SNDK_儀表板.md` |
 | 2026-05-01 | 大叔美股筆記 / SanDisk official | SanDisk **SNDK** 2026 Q3 財報：NBM 與 AI storage 估值重構 | L3 | 偏多 tracked stock；大叔把 SNDK 從 NAND / storage cycle stock 重新定義為 AI infrastructure storage capacity supplier，核心是 NBM 長約、datacenter enterprise SSD、TLC / KV cache、zero debt 與 buyback | `KOL/大叔美股筆記/articles/20260501_sandisk_sndk_2026_q3_uncle.md`；`Stocks/SNDK/quarterly/SNDK_筆記_2026Q2.md`；`Stocks/SNDK/SNDK_儀表板.md` |
 
 ## 歷史回查
@@ -27,6 +28,6 @@
 | NBM 是否真能降低 cyclicality？ | signed NBM agreements、contract liabilities、customer commitments、renegotiation language、revenue visibility |
 | `78%+` gross margin 是否 durable？ | non-GAAP gross margin、enterprise SSD ASP、TLC / QLC mix、competitor capacity、inventory |
 | AI storage demand 是否從單季爆發變多年趨勢？ | datacenter revenue、AI server storage attach、KV cache / local NVMe demand、hyperscaler capex |
-| HBF / memory hierarchy optionality 是否被 ecosystem 接納？ | OCP standard、Nvidia design-in、SK Hynix / SanDisk roadmap、HBF prototype |
+| HBF / memory hierarchy optionality 是否被 ecosystem 接納？ | HBF sampling、Google reported first customer 是否 official confirmation、OCP / standardization、NVIDIA response、SanDisk / SK Hynix roadmap、HBF bandwidth / latency / endurance、HBF prototype / qualification |
 | Capital return 是否真的支撐 EPS？ | `$6B` buyback execution、share count、cash、FCF、debt |
 | 估值是否過度年化 FQ4 guide？ | EPS revision、P/E、GAAP vs non-GAAP bridge、margin sensitivity、DCF assumptions |

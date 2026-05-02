@@ -6,6 +6,7 @@
 
 | 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
 |---|---|---|---|---|---|---|
+| 2026-05-02（Substack 頁面 / PDF 顯示；時區未確認） | 2026-05-02 | 大叔美股筆記 對 **GOOGL** 的觀點摘要：Google reportedly first HBF customer 與 TPU / inference memory hierarchy | 大叔美股筆記-20260502-nvidia-4tb-hbf-ai-memory-hierarchy-73bf0f60 | **GOOG**, **GOOGL**, **SNDK**, **NVDA**, **AVGO**, **MRVL** | #Memory #AI基建 #雲端基建 #先進封裝 #競爭風險 #ReRating | L2；Wccftech 稱 Google reportedly locked as first HBF customer，需標未確認；大叔把 HBF 放進 Google TPU / inference / cost-per-token memory hierarchy，而非 NVIDIA thesis break |
 | 2026-04-30 05:34（Substack 頁面顯示；時區未確認） | 2026-05-01 | 大叔美股筆記 對 **GOOGL** 的觀點摘要：Search 查詢創高、Cloud +63%、Gemini / Waymo momentum | 大叔美股筆記-20260430-google-q1-search-cloud-gemini-waymo-8f5e7392 | **GOOG**, **GOOGL** | #AI基建 #財報 #ReRating #競爭風險 | L3；大叔回顧 170 以下開始接 Google，並以 Q1 Search / Cloud / Gemini / Waymo 數據補強 Search not dead thesis；無新買點或目標價 |
 | 2026-04-29 22:53 UTC | 2026-05-01 | Bytc 對 **GOOGL** 的觀點摘要：Google capex 上修至 1850 億與四巨頭 AI 基建加碼 | Bytc-20260429-four-giants-capex-710b-ai-infra-9c630e13 | **GOOG**, **GOOGL**, **AMZN**, **MSFT**, **META** | #AI基建 #財報 #ReRating #估值風險 | L2；Google `$185B` 為 Bytc 口徑，Alphabet official release 校準 Q1 capex `$35.7B`，full-year range 待 official transcript / 10-Q 校準 |
 | 2026-04-29 21:29 UTC | 2026-05-01 | Bytc 對 **GOOGL** 的觀點摘要：Google Cloud、四巨頭財報與 AI capex 泡沫論校驗 | Bytc-20260429-four-giants-cloud-ai-capex-4b825039 | **GOOG**, **GOOGL**, **AMZN**, **MSFT**, **META**, **NVDA** | #AI基建 #財報 #ReRating #估值風險 | L2；Google Cloud / backlog 數字按 Bytc Note 口徑入庫，待 official filing 校準 |
@@ -13,6 +14,51 @@
 | 2026-04-18 02:45 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Marvell SRAM inference engine、Gemini latency 與 custom silicon second source | KP_FOMOSoc-20260418-kp-thinking-note-38-tsla-ai5-google-marvell-amzn-globalstar-tsmc-coreweave-luxury-1323d111 | **GOOG**, **GOOGL**, **MRVL**, **AVGO**, **TSM** | #AI基建 #雲端基建 #競爭風險 #執行風險 #ReRating | L2；Google Cloud AI inference TCO / memory hierarchy / supplier diversification 補強 |
 | 2026-04-11 02:54 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Intel Xeon + IPU 與 AI balanced system | KP_FOMOSoc-20260411-kp-thinking-note-37-intel-claude-ai-amazon-capex-e8155b80 | **GOOG**, **GOOGL**, **INTC**, **AMD**, **ARM**, **NVDA** | #AI基建 #雲端基建 #競爭風險 #執行風險 #ReRating | L2；Google Cloud AI infrastructure TCO / CPU + IPU 合作補強 |
 | 2026-04-04 03:10 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：平台設計責任、Google Quantum AI 與 crypto PQC 倒數 | KP_FOMOSoc-20260404-kp-thinking-note-36-nvidia-marvell-google-quantum-intel-nike-buffett-11812b9b | **GOOG**, **GOOGL**, **META**, **BTC**, **ETH**, **SOL**, **IBM**, **IONQ** | #監管審批 #政策風險 #量子運算 #加密貨幣 #競爭風險 #執行風險 #估值風險 | L2；平台設計責任 / Section 230 繞道與 Google Quantum AI / PQC 遷移 read-through |
+
+---
+
+## 大叔美股筆記 對 **GOOGL** 的觀點摘要：Google reportedly first HBF customer 與 TPU / inference memory hierarchy
+
+- **來源 KOL**：大叔美股筆記
+- **原文主整理**：`KOL/大叔美股筆記/articles/20260502_nvidia_4tb_hbf_uncle.md`
+- **原始來源**：https://unclestocknotes.substack.com/p/nvidia-4tb-hbf；https://wccftech.com/nvidia-not-interested-in-hbf-memory-despite-4tb-stacks-dwarfing-hbm/
+- **source_id**：大叔美股筆記-20260502-nvidia-4tb-hbf-ai-memory-hierarchy-73bf0f60
+- **raw 路徑 / URL**：`KOL/大叔美股筆記/raw/20260502_大叔美股筆記_nvidia_4tb_hbf_大叔美股筆記-20260502-nvidia-4tb-hbf-ai-memory-hierarchy-73bf0f60.pdf`
+- **OCR 狀態**：不適用（Substack HTML 正文完整可讀；PDF 作 raw 備份）
+- **類型**：Substack 文章 / HBF / AI memory hierarchy / Google TPU / inference TCO
+- **發文時間**：2026-05-02（Substack 頁面 / PDF 顯示 May 02, 2026；時區未確認）
+- **整理日期**：2026-05-02
+- **交會等級**：L2
+- **事件類型**：HBF reported customer / Google TPU memory hierarchy / inference capacity tier
+- **主題 / 母題標籤**：#Memory #AI基建 #雲端基建 #先進封裝 #競爭風險 #ReRating
+
+### 對 **GOOGL** 的影響
+
+大叔把 Wccftech 報導中的「Google reportedly locked as first HBF customer」放進 Google TPU / inference memory hierarchy 脈絡，而不是寫成 Google 已取得 official design win。若後續被官方或供應鏈交付驗證，HBF 可能補上 Google 在 large model residency、long context、KV cache 與 cost-per-token 的大容量記憶體層。
+
+這和既有 **GOOGL** thesis 呼應：KP 2026-04-25 TPU 8 討論 HBM / SRAM / MPU 與多供應商分工，KP 2026-04-18 Google / Marvell SRAM inference engine 討論 low-latency memory hierarchy，KP 2026-03-28 TurboQuant 則討論 KV cache 壓縮。大叔這篇新增的是「HBF 作為 HBM 與 SSD 之間的 capacity tier」，把 Google 的 Cloud AI TCO / Gemini latency / TPU memory stack 追蹤題再往 NAND / HBF 延伸。
+
+### 觀點摘要
+
+| 面向 | 內容 |
+|---|---|
+| **立場** | L2 infrastructure context；不改變 Search / Cloud / capex 主 thesis，但補強 Google system-level AI infrastructure 路線 |
+| **Google reported customer** | Wccftech 稱 Google reportedly locked as first HBF customer；本專案標未確認，不寫成 official Google / SanDisk disclosure |
+| **為何 Google 合理** | Google 有 TPU、compiler、Gemini workload 與 data center full stack，可按 inference / long-context workload 設計 memory tier |
+| **與 NVIDIA 的差異** | NVIDIA 路線仍偏 high-bandwidth HBM / NVLink / CUDA；Google 可在 custom ASIC / inference economics 上更積極測試 capacity-optimized memory |
+| **主要驗證點** | Google / SanDisk official confirmation、TPU roadmap、HBF sampling / qualification、Cloud AI margin、Gemini latency、cost per token |
+
+### 風險表
+
+| 風險 | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|
+| Google first customer 未被驗證 | 高 | Wccftech 報導未進一步得到 Google / SanDisk / supply-chain confirmation | official release、TPU roadmap、sampling / qualification、supplier commentary | 大叔 / Wccftech；整理者判斷 |
+| HBF 技術未轉 production | 高 | bandwidth、latency、endurance、thermal、controller / software stack 未達 production workload 需求 | HBF spec、customer qualification、HBF revenue, package yield | SanDisk HBF materials；整理者判斷 |
+| GOOGL 投資含義過度外推 | 中高 | HBF 只作 internal prototype 或 niche workload，未轉 Cloud AI revenue / margin | Cloud AI revenue、Cloud margin、cost per token、Gemini latency、external TPU adoption | 整理者判斷 |
+
+### 呼應連結
+
+> 呼應 KP TPU 8 / SRAM engine / TurboQuant / Apollo OCS 的 memory hierarchy 線索：Google 的 AI infrastructure moat 正從單顆 TPU 擴展到 memory stack、interconnect、compiler、data center power 與供應鏈共同定義的 system-level TCO。
 
 ---
 

@@ -1,11 +1,12 @@
 # GOOGL 投資儀表板
 
-> 最後更新：2026-05-01（補入大叔 2026-04-30 L3：Google Q1 Search / Cloud / Gemini / Waymo conviction；Bytc 2026-04-29 L2：Google capex 上修至 `$185B` 與四巨頭 AI infrastructure spending map；Google full-year 口徑待 official transcript / 10-Q 校準）
+> 最後更新：2026-05-02（新增大叔 2026-05-02 HBF L2 context：Google reportedly first HBF customer / TPU memory hierarchy；Google 客戶狀態按 Wccftech reported / 未確認處理）
 
 ## 當前立場快照
 
 - **綜合立場**：**GOOGL** / **GOOG** 目前的追蹤核心是「Search / Services 現金流 + Google Cloud / AI monetization + AI 基建資本成本 moat」。大叔把 2026 capex、百年債與能源垂直整合視為 Alphabet 從輕資產軟體巨頭轉向 AI infrastructure utility 的里程碑。
 - **大叔最新立場**：長線隱含偏多，但短期必須用 capex、depreciation、FCF、Cloud AI revenue、AI Search monetization 與 energy milestones 來驗證。
+- **本次補入的大叔 2026-05-02 HBF 長文**：大叔把 Wccftech「Google reportedly locked as first HBF customer」放進 Google TPU / inference memory hierarchy，而非寫成 official design win。對 **GOOGL** 是 L2 system-level TCO context：若後續驗證，HBF 可能成為 HBM 與 SSD 之間的大容量 memory tier，補上 Gemini / long-context / KV cache / cost-per-token 的 capacity layer；目前仍需 Google / SanDisk / 供應鏈 confirmation。
 - **本次補入的大叔 2026-04-30 Google Q1 Note**：大叔回顧一年前市場擔心 Search 被 OpenAI 取代時，他從 170 以下開始接 Google，並把這筆操作視為「驕傲之舉」之一；這是 L3 conviction 補強，非當前買點或目標價。Note 轉述 Q1 口徑：Search queries ATH、Google Cloud +63%、Search daily AI interactions >5B、Waymo autonomous miles `2.1M` / +300%，另把 2026-05-19 至 05-20 Google I/O 放進近程催化劑。
 - **本次補入的 Bytc 2026-04-29 四巨頭財報檢查**：Bytc 將 Google Cloud `$20.0B`、cloud backlog `$460B` / +63% 放進四巨頭財報 beat 與 cloud demand mosaic，認為這讓 AI capex 泡沫論變難成立。對 **GOOGL** 的增量是 L2 demand validation；但 Google 數字本次按 Bytc Note 口徑入庫，需後續用 Alphabet official filing 校準 backlog / RPO 定義。
 - **本次補入的 Bytc 2026-04-29 capex 上修檢查**：Bytc 將 Google 2026 capex 從約 `$165B` 上修至 `$185B`，並把四巨頭合計 capex 從約 `$665B` 上修至約 `$710B`。對 **GOOGL** 的增量是 AI 基建 spending map 繼續擴大，正面支持 Cloud / TPU / AI Search infrastructure moat，但也提高 depreciation、FCF、power cost、component pricing 與 ROIC 檢查強度；`$185B` 先記為 Bytc 口徑，待 official transcript / 10-Q 校準。
@@ -37,6 +38,7 @@
 
 | 類型 | 數字 | 來源 | 解讀 |
 |---|---|---|---|
+| HBF / Google reported first customer | Wccftech 稱 Google reportedly locked as first HBF customer；HBF 4TB class capacity 為 HBF technical context | 大叔 2026-05-02；Wccftech；SanDisk HBF official materials | L2 memory hierarchy context；未確認前不能寫成 Google official design win，需追 HBF sampling / qualification、TPU roadmap、Cloud AI margin、cost per token |
 | 大叔 2026-04-30 Google Q1 anchors | Search queries ATH；Google Cloud revenue +63%；Search daily AI interactions >5B；Waymo fully autonomous miles `2.1M` / +300%；Google I/O 2026 為 2026-05-19 至 05-20 | 大叔 Substack Note；Google I/O official page | L3 conviction 補強；170 以下是大叔歷史買入語境，非當前買點；需追 Search monetization、Cloud margin、capex / FCF 與 I/O roadmap |
 | Bytc 2026-04-29 Google capex update | Google capex Bytc 口徑從約 `$165B` 上修至 `$185B`；四巨頭合計約 `$710B`、原估約 `$665B` | Bytc Substack Note；Alphabet Q1 official release 校準 Q1 PPE purchases `$35.7B` | L2 spending validation；full-year `$185B` 仍待 official transcript / 10-Q 校準，不能直接替代 Alphabet official guidance |
 | Bytc 2026-04-29 Google Cloud demand check | Google Cloud revenue `$20.0B`、cloud backlog `$460B` / +63%；total revenue `$109.9B`、EPS `$5.11` | Bytc Substack Note | L2 demand validation；待 Alphabet official filing 校準，不能直接替代 10-Q / earnings release |
@@ -192,6 +194,7 @@
 | Quantum / PQC roadmap 被過度短線化 | 中 | 市場把 Google Quantum AI 白皮書誤讀為 crypto 今日可破解或 GOOGL 短期收入，導致 thesis 偏離實際商業化時間 | qubit scale、error correction、PQC migration、quantum cloud revenue、security product adoption | KP 2026-04-04；整理者判斷 |
 | CPU / IPU 分層效率未轉成 Cloud AI monetization | 中 | Google 的 Xeon / IPU balanced system 只改善內部架構彈性，未能轉成可見 Cloud AI revenue、margin 或 cost per token 優勢 | Cloud AI revenue、Cloud margin、latency、IPU deployment、TPU / GPU / CPU utilization、Intel supply dependency | KP 2026-04-11；整理者判斷 |
 | TPU 8 system moat 未轉成 Cloud AI monetization | 中高 | TPU 8 只改善內部效率，未轉成外部客戶、Google Cloud AI revenue、margin 或 cost per token 優勢 | TPU 8 production、external TPU workloads、Cloud AI revenue、Cloud margin、cost per token、Gemini latency、developer tooling | KP 2026-04-25；整理者判斷 |
+| HBF / Google reported customer 未被驗證 | 中高 | Wccftech 所稱 Google first HBF customer 未獲 Google / SanDisk / 供應鏈確認，或 HBF 只停留在 prototype / niche workload | official confirmation、HBF sampling / qualification、TPU roadmap、Cloud AI margin、cost per token、Gemini latency | 大叔 2026-05-02；Wccftech；整理者判斷 |
 | 多供應商 memory stack 整合風險 | 中 | Broadcom / MediaTek / Marvell / Intel 分工提高 integration、yield、tooling、schedule 或 supply allocation 複雜度 | supplier guidance、deployment schedule、TPU 8 yield、workload split、Cloud AI reliability | KP 2026-04-25；整理者判斷 |
 | SRAM / Marvell second-source 未轉成 Cloud AI monetization | 中 | SRAM engine 只停留在 prototype 或小量內部 workload，沒有改善 Gemini latency / cost per token，也未轉成 Marvell revenue 或 GOOGL margin | Marvell guidance、Cloud AI revenue、cost per token、latency、Broadcom / Marvell workload split、TPU roadmap | KP 2026-04-18；整理者判斷 |
 | Ironwood / TPU 圍牆花園限制 | 中高 | TPU 只在 Google Cloud 內有效，developer / customer 遷移成本高，無法撼動 CUDA / Nvidia open ecosystem | KP 2025-11-08 |
@@ -203,6 +206,7 @@
 
 | 來源 | 權重 | 對 thesis 的作用 | 路徑 |
 |---|---|---|---|
+| 大叔 2026-05-02 NVIDIA / HBF | 中 | 補上 Google memory hierarchy L2 context：HBF 可能作為 TPU / inference / long-context 的大容量 memory tier；但 Google first customer 仍為 Wccftech reported / 未確認，需後續 official confirmation | `KOL/大叔美股筆記/articles/20260502_nvidia_4tb_hbf_uncle.md`；`Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md` |
 | Bytc 2026-04-29 四巨頭 capex 上修 | 中 | 補上 Google capex 從約 `$165B` 上修至 `$185B` 的 L2 spending check，與四巨頭合計約 `$710B` 的 AI infrastructure map；正面是基建需求，風險是折舊 / FCF / component pricing，且 Google full-year 口徑需 official 校準 | `KOL/Bytc/notes/bytc筆記.md`；`Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md` |
 | Bytc 2026-04-29 四巨頭段考 | 中 | 補上 Google Cloud / 四巨頭 cloud demand 的 L2 檢查點，用 revenue / backlog 支撐 AI capex 不是純泡沫；但 Google 數字需 official filing 校準 | `KOL/Bytc/notes/bytc筆記.md`；`Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md` |
 | 大叔 2026-02-21 Alphabet capex / century bond | 高 | 正式升級觸發；把 **GOOGL** 定位為 AI infrastructure / capital structure / energy moat thesis | `Stocks/GOOGL/milestones/GOOGL_里程碑_20260221_Alphabet資本支出百年債與AI基建護城河.md` |
