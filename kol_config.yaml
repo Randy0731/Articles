@@ -544,6 +544,41 @@ stock_projects:
       - "#政策風險"
       - "#供應鏈風險"
 
+  TER:
+    aliases:
+      - "TER"
+      - "Teradyne"
+      - "Teradyne Inc."
+      - "Teradyne, Inc."
+      - "泰瑞達"
+      - "Universal Robots"
+      - "Mobile Industrial Robots"
+      - "MiR"
+    root: "Stocks/TER"
+    raw_dir: "Stocks/TER/raw"
+    notes_dir: "Stocks/TER/notes"
+    quarterly_dir: "Stocks/TER/quarterly"
+    milestones_dir: "Stocks/TER/milestones"
+    longform_dir: "Stocks/TER/longform"
+    dashboard: "Stocks/TER/TER_儀表板.md"
+    stock_index: "Stocks/TER/TER_index.md"
+    current_quarter_file_pattern: "TER_筆記_YYYYQN.md"
+    milestone_file_pattern: "TER_里程碑_[文章標題].md"
+    longform_file_pattern: "TER_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    theme_tags:
+      - "#財報"
+      - "#AI基建"
+      - "#半導體設備"
+      - "#先進封裝"
+      - "#Memory"
+      - "#ReRating"
+      - "#估值風險"
+      - "#執行風險"
+      - "#競爭風險"
+      - "#供應鏈風險"
+
   GLW:
     aliases:
       - "GLW"

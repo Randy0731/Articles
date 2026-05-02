@@ -2,6 +2,10 @@
 
 ## 2026-05-02
 
+- 入庫 `大叔美股筆記-20260502-teradyne-ter-2026-q1-ai-test-structural-profit-leverage-57131493`：整理大叔美股筆記 Substack 文章《Teradyne **TER** 2026 Q1 財報分析》，建立 `KOL/大叔美股筆記/articles/20260502_teradyne_ter_2026_q1_uncle.md`，並複製使用者提供之 9 頁 Substack 截圖 PDF 至 `KOL/大叔美股筆記/raw/20260502_大叔美股筆記_teradyne_ter_2026_q1_大叔美股筆記-20260502-teradyne-ter-2026-q1-ai-test-structural-profit-leverage-57131493.pdf`。PDF 為 image-only，p.1-p.6 為標題、核心正文、links 與免責聲明起始，p.7-p.9 為 discussion / 推薦文章 / footer；OCR 狀態標「部分」，核心內容可可靠判讀，未偵測截斷。
+- 更新：正式建立 `Stocks/TER/` 專案，新增 `Stocks/TER/quarterly/TER_筆記_2026Q2.md`、`Stocks/TER/TER_index.md`、`Stocks/TER/TER_儀表板.md`，並更新 `kol_config.yaml`、`Stocks/README.md`、`KOL/大叔美股筆記/notes/大叔美股筆記.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md` 與 private raw manifest。歷史回查 `TER|Teradyne|泰瑞達|Universal Robots|MiR` 只發現 Bytc 2026-03-17 GTC 2026 文中 **TER** / Universal Robots L1 physical-AI context，沒有既有 **TER** 單股 thesis，因此沒有舊文補入 `Stocks/TER/`。
+- 備註：Teradyne official Q1 2026 release 校準 revenue `$1.282B`、GAAP EPS `$2.19`、non-GAAP EPS `$2.56`、non-GAAP gross margin `60.9%`、Semiconductor Test sales `$1.1109B`、Robotics `$91.2M`、System Test `$80.3M`、Q2 revenue guide `$1.15B-$1.25B` 與 non-GAAP EPS `$1.78-$2.07`。本文新增「Wafer-to-Data Center / AI 測試保險框架」與「測試時間倍增 / 結構性利潤槓桿框架」；大叔 P/E / DCF 情境估值均為 KOL 口徑，不是本專案買賣建議。
+
 - 入庫 `美股老司機-20251106-meta-tsla-se-celh-vktx-cava-onds-one-share-unsold-5cf46cd8`：整理使用者提供的 Facebook Reel / 截圖《歷史與未來成長股名單：**ONDS** 一股未賣》，追加至 `KOL/美股老司機/notes/美股老司機投資筆記.md`。來源為 Facebook Reel URL `https://www.facebook.com/reel/2266223263877979` 與一張使用者截圖，未另存 raw；OCR 狀態標「部分」，主貼文核心文字可讀，未取得完整留言串 / 原始影片 raw，但不影響主旨、日期、KOL 與 ticker 語境判讀。
 - 更新：同步追加 `Stocks/ONDS/quarterly/ONDS_筆記_2025Q4.md`，並更新 `Stocks/ONDS/ONDS_index.md`、`Stocks/ONDS/ONDS_儀表板.md`、`indexes/source_index.md`、`indexes/ticker_index.md` 與 `indexes/theme_index.md`。**ONDS** 判定 L2 tracked-stock conviction 補強：作者明確寫「老司機的 ONDS 一股未賣」。
 - 備註：**META** / **TSLA** / **SE** / **CELH** 只記為歷史正面清單；**VKTX** / **CAVA** 只記為「包括未來的」清單。這些 ticker 沒有獨立 thesis、價位、風險或催化劑，不建立 `Stocks/`，不寫成目標價、買點或本專案買賣建議。

@@ -19,5 +19,6 @@
 - **LRCX**
 - **VRT**
 - **AMKR**
+- **TER**
 - **GLW**
 - **RDW**
