@@ -12,6 +12,7 @@
 - **IBM**
 - **FCX**
 - **SOFI**
+- **GRAB**
 - **GS**
 - **SNDK**
 - **GOOGL**

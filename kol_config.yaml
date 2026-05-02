@@ -1,5 +1,5 @@
 version: 1
-updated: "2026-05-01"
+updated: "2026-05-02"
 language: "zh-Hant"
 
 global:
@@ -318,6 +318,39 @@ stock_projects:
       - "#金融科技"
       - "#ReRating"
       - "#信用風險"
+      - "#估值風險"
+      - "#執行風險"
+      - "#競爭風險"
+
+  GRAB:
+    aliases:
+      - "GRAB"
+      - "Grab"
+      - "Grab Holdings"
+      - "Grab Holdings Limited"
+      - "Grab Holdings Ltd."
+      - "GrabTaxi"
+      - "GrabFood"
+      - "GrabFin"
+      - "GrabAds"
+    root: "Stocks/GRAB"
+    raw_dir: "Stocks/GRAB/raw"
+    notes_dir: "Stocks/GRAB/notes"
+    quarterly_dir: "Stocks/GRAB/quarterly"
+    milestones_dir: "Stocks/GRAB/milestones"
+    longform_dir: "Stocks/GRAB/longform"
+    dashboard: "Stocks/GRAB/GRAB_儀表板.md"
+    stock_index: "Stocks/GRAB/GRAB_index.md"
+    current_quarter_file_pattern: "GRAB_筆記_YYYYQN.md"
+    milestone_file_pattern: "GRAB_里程碑_[文章標題].md"
+    longform_file_pattern: "GRAB_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    theme_tags:
+      - "#金融科技"
+      - "#消費成長"
+      - "#政策風險"
+      - "#ReRating"
       - "#估值風險"
       - "#執行風險"
       - "#競爭風險"
