@@ -612,6 +612,39 @@ stock_projects:
       - "#競爭風險"
       - "#供應鏈風險"
 
+  VICR:
+    aliases:
+      - "VICR"
+      - "Vicor"
+      - "Vicor Corporation"
+      - "VPD"
+      - "Factorized Power Architecture"
+      - "FPA"
+    root: "Stocks/VICR"
+    raw_dir: "Stocks/VICR/raw"
+    notes_dir: "Stocks/VICR/notes"
+    quarterly_dir: "Stocks/VICR/quarterly"
+    milestones_dir: "Stocks/VICR/milestones"
+    longform_dir: "Stocks/VICR/longform"
+    dashboard: "Stocks/VICR/VICR_儀表板.md"
+    stock_index: "Stocks/VICR/VICR_index.md"
+    current_quarter_file_pattern: "VICR_筆記_YYYYQN.md"
+    milestone_file_pattern: "VICR_里程碑_[文章標題].md"
+    longform_file_pattern: "VICR_[文章標題].md"
+    dashboard_required_for_l2_plus: true
+    quarter_split_months: [1, 4, 7, 10]
+    theme_tags:
+      - "#財報"
+      - "#AI基建"
+      - "#功率半導體"
+      - "#能源電力"
+      - "#先進封裝"
+      - "#ReRating"
+      - "#估值風險"
+      - "#執行風險"
+      - "#競爭風險"
+      - "#供應鏈風險"
+
   GLW:
     aliases:
       - "GLW"

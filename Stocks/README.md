@@ -21,5 +21,6 @@
 - **VRT**
 - **AMKR**
 - **TER**
+- **VICR**
 - **GLW**
 - **RDW**
