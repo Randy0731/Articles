@@ -2,6 +2,10 @@
 
 ## 2026-05-03
 
+- 入庫 `KP_FOMOSoc-20260502-kp-thinking-note-40-big-tech-earnings-ai-capex-2f19bb36`，並將推廣 Note `KP_FOMOSoc-20260503-kp-thinking-note-40-big-tech-earnings-promo-30ec5489` 作為同組補充：整理 KP / FOMOSoc Substack 電子報《5大巨頭財報，所有你要知道的事情 - KP思考筆記(第40期)》，建立 `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第40期_五大巨頭財報_AI資本支出變現能見度.md`。Jina Reader Markdown 共 782 行，正文六個主題完整展開並有 KP 署名；來源為 URL，未另存 raw，OCR 狀態不適用，未偵測截斷。
+- 更新：同步更新 `Stocks/AMZN/quarterly/AMZN_筆記_2026Q2.md`、`Stocks/AMZN/AMZN_index.md`、`Stocks/AMZN/AMZN_儀表板.md`、`Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md`、`Stocks/GOOGL/GOOGL_index.md`、`Stocks/GOOGL/GOOGL_儀表板.md`、`KOL/KP_FOMOSoc/frameworks/KP框架庫索引.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md`、`indexes/framework_index.md`、`indexes/catalyst_index.md` 與 `indexes/watchlist_index.md`。
+- 備註：本文新增「AI 資本支出變現能見度 / Hyperscaler Capex Prove-It 框架」。**GOOG**/**GOOGL** 判定 L3 tracked-stock follow-up，重點為 Cloud +63%、Search engagement、TPU 外部化與 KP 口徑 backlog；**AMZN** 判定 L3 tracked-stock follow-up，重點為 AWS +28%、Trainium / Graviton / Nitro、KP 口徑 backlog 與 OpenAI / Anthropic / Meta workload。**MSFT**, **META**, **AAPL** 判定 L3 watchlist 補強；**NVDA** 只作 custom silicon / competitor context。OpenAI / hyperscaler 合約細節按 KP 口徑入庫，待 official filing / transcript 校準；本文不是買賣建議。
+
 - 入庫 `宋分-20260502-investment-discipline-15-liquidity-divergence-market-4ba2105d`，並將推廣 Note `宋分-20260502-investment-discipline-15-liquidity-divergence-promo-280b03ad` 作為同組補充：整理宋分 / 美股送分題 Substack 電子報《資金行情的下一步會怎麼走？看完這篇，避免退潮時只剩你在裸泳》，建立 `KOL/宋分/articles/20260502_investment_discipline_15_liquidity_divergence_market.md`。Substack API / RSS / JSON-LD 與 Note metadata 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用，未偵測截斷。
 - 更新：同步更新 `KOL/宋分/frameworks/宋分框架庫索引.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/framework_index.md`。本文新增「分化行情 / Beta-to-Alpha 切換框架」，並補強既有「資金行情 / 流動性主導風險框架」：資金行情是市場願意付更高價格而非 EPS / 公司價值重估，分化行情則是市場重新區分有無 EPS、競爭優勢與產業位置。
 - 備註：**AMZN** / **MSFT** 只作網路泡沫後倖存案例，**NVDA** 只作 AI 初期 re-rate 對照；三者判定 L1，不同步任何 `Stocks/`，不新增 catalyst / watchlist。本文不是買賣建議。

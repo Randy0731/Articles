@@ -222,6 +222,15 @@
 - **也出現於**：呼應第20期 Meta Avocado / 開源商品化反噬、第33期 AI Agent 身分 / 通訊層框架。
 - **相關 ticker / 產業**：**META**；social platforms / digital ads / consumer AI。
 
+## AI 資本支出變現能見度 / Hyperscaler Capex Prove-It 框架
+
+- **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第40期_五大巨頭財報_AI資本支出變現能見度.md`
+- **一句話定義**：AI capex 進入 prove-it stage 後，市場不再同等獎勵所有「AI 投資」，而是按 backlog / RPO、AI revenue、外部產品線、paid usage、margin、FCF 與 cost visibility 來區分 capex 品質。
+- **適用情境**：hyperscaler earnings、AI data center capex、cloud AI monetization、custom silicon 外部化、AI ad optimization、Copilot / agent usage pricing、投資人想比較「高 capex 是護城河還是資本黑洞」時。
+- **觀察指標**：Cloud revenue growth、AI revenue run-rate、RPO / backlog conversion、TPU / Trainium / Maia external adoption、Copilot paid seats / usage、AI ad conversion attribution、capex、depreciation、power / memory cost、FCF、gross / operating margin。
+- **也出現於**：延伸第28期 AWS 建設模式 / backlog 收據框架、第29期 Alphabet 百年債 / AI 基建公用事業框架、第37期 AWS AI Capex 預售 / 自研晶片外販期權框架、第39期 TPU 系統定義者框架，並呼應 Bytc 四巨頭 capex 上修與宋分 CSP FCF 觸底 / CAPEX 見頂框架。
+- **相關 ticker / 產業**：**GOOG**, **GOOGL**, **AMZN**, **MSFT**, **META**, **AAPL**, **NVDA**；hyperscaler / cloud AI infrastructure / custom silicon / digital ads / enterprise AI。
+
 ## AWS AI Capex 預售 / 自研晶片外販期權框架
 
 - **首見來源**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第37期_INTC_Claude_Mythos_Meta_MuseSpark_AMZN.md`

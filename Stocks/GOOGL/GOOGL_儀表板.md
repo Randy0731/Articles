@@ -1,11 +1,12 @@
 # GOOGL 投資儀表板
 
-> 最後更新：2026-05-02（新增大叔 2026-05-02 HBF L2 context：Google reportedly first HBF customer / TPU memory hierarchy；Google 客戶狀態按 Wccftech reported / 未確認處理）
+> 最後更新：2026-05-03（新增 KP 第40期 L3：Google Cloud +63%、Search AI engagement、TPU 外部化與 KP 口徑 backlog `$462B`，放入 AI capex 變現能見度比較）
 
 ## 當前立場快照
 
 - **綜合立場**：**GOOGL** / **GOOG** 目前的追蹤核心是「Search / Services 現金流 + Google Cloud / AI monetization + AI 基建資本成本 moat」。大叔把 2026 capex、百年債與能源垂直整合視為 Alphabet 從輕資產軟體巨頭轉向 AI infrastructure utility 的里程碑。
-- **大叔最新立場**：長線隱含偏多，但短期必須用 capex、depreciation、FCF、Cloud AI revenue、AI Search monetization 與 energy milestones 來驗證。
+- **最新 KOL 立場**：KP 2026-05-02 第40期將 Google 寫成 big-tech AI capex prove-it 比較中變現能見度最高的一側：Cloud +63%、Gemini Enterprise paid usage、Search usage、TPU direct sales / customer data-center deployment 與 KP 口徑 backlog `$462B`，使市場較能接受 2026 capex `$180B-$190B` 與 2027 更高 capex；但仍需 official 口徑、Cloud AI revenue / margin、Search monetization、capex、depreciation 與 FCF 驗證。大叔最新立場仍是長線隱含偏多，但短期必須用 capex、depreciation、FCF、Cloud AI revenue、AI Search monetization 與 energy milestones 來驗證。
+- **本次補入的 KP 2026-05-02 第40期**：KP 將 Google Cloud revenue `$20B` / +63%、Search & other `$60.4B` / +19%、Gemini Enterprise paid MAU +40% q/q、2,800+ companies / 8M paid seats、Cloud margin 17.8% -> 32.9% 與 TPU 8 外部化串成 L3 tracked-stock 補強；backlog、capex 與 TPU 外售 / 客戶機房部署先按 KP 口徑入庫，待 Alphabet official filing / transcript 校準。
 - **本次補入的大叔 2026-05-02 HBF 長文**：大叔把 Wccftech「Google reportedly locked as first HBF customer」放進 Google TPU / inference memory hierarchy，而非寫成 official design win。對 **GOOGL** 是 L2 system-level TCO context：若後續驗證，HBF 可能成為 HBM 與 SSD 之間的大容量 memory tier，補上 Gemini / long-context / KV cache / cost-per-token 的 capacity layer；目前仍需 Google / SanDisk / 供應鏈 confirmation。
 - **本次補入的大叔 2026-04-30 Google Q1 Note**：大叔回顧一年前市場擔心 Search 被 OpenAI 取代時，他從 170 以下開始接 Google，並把這筆操作視為「驕傲之舉」之一；這是 L3 conviction 補強，非當前買點或目標價。Note 轉述 Q1 口徑：Search queries ATH、Google Cloud +63%、Search daily AI interactions >5B、Waymo autonomous miles `2.1M` / +300%，另把 2026-05-19 至 05-20 Google I/O 放進近程催化劑。
 - **本次補入的 Bytc 2026-04-29 四巨頭財報檢查**：Bytc 將 Google Cloud `$20.0B`、cloud backlog `$460B` / +63% 放進四巨頭財報 beat 與 cloud demand mosaic，認為這讓 AI capex 泡沫論變難成立。對 **GOOGL** 的增量是 L2 demand validation；但 Google 數字本次按 Bytc Note 口徑入庫，需後續用 Alphabet official filing 校準 backlog / RPO 定義。
@@ -38,6 +39,7 @@
 
 | 類型 | 數字 | 來源 | 解讀 |
 |---|---|---|---|
+| KP 2026-05-02 Google AI capex visibility | Google Cloud `$20B` / +63%；Search & other `$60.4B` / +19%；Gemini Enterprise paid MAU +40% q/q；2,800+ companies / 8M paid seats；Cloud margin 17.8% -> 32.9%；KP 口徑 backlog 約 `$462B`；2026 capex `$180B-$190B` | KP / FOMOSoc 第40期 | L3 tracked-stock 補強；backlog、TPU 外部化與 capex 口徑需 official filing / transcript 校準，核心是 Cloud AI revenue / margin、Search monetization、TPU external adoption 與 FCF |
 | HBF / Google reported first customer | Wccftech 稱 Google reportedly locked as first HBF customer；HBF 4TB class capacity 為 HBF technical context | 大叔 2026-05-02；Wccftech；SanDisk HBF official materials | L2 memory hierarchy context；未確認前不能寫成 Google official design win，需追 HBF sampling / qualification、TPU roadmap、Cloud AI margin、cost per token |
 | 大叔 2026-04-30 Google Q1 anchors | Search queries ATH；Google Cloud revenue +63%；Search daily AI interactions >5B；Waymo fully autonomous miles `2.1M` / +300%；Google I/O 2026 為 2026-05-19 至 05-20 | 大叔 Substack Note；Google I/O official page | L3 conviction 補強；170 以下是大叔歷史買入語境，非當前買點；需追 Search monetization、Cloud margin、capex / FCF 與 I/O roadmap |
 | Bytc 2026-04-29 Google capex update | Google capex Bytc 口徑從約 `$165B` 上修至 `$185B`；四巨頭合計約 `$710B`、原估約 `$665B` | Bytc Substack Note；Alphabet Q1 official release 校準 Q1 PPE purchases `$35.7B` | L2 spending validation；full-year `$185B` 仍待 official transcript / 10-Q 校準，不能直接替代 Alphabet official guidance |
@@ -159,6 +161,7 @@
 
 | 風險 | 等級 | 觀察指標 | 來源 |
 |---|---|---|---|
+| KP 第40期 Google backlog / TPU 外部化 / capex 口徑需 official 校準 | 高 | Alphabet 10-Q / IR transcript、RPO / backlog definition、TPU external customer disclosure、capex guide、PPE purchases、finance leases、depreciation | KP 2026-05-02；整理者判斷 |
 | Bytc Google capex `$185B` full-year 口徑需 official 校準 | 高 | Alphabet 10-Q / IR transcript、capex guide、PPE purchases、finance leases、depreciation | Bytc 2026-04-29 capex Note；整理者判斷 |
 | Bytc Google Cloud 數字口徑需 official 校準 | 高 | Alphabet 10-Q / earnings release、Google Cloud revenue、RPO / backlog definition、growth rate | Bytc 2026-04-29；整理者判斷 |
 | Capex / depreciation 壓縮 margin 與 FCF | 高 | Depreciation、operating margin、FCF after capex | 大叔文章 |
@@ -206,6 +209,7 @@
 
 | 來源 | 權重 | 對 thesis 的作用 | 路徑 |
 |---|---|---|---|
+| KP 2026-05-02 五大巨頭財報 / Google AI capex visibility | 中高 | 補上 Google 作為本輪 hyperscaler AI capex 變現能見度最高一側的 L3 tracked-stock 更新：Cloud +63%、Search +19%、Gemini Enterprise paid usage、TPU 外部化與 KP 口徑 backlog 支撐 capex thesis；需 official 校準與 FCF 驗證 | `KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第40期_五大巨頭財報_AI資本支出變現能見度.md`；`Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md` |
 | 大叔 2026-05-02 NVIDIA / HBF | 中 | 補上 Google memory hierarchy L2 context：HBF 可能作為 TPU / inference / long-context 的大容量 memory tier；但 Google first customer 仍為 Wccftech reported / 未確認，需後續 official confirmation | `KOL/大叔美股筆記/articles/20260502_nvidia_4tb_hbf_uncle.md`；`Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md` |
 | Bytc 2026-04-29 四巨頭 capex 上修 | 中 | 補上 Google capex 從約 `$165B` 上修至 `$185B` 的 L2 spending check，與四巨頭合計約 `$710B` 的 AI infrastructure map；正面是基建需求，風險是折舊 / FCF / component pricing，且 Google full-year 口徑需 official 校準 | `KOL/Bytc/notes/bytc筆記.md`；`Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md` |
 | Bytc 2026-04-29 四巨頭段考 | 中 | 補上 Google Cloud / 四巨頭 cloud demand 的 L2 檢查點，用 revenue / backlog 支撐 AI capex 不是純泡沫；但 Google 數字需 official filing 校準 | `KOL/Bytc/notes/bytc筆記.md`；`Stocks/GOOGL/quarterly/GOOGL_筆記_2026Q2.md` |

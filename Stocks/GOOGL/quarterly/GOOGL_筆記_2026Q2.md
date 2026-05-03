@@ -6,6 +6,7 @@
 
 | 發文時間 | 整理日期 | 標題 | source_id | 相關 ticker | 主題 tags | 備註 |
 |---|---|---|---|---|---|---|
+| 2026-05-02 03:06 UTC（台北 11:06） | 2026-05-03 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google Cloud +63%、TPU 外部化與 AI capex 變現能見度 | KP_FOMOSoc-20260502-kp-thinking-note-40-big-tech-earnings-ai-capex-2f19bb36 | **GOOG**, **GOOGL**, **AMZN**, **MSFT**, **META**, **AAPL**, **NVDA** | #AI基建 #雲端基建 #財報 #ReRating #估值風險 #執行風險 | L3；KP 將 Google 寫成本輪 big-tech 財報中 AI capex 變現能見度最高的公司：Cloud +63%、Search engagement、企業 AI paid usage、TPU direct sales / 客戶機房部署與 backlog 支撐 2026-2027 capex |
 | 2026-05-02（Substack 頁面 / PDF 顯示；時區未確認） | 2026-05-02 | 大叔美股筆記 對 **GOOGL** 的觀點摘要：Google reportedly first HBF customer 與 TPU / inference memory hierarchy | 大叔美股筆記-20260502-nvidia-4tb-hbf-ai-memory-hierarchy-73bf0f60 | **GOOG**, **GOOGL**, **SNDK**, **NVDA**, **AVGO**, **MRVL** | #Memory #AI基建 #雲端基建 #先進封裝 #競爭風險 #ReRating | L2；Wccftech 稱 Google reportedly locked as first HBF customer，需標未確認；大叔把 HBF 放進 Google TPU / inference / cost-per-token memory hierarchy，而非 NVIDIA thesis break |
 | 2026-04-30 05:34（Substack 頁面顯示；時區未確認） | 2026-05-01 | 大叔美股筆記 對 **GOOGL** 的觀點摘要：Search 查詢創高、Cloud +63%、Gemini / Waymo momentum | 大叔美股筆記-20260430-google-q1-search-cloud-gemini-waymo-8f5e7392 | **GOOG**, **GOOGL** | #AI基建 #財報 #ReRating #競爭風險 | L3；大叔回顧 170 以下開始接 Google，並以 Q1 Search / Cloud / Gemini / Waymo 數據補強 Search not dead thesis；無新買點或目標價 |
 | 2026-04-29 22:53 UTC | 2026-05-01 | Bytc 對 **GOOGL** 的觀點摘要：Google capex 上修至 1850 億與四巨頭 AI 基建加碼 | Bytc-20260429-four-giants-capex-710b-ai-infra-9c630e13 | **GOOG**, **GOOGL**, **AMZN**, **MSFT**, **META** | #AI基建 #財報 #ReRating #估值風險 | L2；Google `$185B` 為 Bytc 口徑，Alphabet official release 校準 Q1 capex `$35.7B`，full-year range 待 official transcript / 10-Q 校準 |
@@ -14,6 +15,54 @@
 | 2026-04-18 02:45 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Marvell SRAM inference engine、Gemini latency 與 custom silicon second source | KP_FOMOSoc-20260418-kp-thinking-note-38-tsla-ai5-google-marvell-amzn-globalstar-tsmc-coreweave-luxury-1323d111 | **GOOG**, **GOOGL**, **MRVL**, **AVGO**, **TSM** | #AI基建 #雲端基建 #競爭風險 #執行風險 #ReRating | L2；Google Cloud AI inference TCO / memory hierarchy / supplier diversification 補強 |
 | 2026-04-11 02:54 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google / Intel Xeon + IPU 與 AI balanced system | KP_FOMOSoc-20260411-kp-thinking-note-37-intel-claude-ai-amazon-capex-e8155b80 | **GOOG**, **GOOGL**, **INTC**, **AMD**, **ARM**, **NVDA** | #AI基建 #雲端基建 #競爭風險 #執行風險 #ReRating | L2；Google Cloud AI infrastructure TCO / CPU + IPU 合作補強 |
 | 2026-04-04 03:10 UTC | 2026-04-29 | KP / FOMOSoc 對 **GOOGL** 的觀點摘要：平台設計責任、Google Quantum AI 與 crypto PQC 倒數 | KP_FOMOSoc-20260404-kp-thinking-note-36-nvidia-marvell-google-quantum-intel-nike-buffett-11812b9b | **GOOG**, **GOOGL**, **META**, **BTC**, **ETH**, **SOL**, **IBM**, **IONQ** | #監管審批 #政策風險 #量子運算 #加密貨幣 #競爭風險 #執行風險 #估值風險 | L2；平台設計責任 / Section 230 繞道與 Google Quantum AI / PQC 遷移 read-through |
+
+---
+
+## KP / FOMOSoc 對 **GOOGL** 的觀點摘要：Google Cloud +63%、TPU 外部化與 AI capex 變現能見度
+
+- **來源 KOL**：KP / FOMOSoc
+- **原文主整理**：`KOL/KP_FOMOSoc/weekly/KP_KP思考筆記第40期_五大巨頭財報_AI資本支出變現能見度.md`
+- **原始來源**：https://www.fomosoc.com/p/5-kp40；推廣 Note：https://substack.com/@fomosoc/note/c-252923956
+- **source_id**：KP_FOMOSoc-20260502-kp-thinking-note-40-big-tech-earnings-ai-capex-2f19bb36
+- **raw 路徑 / URL**：URL（未另存 raw；Jina Reader Markdown 完整可讀）
+- **OCR 狀態**：不適用
+- **類型**：Substack 公開電子報 / KP 思考筆記 / 週報 / 五大巨頭財報 / AI capex
+- **發文時間**：2026-05-02 03:06 UTC（台北 11:06）
+- **整理日期**：2026-05-03
+- **交會等級**：L3
+- **事件類型**：Google Q1 earnings / Google Cloud / TPU externalization / Search AI / AI capex visibility
+- **主題 / 母題標籤**：#AI基建 #雲端基建 #財報 #Memory #ReRating #估值風險 #執行風險
+
+### 對 **GOOGL** 的影響
+
+KP 在第40期將 Google 寫成本輪 big-tech 財報中最能回答「AI capex 是否有回收路徑」的公司。Google Cloud revenue `$20B`、+63%，企業 AI 產品首次成為 cloud growth 的主要驅動；Gemini Enterprise paid MAU +40% q/q，超過 2,800 家企業與 8M paid seats；330 個 cloud customers 過去 12 個月處理超過 1T tokens，35 個客戶達 10T tokens 里程碑。
+
+Search 端，KP 延續「AI 沒有殺死搜尋」的框架：Search & other revenue `$60.4B`、+19%，query volume 創高；AI Mode / AI Overviews 被視為增加使用場景與頻率，而不是立即 cannibalize paid clicks。這與 KP 第28期 AI Search expansion、大叔 2026-04-30 Search queries ATH / Cloud +63% Note 同方向。
+
+本文最大增量在 TPU 外部化。KP 認為 Google 已將最新 TPU 8t / 8i 從內部雲端優勢推向外部客戶與客戶機房部署，讓 TPU 從 cost advantage 變成可能的 independent hardware revenue line，2027 後可能有更明顯收入貢獻。Cloud margin 由 17.8% 升至 32.9%，加上 KP 口徑 backlog 約 `$462B`，使市場更願意接受 2026 capex `$180B-$190B` 與 2027 更高 capex。
+
+### 觀點摘要
+
+| 面向 | 內容 |
+|---|---|
+| **立場** | 偏正面 L3；Google 是 KP 本文中 AI capex 變現能見度最高的 hyperscaler |
+| **Cloud / enterprise AI** | Google Cloud revenue `$20B`、+63%；Gemini Enterprise paid MAU +40% q/q；2,800+ companies、8M paid seats |
+| **Search** | Search & other revenue `$60.4B`、+19%，query volume 創高；AI Mode / AI Overviews 被寫成 usage expansion，而非 immediate cannibalization |
+| **TPU 外部化** | KP 認為 TPU 8t / 8i 直接賣給外部客戶並部署到客戶 data center，使 TPU 從內部成本優勢變成潛在硬體 revenue line |
+| **Capex / backlog** | KP 口徑 backlog 約 `$462B`；2026 capex `$180B-$190B`，2027 顯著更高；需用 Cloud AI revenue / margin / FCF 驗證 |
+
+### 風險表
+
+| 風險 | 風險等級 | 觸發條件 | 觀察指標 | 出處 |
+|---|---|---|---|---|
+| Backlog / TPU 外部化口徑需校準 | 高 | KP 口徑 backlog 或 TPU 外售與 official filing / transcript 定義不一致 | Alphabet 10-Q / transcript、RPO、Cloud backlog、TPU customer disclosure | KP 第40期；整理者判斷 |
+| AI Search 成本高於 monetization | 高 | AI Mode / AI Overviews 拉高 compute cost，但 paid clicks / ad ROI / conversion 沒有同步提升 | Search revenue、paid clicks、AI ad formats、capex、depreciation、cost per query | KP 第40期；既有 GOOGL framework |
+| Capex / depreciation 壓 FCF | 高 | 2026-2027 capex 上升後，Cloud AI revenue / Search monetization 不足以吸收折舊與能源成本 | capex、depreciation、FCF、Cloud margin、power cost | KP 第40期 |
+| TPU external adoption 不及預期 | 中高 | 外部客戶仍偏好 Nvidia / CUDA，TPU 主要停留在 Google internal workload | external TPU revenue、developer tooling、customer wins、Cloud AI margin | KP 第40期；第39期 |
+
+### 呼應連結
+
+> 呼應 KP 第39期 TPU 8 system definer、第38期 Marvell SRAM inference engine、第31期 TPU 外部化、第29期 century bond / Apollo OCS 與第28期 AI Search expansion：第40期把這些線索拉回到財報與 capex ROI 的季度驗證。
 
 ---
 
