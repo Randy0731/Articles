@@ -1,5 +1,11 @@
 # Update Log
 
+## 2026-05-03
+
+- 入庫 `宋分-20260502-investment-discipline-15-liquidity-divergence-market-4ba2105d`，並將推廣 Note `宋分-20260502-investment-discipline-15-liquidity-divergence-promo-280b03ad` 作為同組補充：整理宋分 / 美股送分題 Substack 電子報《資金行情的下一步會怎麼走？看完這篇，避免退潮時只剩你在裸泳》，建立 `KOL/宋分/articles/20260502_investment_discipline_15_liquidity_divergence_market.md`。Substack API / RSS / JSON-LD 與 Note metadata 正文完整可讀，來源為 URL，未另存 raw，OCR 狀態不適用，未偵測截斷。
+- 更新：同步更新 `KOL/宋分/frameworks/宋分框架庫索引.md`、`indexes/source_index.md`、`indexes/ticker_index.md`、`indexes/theme_index.md` 與 `indexes/framework_index.md`。本文新增「分化行情 / Beta-to-Alpha 切換框架」，並補強既有「資金行情 / 流動性主導風險框架」：資金行情是市場願意付更高價格而非 EPS / 公司價值重估，分化行情則是市場重新區分有無 EPS、競爭優勢與產業位置。
+- 備註：**AMZN** / **MSFT** 只作網路泡沫後倖存案例，**NVDA** 只作 AI 初期 re-rate 對照；三者判定 L1，不同步任何 `Stocks/`，不新增 catalyst / watchlist。本文不是買賣建議。
+
 ## 2026-05-02
 
 - 入庫 `大叔美股筆記-20260430-apple-fy2026-q2-earnings-ec8b63c8`：整理大叔美股筆記 Substack Note《Apple FY2026 Q2 財報：revenue / EPS / GM beat，iPhone miss 歸因供應限制》，追加至 `KOL/大叔美股筆記/notes/大叔美股筆記.md`。Substack JSON-LD / feedData 正文完整可讀，發文時間為 2026-04-30 22:06 UTC（台北 2026-05-01 06:06）；來源為 URL，未另存 raw，OCR 狀態標「不適用」，未偵測截斷。
